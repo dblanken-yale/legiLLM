@@ -1,0 +1,14 @@
+{
+  "federal_register": {
+    "agencies": ["environmental-protection-agency", "food-and-drug-administration"],
+    "document_types": ["RULE", "PRORULE", "NOTICE"],
+    "start_date": "2025-01-01",
+    "term": "climate",
+    "limit": 20
+  },
+  "ai": {
+    "model": "gpt-4o-mini",
+    "temperature": 0.3,
+    "max_tokens": 800
+  }
+}
