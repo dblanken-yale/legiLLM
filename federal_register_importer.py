@@ -22,6 +22,12 @@ ANALYSIS_PROMPT_FILE = SCRIPT_DIR / 'prompts' / 'analysis_prompt.md'
 
 
 class FederalRegisterFetcher:
+    """
+    Fetches documents from the Federal Register API.
+    
+    Handles HTTP requests to the Federal Register API with proper headers
+    and parameter formatting.
+    """
     BASE_URL = "https://www.federalregister.gov/api/v1"
     
     def __init__(self):
@@ -39,6 +45,19 @@ class FederalRegisterFetcher:
         term: Optional[str] = None,
         per_page: int = 20
     ) -> List[Dict]:
+        """
+        Fetch documents from the Federal Register API.
+        
+        Args:
+            agencies: List of agency slugs to filter by
+            document_types: List of document types (e.g., 'RULE', 'PRORULE', 'NOTICE')
+            start_date: Start date in YYYY-MM-DD format
+            term: Search term to filter documents
+            per_page: Number of results per page (max 1000)
+            
+        Returns:
+            List of document dictionaries from the API response
+        """
         params = {
             'per_page': per_page,
             'order': 'newest',
@@ -80,6 +99,12 @@ class FederalRegisterFetcher:
 
 
 class PortkeyAIProcessor:
+    """
+    Processes Federal Register documents using AI via Portkey.
+    
+    Sends documents to an LLM through Portkey's API to generate summaries,
+    categories, tags, and extract key entities.
+    """
     def __init__(
         self, 
         api_key: str, 
@@ -112,6 +137,12 @@ class PortkeyAIProcessor:
             self.analysis_prompt_template = self._load_default_analysis_prompt()
     
     def _load_default_system_prompt(self) -> str:
+        """
+        Load system prompt from file or return default.
+        
+        Returns:
+            System prompt string for AI context
+        """
         try:
             if SYSTEM_PROMPT_FILE.exists():
                 return SYSTEM_PROMPT_FILE.read_text()
@@ -122,6 +153,12 @@ class PortkeyAIProcessor:
             return "You are an expert at analyzing federal regulatory documents. Provide structured, accurate analysis."
     
     def _load_default_analysis_prompt(self) -> str:
+        """
+        Load analysis prompt template from file or return built-in default.
+        
+        Returns:
+            Analysis prompt template string with placeholders
+        """
         try:
             if ANALYSIS_PROMPT_FILE.exists():
                 return ANALYSIS_PROMPT_FILE.read_text()
@@ -132,6 +169,12 @@ class PortkeyAIProcessor:
             return self._get_builtin_prompt()
     
     def _get_builtin_prompt(self) -> str:
+        """
+        Get the built-in default analysis prompt template.
+        
+        Returns:
+            Default prompt template with format placeholders
+        """
         return """Analyze this Federal Register document and provide:
 
 1. A concise 2-3 sentence executive summary
@@ -151,11 +194,25 @@ Respond in JSON format:
 }}"""
     
     def process_document(self, document: Dict) -> Dict:
+        """
+        Process a Federal Register document through AI analysis.
+        
+        Args:
+            document: Document dictionary from Federal Register API
+            
+        Returns:
+            Dictionary with AI-generated analysis:
+            - summary: Executive summary
+            - categories: List of relevant categories
+            - tags: List of keywords/tags
+            - key_entities: List of mentioned entities
+        """
         title = document.get('title', '')
         abstract = document.get('abstract', '')
         doc_type = document.get('type', '')
         agencies = document.get('agency_names', [])
         
+        # Fallback to title and metadata if abstract is missing
         if not abstract or abstract.strip() == '':
             logger.warning(f"No abstract for document {document.get('document_number')}, using title only")
             content = f"Title: {title}\nDocument Type: {doc_type}\nAgencies: {', '.join(agencies)}"
@@ -190,6 +247,7 @@ Respond in JSON format:
             result = response.json()
             content = result['choices'][0]['message']['content']
             
+            # Strip markdown code fences if present
             content_clean = content.strip()
             if content_clean.startswith('```json'):
                 content_clean = content_clean[7:]
@@ -223,6 +281,11 @@ Respond in JSON format:
 
 
 class DrupalImporter:
+    """
+    Imports processed Federal Register documents into Drupal via JSON:API.
+    
+    Handles authentication and content creation using Drupal's JSON:API endpoint.
+    """
     def __init__(self, base_url: str, username: str, password: str):
         self.base_url = base_url.rstrip('/')
         self.session = requests.Session()
@@ -232,6 +295,12 @@ class DrupalImporter:
         self.authenticate()
     
     def authenticate(self):
+        """
+        Authenticate with Drupal and obtain CSRF token.
+        
+        Raises:
+            requests.exceptions.RequestException: If authentication fails
+        """
         try:
             login_url = f"{self.base_url}/user/login?_format=json"
             payload = {
@@ -260,6 +329,16 @@ class DrupalImporter:
             raise
     
     def import_document(self, fed_reg_doc: Dict, ai_analysis: Dict) -> bool:
+        """
+        Import a Federal Register document with AI analysis into Drupal.
+        
+        Args:
+            fed_reg_doc: Document from Federal Register API
+            ai_analysis: AI-generated analysis results
+            
+        Returns:
+            True if import successful, False otherwise
+        """
         node_data = {
             'data': {
                 'type': 'node--federal_register_document',
@@ -299,6 +378,12 @@ class DrupalImporter:
 
 
 class FederalRegisterPipeline:
+    """
+    Orchestrates the complete Federal Register import pipeline.
+    
+    Coordinates fetching documents from Federal Register, processing with AI,
+    and optionally importing to Drupal and/or saving to JSON file.
+    """
     def __init__(
         self,
         portkey_api_key: str,
@@ -341,6 +426,16 @@ class FederalRegisterPipeline:
         term: Optional[str] = None,
         limit: Optional[int] = None
     ):
+        """
+        Execute the complete import pipeline.
+        
+        Args:
+            agencies: Agency slugs to filter documents
+            document_types: Document types to filter
+            start_date: Start date for document search
+            term: Search term filter
+            limit: Maximum number of documents to process
+        """
         logger.info("Starting Federal Register import pipeline")
         
         documents = self.fetcher.fetch_documents(
@@ -364,6 +459,7 @@ class FederalRegisterPipeline:
             
             ai_analysis = self.ai_processor.process_document(doc)
             
+            # Rate limiting for API
             time.sleep(1)
             
             result_data = {
@@ -397,6 +493,7 @@ class FederalRegisterPipeline:
             else:
                 success_count += 1
             
+            # Brief pause between documents
             time.sleep(0.5)
         
         if self.output_file:
@@ -421,6 +518,12 @@ class FederalRegisterPipeline:
 
 
 def load_config() -> Dict:
+    """
+    Load configuration from config.json file.
+    
+    Returns:
+        Configuration dictionary or empty dict if file not found
+    """
     try:
         if CONFIG_FILE.exists():
             with open(CONFIG_FILE) as f:
@@ -436,8 +539,15 @@ def load_config() -> Dict:
 
 
 def main():
+    """
+    Main entry point for the Federal Register importer.
+    
+    Reads configuration from environment variables and config.json,
+    then executes the import pipeline.
+    """
     import os
     
+    # Load credentials from environment
     PORTKEY_API_KEY = os.getenv('PORTKEY_API_KEY', '')
     DRUPAL_URL = os.getenv('DRUPAL_URL', '')
     DRUPAL_USER = os.getenv('DRUPAL_USER', '')
@@ -451,6 +561,7 @@ def main():
     fed_reg_config = config.get('federal_register', {})
     ai_config = config.get('ai', {})
     
+    # Check if Drupal integration is fully configured
     drupal_enabled = bool(DRUPAL_URL and DRUPAL_USER and DRUPAL_PASS)
     if not drupal_enabled:
         logger.info("Drupal credentials not found in environment - running without Drupal import")
@@ -466,10 +577,12 @@ def main():
         ai_config=ai_config
     )
     
+    # Get query parameters from config
     agencies = fed_reg_config.get('agencies') or None
     document_types = fed_reg_config.get('document_types') or None
     start_date = fed_reg_config.get('start_date')
     if not start_date:
+        # Default to yesterday's documents
         start_date = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
     term = fed_reg_config.get('term')
     limit = fed_reg_config.get('limit', 10)
