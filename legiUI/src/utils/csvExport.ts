@@ -44,6 +44,14 @@ export function convertBillsToCSV(bills: Bill[]): string {
     return stringField;
   };
 
+  // Helper to safely join arrays
+  const joinArray = (arr: any): string => {
+    if (!arr) return '';
+    if (Array.isArray(arr)) return arr.join('; ');
+    // Handle case where it might be a string already
+    return String(arr);
+  };
+
   // Convert bills to CSV rows
   const rows = bills.map(bill => {
     return [
@@ -54,12 +62,12 @@ export function convertBillsToCSV(bills: Bill[]): string {
       escapeCSVField(bill.session),
       escapeCSVField(bill.bill_status),
       escapeCSVField(bill.legislation_type),
-      escapeCSVField(bill.categories?.join('; ') || ''),
-      escapeCSVField(bill.tags?.join('; ') || ''),
+      escapeCSVField(joinArray(bill.categories)),
+      escapeCSVField(joinArray(bill.tags)),
       escapeCSVField(bill.summary),
-      escapeCSVField(bill.key_provisions?.join('; ') || ''),
+      escapeCSVField(joinArray(bill.key_provisions)),
       escapeCSVField(bill.palliative_care_impact),
-      escapeCSVField(bill.special_flags?.join('; ') || ''),
+      escapeCSVField(joinArray(bill.special_flags)),
       escapeCSVField(bill.status_date),
       escapeCSVField(bill.last_action),
       escapeCSVField(bill.url),
