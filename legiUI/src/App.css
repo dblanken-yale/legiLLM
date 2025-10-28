@@ -303,21 +303,74 @@ body {
   font-size: 1.25rem;
 }
 
+.filter-actions {
+  display: flex;
+  gap: 0.5rem;
+}
+
 .clear-filters-btn {
   display: flex;
   align-items: center;
   gap: 0.25rem;
   padding: 0.375rem 0.75rem;
-  background: var(--surface);
-  border: 1px solid var(--border);
+  background: var(--yale-blue);
+  color: var(--white);
+  border: 1px solid var(--yale-blue);
   border-radius: 4px;
   cursor: pointer;
   font-size: 0.875rem;
-  transition: background 0.2s;
+  font-weight: 600;
+  transition: all 0.2s;
 }
 
 .clear-filters-btn:hover {
-  background: var(--hover-bg);
+  background: var(--medium-blue);
+  border-color: var(--medium-blue);
+}
+
+.clear-filters-btn:focus-visible {
+  outline: 2px solid var(--yale-blue);
+  outline-offset: 2px;
+}
+
+.export-section {
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.export-csv-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.625rem 1rem;
+  background: var(--oceanic);
+  color: var(--white);
+  border: 1px solid var(--oceanic);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.875rem;
+  font-weight: 600;
+  transition: all 0.2s;
+  width: 100%;
+  justify-content: center;
+}
+
+.export-csv-btn:hover:not(:disabled) {
+  background: #2d5e5a;
+  border-color: #2d5e5a;
+}
+
+.export-csv-btn:disabled {
+  background: var(--gray-300);
+  border-color: var(--gray-300);
+  color: var(--gray-600);
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.export-csv-btn:focus-visible {
+  outline: 2px solid var(--oceanic);
+  outline-offset: 2px;
 }
 
 .filter-section {

@@ -1,6 +1,6 @@
 import React from 'react';
-import type { FilterState } from '../types/bill';
-import { X } from 'lucide-react';
+import type { FilterState, Bill } from '../types/bill';
+import { X, Download } from 'lucide-react';
 
 interface FilterPanelProps {
   filters: FilterState;
@@ -12,12 +12,16 @@ interface FilterPanelProps {
     legislationTypes: string[];
   };
   onFilterChange: (filters: FilterState) => void;
+  filteredBills: Bill[];
+  onExportCSV: () => void;
 }
 
 export const FilterPanel: React.FC<FilterPanelProps> = ({
   filters,
   availableFilters,
   onFilterChange,
+  filteredBills,
+  onExportCSV,
 }) => {
   const handleMultiSelect = (key: keyof FilterState, value: string) => {
     const currentValues = filters[key] as string[];
@@ -55,16 +59,30 @@ export const FilterPanel: React.FC<FilterPanelProps> = ({
     <div className="filter-panel" role="search" aria-label="Filter legislative bills">
       <div className="filter-header">
         <h2 id="filter-heading">Filters</h2>
-        {hasActiveFilters && (
-          <button
-            onClick={clearFilters}
-            className="clear-filters-btn"
-            aria-label="Clear all filters"
-          >
-            <X size={16} aria-hidden="true" />
-            Clear All
-          </button>
-        )}
+        <div className="filter-actions">
+          {hasActiveFilters && (
+            <button
+              onClick={clearFilters}
+              className="clear-filters-btn"
+              aria-label="Clear all filters"
+            >
+              <X size={16} aria-hidden="true" />
+              Clear All
+            </button>
+          )}
+        </div>
+      </div>
+
+      <div className="export-section">
+        <button
+          onClick={onExportCSV}
+          className="export-csv-btn"
+          aria-label={`Export ${filteredBills.length} filtered bills to CSV`}
+          disabled={filteredBills.length === 0}
+        >
+          <Download size={16} aria-hidden="true" />
+          Export CSV ({filteredBills.length})
+        </button>
       </div>
 
       <div className="filter-section">

@@ -6,6 +6,7 @@ import { StatsCard } from './components/StatsCard';
 import { Chart } from './components/Charts';
 import { BillsTable } from './components/BillsTable';
 import { BillDetailModal } from './components/BillDetailModal';
+import { exportBillsToCSV } from './utils/csvExport';
 import { FileText, Calendar, MapPin, CheckCircle } from 'lucide-react';
 import './App.css';
 
@@ -131,6 +132,11 @@ function App() {
     return { byState, byCategory, byYear, byStatus };
   }, [filteredBills]);
 
+  // Handle CSV export
+  const handleExportCSV = () => {
+    exportBillsToCSV(filteredBills, filters);
+  };
+
   if (loading) {
     return <div className="loading">Loading legislative data...</div>;
   }
@@ -152,6 +158,8 @@ function App() {
             filters={filters}
             availableFilters={availableFilters}
             onFilterChange={setFilters}
+            filteredBills={filteredBills}
+            onExportCSV={handleExportCSV}
           />
         </aside>
 
