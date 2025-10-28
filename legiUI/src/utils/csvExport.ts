@@ -44,11 +44,19 @@ export function convertBillsToCSV(bills: Bill[]): string {
     return stringField;
   };
 
-  // Helper to safely join arrays
+  // Helper to safely join arrays or convert values to strings
   const joinArray = (arr: any): string => {
     if (!arr) return '';
     if (Array.isArray(arr)) return arr.join('; ');
-    // Handle case where it might be a string already
+    // Handle objects by converting to JSON
+    if (typeof arr === 'object') {
+      try {
+        return JSON.stringify(arr);
+      } catch (e) {
+        return '';
+      }
+    }
+    // Handle primitives (string, number, boolean)
     return String(arr);
   };
 
