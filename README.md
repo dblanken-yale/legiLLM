@@ -1,18 +1,43 @@
-# Federal Register AI Scraper POC
+# LegiScan State Bill Analysis Pipeline
 
-Proof of concept for fetching Federal Register documents, processing with AI via Portkey, and importing to Drupal.
+AI-powered two-stage pipeline for analyzing state legislation with focus on palliative care policy tracking.
+
+## Overview
+
+This project provides an automated pipeline for:
+1. **Filter Pass**: Quickly filter thousands of state bills to identify potentially relevant legislation
+2. **Analysis Pass**: Deep analysis of filtered bills using full text from LegiScan API
+3. **Categorization**: Apply comprehensive policy framework with 8 palliative care categories
+4. **Relevance Re-evaluation**: Confirm relevance using full bill text, not just metadata
 
 ## Architecture
 
-Federal Register API → Portkey AI → Drupal JSON:API
+```
+LegiScan API → Filter Pass (metadata) → Analysis Pass (full text) → Categorized Results
+```
 
-See [ARCHITECTURE.md](ARCHITECTURE.md) for detailed design.
+### Two-Stage Pipeline
 
-See [CONFIGURATION.md](CONFIGURATION.md) for complete configuration guide.
+**Stage 1: Filter Pass** (`run_filter_pass.py`)
+- Processes large datasets efficiently (50 bills per batch)
+- Uses only title and metadata for quick filtering
+- Identifies bills potentially relevant to palliative care
+- Output: `data/filtered/filter_results_*.json`
 
-## Setup
+**Stage 2: Analysis Pass** (`run_analysis_pass.py`)
+- Fetches full bill text from LegiScan API
+- Re-evaluates relevance with complete bill content
+- Applies 8-category palliative care policy framework
+- Caches API responses to avoid re-fetching
+- Output:
+  - `data/analyzed/analysis_results_relevant.json`
+  - `data/analyzed/analysis_results_not_relevant.json`
 
-### 1. Install Python Dependencies
+See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for detailed design.
+
+## Quick Start
+
+### 1. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -22,143 +47,277 @@ pip install -r requirements.txt
 
 ```bash
 cp .env.example .env
-# Edit .env with your credentials
+# Edit .env with your API keys
 ```
 
-**Required:**
-- `PORTKEY_API_KEY` - Your Portkey API key
+**Required Environment Variables:**
+- `PORTKEY_API_KEY` - Your Portkey API key (for AI analysis)
+- `LEGISCAN_API_KEY` - Your LegiScan API key (for bill data)
 
-**Optional (for Drupal integration):**
-- `DRUPAL_URL` - Your Drupal site URL
-- `DRUPAL_USER` - Drupal username
-- `DRUPAL_PASS` - Drupal password
+### 3. Fetch State Bills
 
-If Drupal credentials are not provided, the script will run in **fetch + AI mode only** and output results to a JSON file.
+```bash
+cd scripts
+python fetch_legiscan_bills.py
+```
 
-### 3. Create Drupal Content Type (Optional)
+This fetches bills from LegiScan and saves to `data/raw/ct_bills_2025.json`.
 
-If you want to import to Drupal, create a content type `federal_register_document` with these fields:
+### 4. Run Filter Pass
 
-- `field_document_number` (text, unique)
-- `field_publication_date` (date)
-- `field_document_type` (text)
-- `field_agencies` (text, multi-value)
-- `field_original_abstract` (text_long)
-- `field_ai_summary` (text_long)
-- `field_html_url` (link)
-- `field_pdf_url` (link)
-- `field_ai_categories` (text, multi-value)
-- `field_ai_tags` (text, multi-value)
-- `field_key_entities` (text, multi-value)
+```bash
+cd scripts
+python run_filter_pass.py
+```
 
-Enable JSON:API for this content type.
+Processes bills in batches and outputs potentially relevant bills to `data/filtered/`.
 
-### 4. Configure Search Parameters (Optional)
+### 5. Run Analysis Pass
 
-Edit `config.json` to customize Federal Register queries and AI settings:
+```bash
+cd scripts
+python run_analysis_pass.py
+```
+
+Analyzes filtered bills with full text and outputs categorized results to `data/analyzed/`.
+
+## Configuration
+
+### Basic Configuration
+
+Create `config.json` in the project root (see `config_examples/` for templates):
 
 ```json
 {
-  "federal_register": {
-    "agencies": ["environmental-protection-agency"],
-    "document_types": ["RULE", "PRORULE"],
-    "start_date": "2025-01-01",
-    "term": "climate",
-    "limit": 20
+  "model": "gpt-4o-mini",
+  "temperature": 0.3,
+  "max_tokens": 2000
+}
+```
+
+### Test Mode
+
+To test with a small sample before running full analysis:
+
+```bash
+export TEST_MODE=true
+export TEST_COUNT=5
+python scripts/run_analysis_pass.py
+```
+
+### Configuration Files
+
+See `config_examples/` directory for example configurations:
+- `config_example.json` - Basic AI configuration
+- `config_legiscan_example.json` - LegiScan integration examples
+- `config_database_example.json` - Database integration examples
+- `config_plugins_example.json` - Plugin system examples
+
+## Palliative Care Policy Framework
+
+### 8 Policy Categories
+
+Bills are categorized into one or more of these areas:
+
+1. **Clinical Skill-Building** - Education and training for healthcare providers
+2. **Patient Rights** - Advance directives, POLST, informed consent
+3. **Payment** - Insurance coverage, Medicaid, reimbursement
+4. **Pediatric Palliative Care** - Concurrent care for children
+5. **Public Awareness** - Education campaigns, community outreach
+6. **Quality/Standards** - Best practices, quality measures, certification
+7. **Telehealth** - Remote palliative care delivery
+8. **Workforce** - Recruitment, retention, workforce development
+
+### Exclusion Criteria
+
+The analysis explicitly excludes:
+- Aid-in-dying/death with dignity legislation
+- General adult hospice (unless pediatric concurrent care)
+- Medical marijuana and psilocybin therapies
+
+### Bill Status Tracking
+
+- **Enacted**: Passed into law
+- **Failed**: Failed to pass
+- **Pending**: Currently under consideration
+- **Vetoed**: Vetoed by governor
+- **Unknown**: Status cannot be determined
+
+## Project Structure
+
+```
+ai-scraper-ideas/
+├── data/                    # All data files (gitignored)
+│   ├── raw/                # Raw LegiScan bill data
+│   ├── filtered/           # Filter pass results
+│   ├── analyzed/           # Analysis pass results
+│   └── cache/              # LegiScan API response cache
+├── scripts/                # Executable scripts
+│   ├── fetch_legiscan_bills.py
+│   ├── run_filter_pass.py
+│   └── run_analysis_pass.py
+├── src/                    # Core library code
+│   ├── ai_filter_pass.py
+│   ├── ai_analysis_pass.py
+│   └── data_source_plugins.py
+├── prompts/                # AI prompt templates
+│   ├── filter_prompt.md
+│   ├── analysis_prompt.md
+│   └── system_prompt.md
+├── config_examples/        # Example configurations
+├── docs/                   # Documentation
+└── archive/                # Archived Federal Register project
+```
+
+## Customizing Prompts
+
+Edit prompt templates to change how bills are analyzed:
+
+- `prompts/system_prompt.md` - Palliative care expertise and guidelines
+- `prompts/filter_prompt.md` - First pass filtering criteria
+- `prompts/analysis_prompt.md` - Detailed categorization framework
+
+The analysis prompt includes:
+- Relevance determination with full text
+- 8-category framework with detailed definitions
+- Bill status identification
+- Exclusion criteria checks
+- Structured JSON output format
+
+## Output Format
+
+### Filter Pass Output
+
+```json
+{
+  "summary": {
+    "total_analyzed": 4064,
+    "relevant_count": 68,
+    "not_relevant_count": 3996
   },
-  "ai": {
-    "model": "gpt-4o-mini",
-    "temperature": 0.3,
-    "max_tokens": 800
+  "relevant_bills": [
+    {
+      "bill_number": "SB01540",
+      "title": "An Act Implementing The Recommendations...",
+      "url": "https://legiscan.com/CT/bill/SB01540/2025",
+      "reason": "Establishes pediatric hospice working group..."
+    }
+  ]
+}
+```
+
+### Analysis Pass Output
+
+```json
+{
+  "bill": {
+    "bill_number": "SB01540",
+    "title": "An Act Implementing The Recommendations..."
+  },
+  "analysis": {
+    "is_relevant": true,
+    "relevance_reasoning": "Bill directly addresses pediatric palliative care...",
+    "summary": "Implements pediatric hospice working group recommendations...",
+    "bill_status": "Enacted",
+    "legislation_type": "Bill",
+    "categories": ["Pediatric Palliative Care", "Quality/Standards"],
+    "tags": ["pediatric", "concurrent care", "medicaid"],
+    "key_provisions": [
+      "Concurrent curative and palliative care for children",
+      "Medicaid coverage expansion"
+    ],
+    "palliative_care_impact": "...",
+    "exclusion_check": {
+      "is_excluded": false,
+      "reason": "Pediatric hospice exception applies"
+    }
   }
 }
 ```
 
-**Federal Register Parameters:**
-- `agencies`: List of agency slugs (see below for examples)
-- `document_types`: RULE, PRORULE, NOTICE, PRESDOCU
-- `start_date`: YYYY-MM-DD format (defaults to yesterday)
-- `term`: Search term/keyword
-- `limit`: Max documents to fetch
+## Features
 
-**AI Parameters:**
-- `model`: OpenAI model to use via Portkey
-- `temperature`: 0.0-1.0 (lower = more deterministic)
-- `max_tokens`: Maximum response length
+### LegiScan Integration
+- Fetches full bill text via `getBill` API endpoint
+- File-based caching to avoid duplicate API calls
+- Extracts bill number, title, description, status, sponsors, subjects
 
-### 5. Customize AI Prompts (Optional)
+### Batch Processing
+- Filter pass processes 50 bills per API call
+- Configurable batch size and timeout
+- Progress tracking and error handling
 
-Edit prompt templates to change how documents are analyzed:
+### Relevance Re-evaluation
+- First pass: Quick filter on metadata (fast, cheap)
+- Second pass: Deep analysis with full text (thorough, accurate)
+- Catches false positives from first pass
+- Provides reasoning for inclusion/exclusion decisions
 
-- `prompts/system_prompt.md` - System instructions for the AI
-- `prompts/analysis_prompt.md` - Task prompt template
+### Caching
+- LegiScan API responses cached in `data/cache/legiscan_cache/`
+- One JSON file per bill (keyed by bill_id)
+- Automatic cache creation and loading
+- Reduces API calls and speeds up re-runs
 
-The analysis prompt supports these variables:
-- `{title}` - Document title
-- `{doc_type_label}` - Document type
-- `{content}` - Abstract or title+agencies
+## API Keys
 
-### 6. Run the Importer
-
+### Portkey API
+Get your API key from [Portkey.ai](https://portkey.ai)
 ```bash
-python federal_register_importer.py
+export PORTKEY_API_KEY='your-key-here'
 ```
 
-Results will be:
-- Logged to console
-- Written to `federal_register_output_YYYYMMDD_HHMMSS.json`
-- Imported to Drupal (if credentials provided)
+### LegiScan API
+Get your API key from [LegiScan.com](https://legiscan.com/legiscan)
+```bash
+export LEGISCAN_API_KEY='your-key-here'
+```
 
-## Usage
+## Documentation
 
-Configuration is managed through `config.json`. See `config.example.json` for a full example.
+- [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) - System architecture and design
+- [docs/CONFIGURATION.md](docs/CONFIGURATION.md) - Complete configuration guide
+- [docs/AI_PROCESSOR_README.md](docs/AI_PROCESSOR_README.md) - AI processing details
+- [docs/PLUGINS_README.md](docs/PLUGINS_README.md) - Data source plugins
+- [REORGANIZATION_SUMMARY.md](REORGANIZATION_SUMMARY.md) - Recent project restructuring
 
-### Available Agencies (examples)
+## Development
 
-- `environmental-protection-agency`
-- `food-and-drug-administration`
-- `securities-and-exchange-commission`
-- `federal-communications-commission`
-- `department-of-labor`
+### Running Tests
 
-### Document Types
+Test mode processes a small sample (5 bills by default):
 
-- `RULE` - Final rules
-- `PRORULE` - Proposed rules
-- `NOTICE` - Notices
-- `PRESDOCU` - Presidential documents
+```bash
+export TEST_MODE=true
+python scripts/run_filter_pass.py
+python scripts/run_analysis_pass.py
+```
 
-## Components
+### Adding New States
 
-### FederalRegisterFetcher
-Fetches documents from Federal Register API with filtering.
+Edit `scripts/fetch_legiscan_bills.py` to fetch bills from different states:
 
-### PortkeyAIProcessor
-Sends documents to Portkey AI for:
-- Executive summaries
-- Category extraction
-- Tag generation
-- Entity recognition
+```python
+state = 'NY'  # Change to desired state code
+year = 2025
+```
 
-### DrupalImporter
-Posts enriched content to Drupal via JSON:API.
+### Customizing Categories
 
-### FederalRegisterPipeline
-Orchestrates the full pipeline.
-
-## Next Steps
-
-1. Add error recovery and retry logic
-2. Implement duplicate detection
-3. Add taxonomy term creation in Drupal
-4. Build scheduling with cron/celery
-5. Add monitoring and alerting
-6. Enhance AI prompts for better categorization
-7. Add support for full-text fetching from `body_html_url`
+Edit `prompts/analysis_prompt.md` to add or modify policy categories for your use case.
 
 ## Notes
 
-- Federal Register API requires no authentication
-- Rate limiting: Be respectful, add delays between requests
-- Portkey acts as gateway to various AI models
-- Drupal authentication uses basic auth + CSRF token
+- **LegiScan API**: Requires API key, rate limits apply
+- **Portkey Gateway**: Proxies requests to OpenAI and other AI providers
+- **Caching**: All LegiScan responses are cached to minimize API calls
+- **Two-stage approach**: Balances speed (filter pass) with accuracy (analysis pass)
+- **No Drupal integration yet**: Future enhancement for content management
+
+## Previous Version
+
+The original Federal Register scraping project has been archived in `archive/federal_register/`. See `archive/federal_register/README.md` for details on the previous implementation.
+
+## License
+
+[Add your license here]
