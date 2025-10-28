@@ -9,6 +9,7 @@ import requests
 import json
 import logging
 import os
+import time
 from typing import Any, Dict, Optional
 from pathlib import Path
 
@@ -39,7 +40,8 @@ class AIAnalysisPass:
         temperature: float = 0.3,
         max_tokens: int = 800,
         timeout: int = 90,
-        legiscan_api_key: Optional[str] = None
+        legiscan_api_key: Optional[str] = None,
+        api_delay: float = 0.0
     ):
         """
         Initialize analysis pass processor.
@@ -54,6 +56,7 @@ class AIAnalysisPass:
             max_tokens: Maximum tokens in response
             timeout: Request timeout in seconds
             legiscan_api_key: LegiScan API key for fetching bill text (optional)
+            api_delay: Delay in seconds between LegiScan API calls (default: 0.0, no delay)
         """
         self.api_key = api_key
         self.base_url = base_url
@@ -62,6 +65,7 @@ class AIAnalysisPass:
         self.max_tokens = max_tokens
         self.timeout = timeout
         self.legiscan_api_key = legiscan_api_key or os.getenv('LEGISCAN_API_KEY')
+        self.api_delay = api_delay
 
         self.analysis_prompt = analysis_prompt or self._load_analysis_prompt()
         self.system_prompt = system_prompt or self._load_system_prompt()
@@ -225,6 +229,7 @@ Do not include any text before or after the JSON."""
 
         # Check cache first
         cache_file = LEGISCAN_CACHE_DIR / f"bill_{bill_id}.json"
+        from_cache = False
         if cache_file.exists():
             logger.info(f"Loading bill {bill_id} from cache: {cache_file}")
             try:
@@ -261,6 +266,11 @@ Do not include any text before or after the JSON."""
                     logger.info(f"Cached bill {bill_id} to: {cache_file}")
                 except Exception as e:
                     logger.warning(f"Could not save bill {bill_id} to cache: {e}")
+
+                # Add delay after API call (only when not using cache)
+                if self.api_delay > 0:
+                    logger.info(f"Waiting {self.api_delay}s before next API call...")
+                    time.sleep(self.api_delay)
 
                 return bill_data
             else:

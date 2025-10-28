@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Analysis Pass Script - Second pass of two-stage AI pipeline
-Analyzes filtered bills with full text from LegiScan API
-Applies comprehensive palliative care categorization framework
+Direct Analysis Script - Analyze pre-filtered bills from any filter format
+Supports both AI-filtered and vector similarity-filtered bill data
+Fetches full bill text from LegiScan API for comprehensive analysis
 """
 
 import os
@@ -15,6 +15,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from src.ai_analysis_pass import AIAnalysisPass
+from src.format_normalizer import normalize_filter_results, detect_format, get_format_info
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -23,10 +24,8 @@ SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 DATA_DIR = PROJECT_ROOT / 'data'
 CONFIG_FILE = PROJECT_ROOT / 'config.json'
-FILTER_RESULTS_FILE = DATA_DIR / 'filtered' / 'filter_results_ct_bills_2025.json'
 SOURCE_BILLS_FILE = DATA_DIR / 'raw' / 'ct_bills_2025.json'
-RELEVANT_OUTPUT_FILE = DATA_DIR / 'analyzed' / 'analysis_results_relevant.json'
-NOT_RELEVANT_OUTPUT_FILE = DATA_DIR / 'analyzed' / 'analysis_results_not_relevant.json'
+ANALYZED_DIR = DATA_DIR / 'analyzed'
 LEGISCAN_CACHE_DIR = DATA_DIR / 'cache' / 'legiscan_cache'
 
 
@@ -40,18 +39,34 @@ def load_config():
         return {}
 
 
-def load_filter_results():
-    """Load filtered bill results"""
+def load_filter_results(filter_file: Path):
+    """Load and normalize filtered bill results from any format"""
     try:
-        with open(FILTER_RESULTS_FILE, 'r') as f:
-            return json.load(f)
+        with open(filter_file, 'r') as f:
+            data = json.load(f)
+
+        # Detect and log format information
+        format_info = get_format_info(data)
+        logger.info(f"Filter file format: {format_info['format']}")
+        logger.info(f"Bill count: {format_info['bill_count']}")
+        logger.info(f"Has summary: {format_info['has_summary']}")
+        logger.info(f"Has similarity scores: {format_info['has_similarity_scores']}")
+
+        # Normalize to common format
+        normalized_bills = normalize_filter_results(data)
+        logger.info(f"Normalized {len(normalized_bills)} bills to common format")
+
+        return normalized_bills
     except FileNotFoundError:
-        logger.error(f"Filter results file not found: {FILTER_RESULTS_FILE}")
+        logger.error(f"Filter results file not found: {filter_file}")
+        raise
+    except Exception as e:
+        logger.error(f"Error loading filter results: {e}")
         raise
 
 
 def load_source_bills():
-    """Load source bills with bill_id"""
+    """Load source bills to get bill_id"""
     try:
         with open(SOURCE_BILLS_FILE, 'r') as f:
             return json.load(f)
@@ -70,18 +85,35 @@ def format_bill_for_analysis(bill):
     Format bill data for analysis prompt.
 
     Args:
-        bill: Dict with bill_number, title, url, and optionally reason
+        bill: Normalized dict with bill_number, title, url, reason, extra_metadata
 
     Returns:
-        Formatted string for analysis (not a dict, since AIAnalysisPass expects to format it)
+        Formatted string for analysis
     """
     formatted = f"""**Bill Number**: {bill['bill_number']}
 **Title**: {bill['title']}
 **URL**: {bill['url']}"""
 
-    # Include filter reason if present (for bills from filter results)
-    if 'reason' in bill:
-        formatted += f"\n**Initial Filter Reason**: {bill['reason']}"
+    # Include filter reason (from either format)
+    if bill.get('reason'):
+        formatted += f"\n**Filter Reason**: {bill['reason']}"
+
+    # Include extra metadata if present
+    extra = bill.get('extra_metadata', {})
+    if extra:
+        formatted += f"\n\n**Additional Metadata**:"
+        if extra.get('similarity_score') is not None:
+            formatted += f"\n- Similarity Score: {extra['similarity_score']:.4f}"
+        if extra.get('distance') is not None:
+            formatted += f"\n- Distance: {extra['distance']:.4f}"
+        if extra.get('status_date'):
+            formatted += f"\n- Status Date: {extra['status_date']}"
+        if extra.get('last_action'):
+            formatted += f"\n- Last Action: {extra['last_action']}"
+        if extra.get('year'):
+            formatted += f"\n- Year: {extra['year']}"
+        if extra.get('session'):
+            formatted += f"\n- Session: {extra['session']}"
 
     return formatted
 
@@ -90,15 +122,8 @@ def select_test_bills(bills, count=5):
     """
     Select diverse test bills for analysis.
 
-    Tries to pick bills with different characteristics:
-    - Explicit palliative care mentions
-    - Pediatric hospice
-    - Workforce development
-    - Payment/Medicaid
-    - Indirect impacts
-
     Args:
-        bills: List of bill dictionaries
+        bills: List of normalized bill dictionaries
         count: Number of bills to select
 
     Returns:
@@ -106,9 +131,11 @@ def select_test_bills(bills, count=5):
     """
     selected = []
 
-    # Priority: Pediatric Hospice (should hit multiple categories)
+    # Priority: Pediatric Hospice
     for bill in bills:
-        if 'pediatric hospice' in bill['title'].lower() or 'pediatric hospice' in bill['reason'].lower():
+        title_lower = bill['title'].lower()
+        reason_lower = bill.get('reason', '').lower()
+        if 'pediatric hospice' in title_lower or 'pediatric hospice' in reason_lower:
             selected.append(bill)
             if len(selected) >= count:
                 return selected[:count]
@@ -122,21 +149,8 @@ def select_test_bills(bills, count=5):
 
     # Priority: Pain medication/symptom management
     for bill in bills:
-        if bill not in selected and ('pain medication' in bill['reason'].lower() or 'pain management' in bill['reason'].lower()):
-            selected.append(bill)
-            if len(selected) >= count:
-                return selected[:count]
-
-    # Priority: Workforce development
-    for bill in bills:
-        if bill not in selected and ('workforce' in bill['reason'].lower() or 'loan forgiveness' in bill['reason'].lower()):
-            selected.append(bill)
-            if len(selected) >= count:
-                return selected[:count]
-
-    # Priority: Medicaid/payment
-    for bill in bills:
-        if bill not in selected and ('medicaid' in bill['reason'].lower() or 'payment' in bill['reason'].lower()):
+        reason_lower = bill.get('reason', '').lower()
+        if bill not in selected and ('pain medication' in reason_lower or 'pain management' in reason_lower):
             selected.append(bill)
             if len(selected) >= count:
                 return selected[:count]
@@ -152,10 +166,32 @@ def select_test_bills(bills, count=5):
 
 
 def main():
-    """Main test execution"""
+    """Main execution"""
     logger.info("=" * 80)
-    logger.info("AI Analysis Pass with Palliative Care Categorization")
+    logger.info("Direct Analysis Pass - Dual-Format Support")
     logger.info("=" * 80)
+
+    # Parse command line arguments
+    if len(sys.argv) < 2:
+        logger.error("Usage: python run_direct_analysis.py <filter_results_file.json>")
+        logger.info("Example: python run_direct_analysis.py ../data/filtered/filter_results_alan_ct_bills_2025.json")
+        sys.exit(1)
+
+    filter_file = Path(sys.argv[1])
+    if not filter_file.is_absolute():
+        filter_file = SCRIPT_DIR / filter_file
+
+    if not filter_file.exists():
+        logger.error(f"Filter file not found: {filter_file}")
+        sys.exit(1)
+
+    logger.info(f"Input file: {filter_file}")
+
+    # Determine output file name based on input
+    filter_filename = filter_file.stem  # e.g., "filter_results_alan_ct_bills_2025"
+    output_prefix = filter_filename.replace('filter_results_', 'analysis_')
+    RELEVANT_OUTPUT_FILE = ANALYZED_DIR / f"{output_prefix}_relevant.json"
+    NOT_RELEVANT_OUTPUT_FILE = ANALYZED_DIR / f"{output_prefix}_not_relevant.json"
 
     # Load configuration
     logger.info("\n1. Loading configuration...")
@@ -165,18 +201,17 @@ def main():
     test_mode = os.getenv('TEST_MODE', 'false').lower() == 'true'
     test_count = int(os.getenv('TEST_COUNT', '5'))
 
-    # Get API key from environment variable (like test_filter.py does)
+    # Get API key from environment variable
     api_key = os.getenv('PORTKEY_API_KEY')
     if not api_key:
         logger.error("PORTKEY_API_KEY environment variable not set")
         logger.info("Set it with: export PORTKEY_API_KEY='your-key'")
-        return
+        sys.exit(1)
 
-    # Load filter results (bills that passed first filter)
-    logger.info("\n2. Loading filter results...")
-    filter_results = load_filter_results()
-    filter_relevant_bills = filter_results.get('relevant_bills', [])
-    logger.info(f"   Filter pass identified {len(filter_relevant_bills)} potentially relevant bills")
+    # Load and normalize filter results
+    logger.info("\n2. Loading and normalizing filter results...")
+    normalized_bills = load_filter_results(filter_file)
+    logger.info(f"   Loaded {len(normalized_bills)} bills from filter results")
 
     # Load source bills to get bill_id
     logger.info("\n3. Loading source bills for bill_id lookup...")
@@ -187,11 +222,11 @@ def main():
     # Select bills to process
     if test_mode:
         logger.info(f"\n4. TEST MODE: Selecting {test_count} bills from filter results...")
-        bills_to_process = select_test_bills(filter_relevant_bills, count=test_count)
+        bills_to_process = select_test_bills(normalized_bills, count=test_count)
         logger.info(f"   Selected {len(bills_to_process)} bills for testing:")
     else:
-        logger.info(f"\n4. PRODUCTION MODE: Re-evaluating all {len(filter_relevant_bills)} filtered bills with full text...")
-        bills_to_process = filter_relevant_bills
+        logger.info(f"\n4. PRODUCTION MODE: Analyzing all {len(normalized_bills)} filtered bills with full text...")
+        bills_to_process = normalized_bills
         logger.info("   To run in test mode, set: export TEST_MODE=true")
 
     for i, bill in enumerate(bills_to_process[:10], 1):
@@ -215,7 +250,7 @@ def main():
         api_key=api_key,
         model=config.get('model', 'gpt-4o-mini'),
         temperature=config.get('temperature', 0.3),
-        max_tokens=config.get('max_tokens', 2000),  # Increased for bill text
+        max_tokens=config.get('max_tokens', 2000),
         timeout=timeout,
         legiscan_api_key=legiscan_api_key,
         api_delay=api_delay
@@ -255,11 +290,20 @@ def main():
             # Analyze (pass bill_id for LegiScan API fetch)
             analysis = analyzer.analyze_data(bill_data, bill_id=bill_id)
 
-            # Add bill info to results
+            # Add bill info and extra metadata to results
             result = {
-                'bill': bill,
+                'bill': {
+                    'bill_number': bill['bill_number'],
+                    'title': bill['title'],
+                    'url': bill['url'],
+                    'reason': bill.get('reason')
+                },
                 'analysis': analysis
             }
+
+            # Include extra metadata if present
+            if bill.get('extra_metadata'):
+                result['bill']['extra_metadata'] = bill['extra_metadata']
 
             # Sort by relevance
             is_relevant = analysis.get('is_relevant', False)
@@ -305,9 +349,17 @@ def main():
         except Exception as e:
             logger.error(f"Error analyzing bill {bill['bill_number']}: {e}")
             not_relevant_results.append({
-                'bill': bill,
+                'bill': {
+                    'bill_number': bill['bill_number'],
+                    'title': bill['title'],
+                    'url': bill['url'],
+                    'reason': bill.get('reason')
+                },
                 'analysis': {'error': str(e), 'is_relevant': False}
             })
+
+    # Create output directory if it doesn't exist
+    ANALYZED_DIR.mkdir(exist_ok=True)
 
     # Save results to separate files
     logger.info(f"\n{'=' * 80}")
@@ -339,15 +391,6 @@ def main():
     logger.info(f"Relevant bills: {total_relevant} ({total_relevant/total_analyzed*100:.1f}%)")
     logger.info(f"Not relevant bills: {total_not_relevant} ({total_not_relevant/total_analyzed*100:.1f}%)")
     logger.info(f"Errors: {total_errors}")
-
-    # Comparison with filter pass
-    if not test_mode:
-        filter_count = len(filter_relevant_bills)
-        logger.info(f"\nFilter Pass Comparison:")
-        logger.info(f"  Filter pass identified: {filter_count} potentially relevant bills")
-        logger.info(f"  Analysis pass confirmed: {total_relevant} relevant bills")
-        if filter_count > 0:
-            logger.info(f"  Precision improvement: {(total_relevant/filter_count)*100:.1f}% confirmation rate")
 
     # Category distribution
     all_categories = []

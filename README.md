@@ -14,6 +14,8 @@ This project provides an automated pipeline for:
 
 ```
 LegiScan API → Filter Pass (metadata) → Analysis Pass (full text) → Categorized Results
+                                    ↓
+                        OR: Pre-filtered data → Direct Analysis → Categorized Results
 ```
 
 ### Two-Stage Pipeline
@@ -24,7 +26,12 @@ LegiScan API → Filter Pass (metadata) → Analysis Pass (full text) → Catego
 - Identifies bills potentially relevant to palliative care
 - Output: `data/filtered/filter_results_*.json`
 
-**Stage 2: Analysis Pass** (`run_analysis_pass.py`)
+**Alternative: Pre-filtered Data**
+- External filtering methods (vector similarity, embeddings, etc.) can provide pre-filtered results
+- Supports multiple filter formats (AI-filtered, vector similarity)
+- Use `run_direct_analysis.py` to analyze pre-filtered data directly
+
+**Stage 2: Analysis Pass** (`run_analysis_pass.py` or `run_direct_analysis.py`)
 - Fetches full bill text from LegiScan API
 - Re-evaluates relevance with complete bill content
 - Applies 8-category palliative care policy framework
@@ -74,12 +81,27 @@ Processes bills in batches and outputs potentially relevant bills to `data/filte
 
 ### 5. Run Analysis Pass
 
+**Option A: Standard Analysis** (for AI-filtered results from step 4)
 ```bash
 cd scripts
 python run_analysis_pass.py
 ```
 
-Analyzes filtered bills with full text and outputs categorized results to `data/analyzed/`.
+**Option B: Direct Analysis** (for pre-filtered data from any source)
+```bash
+cd scripts
+python run_direct_analysis.py <path_to_filter_results.json>
+
+# Examples:
+python run_direct_analysis.py ../data/filtered/filter_results_ct_bills_2025.json
+python run_direct_analysis.py ../data/filtered/filter_results_alan_ct_bills_2025.json
+```
+
+Both scripts analyze filtered bills with full text and output categorized results to `data/analyzed/`.
+
+**When to use each:**
+- Use `run_analysis_pass.py` when you've run the filter pass in step 4
+- Use `run_direct_analysis.py` when you have pre-filtered data from external sources (vector similarity, embeddings, etc.)
 
 ## Configuration
 
@@ -97,7 +119,8 @@ Create `config.json` in the project root (see `config_examples/` for templates):
     "timeout": 180
   },
   "analysis_pass": {
-    "timeout": 90
+    "timeout": 90,
+    "api_delay": 1.0
   },
   "legiscan": {
     "cache_enabled": true,
@@ -125,6 +148,10 @@ Create `config.json` in the project root (see `config_examples/` for templates):
 - `timeout` - API request timeout in seconds (default: `90`)
   - Increase if analysis requests are timing out with full bill text
   - Analysis pass processes one bill per request with full text
+- `api_delay` - Delay between LegiScan API calls in seconds (default: `0.0`)
+  - Set to `1.0` or higher to add rate limiting between API requests
+  - Delay only applies to actual API calls, not cached responses
+  - Useful to avoid hitting LegiScan API rate limits
 
 #### LegiScan Settings (`legiscan`)
 - `cache_enabled` - Whether to cache API responses (default: `true`)
@@ -137,7 +164,12 @@ To test with a small sample before running full analysis:
 ```bash
 export TEST_MODE=true
 export TEST_COUNT=5
+
+# Standard analysis
 python scripts/run_analysis_pass.py
+
+# Or with direct analysis
+python scripts/run_direct_analysis.py ../data/filtered/filter_results_alan_ct_bills_2025.json
 ```
 
 ### Advanced Configuration
@@ -158,6 +190,86 @@ All configuration options have sensible defaults. You can create a minimal `conf
   }
 }
 ```
+
+## Supported Filter Formats
+
+The analysis pipeline supports multiple filter result formats, allowing you to use external filtering methods (vector similarity, embeddings, etc.) alongside the built-in AI filter.
+
+### Format 1: AI-Filtered (Standard)
+
+Output from `run_filter_pass.py`:
+
+```json
+{
+  "summary": {
+    "total_analyzed": 4014,
+    "relevant_count": 68,
+    "not_relevant_count": 3946,
+    "source_file": "ct_bills_2025.json"
+  },
+  "relevant_bills": [
+    {
+      "bill_number": "SB01071",
+      "title": "An Act Implementing The Recommendations...",
+      "url": "https://legiscan.com/CT/bill/SB01071/2025",
+      "reason": "Establishes pediatric hospice working group..."
+    }
+  ]
+}
+```
+
+**Characteristics:**
+- Contains `relevant_bills` array
+- Includes `summary` with statistics
+- Each bill has a `reason` field explaining why it was flagged
+
+### Format 2: Vector Similarity
+
+Output from external filtering tools (embeddings, semantic search):
+
+```json
+{
+  "total_results": 8,
+  "results": [
+    {
+      "bill_id": "1932259",
+      "number": "SB01071",
+      "title": "An Act Implementing The Recommendations...",
+      "url": "https://legiscan.com/CT/bill/SB01071/2025",
+      "status_date": "2025-01-22",
+      "last_action": "Referred to Joint Committee...",
+      "year": "2025",
+      "session": "2025 Regular Session",
+      "similarity_score": 0.524,
+      "distance": 0.907
+    }
+  ]
+}
+```
+
+**Characteristics:**
+- Contains `results` array instead of `relevant_bills`
+- Uses `number` instead of `bill_number`
+- Includes similarity metrics (`similarity_score`, `distance`)
+- Contains additional metadata (`status_date`, `last_action`, `year`, `session`)
+
+### Using Different Formats
+
+The `run_direct_analysis.py` script automatically detects and normalizes both formats:
+
+```bash
+# Works with AI-filtered format
+python run_direct_analysis.py ../data/filtered/filter_results_ct_bills_2025.json
+
+# Works with vector similarity format
+python run_direct_analysis.py ../data/filtered/filter_results_alan_ct_bills_2025.json
+```
+
+**Format Detection:**
+- Checks for `relevant_bills` (Format 1) vs `results` (Format 2)
+- Normalizes field names (`number` → `bill_number`)
+- Preserves extra metadata in output (similarity scores, status info)
+- Uses `bill_number` to lookup full bill data from source file
 
 ## Palliative Care Policy Framework
 
@@ -195,16 +307,18 @@ The analysis explicitly excludes:
 ai-scraper-ideas/
 ├── data/                    # All data files (gitignored)
 │   ├── raw/                # Raw LegiScan bill data
-│   ├── filtered/           # Filter pass results
+│   ├── filtered/           # Filter pass results (multiple formats supported)
 │   ├── analyzed/           # Analysis pass results
 │   └── cache/              # LegiScan API response cache
 ├── scripts/                # Executable scripts
 │   ├── fetch_legiscan_bills.py
 │   ├── run_filter_pass.py
-│   └── run_analysis_pass.py
+│   ├── run_analysis_pass.py
+│   └── run_direct_analysis.py  # Dual-format analysis support
 ├── src/                    # Core library code
 │   ├── ai_filter_pass.py
 │   ├── ai_analysis_pass.py
+│   ├── format_normalizer.py    # Format detection and normalization
 │   └── data_source_plugins.py
 ├── prompts/                # AI prompt templates
 │   ├── filter_prompt.md
@@ -283,9 +397,16 @@ The analysis prompt includes:
 
 ## Features
 
+### Multiple Filter Format Support
+- **AI-filtered format**: Output from `run_filter_pass.py` with reasoning
+- **Vector similarity format**: Output from external tools with similarity scores
+- **Auto-detection**: `run_direct_analysis.py` automatically detects and normalizes formats
+- **Preserved metadata**: Similarity scores and extra fields stored in output
+
 ### LegiScan Integration
 - Fetches full bill text via `getBill` API endpoint
 - File-based caching to avoid duplicate API calls
+- Configurable API delay for rate limiting
 - Extracts bill number, title, description, status, sponsors, subjects
 
 ### Batch Processing
@@ -304,6 +425,7 @@ The analysis prompt includes:
 - One JSON file per bill (keyed by bill_id)
 - Automatic cache creation and loading
 - Reduces API calls and speeds up re-runs
+- Respects cache when applying API delay (no delay for cached bills)
 
 ## API Keys
 
@@ -334,8 +456,16 @@ Test mode processes a small sample (5 bills by default):
 
 ```bash
 export TEST_MODE=true
+export TEST_COUNT=5
+
+# Test filter pass
 python scripts/run_filter_pass.py
+
+# Test standard analysis
 python scripts/run_analysis_pass.py
+
+# Test direct analysis with pre-filtered data
+python scripts/run_direct_analysis.py ../data/filtered/filter_results_alan_ct_bills_2025.json
 ```
 
 ### Adding New States
@@ -353,10 +483,12 @@ Edit `prompts/analysis_prompt.md` to add or modify policy categories for your us
 
 ## Notes
 
-- **LegiScan API**: Requires API key, rate limits apply
+- **LegiScan API**: Requires API key, rate limits apply (use `api_delay` config for rate limiting)
 - **Portkey Gateway**: Proxies requests to OpenAI and other AI providers
 - **Caching**: All LegiScan responses are cached to minimize API calls
 - **Two-stage approach**: Balances speed (filter pass) with accuracy (analysis pass)
+- **Multiple filter formats**: Supports both AI-filtered and vector similarity formats
+- **External filtering**: You can use any filtering method (embeddings, semantic search, etc.) as long as the output follows one of the supported formats
 - **No Drupal integration yet**: Future enhancement for content management
 
 ## Previous Version

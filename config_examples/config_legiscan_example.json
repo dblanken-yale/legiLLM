@@ -1,13 +1,24 @@
 {
   "_comment_prompts": "Customize output format in prompts/system_prompt.md. Output structure is now defined in the system prompt, not in config",
-  "ai": {
-    "model": "gpt-4o-mini",
-    "temperature": 0.3,
-    "max_tokens": 1200,
-    "filter_prompt": null,
-    "analysis_prompt": null,
-    "system_prompt": null
+  "model": "gpt-4o-mini",
+  "temperature": 0.3,
+  "max_tokens": 2000,
+  "filter_pass": {
+    "batch_size": 50,
+    "timeout": 180,
+    "_comment": "batch_size: number of bills per API call; timeout: seconds to wait for batch processing"
   },
+  "analysis_pass": {
+    "timeout": 90,
+    "api_delay": 1.0,
+    "_comment": "timeout: seconds per bill analysis; api_delay: seconds to wait between LegiScan API calls (0 for no delay)"
+  },
+  "legiscan": {
+    "cache_enabled": true,
+    "cache_directory": "data/cache/legiscan_cache",
+    "_comment": "cache_enabled: cache LegiScan API responses; cache_directory: path to cache directory"
+  },
+  "_legacy_config_below": "The configuration below is from the old plugin-based architecture and may not be used by current scripts",
   "data_sources": [
     {
       "type": "database",
