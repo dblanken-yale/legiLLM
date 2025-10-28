@@ -277,9 +277,8 @@ export LEGISCAN_API_KEY='your-key-here'
 
 - [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) - System architecture and design
 - [docs/CONFIGURATION.md](docs/CONFIGURATION.md) - Complete configuration guide
-- [docs/AI_PROCESSOR_README.md](docs/AI_PROCESSOR_README.md) - AI processing details
-- [docs/PLUGINS_README.md](docs/PLUGINS_README.md) - Data source plugins
-- [REORGANIZATION_SUMMARY.md](REORGANIZATION_SUMMARY.md) - Recent project restructuring
+- [docs/AI_PROCESSOR.md](docs/AI_PROCESSOR.md) - AI processing details
+- [docs/PLUGINS.md](docs/PLUGINS.md) - Data source plugins
 
 ## Development
 

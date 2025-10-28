@@ -207,13 +207,20 @@ def main():
 
     # Initialize analyzer
     logger.info("\n5. Initializing AI Analysis Pass...")
+    analysis_config = config.get('analysis_pass', {})
+    timeout = analysis_config.get('timeout', 90)
+
     analyzer = AIAnalysisPass(
         api_key=api_key,
         model=config.get('model', 'gpt-4o-mini'),
         temperature=config.get('temperature', 0.3),
         max_tokens=config.get('max_tokens', 2000),  # Increased for bill text
+        timeout=timeout,
         legiscan_api_key=legiscan_api_key
     )
+
+    logger.info(f"   Configuration: model={config.get('model', 'gpt-4o-mini')}, "
+                f"timeout={timeout}s, max_tokens={config.get('max_tokens', 2000)}")
 
     # Analyze each bill
     logger.info("\n6. Analyzing bills...")

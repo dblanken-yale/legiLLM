@@ -38,6 +38,7 @@ class AIAnalysisPass:
         model: str = "gpt-4o-mini",
         temperature: float = 0.3,
         max_tokens: int = 800,
+        timeout: int = 90,
         legiscan_api_key: Optional[str] = None
     ):
         """
@@ -51,6 +52,7 @@ class AIAnalysisPass:
             model: LLM model to use
             temperature: Sampling temperature
             max_tokens: Maximum tokens in response
+            timeout: Request timeout in seconds
             legiscan_api_key: LegiScan API key for fetching bill text (optional)
         """
         self.api_key = api_key
@@ -58,6 +60,7 @@ class AIAnalysisPass:
         self.model = model
         self.temperature = temperature
         self.max_tokens = max_tokens
+        self.timeout = timeout
         self.legiscan_api_key = legiscan_api_key or os.getenv('LEGISCAN_API_KEY')
 
         self.analysis_prompt = analysis_prompt or self._load_analysis_prompt()
@@ -179,7 +182,7 @@ Do not include any text before or after the JSON."""
             f"{self.base_url}/chat/completions",
             headers=headers,
             json=payload,
-            timeout=90
+            timeout=self.timeout
         )
         response.raise_for_status()
 

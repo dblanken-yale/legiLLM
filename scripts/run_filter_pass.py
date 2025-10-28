@@ -16,9 +16,27 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from src.ai_filter_pass import AIFilterPass
 
-# Configuration
-BATCH_SIZE = 50  # Process 50 bills per API call
-API_TIMEOUT = 180  # 3 minutes timeout per batch
+# Default configuration (can be overridden by config.json)
+DEFAULT_BATCH_SIZE = 50  # Process 50 bills per API call
+DEFAULT_TIMEOUT = 180  # 3 minutes timeout per batch
+
+
+def load_config():
+    """Load configuration from config.json (optional - uses defaults if not found)"""
+    script_dir = Path(__file__).parent
+    project_root = script_dir.parent
+    config_file = project_root / 'config.json'
+
+    try:
+        with open(config_file, 'r') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        print("Config file not found, using default settings")
+        return {}
+    except json.JSONDecodeError as e:
+        print(f"Error parsing config.json: {e}")
+        print("Using default settings")
+        return {}
 
 def parse_bills_data(data):
     """
@@ -63,6 +81,14 @@ def main():
     project_root = script_dir.parent
     data_dir = project_root / 'data'
 
+    # Load configuration
+    config = load_config()
+    filter_config = config.get('filter_pass', {})
+    batch_size = filter_config.get('batch_size', DEFAULT_BATCH_SIZE)
+    timeout = filter_config.get('timeout', DEFAULT_TIMEOUT)
+
+    print(f"Configuration: batch_size={batch_size}, timeout={timeout}s")
+
     # Get input file from command line or use default
     input_filename = sys.argv[1] if len(sys.argv) > 1 else 'ct_bills_2025.json'
     input_file = data_dir / 'raw' / input_filename
@@ -75,9 +101,9 @@ def main():
         print("Set it with: export PORTKEY_API_KEY='your-key'")
         return
 
-    # Initialize the filter pass with longer timeout
+    # Initialize the filter pass with configured timeout
     print("Initializing AI Filter Pass...")
-    filter_pass = AIFilterPass(api_key=api_key, timeout=API_TIMEOUT)
+    filter_pass = AIFilterPass(api_key=api_key, timeout=timeout)
 
     # Read test data from file
     print(f"Reading data from {input_file}...")
@@ -112,17 +138,17 @@ def main():
 
     # Process bills in batches
     print("\n" + "=" * 80)
-    print(f"BATCH FILTERING (Processing {BATCH_SIZE} bills per API call)")
+    print(f"BATCH FILTERING (Processing {batch_size} bills per API call)")
     print("=" * 80)
 
     all_results = []
-    num_batches = (len(bills) + BATCH_SIZE - 1) // BATCH_SIZE
+    num_batches = (len(bills) + batch_size - 1) // batch_size
 
     print(f"\nProcessing {len(bills)} bills in {num_batches} batches...")
 
     for batch_num in range(num_batches):
-        start_idx = batch_num * BATCH_SIZE
-        end_idx = min(start_idx + BATCH_SIZE, len(bills))
+        start_idx = batch_num * batch_size
+        end_idx = min(start_idx + batch_size, len(bills))
         batch_bills = bills[start_idx:end_idx]
 
         print(f"\n[Batch {batch_num + 1}/{num_batches}] Processing bills {start_idx + 1}-{end_idx}...")
