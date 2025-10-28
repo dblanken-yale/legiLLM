@@ -48,9 +48,15 @@ export function convertBillsToCSV(bills: Bill[]): string {
   const joinArray = (arr: any): string => {
     if (!arr) return '';
     if (Array.isArray(arr)) return arr.join('; ');
-    // Handle objects by converting to JSON
+    // Handle objects - extract keys where value is truthy
     if (typeof arr === 'object') {
       try {
+        // If object has boolean flags, extract the true keys
+        const keys = Object.keys(arr).filter(key => arr[key]);
+        if (keys.length > 0) {
+          return keys.join('; ');
+        }
+        // Otherwise return JSON string
         return JSON.stringify(arr);
       } catch (e) {
         return '';
