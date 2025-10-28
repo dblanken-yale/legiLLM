@@ -9,6 +9,9 @@ import os
 import sys
 import json
 import logging
+import re
+import subprocess
+import shutil
 from pathlib import Path
 
 # Add parent directory to path for imports
@@ -24,7 +27,6 @@ SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 DATA_DIR = PROJECT_ROOT / 'data'
 CONFIG_FILE = PROJECT_ROOT / 'config.json'
-SOURCE_BILLS_FILE = DATA_DIR / 'raw' / 'ct_bills_2025.json'
 ANALYZED_DIR = DATA_DIR / 'analyzed'
 LEGISCAN_CACHE_DIR = DATA_DIR / 'cache' / 'legiscan_cache'
 
@@ -37,6 +39,56 @@ def load_config():
     except FileNotFoundError:
         logger.info("Config file not found, using default settings")
         return {}
+
+
+def extract_state_from_url(url: str) -> str:
+    """Extract state code from LegiScan URL (e.g., https://legiscan.com/IN/...)"""
+    match = re.search(r'legiscan\.com/([A-Z]{2})/', url)
+    return match.group(1).lower() if match else None
+
+
+def extract_year_from_url(url: str) -> str:
+    """Extract year from LegiScan URL"""
+    match = re.search(r'/(\d{4})$', url)
+    return match.group(1) if match else '2025'
+
+
+def get_source_bills_file(state: str, year: str) -> Path:
+    """Construct source bills file path"""
+    return DATA_DIR / 'raw' / f'{state}_bills_{year}.json'
+
+
+def fetch_bills_if_needed(state: str, year: str, source_file: Path):
+    """Fetch bills from LegiScan if source file doesn't exist"""
+    if source_file.exists():
+        logger.info(f"   Source file exists: {source_file}")
+        return
+
+    logger.warning(f"   Source file not found: {source_file}")
+    logger.info(f"   Fetching {state.upper()} bills for {year} from LegiScan...")
+
+    # Run fetch_legiscan_bills.py with state and year
+    fetch_script = SCRIPT_DIR / 'fetch_legiscan_bills.py'
+    result = subprocess.run(
+        ['python', str(fetch_script), '--state', state.upper(), '--year', year],
+        capture_output=True,
+        text=True,
+        cwd=str(SCRIPT_DIR)
+    )
+
+    if result.returncode != 0:
+        logger.error(f"Failed to fetch bills: {result.stderr}")
+        raise RuntimeError(f"Could not fetch {state.upper()} bills from LegiScan")
+
+    # Move the fetched file from scripts/ to data/raw/
+    fetched_file = SCRIPT_DIR / f"{state.lower()}_bills_{year}.json"
+    if fetched_file.exists():
+        # Ensure data/raw directory exists
+        source_file.parent.mkdir(parents=True, exist_ok=True)
+        shutil.move(str(fetched_file), str(source_file))
+        logger.info(f"   Successfully fetched and moved {state.upper()} bills to {source_file}")
+    else:
+        raise RuntimeError(f"Fetch script did not create expected file: {fetched_file}")
 
 
 def load_filter_results(filter_file: Path):
@@ -65,13 +117,13 @@ def load_filter_results(filter_file: Path):
         raise
 
 
-def load_source_bills():
+def load_source_bills(source_file: Path):
     """Load source bills to get bill_id"""
     try:
-        with open(SOURCE_BILLS_FILE, 'r') as f:
+        with open(source_file, 'r') as f:
             return json.load(f)
     except FileNotFoundError:
-        logger.error(f"Source bills file not found: {SOURCE_BILLS_FILE}")
+        logger.error(f"Source bills file not found: {source_file}")
         raise
 
 
@@ -213,19 +265,35 @@ def main():
     normalized_bills = load_filter_results(filter_file)
     logger.info(f"   Loaded {len(normalized_bills)} bills from filter results")
 
+    # Detect state and year from first bill's URL
+    logger.info("\n3. Detecting state and year from filter results...")
+    first_bill = normalized_bills[0]
+    state = extract_state_from_url(first_bill['url'])
+    year = extract_year_from_url(first_bill['url'])
+
+    if not state:
+        logger.error(f"Could not extract state from URL: {first_bill['url']}")
+        sys.exit(1)
+
+    logger.info(f"   Detected state: {state.upper()}, year: {year}")
+
+    # Get source bills file path and fetch if needed
+    source_bills_file = get_source_bills_file(state, year)
+    fetch_bills_if_needed(state, year, source_bills_file)
+
     # Load source bills to get bill_id
-    logger.info("\n3. Loading source bills for bill_id lookup...")
-    source_bills = load_source_bills()
+    logger.info(f"\n4. Loading source bills for bill_id lookup...")
+    source_bills = load_source_bills(source_bills_file)
     bill_lookup = create_bill_lookup(source_bills)
     logger.info(f"   Loaded {len(source_bills)} total bills for lookup")
 
     # Select bills to process
     if test_mode:
-        logger.info(f"\n4. TEST MODE: Selecting {test_count} bills from filter results...")
+        logger.info(f"\n5. TEST MODE: Selecting {test_count} bills from filter results...")
         bills_to_process = select_test_bills(normalized_bills, count=test_count)
         logger.info(f"   Selected {len(bills_to_process)} bills for testing:")
     else:
-        logger.info(f"\n4. PRODUCTION MODE: Analyzing all {len(normalized_bills)} filtered bills with full text...")
+        logger.info(f"\n5. PRODUCTION MODE: Analyzing all {len(normalized_bills)} filtered bills with full text...")
         bills_to_process = normalized_bills
         logger.info("   To run in test mode, set: export TEST_MODE=true")
 
@@ -241,7 +309,7 @@ def main():
         logger.warning("Will analyze bills with metadata only (no full text)")
 
     # Initialize analyzer
-    logger.info("\n5. Initializing AI Analysis Pass...")
+    logger.info("\n6. Initializing AI Analysis Pass...")
     analysis_config = config.get('analysis_pass', {})
     timeout = analysis_config.get('timeout', 90)
     api_delay = analysis_config.get('api_delay', 0.0)
@@ -261,7 +329,7 @@ def main():
                 f"api_delay={api_delay}s")
 
     # Analyze each bill
-    logger.info("\n6. Analyzing bills...")
+    logger.info("\n7. Analyzing bills...")
     relevant_results = []
     not_relevant_results = []
 
@@ -363,7 +431,7 @@ def main():
 
     # Save results to separate files
     logger.info(f"\n{'=' * 80}")
-    logger.info("7. Saving results...")
+    logger.info("8. Saving results...")
 
     # Save relevant bills
     logger.info(f"   Saving {len(relevant_results)} relevant bills to {RELEVANT_OUTPUT_FILE}...")

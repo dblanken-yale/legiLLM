@@ -7,6 +7,7 @@ Fetches bills from Connecticut using getSearch API with title and description.
 import requests
 import json
 import os
+import argparse
 from typing import List, Dict
 
 # Configuration
@@ -131,6 +132,19 @@ def main():
     """
     Main execution function.
     """
+    # Parse command-line arguments
+    parser = argparse.ArgumentParser(description='Fetch bills from LegiScan API')
+    parser.add_argument('--state', type=str, default=STATE_CODE,
+                        help=f'State code (default: {STATE_CODE})')
+    parser.add_argument('--year', type=int, default=YEAR,
+                        help=f'Year (default: {YEAR})')
+    args = parser.parse_args()
+
+    state = args.state.upper()
+    year = args.year
+    output_file = f"{state.lower()}_bills_{year}.json"
+    samples_file = f"{state.lower()}_test_samples.txt"
+
     # Get API key from environment
     api_key = os.getenv('LEGISCAN_API_KEY')
 
@@ -140,7 +154,7 @@ def main():
         return
 
     print("=" * 80)
-    print(f"LegiScan Bill Fetcher - {STATE_CODE} {YEAR}")
+    print(f"LegiScan Bill Fetcher - {state} {year}")
     print("=" * 80)
 
     # Fetch bills using getSearch with pagination
@@ -149,7 +163,7 @@ def main():
     max_pages = 100  # Safety limit
 
     while page <= max_pages:
-        result = search_bills(api_key, STATE_CODE, YEAR, page)
+        result = search_bills(api_key, state, year, page)
 
         if result.get('status') != 'OK':
             alert = result.get('alert', {})
@@ -201,19 +215,19 @@ def main():
     if all_bills:
         print("\n" + "=" * 80)
         print("Saving results...")
-        save_bills_json(all_bills, OUTPUT_FILE)
-        create_test_samples(all_bills, SAMPLES_FILE)  # Will write all bills (no limit)
+        save_bills_json(all_bills, output_file)
+        create_test_samples(all_bills, samples_file)  # Will write all bills (no limit)
 
         print("\n" + "=" * 80)
         print("COMPLETE!")
         print("=" * 80)
         print(f"Total bills fetched: {len(all_bills)}")
-        print(f"Full data (JSON): {OUTPUT_FILE}")
-        print(f"Full data (Text): {SAMPLES_FILE}")
+        print(f"Full data (JSON): {output_file}")
+        print(f"Full data (Text): {samples_file}")
         print("\nNext steps:")
-        print(f"  1. Review text file: less {SAMPLES_FILE}")
-        print(f"  2. Test filter: python test_filter.py {OUTPUT_FILE}")
-        print(f"  3. Process all bills: Update config.json to use {OUTPUT_FILE}")
+        print(f"  1. Review text file: less {samples_file}")
+        print(f"  2. Test filter: python test_filter.py {output_file}")
+        print(f"  3. Process all bills: Update config.json to use {output_file}")
     else:
         print("\n" + "=" * 80)
         print("No bills found!")
