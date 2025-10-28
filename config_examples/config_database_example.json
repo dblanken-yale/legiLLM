@@ -1,0 +1,30 @@
+{
+  "_comment_prompts": "Define output format in prompts/system_prompt.md. Set to null to use default prompt files",
+  "ai": {
+    "model": "gpt-4o-mini",
+    "temperature": 0.3,
+    "max_tokens": 800,
+    "filter_prompt": null,
+    "analysis_prompt": null,
+    "system_prompt": null
+  },
+  "data_sources": [
+    {
+      "type": "database",
+      "config": {
+        "db_type": "postgresql",
+        "connection": {
+          "host": "localhost",
+          "port": 5432,
+          "database": "myapp",
+          "user": "postgres",
+          "password": "password"
+        },
+        "query": "SELECT id, title, body, author FROM posts WHERE status = %s ORDER BY created_at DESC LIMIT 50",
+        "params": ["published"]
+      }
+    }
+  ],
+  "output_file": "output/analyzed_posts.json",
+  "rate_limit_delay": 0.5
+}

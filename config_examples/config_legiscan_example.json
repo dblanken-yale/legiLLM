@@ -1,0 +1,50 @@
+{
+  "_comment_prompts": "Customize output format in prompts/system_prompt.md. Output structure is now defined in the system prompt, not in config",
+  "ai": {
+    "model": "gpt-4o-mini",
+    "temperature": 0.3,
+    "max_tokens": 1200,
+    "filter_prompt": null,
+    "analysis_prompt": null,
+    "system_prompt": null
+  },
+  "data_sources": [
+    {
+      "type": "database",
+      "config": {
+        "db_type": "mysql",
+        "connection": {
+          "host": "localhost",
+          "port": 3306,
+          "database": "legiscan",
+          "user": "your_username",
+          "password": "your_password"
+        },
+        "query": "SELECT bill_id, bill_number, title, description, status, state_id, session_id, url, status_date, change_hash FROM ls_bill ORDER BY status_date DESC LIMIT 100",
+        "params": []
+      }
+    }
+  ],
+  "output_file": "output/analyzed_bills.json",
+  "rate_limit_delay": 1.0,
+  "_comments": {
+    "_query_examples": "Different query patterns for various use cases",
+    "_all_bills": "SELECT * FROM ls_bill",
+    "_filtered_by_state": "SELECT * FROM ls_bill WHERE state_id = %s",
+    "_filtered_by_state_params": ["params: [42]  -- where 42 is the state_id"],
+    "_filtered_by_year": "SELECT * FROM ls_bill WHERE session_id IN (SELECT session_id FROM ls_session WHERE year_start >= %s)",
+    "_filtered_by_status": "SELECT * FROM ls_bill WHERE status = %s ORDER BY status_date DESC",
+    "_recent_bills": "SELECT * FROM ls_bill WHERE status_date >= DATE_SUB(NOW(), INTERVAL 30 DAY)",
+    "_custom_fields": "SELECT bill_id, title, description, status FROM ls_bill WHERE state_id = %s",
+    "_docker_notes": [
+      "If using Docker with host network mode, use localhost:3306",
+      "If using bridge network with port mapping (e.g., 3307:3306), use localhost:3307",
+      "If running this script in Docker network with database, use container name as host"
+    ],
+    "_field_notes": [
+      "Common ls_bill fields: bill_id, bill_number, title, description, status, state_id, session_id",
+      "Additional fields: url, status_date, change_hash, created, updated",
+      "Select only fields you need to reduce API token usage"
+    ]
+  }
+}

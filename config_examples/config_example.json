@@ -1,0 +1,30 @@
+{
+  "_comment_prompts": "Prompts are loaded from prompts/ directory. Set to null to use files: filter_prompt.md, analysis_prompt.md, system_prompt.md",
+  "ai": {
+    "model": "gpt-4o-mini",
+    "temperature": 0.3,
+    "max_tokens": 800,
+    "filter_prompt": null,
+    "analysis_prompt": null,
+    "system_prompt": null
+  },
+  "input_files": [
+    "data/*.txt",
+    "data/*.md",
+    "data/subfolder/**/*.json",
+    "specific_file.txt"
+  ],
+  "sample_data": [
+    {
+      "title": "Sample Document 1",
+      "content": "This is example content that would be analyzed"
+    },
+    "Simple string data can also be analyzed",
+    {
+      "title": "Sample Document 2",
+      "description": "Another example with different structure"
+    }
+  ],
+  "output_file": "output/processed_data.json",
+  "rate_limit_delay": 1.0
+}

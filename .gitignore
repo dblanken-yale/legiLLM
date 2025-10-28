@@ -1,3 +1,19 @@
-federal_register_output*.json
-config.json
+# Environment and config
 .env
+config.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Data directories (generated files)
+data/raw/*.json
+data/filtered/*.json
+data/analyzed/*.json
+data/cache/
+
+# Archive directory
+archive/

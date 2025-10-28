@@ -1,0 +1,51 @@
+{
+  "ai": {
+    "model": "gpt-4o-mini",
+    "temperature": 0.3,
+    "max_tokens": 800
+  },
+  "output_structure": {
+    "summary": "string - concise overview",
+    "categories": ["array of category strings"],
+    "tags": ["array of keyword strings"],
+    "key_points": ["array of important takeaways"]
+  },
+  "data_sources": [
+    {
+      "type": "files",
+      "config": {
+        "patterns": [
+          "data/*.txt",
+          "data/*.md",
+          "data/subfolder/**/*.json"
+        ],
+        "recursive": true
+      }
+    },
+    {
+      "type": "database",
+      "config": {
+        "db_type": "sqlite",
+        "database": "data/mydata.db",
+        "query": "SELECT id, title, content, created_at FROM articles WHERE published = 1",
+        "params": []
+      }
+    },
+    {
+      "type": "api",
+      "config": {
+        "url": "https://api.example.com/data",
+        "method": "GET",
+        "headers": {
+          "Authorization": "Bearer YOUR_TOKEN"
+        },
+        "params": {
+          "limit": 100
+        },
+        "json_path": "results.items"
+      }
+    }
+  ],
+  "output_file": "output/processed_data.json",
+  "rate_limit_delay": 1.0
+}

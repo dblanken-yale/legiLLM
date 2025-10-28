@@ -1,2 +1,10 @@
+# Core dependencies
 requests>=2.31.0
 python-dotenv>=1.0.0
+
+# Database drivers (install as needed)
+# PostgreSQL support
+psycopg2-binary>=2.9.0
+
+# MySQL/MariaDB support
+mysql-connector-python>=8.0.0
