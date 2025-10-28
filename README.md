@@ -91,9 +91,44 @@ Create `config.json` in the project root (see `config_examples/` for templates):
 {
   "model": "gpt-4o-mini",
   "temperature": 0.3,
-  "max_tokens": 2000
+  "max_tokens": 2000,
+  "filter_pass": {
+    "batch_size": 50,
+    "timeout": 180
+  },
+  "analysis_pass": {
+    "timeout": 90
+  },
+  "legiscan": {
+    "cache_enabled": true,
+    "cache_directory": "data/cache/legiscan_cache"
+  }
 }
 ```
+
+### Configuration Options
+
+#### AI Model Settings
+- `model` - OpenAI model via Portkey (default: `gpt-4o-mini`)
+- `temperature` - Sampling temperature 0.0-1.0 (default: `0.3`)
+- `max_tokens` - Maximum response length (default: `2000`)
+
+#### Filter Pass Settings (`filter_pass`)
+- `batch_size` - Number of bills to process per API call (default: `50`)
+  - Higher values = fewer API calls but longer processing time per batch
+  - Lower values = more API calls but faster feedback
+- `timeout` - API request timeout in seconds (default: `180`)
+  - Increase if batches are timing out
+  - Filter pass processes multiple bills per request, needs longer timeout
+
+#### Analysis Pass Settings (`analysis_pass`)
+- `timeout` - API request timeout in seconds (default: `90`)
+  - Increase if analysis requests are timing out with full bill text
+  - Analysis pass processes one bill per request with full text
+
+#### LegiScan Settings (`legiscan`)
+- `cache_enabled` - Whether to cache API responses (default: `true`)
+- `cache_directory` - Path to cache directory (default: `data/cache/legiscan_cache`)
 
 ### Test Mode
 
@@ -105,13 +140,24 @@ export TEST_COUNT=5
 python scripts/run_analysis_pass.py
 ```
 
-### Configuration Files
+### Advanced Configuration
 
 See `config_examples/` directory for example configurations:
-- `config_example.json` - Basic AI configuration
+- `config_example.json` - Complete configuration with all options
 - `config_legiscan_example.json` - LegiScan integration examples
 - `config_database_example.json` - Database integration examples
 - `config_plugins_example.json` - Plugin system examples
+
+All configuration options have sensible defaults. You can create a minimal `config.json` with just the settings you want to override:
+
+```json
+{
+  "model": "gpt-4o",
+  "filter_pass": {
+    "batch_size": 100
+  }
+}
+```
 
 ## Palliative Care Policy Framework
 
