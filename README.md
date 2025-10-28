@@ -283,10 +283,18 @@ The analysis prompt includes:
 
 ## Features
 
-### LegiScan Integration
+### Hook System
+- **Pluggable data enrichment**: Register custom hooks for pre/post processing
+- **Configurable timing**: Execute hooks at specific pipeline points (pre_analysis, post_analysis, etc.)
+- **Framework-level caching**: Automatic caching using item_id from context
+- **LegiScan hook included**: Fetches full bill text from LegiScan API before analysis
+- **Optional and flexible**: Enable/disable via config, easy to add custom hooks
+
+### LegiScan Integration (via Hook)
 - Fetches full bill text via `getBill` API endpoint
 - File-based caching to avoid duplicate API calls
 - Extracts bill number, title, description, status, sponsors, subjects
+- Enabled by default in config.example.json
 
 ### Batch Processing
 - Filter pass processes 50 bills per API call
@@ -300,8 +308,9 @@ The analysis prompt includes:
 - Provides reasoning for inclusion/exclusion decisions
 
 ### Caching
+- Hook results cached in `data/cache/hooks/`
 - LegiScan API responses cached in `data/cache/legiscan_cache/`
-- One JSON file per bill (keyed by bill_id)
+- One JSON file per item (keyed by item_id or bill_id)
 - Automatic cache creation and loading
 - Reduces API calls and speeds up re-runs
 
@@ -325,6 +334,7 @@ export LEGISCAN_API_KEY='your-key-here'
 - [docs/CONFIGURATION.md](docs/CONFIGURATION.md) - Complete configuration guide
 - [docs/AI_PROCESSOR.md](docs/AI_PROCESSOR.md) - AI processing details
 - [docs/PLUGINS.md](docs/PLUGINS.md) - Data source plugins
+- [docs/HOOKS.md](docs/HOOKS.md) - Hook system for data enrichment
 
 ## Development
 
@@ -353,10 +363,12 @@ Edit `prompts/analysis_prompt.md` to add or modify policy categories for your us
 
 ## Notes
 
+- **Hook System**: Flexible data enrichment via configurable hooks (see docs/HOOKS.md)
 - **LegiScan API**: Requires API key, rate limits apply
 - **Portkey Gateway**: Proxies requests to OpenAI and other AI providers
-- **Caching**: All LegiScan responses are cached to minimize API calls
+- **Caching**: All LegiScan responses and hook results are cached to minimize API calls
 - **Two-stage approach**: Balances speed (filter pass) with accuracy (analysis pass)
+- **Generic pipeline**: Core logic is data-source agnostic via hook system
 - **No Drupal integration yet**: Future enhancement for content management
 
 ## Previous Version

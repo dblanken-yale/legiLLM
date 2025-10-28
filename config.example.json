@@ -21,5 +21,21 @@
     "cache_enabled": true,
     "cache_directory": "data/cache/legiscan_cache",
     "description": "LegiScan API configuration and caching settings"
+  },
+  "hooks": {
+    "enabled": true,
+    "cache_directory": "data/cache/hooks",
+    "description": "Data enrichment hooks for flexible data processing",
+    "notes": [
+      "Hooks execute at configurable timing points (pre_analysis, post_analysis, etc.)",
+      "LegiScan hook fetches full bill text from LegiScan API before analysis",
+      "Hook system is optional - disable by setting enabled to false"
+    ],
+    "pre_analysis": [
+      {
+        "type": "legiscan",
+        "description": "Fetch full bill text from LegiScan API before AI analysis"
+      }
+    ]
   }
 }

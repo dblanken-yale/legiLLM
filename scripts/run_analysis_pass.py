@@ -15,6 +15,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from src.ai_analysis_pass import AIAnalysisPass
+from src.hook_system import HookManager
+from src.hook_registry import register_hooks_from_config
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -27,7 +29,6 @@ FILTER_RESULTS_FILE = DATA_DIR / 'filtered' / 'filter_results_ct_bills_2025.json
 SOURCE_BILLS_FILE = DATA_DIR / 'raw' / 'ct_bills_2025.json'
 RELEVANT_OUTPUT_FILE = DATA_DIR / 'analyzed' / 'analysis_results_relevant.json'
 NOT_RELEVANT_OUTPUT_FILE = DATA_DIR / 'analyzed' / 'analysis_results_not_relevant.json'
-LEGISCAN_CACHE_DIR = DATA_DIR / 'cache' / 'legiscan_cache'
 
 
 def load_config():
@@ -199,14 +200,22 @@ def main():
     if len(bills_to_process) > 10:
         logger.info(f"   ... and {len(bills_to_process) - 10} more bills")
 
-    # Get LegiScan API key
-    legiscan_api_key = os.getenv('LEGISCAN_API_KEY')
-    if not legiscan_api_key:
-        logger.warning("LEGISCAN_API_KEY environment variable not set")
-        logger.warning("Will analyze bills with metadata only (no full text)")
+    # Initialize hook manager
+    logger.info("\n5. Initializing hook system...")
+    hooks_config = config.get('hooks', {})
+    hook_manager = None
+
+    if hooks_config.get('enabled', False):
+        cache_dir = hooks_config.get('cache_directory', 'data/cache/hooks')
+        cache_path = PROJECT_ROOT / cache_dir
+        hook_manager = HookManager(cache_dir=cache_path)
+        register_hooks_from_config(hook_manager, config)
+        logger.info("   Hook system enabled")
+    else:
+        logger.info("   Hook system disabled (no hooks configured)")
 
     # Initialize analyzer
-    logger.info("\n5. Initializing AI Analysis Pass...")
+    logger.info("\n6. Initializing AI Analysis Pass...")
     analysis_config = config.get('analysis_pass', {})
     timeout = analysis_config.get('timeout', 90)
 
@@ -216,14 +225,14 @@ def main():
         temperature=config.get('temperature', 0.3),
         max_tokens=config.get('max_tokens', 2000),  # Increased for bill text
         timeout=timeout,
-        legiscan_api_key=legiscan_api_key
+        hook_manager=hook_manager
     )
 
     logger.info(f"   Configuration: model={config.get('model', 'gpt-4o-mini')}, "
                 f"timeout={timeout}s, max_tokens={config.get('max_tokens', 2000)}")
 
     # Analyze each bill
-    logger.info("\n6. Analyzing bills...")
+    logger.info("\n7. Analyzing bills...")
     relevant_results = []
     not_relevant_results = []
 
@@ -249,8 +258,8 @@ def main():
             # Format bill data for analysis
             bill_data = format_bill_for_analysis(bill)
 
-            # Analyze (pass bill_id for LegiScan API fetch)
-            analysis = analyzer.analyze_data(bill_data, bill_id=bill_id)
+            # Analyze (pass bill_id as item_id for hooks)
+            analysis = analyzer.analyze_data(bill_data, item_id=bill_id)
 
             # Add bill info to results
             result = {
@@ -308,7 +317,7 @@ def main():
 
     # Save results to separate files
     logger.info(f"\n{'=' * 80}")
-    logger.info("7. Saving results...")
+    logger.info("8. Saving results...")
 
     # Save relevant bills
     logger.info(f"   Saving {len(relevant_results)} relevant bills to {RELEVANT_OUTPUT_FILE}...")
