@@ -57,7 +57,7 @@ Identify the type of legislation:
 - **Other**: Specify if different type
 
 ### 4. Primary Policy Categories
-Select ALL applicable categories from the following eight areas. Bills can and should be assigned to multiple categories when relevant:
+Select the most relevant categories from the following eight areas. Bills may be assigned to multiple categories, but prioritize only those where the bill has significant, direct impact. Avoid assigning categories for tangential or minor mentions:
 
 **CLINICAL SKILL-BUILDING**: Laws and policies that increase capacity of health care professionals to:
 - Initiate meaningful communication with patients about what matters most to them
