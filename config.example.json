@@ -1,14 +1,45 @@
 {
-  "federal_register": {
-    "agencies": ["environmental-protection-agency", "food-and-drug-administration"],
-    "document_types": ["RULE", "PRORULE", "NOTICE"],
-    "start_date": "2025-01-01",
-    "term": "climate",
-    "limit": 20
+  "model": "gpt-4o-mini",
+  "temperature": 0.3,
+  "max_tokens": 2000,
+  "description": "Configuration for LegiScan State Bill Analysis Pipeline",
+  "notes": [
+    "This is a basic configuration for the AI analysis passes",
+    "API keys should be set as environment variables (PORTKEY_API_KEY, LEGISCAN_API_KEY)",
+    "See config_examples/ directory for more advanced configuration options"
+  ],
+  "filter_pass": {
+    "batch_size": 50,
+    "timeout": 180,
+    "description": "First pass: quick filter on bill metadata"
   },
-  "ai": {
-    "model": "gpt-4o-mini",
-    "temperature": 0.3,
-    "max_tokens": 800
+  "analysis_pass": {
+    "timeout": 90,
+    "description": "Second pass: deep analysis with full bill text from LegiScan API"
+  },
+  "legiscan": {
+    "cache_enabled": true,
+    "cache_directory": "data/cache/legiscan_cache",
+    "description": "LegiScan API configuration and caching settings"
+  },
+  "palliative_care": {
+    "categories": [
+      "Clinical Skill-Building",
+      "Patient Rights",
+      "Payment",
+      "Pediatric Palliative Care",
+      "Public Awareness",
+      "Quality/Standards",
+      "Telehealth",
+      "Workforce"
+    ],
+    "exclusions": [
+      "aid-in-dying",
+      "death-with-dignity",
+      "general-adult-hospice",
+      "medical-marijuana",
+      "psilocybin"
+    ],
+    "description": "Palliative care policy tracking framework"
   }
 }
