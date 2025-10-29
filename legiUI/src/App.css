@@ -356,11 +356,6 @@ body {
   margin-bottom: 0.5rem;
 }
 
-.filter-section label:first-child {
-  font-weight: 600;
-  color: var(--text-primary);
-  font-size: 0.875rem;
-}
 
 .search-input {
   padding: 0.5rem;
@@ -368,6 +363,12 @@ body {
   border-radius: 4px;
   font-size: 0.875rem;
   width: 100%;
+  background-color: var(--background);
+  color: var(--text-primary);
+}
+
+.search-input::placeholder {
+  color: var(--text-secondary);
 }
 
 .filter-options {
