@@ -20,7 +20,7 @@ export const FilterPanel: React.FC<FilterPanelProps> = ({
   filters,
   availableFilters,
   onFilterChange,
-  filteredBills,
+  filteredBills = [],
   onExportCSV,
 }) => {
   const handleMultiSelect = (key: keyof FilterState, value: string) => {
