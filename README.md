@@ -42,6 +42,25 @@ LegiScan API → Filter Pass (metadata) → Analysis Pass (full text) → Catego
 
 See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for detailed design.
 
+## LegiUI - Visualization Dashboard
+
+**NEW**: A React-based dashboard for visualizing and exploring legislative analysis results!
+
+Located in `legiUI/`, this provides:
+- Interactive filtering by state, category, year, and status
+- Charts and visualizations of bill distributions
+- Detailed bill views with categorization and impact analysis
+- Responsive design for desktop and mobile
+
+**Quick Start:**
+```bash
+cd legiUI
+npm install
+npm run dev
+```
+
+See [legiUI/README.md](legiUI/README.md) for full documentation.
+
 ## Quick Start
 
 ### 1. Install Dependencies
