@@ -15,19 +15,14 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from src.ai_analysis_pass import AIAnalysisPass
+from src.storage_provider import StorageProviderFactory
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
-DATA_DIR = PROJECT_ROOT / 'data'
 CONFIG_FILE = PROJECT_ROOT / 'config.json'
-FILTER_RESULTS_FILE = DATA_DIR / 'filtered' / 'filter_results_ct_bills_2025.json'
-SOURCE_BILLS_FILE = DATA_DIR / 'raw' / 'ct_bills_2025.json'
-RELEVANT_OUTPUT_FILE = DATA_DIR / 'analyzed' / 'analysis_results_relevant.json'
-NOT_RELEVANT_OUTPUT_FILE = DATA_DIR / 'analyzed' / 'analysis_results_not_relevant.json'
-LEGISCAN_CACHE_DIR = DATA_DIR / 'cache' / 'legiscan_cache'
 
 
 def load_config():
@@ -40,23 +35,28 @@ def load_config():
         return {}
 
 
-def load_filter_results():
-    """Load filtered bill results"""
+def load_filter_results(storage_provider, filter_file):
+    """Load filtered bill results via storage provider"""
     try:
-        with open(FILTER_RESULTS_FILE, 'r') as f:
-            return json.load(f)
+        return storage_provider.load_filtered_results(filter_file)
     except FileNotFoundError:
-        logger.error(f"Filter results file not found: {FILTER_RESULTS_FILE}")
+        logger.error(f"Filter results not found: {filter_file}")
         raise
 
 
-def load_source_bills():
-    """Load source bills with bill_id"""
+def load_source_bills(storage_provider, source_file):
+    """Load source bills with bill_id via storage provider"""
     try:
-        with open(SOURCE_BILLS_FILE, 'r') as f:
-            return json.load(f)
+        data = storage_provider.load_raw_data(source_file)
+        # Handle different data structures
+        if isinstance(data, list):
+            return data
+        elif isinstance(data, dict) and 'summary' in data and 'masterlist' in data['summary']:
+            return data['summary']['masterlist']
+        else:
+            return []
     except FileNotFoundError:
-        logger.error(f"Source bills file not found: {SOURCE_BILLS_FILE}")
+        logger.error(f"Source bills not found: {source_file}")
         raise
 
 
@@ -161,11 +161,29 @@ def main():
     logger.info("\n1. Loading configuration...")
     config = load_config()
 
+    # Initialize storage provider
+    try:
+        storage_provider = StorageProviderFactory.create_from_env(config)
+        logger.info(f"Using storage backend: {type(storage_provider).__name__}")
+    except Exception as e:
+        logger.error(f"Could not initialize storage provider: {e}")
+        return
+
+    # Get file names from command line or use defaults
+    filter_file = sys.argv[1] if len(sys.argv) > 1 else 'ct_bills_2025'
+    source_file = sys.argv[2] if len(sys.argv) > 2 else 'ct_bills_2025'
+
+    # Remove .json extension if provided
+    if filter_file.endswith('.json'):
+        filter_file = filter_file[:-5]
+    if source_file.endswith('.json'):
+        source_file = source_file[:-5]
+
     # Check for test mode
     test_mode = os.getenv('TEST_MODE', 'false').lower() == 'true'
     test_count = int(os.getenv('TEST_COUNT', '5'))
 
-    # Get API key from environment variable (like test_filter.py does)
+    # Get API key from environment variable
     api_key = os.getenv('PORTKEY_API_KEY')
     if not api_key:
         logger.error("PORTKEY_API_KEY environment variable not set")
@@ -174,13 +192,21 @@ def main():
 
     # Load filter results (bills that passed first filter)
     logger.info("\n2. Loading filter results...")
-    filter_results = load_filter_results()
+    try:
+        filter_results = load_filter_results(storage_provider, filter_file)
+    except FileNotFoundError:
+        logger.error(f"Filter results not found. Run filter pass first: python run_filter_pass.py {source_file}")
+        return
     filter_relevant_bills = filter_results.get('relevant_bills', [])
     logger.info(f"   Filter pass identified {len(filter_relevant_bills)} potentially relevant bills")
 
     # Load source bills to get bill_id
     logger.info("\n3. Loading source bills for bill_id lookup...")
-    source_bills = load_source_bills()
+    try:
+        source_bills = load_source_bills(storage_provider, source_file)
+    except FileNotFoundError:
+        logger.error(f"Source bills not found. Run fetch first: python fetch_legiscan_bills.py")
+        return
     bill_lookup = create_bill_lookup(source_bills)
     logger.info(f"   Loaded {len(source_bills)} total bills for lookup")
 
@@ -218,7 +244,8 @@ def main():
         max_tokens=config.get('max_tokens', 2000),  # Increased for bill text
         timeout=timeout,
         legiscan_api_key=legiscan_api_key,
-        api_delay=api_delay
+        api_delay=api_delay,
+        storage_provider=storage_provider
     )
 
     logger.info(f"   Configuration: model={config.get('model', 'gpt-4o-mini')}, "
@@ -313,17 +340,22 @@ def main():
     logger.info(f"\n{'=' * 80}")
     logger.info("7. Saving results...")
 
-    # Save relevant bills
-    logger.info(f"   Saving {len(relevant_results)} relevant bills to {RELEVANT_OUTPUT_FILE}...")
-    with open(RELEVANT_OUTPUT_FILE, 'w') as f:
-        json.dump(relevant_results, f, indent=2)
-
-    # Save not relevant bills
-    logger.info(f"   Saving {len(not_relevant_results)} not relevant bills to {NOT_RELEVANT_OUTPUT_FILE}...")
-    with open(NOT_RELEVANT_OUTPUT_FILE, 'w') as f:
-        json.dump(not_relevant_results, f, indent=2)
-
-    logger.info(f"   Results saved successfully")
+    # Save results via storage provider
+    try:
+        storage_provider.save_analysis_results(source_file, relevant_results, not_relevant_results)
+        logger.info(f"   Saved {len(relevant_results)} relevant and {len(not_relevant_results)} not relevant bills")
+    except Exception as e:
+        logger.error(f"   Error saving results: {e}")
+        # Fallback: try to save to local files
+        logger.warning("   Attempting to save to local files as fallback...")
+        try:
+            with open(PROJECT_ROOT / 'data' / 'analyzed' / f'analysis_{source_file}_relevant.json', 'w') as f:
+                json.dump(relevant_results, f, indent=2)
+            with open(PROJECT_ROOT / 'data' / 'analyzed' / f'analysis_{source_file}_not_relevant.json', 'w') as f:
+                json.dump(not_relevant_results, f, indent=2)
+            logger.info("   Fallback save successful")
+        except Exception as fallback_e:
+            logger.error(f"   Fallback save failed: {fallback_e}")
 
     # Summary
     logger.info(f"\n{'=' * 80}")

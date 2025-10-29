@@ -19,16 +19,14 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from src.ai_analysis_pass import AIAnalysisPass
 from src.format_normalizer import normalize_filter_results, detect_format, get_format_info
+from src.storage_provider import StorageProviderFactory
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
-DATA_DIR = PROJECT_ROOT / 'data'
 CONFIG_FILE = PROJECT_ROOT / 'config.json'
-ANALYZED_DIR = DATA_DIR / 'analyzed'
-LEGISCAN_CACHE_DIR = DATA_DIR / 'cache' / 'legiscan_cache'
 
 
 def load_config():

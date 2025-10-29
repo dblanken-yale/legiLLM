@@ -21,7 +21,6 @@ PROJECT_ROOT = SCRIPT_DIR.parent
 CONFIG_FILE = PROJECT_ROOT / 'config.json'
 PROMPTS_DIR = PROJECT_ROOT / 'prompts'
 LEGISCAN_API_BASE = "https://api.legiscan.com/"
-LEGISCAN_CACHE_DIR = PROJECT_ROOT / 'data' / 'cache' / 'legiscan_cache'
 
 
 class AIAnalysisPass:
@@ -41,7 +40,8 @@ class AIAnalysisPass:
         max_tokens: int = 800,
         timeout: int = 90,
         legiscan_api_key: Optional[str] = None,
-        api_delay: float = 0.0
+        api_delay: float = 0.0,
+        storage_provider=None
     ):
         """
         Initialize analysis pass processor.
@@ -57,6 +57,7 @@ class AIAnalysisPass:
             timeout: Request timeout in seconds
             legiscan_api_key: LegiScan API key for fetching bill text (optional)
             api_delay: Delay in seconds between LegiScan API calls (default: 0.0, no delay)
+            storage_provider: StorageProvider instance for caching (optional)
         """
         self.api_key = api_key
         self.base_url = base_url
@@ -66,18 +67,16 @@ class AIAnalysisPass:
         self.timeout = timeout
         self.legiscan_api_key = legiscan_api_key or os.getenv('LEGISCAN_API_KEY')
         self.api_delay = api_delay
+        self.storage_provider = storage_provider
 
         self.analysis_prompt = analysis_prompt or self._load_analysis_prompt()
         self.system_prompt = system_prompt or self._load_system_prompt()
 
-        # Create cache directory if it doesn't exist
-        if self.legiscan_api_key:
-            LEGISCAN_CACHE_DIR.mkdir(exist_ok=True)
-            logger.info(f"LegiScan cache directory: {LEGISCAN_CACHE_DIR}")
-
         logger.info(f"Initialized AIAnalysisPass with model: {model}")
         if self.legiscan_api_key:
             logger.info("LegiScan API integration enabled for bill text fetching")
+        if self.storage_provider:
+            logger.info(f"Using storage provider: {type(self.storage_provider).__name__}")
 
     def _load_analysis_prompt(self) -> str:
         """
@@ -215,7 +214,7 @@ Do not include any text before or after the JSON."""
     def _fetch_bill_from_legiscan(self, bill_id: int) -> Optional[Dict]:
         """
         Fetch full bill details from LegiScan API using getBill operation.
-        Uses local file cache to avoid re-fetching the same bill.
+        Uses storage provider cache to avoid re-fetching the same bill.
 
         Args:
             bill_id: LegiScan bill ID
@@ -227,19 +226,12 @@ Do not include any text before or after the JSON."""
             logger.warning("LegiScan API key not set, cannot fetch bill text")
             return None
 
-        # Check cache first
-        cache_file = LEGISCAN_CACHE_DIR / f"bill_{bill_id}.json"
-        from_cache = False
-        if cache_file.exists():
-            logger.info(f"Loading bill {bill_id} from cache: {cache_file}")
-            try:
-                with open(cache_file, 'r', encoding='utf-8') as f:
-                    cached_data = json.load(f)
-                logger.info(f"Successfully loaded bill {bill_id} from cache")
+        # Check cache first (via storage provider if available)
+        if self.storage_provider:
+            cached_data = self.storage_provider.get_bill_from_cache(bill_id)
+            if cached_data:
+                logger.info(f"Loading bill {bill_id} from storage provider cache")
                 return cached_data
-            except Exception as e:
-                logger.warning(f"Error reading cache file for bill {bill_id}: {e}")
-                logger.info("Falling back to API fetch...")
 
         # Fetch from API if not in cache
         try:
@@ -259,13 +251,13 @@ Do not include any text before or after the JSON."""
                 bill_data = result.get('bill')
                 logger.info(f"Successfully fetched bill {bill_id} from API")
 
-                # Save to cache
-                try:
-                    with open(cache_file, 'w', encoding='utf-8') as f:
-                        json.dump(bill_data, f, indent=2, ensure_ascii=False)
-                    logger.info(f"Cached bill {bill_id} to: {cache_file}")
-                except Exception as e:
-                    logger.warning(f"Could not save bill {bill_id} to cache: {e}")
+                # Save to cache (via storage provider if available)
+                if self.storage_provider:
+                    try:
+                        self.storage_provider.save_bill_to_cache(bill_id, bill_data)
+                        logger.info(f"Cached bill {bill_id} via storage provider")
+                    except Exception as e:
+                        logger.warning(f"Could not save bill {bill_id} to cache: {e}")
 
                 # Add delay after API call (only when not using cache)
                 if self.api_delay > 0:

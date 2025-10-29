@@ -7,8 +7,16 @@ Fetches bills from Connecticut using getSearch API with title and description.
 import requests
 import json
 import os
+import sys
 import argparse
+from pathlib import Path
 from typing import List, Dict
+
+# Add parent directory to path for imports
+SCRIPT_DIR = Path(__file__).parent
+sys.path.insert(0, str(SCRIPT_DIR.parent))
+
+from src.storage_provider import StorageProviderFactory
 
 # Configuration
 BASE_URL = "https://api.legiscan.com/"
@@ -92,17 +100,24 @@ def extract_bill_data(bill_summary: Dict) -> Dict:
     }
 
 
-def save_bills_json(bills: List[Dict], output_file: str):
+def save_bills_json(bills: List[Dict], output_file: str, storage_provider=None):
     """
-    Save bills to JSON file.
+    Save bills to JSON file or storage provider.
 
     Args:
         bills: List of bill dictionaries
-        output_file: Output filename
+        output_file: Output filename (without extension)
+        storage_provider: Optional StorageProvider instance
     """
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(bills, f, indent=2, ensure_ascii=False)
-    print(f"\nSaved {len(bills)} bills to {output_file}")
+    if storage_provider:
+        # Save via storage provider
+        storage_provider.save_raw_data(output_file, bills)
+        print(f"\nSaved {len(bills)} bills via storage provider")
+    else:
+        # Save to local file (fallback)
+        with open(f"{output_file}.json" if not output_file.endswith('.json') else output_file, 'w', encoding='utf-8') as f:
+            json.dump(bills, f, indent=2, ensure_ascii=False)
+        print(f"\nSaved {len(bills)} bills to {output_file}")
 
 
 def create_test_samples(bills: List[Dict], samples_file: str, num_samples: int = None):
@@ -142,7 +157,7 @@ def main():
 
     state = args.state.upper()
     year = args.year
-    output_file = f"{state.lower()}_bills_{year}.json"
+    output_file = f"{state.lower()}_bills_{year}"  # No .json extension, storage provider handles it
     samples_file = f"{state.lower()}_test_samples.txt"
 
     # Get API key from environment
@@ -152,6 +167,15 @@ def main():
         print("ERROR: LEGISCAN_API_KEY environment variable not set")
         print("Set it with: export LEGISCAN_API_KEY='your-key'")
         return
+
+    # Initialize storage provider
+    try:
+        storage_provider = StorageProviderFactory.create_from_env()
+        print(f"Using storage backend: {type(storage_provider).__name__}")
+    except Exception as e:
+        print(f"Warning: Could not initialize storage provider: {e}")
+        print("Falling back to local file storage")
+        storage_provider = None
 
     print("=" * 80)
     print(f"LegiScan Bill Fetcher - {state} {year}")
@@ -215,19 +239,19 @@ def main():
     if all_bills:
         print("\n" + "=" * 80)
         print("Saving results...")
-        save_bills_json(all_bills, output_file)
+        save_bills_json(all_bills, output_file, storage_provider)
         create_test_samples(all_bills, samples_file)  # Will write all bills (no limit)
 
         print("\n" + "=" * 80)
         print("COMPLETE!")
         print("=" * 80)
         print(f"Total bills fetched: {len(all_bills)}")
-        print(f"Full data (JSON): {output_file}")
-        print(f"Full data (Text): {samples_file}")
+        print(f"Full data: {output_file}")
+        print(f"Text samples: {samples_file}")
         print("\nNext steps:")
         print(f"  1. Review text file: less {samples_file}")
-        print(f"  2. Test filter: python test_filter.py {output_file}")
-        print(f"  3. Process all bills: Update config.json to use {output_file}")
+        print(f"  2. Run filter pass: python run_filter_pass.py {output_file}")
+        print(f"  3. Run analysis pass: python run_analysis_pass.py")
     else:
         print("\n" + "=" * 80)
         print("No bills found!")

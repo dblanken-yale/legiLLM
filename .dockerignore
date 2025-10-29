@@ -1,0 +1,145 @@
+# LegiScan Bill Analysis Pipeline - Docker Ignore File
+# Excludes unnecessary files from Docker build context
+
+# Data files (use Azure storage instead of including in image)
+data/
+*.json
+!config.json
+!config_examples/*.json
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Documentation (not needed in container)
+docs/
+README.md
+*.md
+!config_examples/README.md
+
+# Testing
+tests/
+test_*.py
+*_test.py
+pytest.ini
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Environment files (use Azure Key Vault instead)
+.env
+.env.*
+.envrc
+
+# Logs
+*.log
+logs/
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archived projects and samples
+archive/
+samples/
+legiUI/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+.travis.yml
+Jenkinsfile
+
+# Infrastructure as Code (deploy separately)
+infrastructure/terraform/
+infrastructure/bicep/
+*.tfstate
+*.tfstate.backup
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Jupyter Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# npm/node (for legiUI)
+node_modules/
+package-lock.json
+npm-debug.log
+yarn.lock
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Docker files (don't include Docker in Docker)
+Dockerfile
+.dockerignore
+docker-compose.yml

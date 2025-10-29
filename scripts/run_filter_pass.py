@@ -15,6 +15,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from src.ai_filter_pass import AIFilterPass
+from src.storage_provider import StorageProviderFactory
 
 # Default configuration (can be overridden by config.json)
 DEFAULT_BATCH_SIZE = 50  # Process 50 bills per API call
@@ -79,7 +80,6 @@ def main():
     # Set up paths
     script_dir = Path(__file__).parent
     project_root = script_dir.parent
-    data_dir = project_root / 'data'
 
     # Load configuration
     config = load_config()
@@ -89,9 +89,19 @@ def main():
 
     print(f"Configuration: batch_size={batch_size}, timeout={timeout}s")
 
+    # Initialize storage provider
+    try:
+        storage_provider = StorageProviderFactory.create_from_env(config)
+        print(f"Using storage backend: {type(storage_provider).__name__}")
+    except Exception as e:
+        print(f"ERROR: Could not initialize storage provider: {e}")
+        return
+
     # Get input file from command line or use default
-    input_filename = sys.argv[1] if len(sys.argv) > 1 else 'ct_bills_2025.json'
-    input_file = data_dir / 'raw' / input_filename
+    input_filename = sys.argv[1] if len(sys.argv) > 1 else 'ct_bills_2025'
+    # Remove .json extension if provided
+    if input_filename.endswith('.json'):
+        input_filename = input_filename[:-5]
 
     # Get API key from environment
     api_key = os.getenv('PORTKEY_API_KEY')
@@ -105,21 +115,23 @@ def main():
     print("Initializing AI Filter Pass...")
     filter_pass = AIFilterPass(api_key=api_key, timeout=timeout)
 
-    # Read test data from file
-    print(f"Reading data from {input_file}...")
+    # Read data from storage provider
+    print(f"Reading data from storage: {input_filename}...")
     try:
-        with open(input_file, 'r', encoding='utf-8') as f:
-            raw_data = f.read()
+        data = storage_provider.load_raw_data(input_filename)
+        raw_data = json.dumps(data)
     except FileNotFoundError:
-        print(f"ERROR: {input_file} not found")
-        print(f"Usage: python run_filter_pass.py [input_file.json]")
-        print(f"Default file: ct_bills_2025.json (looks in data/raw/)")
+        print(f"ERROR: {input_filename} not found in storage")
+        print(f"Usage: python run_filter_pass.py [input_file]")
+        print(f"Available files: {storage_provider.list_raw_files()}")
+        return
+    except Exception as e:
+        print(f"ERROR: Could not load data: {e}")
         return
 
     # Parse the data for bill count and lookup
     print("\nParsing JSON data...")
     try:
-        data = json.loads(raw_data)
         bills = parse_bills_data(data)
 
         if not bills:
@@ -242,9 +254,7 @@ def main():
             print(f"  Reason: {reason}")
             print(f"  URL: {bill.get('url', 'N/A')}")
 
-    # Save results to file
-    output_filename = f"filter_results_{input_filename.replace('.json', '')}.json"
-    output_file = data_dir / 'filtered' / output_filename
+    # Save results via storage provider
     output_data = {
         'summary': {
             'total_analyzed': len(all_results),
@@ -272,10 +282,11 @@ def main():
         ]
     }
 
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(output_data, f, indent=2, ensure_ascii=False)
-
-    print(f"\n\nResults saved to: {output_file}")
+    try:
+        storage_provider.save_filtered_results(input_filename, output_data)
+        print(f"\n\nResults saved to storage: filter_results_{input_filename}")
+    except Exception as e:
+        print(f"\n\nERROR saving results: {e}")
 
 if __name__ == "__main__":
     main()
