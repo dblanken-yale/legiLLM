@@ -61,6 +61,39 @@ npm run dev
 
 See [legiUI/README.md](legiUI/README.md) for full documentation.
 
+### Deploying to GitHub Pages
+
+The LegiUI dashboard can be deployed as a static site on GitHub Pages:
+
+**Live Site:** https://dblanken-yale.github.io/legiLLM/
+
+**To deploy updates:**
+
+1. **Update the data locally:**
+   ```bash
+   cd legiUI
+   npm run load-data  # Regenerates public/bills.json from data/analyzed/*
+   ```
+
+2. **Commit the updated bills.json:**
+   ```bash
+   git add legiUI/public/bills.json
+   git commit -m "feat(data): update bills.json with latest analysis results"
+   git push
+   ```
+
+3. **Trigger deployment:**
+   - Go to **Actions** tab in GitHub repository
+   - Select **"Deploy LegiUI to GitHub Pages"** workflow
+   - Click **"Run workflow"** button
+   - Wait ~2 minutes for build and deployment
+
+4. **View the live site:**
+   - Visit https://dblanken-yale.github.io/legiLLM/
+   - Changes will be live after successful deployment
+
+**Note:** The `bills.json` file (357KB) is committed to git, but the source analysis files in `data/analyzed/` remain local and gitignored. This keeps the repository size manageable while allowing automated deployment.
+
 ## Quick Start
 
 ### 1. Install Dependencies
