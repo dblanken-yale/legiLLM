@@ -15,5 +15,9 @@ data/filtered/*.json
 data/analyzed/*.json
 data/cache/
 
+# Scripts directory data files (test data and downloaded bills)
+scripts/*.json
+scripts/*.txt
+
 # Archive directory
 archive/
