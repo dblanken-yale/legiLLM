@@ -39,6 +39,10 @@ jobs:
         working-directory: legiUI
         run: npm ci
 
+      - name: Load bill data
+        working-directory: legiUI
+        run: npm run load-data
+
       - name: Build application
         working-directory: legiUI
         run: npm run build
