@@ -39,15 +39,14 @@ jobs:
         working-directory: legiUI
         run: npm ci
 
-      - name: Load bill data
-        working-directory: legiUI
-        run: npm run load-data
-
       - name: Build application
         working-directory: legiUI
         run: npm run build
         env:
           NODE_ENV: production
+        # Note: public/bills.json is committed to git and automatically
+        # copied to dist/ by Vite during build. To update the data,
+        # run 'npm run load-data' locally and commit the updated public/bills.json
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
