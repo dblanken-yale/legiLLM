@@ -643,6 +643,7 @@ body {
 .detail-section li {
   margin-bottom: 0.5rem;
   line-height: 1.6;
+  color: var(--text-secondary);
 }
 
 .detail-grid {

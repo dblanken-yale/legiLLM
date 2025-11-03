@@ -113,13 +113,14 @@ if (!fs.existsSync(publicDir)) {
   fs.mkdirSync(publicDir, { recursive: true });
 }
 
-// Deduplicate bills by bill_id, keeping the latest version
-// Use bill_number as fallback if bill_id is missing
+// Deduplicate bills by bill_number (primary key), not bill_id
+// bill_id can vary between data sources, but bill_number is consistent
 const billMap = new Map();
 const duplicates = [];
 
 allBills.forEach(bill => {
-  const id = bill.bill_id || bill.bill_number || bill.number;
+  // Use bill_number as the primary key for deduplication
+  const id = bill.bill_number || bill.number || bill.bill_id;
   if (!id) {
     console.warn('Warning: Bill without ID found:', bill.title?.substring(0, 50));
     return;
@@ -127,8 +128,13 @@ allBills.forEach(bill => {
 
   if (billMap.has(id)) {
     duplicates.push(id);
-    // Keep the existing one (assuming later files in the array are newer)
-    // You could add more sophisticated logic here based on timestamps
+    // Keep the newer one (later in array = from later-processed file)
+    // Prefer bills with more complete data (has key_provisions, full analysis, etc.)
+    const existing = billMap.get(id);
+    const hasMoreData = (bill.key_provisions?.length || 0) > (existing.key_provisions?.length || 0);
+    if (hasMoreData || bill.analysis || bill.palliative_care_impact) {
+      billMap.set(id, bill);
+    }
   } else {
     billMap.set(id, bill);
   }
