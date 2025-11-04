@@ -113,7 +113,8 @@ def main():
 
     # Initialize the filter pass with configured timeout
     print("Initializing AI Filter Pass...")
-    filter_pass = AIFilterPass(api_key=api_key, timeout=timeout)
+    # Use new provider-based initialization (backward compatible)
+    filter_pass = AIFilterPass(api_key=api_key, timeout=timeout, config=config)
 
     # Read data from storage provider
     print(f"Reading data from storage: {input_filename}...")

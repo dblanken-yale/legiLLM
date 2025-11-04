@@ -59,7 +59,7 @@ for (const file of files) {
       // Check if it has nested structure with "bill" and "analysis"
       if (item.bill && item.analysis) {
         const urlState = extractStateFromUrl(item.bill.url);
-        const state = filenameState || urlState || 'Unknown';
+        const state = urlState || filenameState || 'Unknown';
         const merged = {
           ...item.bill,
           // Flatten extra_metadata FIRST so analysis fields can override
@@ -75,7 +75,7 @@ for (const file of files) {
       }
       // Otherwise assume it's already flat
       const urlState = extractStateFromUrl(item.url);
-      const state = item.state || filenameState || urlState || 'Unknown';
+      const state = urlState || item.state || filenameState || 'Unknown';
       const bill = {
         ...item,
         state: state,
@@ -90,7 +90,7 @@ for (const file of files) {
     // Format: Object with relevant_bills array (AI-filtered format)
     bills = content.relevant_bills.map(bill => {
       const urlState = extractStateFromUrl(bill.url);
-      const state = bill.state || filenameState || urlState || 'Unknown';
+      const state = urlState || bill.state || filenameState || 'Unknown';
       const processed = {
         ...bill,
         state: state,

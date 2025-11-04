@@ -27,6 +27,8 @@ logger = logging.getLogger(__name__)
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 CONFIG_FILE = PROJECT_ROOT / 'config.json'
+DATA_DIR = PROJECT_ROOT / 'data'
+ANALYZED_DIR = DATA_DIR / 'analyzed'
 
 
 def load_config():

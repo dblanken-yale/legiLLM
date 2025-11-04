@@ -1,0 +1,38 @@
+{
+  "llm": {
+    "provider": "ollama",
+    "model": "llama3.1:8b-instruct",
+    "base_url": "http://localhost:11434/v1"
+  },
+  "storage": {
+    "backend": "local",
+    "local": {
+      "data_directory": "/app/data"
+    }
+  },
+  "temperature": 0.3,
+  "max_tokens": 2000,
+  "filter_pass": {
+    "batch_size": 10,
+    "timeout": 300,
+    "description": "Reduced batch size for local LLM, increased timeout"
+  },
+  "analysis_pass": {
+    "timeout": 120,
+    "api_delay": 0.0,
+    "description": "No API delay needed for local LLM"
+  },
+  "legiscan": {
+    "cache_enabled": true,
+    "cache_directory": "data/cache/legiscan_cache"
+  },
+  "description": "Configuration for local LLM using Ollama",
+  "notes": [
+    "This configuration uses Ollama for local LLM inference",
+    "Prerequisites: Install Ollama and pull model with 'ollama pull llama3.1:8b-instruct'",
+    "Start Ollama server: 'ollama serve'",
+    "No API key required for local inference",
+    "Batch size reduced to 10 for better local performance",
+    "For Mac M1: Run Ollama natively for Metal GPU acceleration"
+  ]
+}

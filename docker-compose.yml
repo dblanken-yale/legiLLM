@@ -1,0 +1,47 @@
+version: '3.8'
+
+services:
+  legiscan-pipeline:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: legiscan-pipeline
+    environment:
+      # API Keys (loaded from .env file)
+      - PORTKEY_API_KEY=${PORTKEY_API_KEY}
+      - LEGISCAN_API_KEY=${LEGISCAN_API_KEY}
+
+      # Test mode settings
+      - TEST_MODE=${TEST_MODE:-false}
+      - TEST_COUNT=${TEST_COUNT:-5}
+
+      # Storage backend
+      - STORAGE_BACKEND=local
+      - PYTHONUNBUFFERED=1
+      - PYTHONPATH=/app
+
+    volumes:
+      # Mount local data directory for persistence
+      - ./data:/app/data
+
+      # Mount source code for development (optional - comment out for production)
+      - ./src:/app/src
+      - ./scripts:/app/scripts
+      - ./prompts:/app/prompts
+      - ./config.json:/app/config.json
+
+    working_dir: /app
+
+    # Keep container running for interactive use
+    stdin_open: true
+    tty: true
+
+    # Override default command to keep container alive
+    command: tail -f /dev/null
+
+    networks:
+      - legiscan-network
+
+networks:
+  legiscan-network:
+    driver: bridge

@@ -1,0 +1,54 @@
+{
+  "filter_llm": {
+    "provider": "ollama",
+    "model": "llama3.1:8b-instruct",
+    "base_url": "http://localhost:11434/v1",
+    "description": "Use local LLM for filter pass (cost savings)"
+  },
+  "analysis_llm": {
+    "provider": "portkey",
+    "model": "gpt-4o-mini",
+    "base_url": "https://api.portkey.ai/v1",
+    "description": "Use remote API for analysis pass (quality critical)"
+  },
+  "llm": {
+    "provider": "ollama",
+    "model": "llama3.1:8b-instruct",
+    "base_url": "http://localhost:11434/v1",
+    "description": "Default provider (used if filter_llm/analysis_llm not specified)"
+  },
+  "storage": {
+    "backend": "local",
+    "local": {
+      "data_directory": "/app/data"
+    }
+  },
+  "temperature": 0.3,
+  "max_tokens": 2000,
+  "filter_pass": {
+    "batch_size": 10,
+    "timeout": 300
+  },
+  "analysis_pass": {
+    "timeout": 120,
+    "api_delay": 0.0
+  },
+  "legiscan": {
+    "cache_enabled": true,
+    "cache_directory": "data/cache/legiscan_cache"
+  },
+  "description": "Hybrid configuration: Local LLM for filter, Remote API for analysis",
+  "notes": [
+    "HYBRID APPROACH: Best of both worlds",
+    "Filter Pass (Ollama): Processes all 4000+ bills locally - saves ~$28",
+    "Analysis Pass (GPT-4o-mini): Only ~68 relevant bills - costs ~$2, maintains quality",
+    "Total cost: ~$2 vs ~$30 with full remote",
+    "Prerequisites:",
+    "  1. Install Ollama: curl -fsSL https://ollama.com/install.sh | sh",
+    "  2. Pull model: ollama pull llama3.1:8b-instruct",
+    "  3. Start Ollama: ollama serve",
+    "  4. Set PORTKEY_API_KEY env var for analysis pass",
+    "NOTE: filter_llm and analysis_llm not yet implemented in scripts,",
+    "      currently uses single 'llm' config for both passes"
+  ]
+}

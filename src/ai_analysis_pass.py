@@ -13,6 +13,8 @@ import time
 from typing import Any, Dict, Optional
 from pathlib import Path
 
+from src.llm_provider import LLMProvider, create_llm_provider
+
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
@@ -31,37 +33,39 @@ class AIAnalysisPass:
 
     def __init__(
         self,
-        api_key: str,
+        api_key: Optional[str] = None,
         base_url: str = "https://api.portkey.ai/v1",
-        analysis_prompt: str | None = None,
-        system_prompt: str | None = None,
+        analysis_prompt: Optional[str] = None,
+        system_prompt: Optional[str] = None,
         model: str = "gpt-4o-mini",
         temperature: float = 0.3,
         max_tokens: int = 800,
         timeout: int = 90,
         legiscan_api_key: Optional[str] = None,
         api_delay: float = 0.0,
-        storage_provider=None
+        storage_provider=None,
+        provider: Optional[LLMProvider] = None,
+        config: Optional[Dict] = None
     ):
         """
         Initialize analysis pass processor.
 
         Args:
-            api_key: Portkey API key
-            base_url: API endpoint URL
+            api_key: Portkey API key (optional if using provider)
+            base_url: API endpoint URL (for backward compatibility)
             analysis_prompt: Custom prompt template for analysis (user message)
             system_prompt: System instructions for output format and behavior
-            model: LLM model to use
+            model: LLM model to use (for backward compatibility)
             temperature: Sampling temperature
             max_tokens: Maximum tokens in response
             timeout: Request timeout in seconds
             legiscan_api_key: LegiScan API key for fetching bill text (optional)
             api_delay: Delay in seconds between LegiScan API calls (default: 0.0, no delay)
             storage_provider: StorageProvider instance for caching (optional)
+            provider: LLMProvider instance (new preferred method)
+            config: Configuration dict for creating provider
         """
-        self.api_key = api_key
-        self.base_url = base_url
-        self.model = model
+        # Store parameters for LLM calls
         self.temperature = temperature
         self.max_tokens = max_tokens
         self.timeout = timeout
@@ -69,10 +73,23 @@ class AIAnalysisPass:
         self.api_delay = api_delay
         self.storage_provider = storage_provider
 
+        # Use provided provider, or create one from legacy parameters
+        if provider:
+            self.provider = provider
+        elif config:
+            self.provider = create_llm_provider(config=config)
+        else:
+            # Legacy mode: create provider from individual parameters
+            self.provider = create_llm_provider(
+                api_key=api_key,
+                model=model,
+                base_url=base_url
+            )
+
         self.analysis_prompt = analysis_prompt or self._load_analysis_prompt()
         self.system_prompt = system_prompt or self._load_system_prompt()
 
-        logger.info(f"Initialized AIAnalysisPass with model: {model}")
+        logger.info(f"Initialized AIAnalysisPass with provider: {self.provider.get_provider_name()}")
         if self.legiscan_api_key:
             logger.info("LegiScan API integration enabled for bill text fetching")
         if self.storage_provider:
@@ -153,7 +170,7 @@ Do not include any text before or after the JSON."""
 
     def _call_ai(self, system_prompt: str, user_prompt: str) -> Dict:
         """
-        Make API call to AI service.
+        Make API call to AI service via provider.
 
         Args:
             system_prompt: System context/instructions
@@ -163,34 +180,21 @@ Do not include any text before or after the JSON."""
             Parsed JSON response from AI
 
         Raises:
-            requests.exceptions.RequestException: If API call fails
+            Exception: If API call fails
             json.JSONDecodeError: If response is not valid JSON
         """
-        headers = {
-            'Content-Type': 'application/json',
-            'Authorization': f'Bearer {self.api_key}'
-        }
+        messages = [
+            {'role': 'system', 'content': system_prompt},
+            {'role': 'user', 'content': user_prompt}
+        ]
 
-        payload = {
-            'model': self.model,
-            'messages': [
-                {'role': 'system', 'content': system_prompt},
-                {'role': 'user', 'content': user_prompt}
-            ],
-            'temperature': self.temperature,
-            'max_tokens': self.max_tokens
-        }
-
-        response = requests.post(
-            f"{self.base_url}/chat/completions",
-            headers=headers,
-            json=payload,
+        # Call provider
+        content = self.provider.chat_completion(
+            messages=messages,
+            temperature=self.temperature,
+            max_tokens=self.max_tokens,
             timeout=self.timeout
         )
-        response.raise_for_status()
-
-        result = response.json()
-        content = result['choices'][0]['message']['content']
 
         # Strip markdown code fences if present
         content_clean = content.strip()
