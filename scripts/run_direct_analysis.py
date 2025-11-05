@@ -265,35 +265,13 @@ def main():
     normalized_bills = load_filter_results(filter_file)
     logger.info(f"   Loaded {len(normalized_bills)} bills from filter results")
 
-    # Detect state and year from first bill's URL
-    logger.info("\n3. Detecting state and year from filter results...")
-    first_bill = normalized_bills[0]
-    state = extract_state_from_url(first_bill['url'])
-    year = extract_year_from_url(first_bill['url'])
-
-    if not state:
-        logger.error(f"Could not extract state from URL: {first_bill['url']}")
-        sys.exit(1)
-
-    logger.info(f"   Detected state: {state.upper()}, year: {year}")
-
-    # Get source bills file path and fetch if needed
-    source_bills_file = get_source_bills_file(state, year)
-    fetch_bills_if_needed(state, year, source_bills_file)
-
-    # Load source bills to get bill_id
-    logger.info(f"\n4. Loading source bills for bill_id lookup...")
-    source_bills = load_source_bills(source_bills_file)
-    bill_lookup = create_bill_lookup(source_bills)
-    logger.info(f"   Loaded {len(source_bills)} total bills for lookup")
-
     # Select bills to process
     if test_mode:
-        logger.info(f"\n5. TEST MODE: Selecting {test_count} bills from filter results...")
+        logger.info(f"\n3. TEST MODE: Selecting {test_count} bills from filter results...")
         bills_to_process = select_test_bills(normalized_bills, count=test_count)
         logger.info(f"   Selected {len(bills_to_process)} bills for testing:")
     else:
-        logger.info(f"\n5. PRODUCTION MODE: Analyzing all {len(normalized_bills)} filtered bills with full text...")
+        logger.info(f"\n3. PRODUCTION MODE: Analyzing all {len(normalized_bills)} filtered bills with full text...")
         bills_to_process = normalized_bills
         logger.info("   To run in test mode, set: export TEST_MODE=true")
 
@@ -309,7 +287,7 @@ def main():
         logger.warning("Will analyze bills with metadata only (no full text)")
 
     # Initialize analyzer
-    logger.info("\n6. Initializing AI Analysis Pass...")
+    logger.info("\n4. Initializing AI Analysis Pass...")
     analysis_config = config.get('analysis_pass', {})
     timeout = analysis_config.get('timeout', 90)
     api_delay = analysis_config.get('api_delay', 0.0)
@@ -329,9 +307,12 @@ def main():
                 f"api_delay={api_delay}s")
 
     # Analyze each bill
-    logger.info("\n7. Analyzing bills...")
+    logger.info("\n5. Analyzing bills...")
     relevant_results = []
     not_relevant_results = []
+
+    # Cache for loaded source bill files (by state/year)
+    source_bill_cache = {}
 
     for i, bill in enumerate(bills_to_process, 1):
         logger.info(f"\n{'=' * 80}")
@@ -341,14 +322,55 @@ def main():
         logger.info(f"URL: {bill['url']}")
 
         try:
-            # Get bill_id from lookup
             bill_number = bill['bill_number']
-            source_bill = bill_lookup.get(bill_number)
-            bill_id = source_bill.get('bill_id') if source_bill else None
+            bill_id = None
 
-            if bill_id:
-                logger.info(f"Bill ID: {bill_id}")
+            # First, try to get bill_id from extra_metadata (vector similarity format)
+            extra_metadata = bill.get('extra_metadata', {})
+            if extra_metadata.get('bill_id'):
+                bill_id = extra_metadata['bill_id']
+                logger.info(f"Bill ID (from filter results): {bill_id}")
             else:
+                # Fall back to lookup from source file (AI-filtered format)
+                logger.info("Bill ID not in filter results, looking up from source file...")
+
+                # Extract state and year from THIS bill's URL
+                state = extract_state_from_url(bill['url'])
+                year = extract_year_from_url(bill['url'])
+
+                if not state:
+                    logger.warning(f"Could not extract state from URL: {bill['url']}, skipping")
+                    continue
+
+                logger.info(f"   State: {state.upper()}, Year: {year}")
+
+                # Check if we've already loaded this state/year combination
+                cache_key = f"{state}_{year}"
+                if cache_key not in source_bill_cache:
+                    logger.info(f"   Loading source bills for {state.upper()} {year}...")
+                    source_bills_file = get_source_bills_file(state, year)
+
+                    # Fetch if needed
+                    try:
+                        fetch_bills_if_needed(state, year, source_bills_file)
+                        source_bills = load_source_bills(source_bills_file)
+                        source_bill_cache[cache_key] = create_bill_lookup(source_bills)
+                        logger.info(f"   Loaded {len(source_bills)} bills for {state.upper()} {year}")
+                    except Exception as e:
+                        logger.error(f"   Could not load source bills for {state.upper()} {year}: {e}")
+                        source_bill_cache[cache_key] = {}
+                else:
+                    logger.info(f"   Using cached source bills for {state.upper()} {year}")
+
+                # Lookup bill_id
+                bill_lookup = source_bill_cache[cache_key]
+                source_bill = bill_lookup.get(bill_number)
+                bill_id = source_bill.get('bill_id') if source_bill else None
+
+                if bill_id:
+                    logger.info(f"Bill ID (from source lookup): {bill_id}")
+
+            if not bill_id:
                 logger.warning(f"Could not find bill_id for {bill_number}, skipping")
                 continue
 
@@ -431,7 +453,7 @@ def main():
 
     # Save results to separate files
     logger.info(f"\n{'=' * 80}")
-    logger.info("8. Saving results...")
+    logger.info("6. Saving results...")
 
     # Save relevant bills
     logger.info(f"   Saving {len(relevant_results)} relevant bills to {RELEVANT_OUTPUT_FILE}...")
