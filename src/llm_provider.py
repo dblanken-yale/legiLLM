@@ -3,6 +3,7 @@ LLM Provider Abstraction Layer
 
 Provides a unified interface for different LLM backends:
 - Portkey (OpenAI via Portkey.ai gateway)
+- Azure OpenAI (Microsoft Azure OpenAI Service)
 - Ollama (Local LLM server)
 - Extensible for future providers (vLLM, llama.cpp, etc.)
 
@@ -135,6 +136,101 @@ class PortkeyProvider(LLMProvider):
         return f"portkey/{self.model}"
 
 
+class AzureOpenAIProvider(LLMProvider):
+    """
+    Azure OpenAI provider
+
+    Uses Azure OpenAI Service for chat completions.
+    Requires AZURE_OPENAI_API_KEY and AZURE_OPENAI_ENDPOINT environment variables,
+    or pass them as parameters.
+
+    The endpoint should be in the format:
+    https://<your-resource-name>.openai.azure.com/
+    """
+
+    def __init__(
+        self,
+        api_key: Optional[str] = None,
+        endpoint: Optional[str] = None,
+        deployment_name: Optional[str] = None,
+        api_version: str = "2024-02-15-preview",
+        **kwargs
+    ):
+        """
+        Initialize Azure OpenAI provider
+
+        Args:
+            api_key: Azure OpenAI API key (or reads from AZURE_OPENAI_API_KEY env var)
+            endpoint: Azure OpenAI endpoint (or reads from AZURE_OPENAI_ENDPOINT env var)
+            deployment_name: Deployment name in Azure (or reads from AZURE_OPENAI_DEPLOYMENT env var)
+            api_version: Azure OpenAI API version
+            **kwargs: Additional provider-specific parameters
+        """
+        self.api_key = api_key or os.getenv('AZURE_OPENAI_API_KEY')
+        self.endpoint = endpoint or os.getenv('AZURE_OPENAI_ENDPOINT')
+        self.deployment_name = deployment_name or os.getenv('AZURE_OPENAI_DEPLOYMENT')
+
+        if not self.api_key:
+            raise ValueError("Azure OpenAI API key required (set AZURE_OPENAI_API_KEY env var or pass api_key)")
+        if not self.endpoint:
+            raise ValueError("Azure OpenAI endpoint required (set AZURE_OPENAI_ENDPOINT env var or pass endpoint)")
+        if not self.deployment_name:
+            raise ValueError("Azure OpenAI deployment name required (set AZURE_OPENAI_DEPLOYMENT env var or pass deployment_name)")
+
+        self.endpoint = self.endpoint.rstrip('/')
+        self.api_version = api_version
+        self.kwargs = kwargs
+
+        logger.info(f"Initialized AzureOpenAIProvider with deployment: {self.deployment_name}")
+
+    def chat_completion(
+        self,
+        messages: List[Dict[str, str]],
+        temperature: float = 0.3,
+        max_tokens: int = 2000,
+        timeout: int = 90,
+        **kwargs
+    ) -> str:
+        """Call Azure OpenAI API for chat completion"""
+        headers = {
+            'Content-Type': 'application/json',
+            'api-key': self.api_key
+        }
+
+        payload = {
+            'messages': messages,
+            'temperature': temperature,
+            'max_tokens': max_tokens,
+            **self.kwargs,
+            **kwargs
+        }
+
+        # Azure OpenAI uses deployment name in URL, not in payload
+        url = f"{self.endpoint}/openai/deployments/{self.deployment_name}/chat/completions?api-version={self.api_version}"
+
+        try:
+            response = requests.post(
+                url,
+                headers=headers,
+                json=payload,
+                timeout=timeout
+            )
+            response.raise_for_status()
+
+            result = response.json()
+            return result['choices'][0]['message']['content']
+
+        except requests.exceptions.Timeout:
+            raise Exception(f"Azure OpenAI API request timed out after {timeout}s")
+        except requests.exceptions.RequestException as e:
+            raise Exception(f"Azure OpenAI API request failed: {e}")
+        except (KeyError, IndexError) as e:
+            raise Exception(f"Unexpected Azure OpenAI API response format: {e}")
+
+    def get_provider_name(self) -> str:
+        return f"azure/{self.deployment_name}"
+
+
 class OllamaProvider(LLMProvider):
     """
     Ollama provider for local LLMs
@@ -236,10 +332,14 @@ class LLMProviderFactory:
             config: Configuration dict with structure:
                 {
                     "llm": {
-                        "provider": "portkey" | "ollama",
+                        "provider": "portkey" | "azure" | "ollama",
                         "model": "model-name",
                         "base_url": "...",  # optional
                         "api_key": "...",   # optional, for portkey
+                        # Azure-specific:
+                        "endpoint": "https://your-resource.openai.azure.com/",
+                        "deployment_name": "your-deployment",
+                        "api_version": "2024-02-15-preview",
                         ... # provider-specific options
                     },
                     # Fallback to root level if llm section doesn't exist
@@ -264,6 +364,14 @@ class LLMProviderFactory:
                 api_key=llm_config.get('api_key'),
                 model=model,
                 base_url=llm_config.get('base_url', 'https://api.portkey.ai/v1')
+            )
+
+        elif provider_type == 'azure':
+            return AzureOpenAIProvider(
+                api_key=llm_config.get('api_key'),
+                endpoint=llm_config.get('endpoint'),
+                deployment_name=llm_config.get('deployment_name'),
+                api_version=llm_config.get('api_version', '2024-02-15-preview')
             )
 
         elif provider_type == 'ollama':

@@ -1,0 +1,39 @@
+{
+  "_comment": "Example configuration for using Azure OpenAI Service",
+  "llm": {
+    "provider": "azure",
+    "deployment_name": "gpt-4o-mini",
+    "endpoint": "https://your-resource-name.openai.azure.com/",
+    "api_key": null,
+    "api_version": "2024-02-15-preview"
+  },
+  "model": "gpt-4o-mini",
+  "temperature": 0.3,
+  "max_tokens": 2000,
+  "filter_pass": {
+    "batch_size": 50,
+    "timeout": 180
+  },
+  "analysis_pass": {
+    "timeout": 90,
+    "api_delay": 1.0
+  },
+  "legiscan": {
+    "cache_enabled": true,
+    "cache_directory": "data/cache/legiscan_cache"
+  },
+  "_environment_variables": {
+    "_comment": "Required environment variables for Azure OpenAI",
+    "AZURE_OPENAI_API_KEY": "Your Azure OpenAI API key",
+    "AZURE_OPENAI_ENDPOINT": "https://your-resource-name.openai.azure.com/",
+    "AZURE_OPENAI_DEPLOYMENT": "gpt-4o-mini",
+    "LEGISCAN_API_KEY": "Your LegiScan API key"
+  },
+  "_notes": [
+    "The deployment_name should match the deployment you created in Azure OpenAI Studio",
+    "The endpoint should point to your Azure OpenAI resource",
+    "You can set credentials in config or use environment variables",
+    "Environment variables take precedence over config values",
+    "API version 2024-02-15-preview is recommended for chat completions"
+  ]
+}
