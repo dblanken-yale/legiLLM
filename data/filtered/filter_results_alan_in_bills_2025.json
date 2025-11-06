@@ -1,0 +1,17 @@
+{
+  "total_results": 1,
+  "results": [
+    {
+      "bill_id": "1915243",
+      "number": "SB0473",
+      "title": "Various health care matters.",
+      "url": "https://legiscan.com/IN/bill/SB0473/2025",
+      "status_date": "2025-05-01",
+      "last_action": "Public Law 143",
+      "year": "2025",
+      "session": "2025 Regular Session",
+      "similarity_score": 0.5059215764406239,
+      "distance": 0.9765909314155579
+    }
+  ]
+}

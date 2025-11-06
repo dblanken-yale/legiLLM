@@ -10,9 +10,9 @@ __pycache__/
 .Python
 
 # Data directories (generated files)
-data/raw/*.json
-data/filtered/*.json
-data/analyzed/*.json
+# data/raw/*.json
+# data/filtered/*.json
+# data/analyzed/*.json
 data/cache/
 
 # Scripts directory data files (test data and downloaded bills)

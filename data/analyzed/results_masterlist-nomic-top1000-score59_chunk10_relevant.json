@@ -1,0 +1,544 @@
+[
+  {
+    "bill": {
+      "bill_number": "HB2420",
+      "title": "AGING-DHS-DHFS-DON SCORES",
+      "url": "https://legiscan.com/IL/bill/HB2420/2021",
+      "reason": "Vector similarity match (score: 0.5903, distance: 0.6940)",
+      "extra_metadata": {
+        "bill_id": "1454157",
+        "status_date": "2021-02-17",
+        "last_action": "Rule 19(a) / Re-referred to Rules Committee",
+        "year": "2021",
+        "session": "2021-2022 Regular Session",
+        "similarity_score": 0.5903132036202127,
+        "distance": 0.6940159797668457
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill amends the Illinois Public Aid Code and the Act on the Aging to adjust eligibility criteria for home and community-based services, which can significantly impact seriously ill patients. By increasing the determination of need (DON) score threshold for long-term care and providing coverage for medically fragile children, the bill indirectly supports access to necessary services for those with serious illnesses, including potential palliative care integration.",
+      "summary": "HB2420 modifies eligibility criteria for home and community-based services for seriously ill patients, particularly focusing on medically fragile and technology-dependent children. This change could enhance access to palliative care services by allowing more individuals to qualify for supportive living and community care programs, thereby improving their quality of life.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "PAYMENT",
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "QUALITY/STANDARDS",
+        "WORKFORCE"
+      ],
+      "tags": [
+        "home and community-based services",
+        "medically fragile",
+        "technology-dependent children",
+        "determination of need",
+        "supportive living",
+        "community care program",
+        "long-term care",
+        "Illinois Public Aid Code",
+        "aging services",
+        "healthcare access"
+      ],
+      "key_provisions": [
+        "Individuals with a DON score of 29 or higher are eligible for Community Care Program services.",
+        "Level of care eligibility criteria for medically fragile children will not be more restrictive than those in place on January 1, 2021.",
+        "The DON score threshold for institutional long-term care applicants will increase to 37, pending federal approval."
+      ],
+      "palliative_care_impact": "The bill impacts palliative care by potentially increasing access to services for seriously ill patients through expanded eligibility for community-based programs. This could facilitate earlier and more integrated palliative care interventions for patients with serious illnesses, thereby improving their overall care experience and quality of life.",
+      "relevance_beyond_keywords": "The adjustments in eligibility criteria and service access for seriously ill patients create an environment where palliative care can be more readily integrated into their care plans, even if 'palliative care' is not explicitly mentioned.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, or other excluded topics; it primarily addresses access to community-based services for seriously ill individuals."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill requires the Department of Healthcare and Family Services to execute written agreements with other departments regarding the nursing home prescreening project.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0282",
+      "title": "AGING-DHS-DHFS-DON SCORES",
+      "url": "https://legiscan.com/IL/bill/SB0282/2021",
+      "reason": "Vector similarity match (score: 0.5903, distance: 0.6940)",
+      "extra_metadata": {
+        "bill_id": "1458334",
+        "status_date": "2021-02-19",
+        "last_action": "Added as Co-Sponsor Sen. Celina Villanueva",
+        "year": "2021",
+        "session": "2021-2022 Regular Session",
+        "similarity_score": 0.5903132036202127,
+        "distance": 0.6940159797668457
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill amends various acts to enhance eligibility for home and community-based services for medically fragile and technology-dependent children, which directly impacts seriously ill pediatric patients. By increasing access to supportive living facilities and community care programs, it indirectly supports the integration of palliative care services for these populations.",
+      "summary": "SB0282 modifies eligibility criteria for community care programs and supportive living facilities, particularly for medically fragile and technology-dependent children. This change is significant for palliative care as it enhances access to necessary services for seriously ill pediatric patients, potentially improving their quality of life and care coordination.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "PAYMENT",
+        "PEDIATRIC PALLIATIVE AND HOSPICE CARE",
+        "QUALITY/STANDARDS"
+      ],
+      "tags": [
+        "home and community-based services",
+        "medically fragile",
+        "technology-dependent children",
+        "supportive living facilities",
+        "Community Care Program",
+        "DON assessment",
+        "nursing home prescreening",
+        "long-term care",
+        "pediatric palliative care",
+        "quality of life"
+      ],
+      "key_provisions": [
+        "Individuals with a DON score of 29 or higher are eligible for services through the Community Care Program.",
+        "Level of care eligibility criteria for medically fragile and technology-dependent children will not be more restrictive than those in place on January 1, 2021.",
+        "The DON score threshold for institutional long-term care applicants will increase to 37, subject to federal approval."
+      ],
+      "palliative_care_impact": "The bill enhances access to community-based services for seriously ill pediatric patients, which can facilitate the integration of palliative care. By improving eligibility for supportive living and community care, it allows for better symptom management and quality of life for these children. This could lead to increased collaboration between palliative care providers and community service programs.",
+      "relevance_beyond_keywords": "The bill's focus on enhancing eligibility for community care services impacts the healthcare system's capacity to support seriously ill children, indirectly benefiting palliative care integration.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, or other excluded topics; instead, it addresses the needs of seriously ill pediatric patients."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill requires the Department of Healthcare and Family Services to set rules regarding the maximum number of individuals covered under the new provisions.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1391",
+      "title": "Services for the aged and disabled.",
+      "url": "https://legiscan.com/IN/bill/HB1391/2025",
+      "reason": "Vector similarity match (score: 0.5903, distance: 0.6940)",
+      "extra_metadata": {
+        "bill_id": "1912080",
+        "status_date": "2025-05-01",
+        "last_action": "Public Law 167",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5903083018438268,
+        "distance": 0.6940300464630127
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill addresses services for the aged and disabled, which includes provisions for community and home care services that can benefit seriously ill patients. By prioritizing funding for these services and allowing for telehealth enhancements, the bill indirectly supports palliative care initiatives aimed at improving quality of life for individuals with serious illnesses.",
+      "summary": "HB1391 focuses on enhancing services for the aged and disabled by allowing for the prioritization of community and home care services. It includes provisions for telehealth and home modification services, which can improve access to care for seriously ill patients, thus indirectly supporting palliative care efforts.",
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [
+        "PAYMENT",
+        "TELEHEALTH",
+        "QUALITY/STANDARDS",
+        "WORKFORCE"
+      ],
+      "tags": [
+        "community care",
+        "home care services",
+        "telehealth",
+        "Medicaid",
+        "aging services",
+        "chronic care",
+        "healthcare workforce",
+        "service provider reimbursement",
+        "CHOICE program",
+        "home modification"
+      ],
+      "key_provisions": [
+        "Requires area agencies to prioritize CHOICE funding for specified individuals requiring community and home care services.",
+        "Establishes a Medicaid diversion pilot program to evaluate home modification and telehealth services.",
+        "Allows the office of the secretary to negotiate reimbursement rates considering provider location and service availability."
+      ],
+      "palliative_care_impact": "The bill impacts palliative care by enhancing access to community and home care services for seriously ill patients, which can improve their quality of life. The inclusion of telehealth services allows for better management of chronic conditions and facilitates care delivery to homebound patients. Additionally, the focus on reimbursement rates may improve the financial viability of providing these essential services.",
+      "relevance_beyond_keywords": "The bill's focus on community and home care services, along with telehealth expansion, creates opportunities for integrating palliative care into broader healthcare delivery models for seriously ill patients.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies; rather, it supports community care services for seriously ill individuals."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill amends definitions and establishes guidelines for community and home care services under Medicaid regulations.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HR0691",
+      "title": "END OF LIFE RESOURCES-EDUCATE",
+      "url": "https://legiscan.com/IL/bill/HR0691/2019",
+      "reason": "Vector similarity match (score: 0.5903, distance: 0.6941)",
+      "extra_metadata": {
+        "bill_id": "1323539",
+        "status_date": "2020-01-29",
+        "last_action": "Rule 19(b) / Re-referred to Rules Committee",
+        "year": "2019",
+        "session": "2019-2020 Regular Session",
+        "similarity_score": 0.5902923924017115,
+        "distance": 0.6940757036209106
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill emphasizes the need for education and advocacy for those at the end of life, which aligns with palliative care principles. It urges Congress to take steps that would enhance Medicare and Medicaid's role in identifying and educating vulnerable populations nearing the end of life, thereby potentially improving access to palliative care services for seriously ill patients.",
+      "summary": "HR0691 seeks to enhance education and advocacy for individuals at the end of life, urging federal action to improve Medicare and Medicaid's support for vulnerable populations. This bill indirectly impacts palliative care by promoting awareness and access to resources for seriously ill patients, thereby improving their quality of life.",
+      "bill_status": "Pending",
+      "legislation_type": "Resolution",
+      "categories": [
+        "PUBLIC AWARENESS",
+        "PATIENT RIGHTS AND PROTECTIONS"
+      ],
+      "tags": [
+        "end-of-life care",
+        "patient education",
+        "Medicare",
+        "Medicaid",
+        "vulnerable populations",
+        "advocacy",
+        "healthcare access",
+        "serious illness",
+        "quality of life",
+        "healthcare policy"
+      ],
+      "key_provisions": [
+        "Urges Congress to enact legislation to enhance Medicare and Medicaid support for end-of-life care.",
+        "Calls for proactive education and advocacy efforts for individuals nearing the end of life.",
+        "States the belief that Illinois must empower vulnerable populations regarding end-of-life resources."
+      ],
+      "palliative_care_impact": "The bill promotes public awareness and advocacy for individuals at the end of life, which can lead to improved access to palliative care services. By urging federal action to enhance Medicare and Medicaid's role, it indirectly supports the integration of palliative care into broader healthcare frameworks for seriously ill patients.",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, or other excluded topics; rather, it supports education and advocacy for end-of-life care."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB1560",
+      "title": "Relating to early medical release from custody; declaring an emergency.",
+      "url": "https://legiscan.com/OR/bill/SB1560/2024",
+      "reason": "Vector similarity match (score: 0.5903, distance: 0.6941)",
+      "extra_metadata": {
+        "bill_id": "1836012",
+        "status_date": "2024-03-07",
+        "last_action": "In committee upon adjournment.",
+        "year": "2024",
+        "session": "2024 Regular Session",
+        "similarity_score": 0.5902824234755503,
+        "distance": 0.6941043138504028
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill establishes a Task Force on Compassionate Medical Release, which includes provisions for referring adults in custody with terminal illnesses for early medical release. This directly impacts seriously ill patients by providing a mechanism for compassionate care and potentially facilitating access to palliative care services for those who are incarcerated. The bill's focus on terminally ill individuals aligns with the principles of palliative care, emphasizing the need for symptom relief and quality of life improvements.",
+      "summary": "SB1560 creates a process for early medical release for adults in custody, particularly those with terminal illnesses, through the establishment of a Task Force on Compassionate Medical Release. This bill indirectly impacts palliative care by addressing the needs of seriously ill patients in custody, potentially allowing for better access to palliative care services and support during their remaining time.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "QUALITY/STANDARDS",
+        "WORKFORCE"
+      ],
+      "tags": [
+        "compassionate release",
+        "terminal illness",
+        "incarcerated patients",
+        "early medical release",
+        "task force",
+        "healthcare access",
+        "quality of life",
+        "serious illness",
+        "patient rights",
+        "medical advisory committee"
+      ],
+      "key_provisions": [
+        "Establishes the Task Force on Compassionate Medical Release to review applications for early medical release from custody.",
+        "Directs the Department of Corrections to refer certain adults in custody with terminal illnesses to the committee for early medical release.",
+        "Creates a process for adults in custody to apply for early medical release based on compassionate grounds."
+      ],
+      "palliative_care_impact": "The bill impacts palliative care by facilitating early medical release for individuals with terminal illnesses, thereby improving their access to necessary care and support services. It creates opportunities for integrating palliative care into the correctional system, ensuring that seriously ill patients receive appropriate symptom management and quality of life considerations.",
+      "relevance_beyond_keywords": "The establishment of a task force and a formal process for compassionate medical release addresses the healthcare needs of seriously ill individuals in custody, which can lead to improved care coordination and access to palliative services without explicitly mentioning palliative care.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care; instead, it addresses the needs of terminally ill individuals in a correctional setting."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill establishes a Medical Release Advisory Committee and outlines procedures for early medical release, which may require new regulations to be developed.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0249",
+      "title": "Health insurance transparency.",
+      "url": "https://legiscan.com/IN/bill/SB0249/2022",
+      "reason": "Vector similarity match (score: 0.5903, distance: 0.6941)",
+      "extra_metadata": {
+        "bill_id": "1548008",
+        "status_date": "2022-02-02",
+        "last_action": "First reading: referred to Committee on Financial Institutions and Insurance",
+        "year": "2022",
+        "session": "2022 Regular Session",
+        "similarity_score": 0.5902813850651056,
+        "distance": 0.6941072940826416
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill addresses health insurance transparency, which indirectly impacts palliative care by potentially improving access to services for seriously ill patients through clearer prior authorization processes and reimbursement practices. By requiring health plans to provide timely responses to prior authorization requests and allowing peer-to-peer reviews, it may facilitate better care coordination for patients needing palliative services.",
+      "summary": "SB0249 regulates health insurance transparency by establishing requirements for prior authorization processes and reimbursement information. This can indirectly benefit palliative care by ensuring that seriously ill patients have improved access to necessary services and reducing administrative barriers for healthcare providers. The bill aims to enhance the overall efficiency of healthcare delivery, which is crucial for palliative care integration.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "PAYMENT",
+        "QUALITY/STANDARDS",
+        "WORKFORCE"
+      ],
+      "tags": [
+        "prior authorization",
+        "health insurance",
+        "reimbursement",
+        "healthcare access",
+        "peer review",
+        "CPT codes",
+        "transparency",
+        "healthcare providers",
+        "serious illness",
+        "administrative processes"
+      ],
+      "key_provisions": [
+        "Requires health plans to respond to nonurgent care prior authorization requests within a specified timeframe.",
+        "Allows healthcare providers to request a peer-to-peer review for adverse determinations on prior authorizations.",
+        "Mandates annual posting of frequently submitted CPT codes and their approval rates by health plans."
+      ],
+      "palliative_care_impact": "The bill impacts palliative care by streamlining prior authorization processes, which can reduce delays in accessing necessary services for seriously ill patients. Improved transparency in reimbursement practices may enhance the financial viability of palliative care providers, thus supporting workforce stability and service availability. The focus on timely responses and peer reviews can lead to better care coordination and patient outcomes in palliative settings.",
+      "relevance_beyond_keywords": "The bill's emphasis on improving healthcare access and reducing administrative burdens can benefit seriously ill patients who require palliative care services, even though it does not explicitly mention palliative care.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana. Its provisions are relevant to improving access and quality of care for seriously ill patients."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill specifies compliance with federal law regarding good faith estimates for health service costs, indicating regulatory oversight.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB3352",
+      "title": "Relating to access to health care; and prescribing an effective date.",
+      "url": "https://legiscan.com/OR/bill/HB3352/2021",
+      "reason": "Vector similarity match (score: 0.5903, distance: 0.6941)",
+      "extra_metadata": {
+        "bill_id": "1470391",
+        "status_date": "2021-09-25",
+        "last_action": "Chapter 554, (2021 Laws): Effective date September 25, 2021.",
+        "year": "2021",
+        "session": "2021 Regular Session",
+        "similarity_score": 0.5902806789480902,
+        "distance": 0.694109320640564
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill expands access to healthcare for individuals who would qualify for Medicaid but are restricted due to immigration status, thereby indirectly benefiting seriously ill patients who may require palliative care services. By broadening eligibility for the Cover All People program, the bill enhances access to necessary medical services, including those related to serious illness management.",
+      "summary": "HB3352 renames the Health Care for All Oregon Children program to the Cover All People program and expands eligibility to adults who would qualify for Medicaid-funded services but for their immigration status. This change is expected to improve access to healthcare for seriously ill patients, indirectly supporting palliative care by ensuring more individuals can receive necessary medical assistance.",
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "PAYMENT",
+        "WORKFORCE"
+      ],
+      "tags": [
+        "Medicaid expansion",
+        "access to care",
+        "immigration status",
+        "serious illness",
+        "healthcare eligibility",
+        "state medical assistance",
+        "healthcare access",
+        "health equity",
+        "insurance coverage",
+        "adult care"
+      ],
+      "key_provisions": [
+        "Renames the Health Care for All Oregon Children program to the Cover All People program.",
+        "Expands eligibility to adults who would qualify for Medicaid-funded state medical assistance but for their immigration status.",
+        "Allows the Oregon Health Authority to restrict eligibility to specific categories or groups to stay within legislative appropriation."
+      ],
+      "palliative_care_impact": "The bill indirectly impacts palliative care by expanding healthcare access to a broader population, including seriously ill individuals who may benefit from palliative services. By ensuring that more patients can access necessary medical care, it supports the integration of palliative care into their treatment plans, improving overall quality of life.",
+      "relevance_beyond_keywords": "The expansion of Medicaid eligibility can lead to increased access to palliative care services for individuals who previously faced barriers due to immigration status.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, or other excluded topics; rather, it enhances access to healthcare for seriously ill patients."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill allows the Oregon Health Authority to set eligibility criteria, which may involve regulatory changes.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB2560",
+      "title": "MEDICAID-SLF-DEMENTIA CARE",
+      "url": "https://legiscan.com/IL/bill/HB2560/2025",
+      "reason": "Vector similarity match (score: 0.5900, distance: 0.6948)",
+      "extra_metadata": {
+        "bill_id": "1953345",
+        "status_date": "2025-02-04",
+        "last_action": "Rule 19(a) / Re-referred to Rules Committee",
+        "year": "2025",
+        "session": "2025-2026 Regular Session",
+        "similarity_score": 0.5900359243092516,
+        "distance": 0.6948120594024658
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill is relevant to palliative care as it addresses the conversion of supportive living program settings to dementia care units, which directly impacts seriously ill patients, particularly those with dementia. By enhancing care settings for this population, the bill indirectly supports palliative care principles such as symptom relief and quality of life improvements.",
+      "summary": "HB2560 amends the Illinois Public Aid Code to allow supportive living program settings to convert non-dementia care units to dementia care units. This change is significant for palliative care as it enhances the care environment for seriously ill patients with dementia, potentially improving their quality of life and access to appropriate care services.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "QUALITY/STANDARDS",
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "WORKFORCE"
+      ],
+      "tags": [
+        "dementia care",
+        "supportive living",
+        "serious illness",
+        "quality of life",
+        "patient rights",
+        "healthcare settings",
+        "Medicaid",
+        "care standards",
+        "healthcare workforce",
+        "Illinois"
+      ],
+      "key_provisions": [
+        "Allows supportive living program settings to convert non-dementia care units to dementia care units upon application.",
+        "Requires that all conversions must be operational within one year of approval.",
+        "Mandates compliance with specific certification criteria for dementia care settings as outlined in the Illinois Administrative Code."
+      ],
+      "palliative_care_impact": "The bill impacts palliative care by improving the quality of care environments for patients with dementia, which aligns with palliative care goals of enhancing quality of life and providing appropriate symptom management. It also creates potential for workforce development in specialized dementia care, which can include palliative care training.",
+      "relevance_beyond_keywords": "The bill enhances care settings for seriously ill patients without explicitly mentioning palliative care, indicating a broader impact on the quality of care available to this population.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana, and instead addresses care for patients with dementia."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill references the Illinois Administrative Code for certification criteria for dementia care settings.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB1678",
+      "title": "MEDICAID-SLF-DEMENTIA CARE",
+      "url": "https://legiscan.com/IL/bill/SB1678/2025",
+      "reason": "Vector similarity match (score: 0.5900, distance: 0.6948)",
+      "extra_metadata": {
+        "bill_id": "1957068",
+        "status_date": "2025-02-05",
+        "last_action": "Rule 3-9(a) / Re-referred to Assignments",
+        "year": "2025",
+        "session": "2025-2026 Regular Session",
+        "similarity_score": 0.5900359243092516,
+        "distance": 0.6948120594024658
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill is relevant to palliative care as it addresses the conversion of supportive living program settings to dementia care settings, which directly impacts seriously ill patients with dementia. The provisions for certification criteria for dementia care settings may enhance the quality of care for this population, indirectly benefiting palliative care delivery by ensuring that patients receive appropriate symptom management and support.",
+      "summary": "SB1678 amends the Illinois Public Aid Code to allow supportive living programs to convert non-dementia care units to dementia care units, with specific certification criteria. This change is significant for palliative care as it improves care settings for seriously ill patients with dementia, potentially enhancing access to palliative services and quality of life for this vulnerable population.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "QUALITY/STANDARDS",
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "WORKFORCE"
+      ],
+      "tags": [
+        "dementia care",
+        "supportive living",
+        "quality standards",
+        "certification",
+        "serious illness",
+        "patient rights",
+        "healthcare workforce",
+        "Illinois Public Aid Code",
+        "care settings",
+        "symptom management"
+      ],
+      "key_provisions": [
+        "Allows supportive living program settings to convert non-dementia care units to dementia care units.",
+        "Requires that all conversions must be operational within one year of approval.",
+        "Mandates compliance with specific certification criteria for dementia care settings as outlined in the Illinois Administrative Code."
+      ],
+      "palliative_care_impact": "The bill impacts palliative care by enhancing the quality of care for patients with dementia in supportive living settings. This can lead to improved symptom management and support for seriously ill patients, creating a more conducive environment for palliative care integration. Additionally, the focus on certification standards may elevate the overall quality of care provided in these settings.",
+      "relevance_beyond_keywords": "The bill's focus on dementia care indirectly supports palliative care by ensuring that patients with serious illness receive appropriate care and support, which is essential for their quality of life.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care, and instead addresses the needs of seriously ill patients in supportive living environments."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill references certification criteria for dementia care settings as outlined in the Illinois Administrative Code.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  }
+]

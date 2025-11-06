@@ -1,0 +1,1826 @@
+[
+  {
+    "bill": {
+      "bill_number": "A08639",
+      "title": "Relates to medical billing and debt (Part A); relates to defining certain terms (Part B); relates to standardized consolidated itemized general hospital bills (Part C); relates to regulation of the billing of facility fees (Part D); relates to standardized patient financial liability forms (Part E); relates to an all payer database (Part F); relates to the general hospital indigent care pool; and repeals certain provisions of such law relating thereto (Part G); relates to the rate of interest in medical debt actions (Part H); relates to services rendered by a non-participating provider; relates to hospital statements of rights and responsibilities of patients (Part I).",
+      "url": "https://legiscan.com/NY/bill/A08639/2019",
+      "reason": "Vector similarity match (score: 0.6112, distance: 0.6362)",
+      "extra_metadata": {
+        "bill_id": "1276097",
+        "status_date": "2019-10-02",
+        "last_action": "print number 8639a",
+        "year": "2019",
+        "session": "2019-2020 Regular Session",
+        "similarity_score": 0.6111793266746233,
+        "distance": 0.6361809968948364
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses medical billing and debt issues without explicitly mentioning palliative care, hospice, or serious illness care. While it may indirectly affect healthcare access for seriously ill patients through financial regulations, it does not create or modify any provisions specifically related to palliative care services or workforce.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill includes provisions related to standardized billing practices and patient financial liability forms.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB3572",
+      "title": "Relating to referrals by the Department of Family and Protective Services to probate courts concerning allegedly incapacitated persons.",
+      "url": "https://legiscan.com/TX/bill/HB3572/2019",
+      "reason": "Vector similarity match (score: 0.6110, distance: 0.6367)",
+      "extra_metadata": {
+        "bill_id": "1232094",
+        "status_date": "2019-03-06",
+        "last_action": "Referred to Human Services",
+        "year": "2019",
+        "session": "2019 Regular Session",
+        "similarity_score": 0.610984995134434,
+        "distance": 0.6367014050483704
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses referrals by the Department of Family and Protective Services to probate courts concerning allegedly incapacitated persons. It does not mention palliative care, hospice, or end-of-life care, nor does it impact seriously ill patients or healthcare providers in a way that relates to palliative care services.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "S06740",
+      "title": "Relates to long term care ombudsman access to assisted living facilities.",
+      "url": "https://legiscan.com/NY/bill/S06740/2021",
+      "reason": "Vector similarity match (score: 0.6106, distance: 0.6376)",
+      "extra_metadata": {
+        "bill_id": "1508829",
+        "status_date": "2021-05-13",
+        "last_action": "SUBSTITUTED BY A7022",
+        "year": "2021",
+        "session": "2021-2022 Regular Session",
+        "similarity_score": 0.6106387500458146,
+        "distance": 0.6376294493675232
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on long-term care ombudsman access to assisted living facilities and does not explicitly mention palliative care, hospice services, or serious illness care. While it may indirectly affect residents in assisted living, it does not create significant infrastructure or policies that would enhance palliative care access or quality.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill discusses access regulations for ombudsman services in assisted living facilities.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "A07022",
+      "title": "Relates to long term care ombudsman access to assisted living facilities.",
+      "url": "https://legiscan.com/NY/bill/A07022/2021",
+      "reason": "Vector similarity match (score: 0.6106, distance: 0.6376)",
+      "extra_metadata": {
+        "bill_id": "1502470",
+        "status_date": "2021-07-01",
+        "last_action": "signed chap.202",
+        "year": "2021",
+        "session": "2021-2022 Regular Session",
+        "similarity_score": 0.6106387278204544,
+        "distance": 0.637629508972168
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses long-term care ombudsman access to assisted living facilities without any explicit mention of palliative care, hospice, or end-of-life care. It does not appear to impact seriously ill patients or their care settings in a way that would be relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill may reference existing regulations regarding long-term care ombudsman access.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB0214",
+      "title": "VITAL RECORDS",
+      "url": "https://legiscan.com/IL/bill/HB0214/2021",
+      "reason": "Vector similarity match (score: 0.6106, distance: 0.6376)",
+      "extra_metadata": {
+        "bill_id": "1414243",
+        "status_date": "2021-08-06",
+        "last_action": "Public Act . . . . . . . . . 102-0257",
+        "year": "2021",
+        "session": "2021-2022 Regular Session",
+        "similarity_score": 0.6106342605558895,
+        "distance": 0.6376414895057678
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "This bill primarily focuses on the completion and signing of death certificates by certifying health care professionals, which does not directly address palliative care, hospice services, or the needs of seriously ill patients. While it pertains to a procedural aspect of healthcare, it does not create or modify policies that would impact palliative care delivery or access.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general adult hospice, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "Amends the Vital Records Act regarding the signing of death certificates.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB936",
+      "title": "Relating to certain advance directives.",
+      "url": "https://legiscan.com/TX/bill/HB936/2021",
+      "reason": "Vector similarity match (score: 0.6104, distance: 0.6382)",
+      "extra_metadata": {
+        "bill_id": "1391998",
+        "status_date": "2021-01-04",
+        "last_action": "Referred to Public Health",
+        "year": "2021",
+        "session": "2021 Regular Session",
+        "similarity_score": 0.6104381653965955,
+        "distance": 0.6381675601005554
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses advance directives without explicitly mentioning palliative care, hospice, or end-of-life care. While advance directives are important for patients with serious illnesses, the bill does not create or modify any provisions that directly impact palliative care services or workforce.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, or other excluded topics, but it lacks relevance to palliative care."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "A01777",
+      "title": "Clarifies provisions regarding health care professional applications and terminations.",
+      "url": "https://legiscan.com/NY/bill/A01777/2023",
+      "reason": "Vector similarity match (score: 0.6097, distance: 0.6403)",
+      "extra_metadata": {
+        "bill_id": "1672664",
+        "status_date": "2023-01-20",
+        "last_action": "amended on third reading 1777a",
+        "year": "2023",
+        "session": "2023-2024 Regular Session",
+        "similarity_score": 0.6096552419828115,
+        "distance": 0.6402713060379028
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the application and termination processes for healthcare professionals without any direct mention of palliative care, hospice, or related services. It does not appear to impact seriously ill patients, their care settings, or the healthcare workforce in a way that would enhance or expand palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill clarifies existing regulations regarding healthcare professional applications and terminations.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "S03282",
+      "title": "Clarifies provisions regarding health care professional applications and terminations.",
+      "url": "https://legiscan.com/NY/bill/S03282/2023",
+      "reason": "Vector similarity match (score: 0.6097, distance: 0.6403)",
+      "extra_metadata": {
+        "bill_id": "1685879",
+        "status_date": "2024-06-07",
+        "last_action": "referred to codes",
+        "year": "2023",
+        "session": "2023-2024 Regular Session",
+        "similarity_score": 0.6096552419828115,
+        "distance": 0.6402713060379028
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses clarifications regarding health care professional applications and terminations without any direct mention of palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients, their care settings, or healthcare providers in a way that would be relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill clarifies existing regulations regarding healthcare professional applications and terminations.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "A08052",
+      "title": "Clarifies provisions regarding health care professional applications and terminations.",
+      "url": "https://legiscan.com/NY/bill/A08052/2025",
+      "reason": "Vector similarity match (score: 0.6097, distance: 0.6403)",
+      "extra_metadata": {
+        "bill_id": "2025789",
+        "status_date": "2025-04-22",
+        "last_action": "ordered to third reading rules cal.350",
+        "year": "2025",
+        "session": "2025-2026 Regular Session",
+        "similarity_score": 0.6096552419828115,
+        "distance": 0.6402713060379028
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the application and termination processes for healthcare professionals without any mention of palliative care, hospice services, or serious illness care. It does not create infrastructure or policies that would impact the delivery of palliative care or the workforce involved in such services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill clarifies existing provisions regarding healthcare professional applications and terminations.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "S01911",
+      "title": "Clarifies provisions regarding health care professional applications and terminations.",
+      "url": "https://legiscan.com/NY/bill/S01911/2025",
+      "reason": "Vector similarity match (score: 0.6097, distance: 0.6403)",
+      "extra_metadata": {
+        "bill_id": "1917334",
+        "status_date": "2025-01-14",
+        "last_action": "COMMITTED TO RULES",
+        "year": "2025",
+        "session": "2025-2026 Regular Session",
+        "similarity_score": 0.6096552419828115,
+        "distance": 0.6402713060379028
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the clarification of provisions regarding health care professional applications and terminations without any direct mention of palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients, their care settings, or their healthcare providers in a way that would impact palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill clarifies existing regulations regarding healthcare professional applications and terminations.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "A04275",
+      "title": "Authorizes and directs the department of health and the office for the aging to conduct a study of fees and charges assessed to residents of assisted living facilities and to make recommendations to the legislature.",
+      "url": "https://legiscan.com/NY/bill/A04275/2019",
+      "reason": "Vector similarity match (score: 0.6096, distance: 0.6403)",
+      "extra_metadata": {
+        "bill_id": "1186371",
+        "status_date": "2019-04-02",
+        "last_action": "REFERRED TO AGING",
+        "year": "2019",
+        "session": "2019-2020 Regular Session",
+        "similarity_score": 0.6096361902883447,
+        "distance": 0.6403225660324097
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on conducting a study of fees and charges in assisted living facilities without any direct mention of palliative care, hospice, or end-of-life care. While it may indirectly affect residents with serious illnesses, the primary intent is financial analysis rather than improving palliative care services or access.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill authorizes a study which may lead to recommendations affecting regulations on assisted living fees.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "S03066",
+      "title": "Authorizes and directs the department of health and the office for the aging to conduct a study of fees and charges assessed to residents of assisted living facilities and to make recommendations to the legislature.",
+      "url": "https://legiscan.com/NY/bill/S03066/2019",
+      "reason": "Vector similarity match (score: 0.6096, distance: 0.6403)",
+      "extra_metadata": {
+        "bill_id": "1186362",
+        "status_date": "2019-02-01",
+        "last_action": "REFERRED TO AGING",
+        "year": "2019",
+        "session": "2019-2020 Regular Session",
+        "similarity_score": 0.6096361681359047,
+        "distance": 0.6403226256370544
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on conducting a study of fees and charges in assisted living facilities without any direct mention or implications for palliative care, hospice services, or seriously ill patients. It does not address any aspects of care delivery, workforce, payment systems, or quality standards that would impact palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill authorizes a study which may lead to recommendations for regulatory changes regarding fees in assisted living facilities.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1169",
+      "title": "Health matters.",
+      "url": "https://legiscan.com/IN/bill/HB1169/2022",
+      "reason": "Vector similarity match (score: 0.6092, distance: 0.6414)",
+      "extra_metadata": {
+        "bill_id": "1546462",
+        "status_date": "2022-03-15",
+        "last_action": "Public Law 143",
+        "year": "2022",
+        "session": "2022 Regular Session",
+        "similarity_score": 0.6092273976168356,
+        "distance": 0.641423225402832
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill does not directly mention palliative care, hospice, or end-of-life care. While it addresses various health services and regulations, its focus is primarily on health insurance authorization, home health agency operations, and public health regulations, which do not specifically impact seriously ill patients or palliative care services.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill includes provisions for changing health department regulations and oversight of health services.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB661",
+      "title": "Long-term care.",
+      "url": "https://legiscan.com/CA/bill/SB661/2019",
+      "reason": "Vector similarity match (score: 0.6090, distance: 0.6420)",
+      "extra_metadata": {
+        "bill_id": "1215914",
+        "status_date": "2020-02-03",
+        "last_action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
+        "year": "2019",
+        "session": "2019-2020 Regular Session",
+        "similarity_score": 0.6089972974255213,
+        "distance": 0.64204341173172
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill SB661, titled 'Long-term care,' does not explicitly mention palliative care, hospice, or end-of-life care in its text. It primarily addresses regulations related to long-term care settings without direct implications for seriously ill patients or their care. Therefore, it does not meet the criteria for relevance to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1259",
+      "title": "Health care matters.",
+      "url": "https://legiscan.com/IN/bill/HB1259/2024",
+      "reason": "Vector similarity match (score: 0.6089, distance: 0.6423)",
+      "extra_metadata": {
+        "bill_id": "1801044",
+        "status_date": "2024-03-13",
+        "last_action": "Public Law 152",
+        "year": "2024",
+        "session": "2024 Regular Session",
+        "similarity_score": 0.608884555421282,
+        "distance": 0.6423474550247192
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on establishing a psilocybin research fund and related clinical study requirements, which do not directly relate to palliative care, hospice services, or seriously ill patients. It also includes provisions about nursing program faculty and pharmacy benefit managers that do not impact palliative care policy or services.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": true,
+        "reason": "The bill includes a focus on psilocybin therapies, which falls under the exclusion criteria."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill references existing regulations regarding nursing program faculty and pharmacy benefit managers.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB2781",
+      "title": "VITAL RECORDS-DEATH CERT",
+      "url": "https://legiscan.com/IL/bill/HB2781/2025",
+      "reason": "Vector similarity match (score: 0.6086, distance: 0.6430)",
+      "extra_metadata": {
+        "bill_id": "1957252",
+        "status_date": "2025-02-05",
+        "last_action": "Rule 19(a) / Re-referred to Rules Committee",
+        "year": "2025",
+        "session": "2025-2026 Regular Session",
+        "similarity_score": 0.6086466987264113,
+        "distance": 0.6429892778396606
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the administrative aspects of death certification and burial or cremation decisions, without any direct mention of palliative care, hospice services, or seriously ill patients. It focuses on procedural requirements for death registration rather than care delivery or support for individuals with serious illnesses.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, or other excluded topics; however, it does not pertain to palliative care either."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "Amends the Vital Records Act regarding death registration procedures.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB1640",
+      "title": "VITAL RECORDS-DEATH CERT",
+      "url": "https://legiscan.com/IL/bill/SB1640/2025",
+      "reason": "Vector similarity match (score: 0.6086, distance: 0.6430)",
+      "extra_metadata": {
+        "bill_id": "1954588",
+        "status_date": "2025-02-04",
+        "last_action": "Referred to Assignments",
+        "year": "2025",
+        "session": "2025-2026 Regular Session",
+        "similarity_score": 0.6086466987264113,
+        "distance": 0.6429892778396606
+      }
+    },
+    "analysis": {
+      "error": "JSON parsing failed: Expecting property name enclosed in double quotes"
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB4521",
+      "title": "Relating to certain health care entities and medical committees, including peer review committees.",
+      "url": "https://legiscan.com/TX/bill/HB4521/2023",
+      "reason": "Vector similarity match (score: 0.6085, distance: 0.6435)",
+      "extra_metadata": {
+        "bill_id": "1732371",
+        "status_date": "2023-03-09",
+        "last_action": "Referred to Public Health",
+        "year": "2023",
+        "session": "2023 Regular Session",
+        "similarity_score": 0.6084625361162311,
+        "distance": 0.6434865593910217
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses regulations related to health care entities and peer review committees without any direct mention of palliative care, hospice, or serious illness care. It does not appear to affect care settings, workforce, payment systems, or quality standards in a way that would impact palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill relates to the regulation of health care entities and peer review committees.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB1347",
+      "title": "Relating to certain health care entities and medical committees, including peer review committees.",
+      "url": "https://legiscan.com/TX/bill/SB1347/2023",
+      "reason": "Vector similarity match (score: 0.6085, distance: 0.6435)",
+      "extra_metadata": {
+        "bill_id": "1723368",
+        "status_date": "2023-03-01",
+        "last_action": "Referred to Health & Human Services",
+        "year": "2023",
+        "session": "2023 Regular Session",
+        "similarity_score": 0.6084625361162311,
+        "distance": 0.6434865593910217
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses regulations related to health care entities and peer review committees without any direct mention of palliative care, hospice, or serious illness care. It does not appear to impact the healthcare workforce, payment systems, or quality standards in a way that would benefit palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill relates to existing health care regulations and peer review processes.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB1547",
+      "title": "Relating to access to health care; declaring an emergency.",
+      "url": "https://legiscan.com/OR/bill/SB1547/2024",
+      "reason": "Vector similarity match (score: 0.6082, distance: 0.6442)",
+      "extra_metadata": {
+        "bill_id": "1835984",
+        "status_date": "2024-03-07",
+        "last_action": "In committee upon adjournment.",
+        "year": "2024",
+        "session": "2024 Regular Session",
+        "similarity_score": 0.6082105665518874,
+        "distance": 0.644167423248291
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses issues related to substance use disorder treatment for minors and does not mention palliative care, hospice, or end-of-life care. Its focus on cannabis treatment and addiction services does not directly impact seriously ill patients or the palliative care framework.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": true,
+        "reason": "The bill focuses on cannabis treatment and substance use disorder services, which fall under the excluded categories related to medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill requires the Oregon Health Authority to adopt rules for treatment facility admissions and establish a virtual opioid dependency pilot program.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB2082",
+      "title": "Relating to insurance regulation of a prepaid health care plan for certain individuals with low income.",
+      "url": "https://legiscan.com/TX/bill/HB2082/2023",
+      "reason": "Vector similarity match (score: 0.6080, distance: 0.6448)",
+      "extra_metadata": {
+        "bill_id": "1700691",
+        "status_date": "2023-02-08",
+        "last_action": "Referred to Health Care Reform, Select",
+        "year": "2023",
+        "session": "2023 Regular Session",
+        "similarity_score": 0.6079663622126864,
+        "distance": 0.6448278427124023
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on the regulation of a prepaid health care plan for low-income individuals and does not mention palliative care, hospice, or any related services. It does not appear to directly or indirectly impact seriously ill patients or the infrastructure supporting palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under exclusion criteria as it does not address aid-in-dying, general hospice care, or related topics."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill involves insurance regulation but does not specify any changes related to palliative care.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB3126",
+      "title": "Relating to the health care providers authorized to examine a person to determine whether the person is incapacitated for purposes of certain guardianship proceedings.",
+      "url": "https://legiscan.com/TX/bill/HB3126/2021",
+      "reason": "Vector similarity match (score: 0.6079, distance: 0.6451)",
+      "extra_metadata": {
+        "bill_id": "1475546",
+        "status_date": "2021-05-14",
+        "last_action": "Referred to Jurisprudence",
+        "year": "2021",
+        "session": "2021 Regular Session",
+        "similarity_score": 0.6078734265630636,
+        "distance": 0.6450793147087097
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on the healthcare providers authorized to examine a person for guardianship proceedings and does not mention palliative care, hospice, or end-of-life care. It primarily addresses legal and procedural aspects of determining incapacity rather than impacting seriously ill patients or their care settings.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB3009",
+      "title": "Relating to the health care providers authorized to examine a person to determine whether the person is incapacitated for purposes of certain guardianship proceedings.",
+      "url": "https://legiscan.com/TX/bill/HB3009/2023",
+      "reason": "Vector similarity match (score: 0.6079, distance: 0.6451)",
+      "extra_metadata": {
+        "bill_id": "1722113",
+        "status_date": "2023-06-18",
+        "last_action": "Effective on 9/1/23",
+        "year": "2023",
+        "session": "2023 Regular Session",
+        "similarity_score": 0.6078734265630636,
+        "distance": 0.6450793147087097
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on the health care providers authorized to determine incapacity for guardianship proceedings, which does not directly address palliative care, hospice services, or seriously ill patients. It primarily relates to guardianship and does not create infrastructure or provisions relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill outlines regulations regarding the qualifications of health care providers for guardianship assessments.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB2643",
+      "title": "INTEGRITY IN DEATH CARE ACT",
+      "url": "https://legiscan.com/IL/bill/SB2643/2023",
+      "reason": "Vector similarity match (score: 0.6079, distance: 0.6451)",
+      "extra_metadata": {
+        "bill_id": "1783206",
+        "status_date": "2024-08-09",
+        "last_action": "Public Act . . . . . . . . . 103-0907",
+        "year": "2023",
+        "session": "2023-2024 Regular Session",
+        "similarity_score": 0.6078521736458806,
+        "distance": 0.645136833190918
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on regulations related to funeral directors, embalmers, and the handling of human remains. It does not mention palliative care, hospice services, or any aspects related to seriously ill patients. The provisions are centered around identification and regulation of death care practices, which do not impact palliative care policy or services.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill amends existing regulations related to funeral directors and embalmers, establishing identification and inspection requirements.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "A09806",
+      "title": "Requires a report on individuals who are the primary caregiver for an older adult, including the number of individuals who are primary caregivers for an older adult, the average age of a primary caregiver, the cost to an individual to provide care to an older adult, and the economic value and savings to the state of such individual's services.",
+      "url": "https://legiscan.com/NY/bill/A09806/2021",
+      "reason": "Vector similarity match (score: 0.6076, distance: 0.6459)",
+      "extra_metadata": {
+        "bill_id": "1615743",
+        "status_date": "2022-04-18",
+        "last_action": "reported referred to ways and means",
+        "year": "2021",
+        "session": "2021-2022 Regular Session",
+        "similarity_score": 0.6075883208085873,
+        "distance": 0.6458512544631958
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on reporting the demographics and economic impact of primary caregivers for older adults, without any direct mention of palliative care, hospice services, or seriously ill patients. It does not establish or modify any policies related to palliative care or its delivery, nor does it create infrastructure that could include palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "S00603",
+      "title": "Requires a report on individuals who are the primary caregiver for an older adult, including the number of individuals who are primary caregivers for an older adult, the average age of a primary caregiver, the cost to an individual to provide care to an older adult, and the economic value and savings to the state of such individual's services.",
+      "url": "https://legiscan.com/NY/bill/S00603/2023",
+      "reason": "Vector similarity match (score: 0.6076, distance: 0.6459)",
+      "extra_metadata": {
+        "bill_id": "1644032",
+        "status_date": "2023-01-05",
+        "last_action": "REFERRED TO AGING",
+        "year": "2023",
+        "session": "2023-2024 Regular Session",
+        "similarity_score": 0.6075883208085873,
+        "distance": 0.6458512544631958
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on reporting the demographics and economic contributions of primary caregivers for older adults, without any direct mention of palliative care, hospice, or end-of-life care. While it may indirectly relate to the caregiving landscape, it does not specifically address issues pertinent to seriously ill patients or palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill requires a report, which may involve regulatory oversight but does not establish new regulations.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "A07199",
+      "title": "Extends provisions of law relating to long term care ombudsman access to assisted living facilities.",
+      "url": "https://legiscan.com/NY/bill/A07199/2023",
+      "reason": "Vector similarity match (score: 0.6075, distance: 0.6462)",
+      "extra_metadata": {
+        "bill_id": "1764255",
+        "status_date": "2023-08-23",
+        "last_action": "signed chap.303",
+        "year": "2023",
+        "session": "2023-2024 Regular Session",
+        "similarity_score": 0.6074670597198656,
+        "distance": 0.6461797952651978
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on extending provisions for long term care ombudsman access to assisted living facilities, which does not directly address palliative care, hospice, or end-of-life care. While it may indirectly affect care settings for seriously ill patients, it does not create specific provisions or infrastructure that would enhance palliative care services or access.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not focus on aid-in-dying, general hospice care, or other excluded topics."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill extends existing regulations regarding ombudsman access to assisted living facilities.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "S06907",
+      "title": "Extends provisions of law relating to long term care ombudsman access to assisted living facilities.",
+      "url": "https://legiscan.com/NY/bill/S06907/2023",
+      "reason": "Vector similarity match (score: 0.6075, distance: 0.6462)",
+      "extra_metadata": {
+        "bill_id": "1764483",
+        "status_date": "2023-05-15",
+        "last_action": "SUBSTITUTED BY A7199",
+        "year": "2023",
+        "session": "2023-2024 Regular Session",
+        "similarity_score": 0.6074670597198656,
+        "distance": 0.6461797952651978
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily extends provisions related to long term care ombudsman access to assisted living facilities without any direct mention of palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients or their care settings in a way that would integrate or promote palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill extends existing regulations regarding ombudsman access to assisted living facilities.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB4036",
+      "title": "Relating to billing requirements for certain health care facilities.",
+      "url": "https://legiscan.com/TX/bill/HB4036/2019",
+      "reason": "Vector similarity match (score: 0.6074, distance: 0.6463)",
+      "extra_metadata": {
+        "bill_id": "1233945",
+        "status_date": "2019-03-07",
+        "last_action": "Left pending in committee",
+        "year": "2019",
+        "session": "2019 Regular Session",
+        "similarity_score": 0.6074286807280173,
+        "distance": 0.6462838053703308
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses billing requirements for healthcare facilities without any explicit mention of palliative care, hospice, or end-of-life care. It does not appear to impact seriously ill patients, their care settings, or healthcare providers in a way that would be relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill relates to existing billing regulations for healthcare facilities.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB3957",
+      "title": "Relating to expedited death certificates for religious purposes.",
+      "url": "https://legiscan.com/TX/bill/HB3957/2019",
+      "reason": "Vector similarity match (score: 0.6074, distance: 0.6464)",
+      "extra_metadata": {
+        "bill_id": "1233780",
+        "status_date": "2019-03-07",
+        "last_action": "Referred to Public Health",
+        "year": "2019",
+        "session": "2019 Regular Session",
+        "similarity_score": 0.607383028140294,
+        "distance": 0.6464075446128845
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the expedited issuance of death certificates for religious purposes and does not mention palliative care, hospice services, or any related aspects of care for seriously ill patients. It does not create any infrastructure or programs that would include palliative care, nor does it impact payment systems, workforce, or quality standards relevant to palliative care.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, or other excluded topics."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "AB2453",
+      "title": "Long-term care insurance and accelerated death benefits.",
+      "url": "https://legiscan.com/CA/bill/AB2453/2019",
+      "reason": "Vector similarity match (score: 0.6072, distance: 0.6468)",
+      "extra_metadata": {
+        "bill_id": "1344378",
+        "status_date": "2020-02-19",
+        "last_action": "Referred to Com. on INS.",
+        "year": "2019",
+        "session": "2019-2020 Regular Session",
+        "similarity_score": 0.6072478259146379,
+        "distance": 0.6467741131782532
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on long-term care insurance and accelerated death benefits, which do not directly address palliative care, hospice, or end-of-life care. It does not mention seriously ill patients or impact healthcare settings, workforce, or payment systems in a way that relates to palliative care services. Therefore, it does not meet the criteria for relevance to palliative care policy.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill amends sections of the Insurance Code but does not create new regulations specific to palliative care.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "AB1029",
+      "title": "Advance health care directive form.",
+      "url": "https://legiscan.com/CA/bill/AB1029/2023",
+      "reason": "Vector similarity match (score: 0.6071, distance: 0.6473)",
+      "extra_metadata": {
+        "bill_id": "1709729",
+        "status_date": "2023-09-08",
+        "last_action": "Chaptered by Secretary of State - Chapter 171, Statutes of 2023.",
+        "year": "2023",
+        "session": "2023-2024 Regular Session",
+        "similarity_score": 0.6070543386784086,
+        "distance": 0.6472989916801453
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses advance health care directives and does not explicitly mention palliative care, hospice, or end-of-life care. While it may impact health care decisions for seriously ill patients, it does not create infrastructure or policies that directly support palliative care services or workforce development.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "Amends sections of the Probate Code related to health care decisions.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB1196",
+      "title": "End of Life Option Act.",
+      "url": "https://legiscan.com/CA/bill/SB1196/2023",
+      "reason": "Vector similarity match (score: 0.6070, distance: 0.6473)",
+      "extra_metadata": {
+        "bill_id": "1847538",
+        "status_date": "2024-02-14",
+        "last_action": "April 22 set for first hearing canceled at the request of author.",
+        "year": "2023",
+        "session": "2023-2024 Regular Session",
+        "similarity_score": 0.6070456845114525,
+        "distance": 0.6473224759101868
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The End of Life Option Act primarily focuses on aid-in-dying legislation, which falls under the exclusion criteria for palliative care analysis. The bill does not mention palliative care, hospice, or serious illness care in a way that would indicate relevance to palliative care policy or services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": true,
+        "reason": "The bill focuses on aid-in-dying legislation, which is explicitly excluded from palliative care policy tracking."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill amends existing sections of the Health and Safety Code related to end-of-life options.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "A00977",
+      "title": "Provides for clarification of the disposition of human remains.",
+      "url": "https://legiscan.com/NY/bill/A00977/2019",
+      "reason": "Vector similarity match (score: 0.6066, distance: 0.6485)",
+      "extra_metadata": {
+        "bill_id": "1150053",
+        "status_date": "2019-01-14",
+        "last_action": "referred to health",
+        "year": "2019",
+        "session": "2019-2020 Regular Session",
+        "similarity_score": 0.606596928743513,
+        "distance": 0.6485411524772644
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the clarification of the disposition of human remains and does not mention palliative care, hospice, or end-of-life care. It does not affect seriously ill patients, their care settings, or healthcare providers in a way that is relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under exclusion criteria as it does not focus on aid-in-dying, general hospice, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "S00872",
+      "title": "Provides for clarification of the disposition of human remains.",
+      "url": "https://legiscan.com/NY/bill/S00872/2019",
+      "reason": "Vector similarity match (score: 0.6066, distance: 0.6485)",
+      "extra_metadata": {
+        "bill_id": "1142306",
+        "status_date": "2019-01-09",
+        "last_action": "REFERRED TO HEALTH",
+        "year": "2019",
+        "session": "2019-2020 Regular Session",
+        "similarity_score": 0.606596928743513,
+        "distance": 0.6485411524772644
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on the clarification of the disposition of human remains and does not directly address palliative care, hospice services, or seriously ill patients. It does not create or modify any policies that would impact the delivery of palliative care or related services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB4681",
+      "title": "Relating to disclosures of preauthorization requirements and explanations of benefits for medical and health care services and supplies covered by health maintenance organizations and preferred provider benefit plans; imposing administrative penalties.",
+      "url": "https://legiscan.com/TX/bill/HB4681/2025",
+      "reason": "Vector similarity match (score: 0.6065, distance: 0.6487)",
+      "extra_metadata": {
+        "bill_id": "2005408",
+        "status_date": "2025-03-12",
+        "last_action": "Referred to Insurance",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.6065434410313383,
+        "distance": 0.6486865282058716
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on preauthorization requirements and explanations of benefits for health maintenance organizations and preferred provider benefit plans, without any direct mention of palliative care, hospice, or seriously ill patients. It primarily addresses administrative processes related to insurance and does not create infrastructure or provisions that would impact palliative care services or workforce.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill relates to administrative penalties and disclosures regarding insurance regulations.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB3726",
+      "title": "IDPH-LUNG CANCER SCREENING",
+      "url": "https://legiscan.com/IL/bill/HB3726/2025",
+      "reason": "Vector similarity match (score: 0.6065, distance: 0.6487)",
+      "extra_metadata": {
+        "bill_id": "1962570",
+        "status_date": "2025-02-07",
+        "last_action": "Rule 19(a) / Re-referred to Rules Committee",
+        "year": "2025",
+        "session": "2025-2026 Regular Session",
+        "similarity_score": 0.6065288371700901,
+        "distance": 0.648726224899292
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on lung cancer screening and tobacco cessation support without any mention of palliative care, hospice, or serious illness care. It primarily addresses public health initiatives related to lung cancer and does not create infrastructure or programs that would directly impact palliative care services or patients.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill requires the Department of Public Health to adopt rules implementing the Act.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB3818",
+      "title": "AABD-PREPAID FUNERAL CONTRACTS",
+      "url": "https://legiscan.com/IL/bill/SB3818/2021",
+      "reason": "Vector similarity match (score: 0.6065, distance: 0.6488)",
+      "extra_metadata": {
+        "bill_id": "1568629",
+        "status_date": "2022-01-21",
+        "last_action": "Added as Co-Sponsor Sen. Jason Plummer",
+        "year": "2021",
+        "session": "2021-2022 Regular Session",
+        "similarity_score": 0.6065003331605834,
+        "distance": 0.6488037109375
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the use of resources for purchasing prepaid funeral or burial contracts for applicants of medical assistance. It does not directly mention palliative care, hospice, or end-of-life care, nor does it impact seriously ill patients or their care settings in a way that would be relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "Amends the Aid to the Aged, Blind or Disabled Article of the Illinois Public Aid Code.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB2437",
+      "title": "MEDICAID-MATERNAL HLTH-DOULAS",
+      "url": "https://legiscan.com/IL/bill/SB2437/2025",
+      "reason": "Vector similarity match (score: 0.6064, distance: 0.6492)",
+      "extra_metadata": {
+        "bill_id": "1962860",
+        "status_date": "2025-06-16",
+        "last_action": "Public Act . . . . . . . . . 104-0009",
+        "year": "2025",
+        "session": "2025-2026 Regular Session",
+        "similarity_score": 0.6063661152939526,
+        "distance": 0.6491686701774597
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on maternal health, doula policies, and medical assistance coverage for specific populations, without any direct mention of palliative care, hospice services, or serious illness care. While it addresses healthcare provisions, it does not create infrastructure or policies that would impact palliative care services or the seriously ill population.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill amends existing healthcare regulations related to maternal health and medical assistance.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB502",
+      "title": "Relating to registration of certain establishments providing assisted living services.",
+      "url": "https://legiscan.com/TX/bill/SB502/2021",
+      "reason": "Vector similarity match (score: 0.6063, distance: 0.6493)",
+      "extra_metadata": {
+        "bill_id": "1428125",
+        "status_date": "2021-01-28",
+        "last_action": "Referred to Health & Human Services",
+        "year": "2021",
+        "session": "2021 Regular Session",
+        "similarity_score": 0.6063085489308226,
+        "distance": 0.6493252515792847
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on the registration of assisted living services and does not mention palliative care, hospice, or end-of-life care. It does not appear to directly affect seriously ill patients or their care settings, nor does it create infrastructure or programs that would include palliative care. Therefore, it does not meet the criteria for relevance to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill relates to the registration process for assisted living facilities, which may involve regulatory changes.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB3268",
+      "title": "Relating to registration of certain establishments providing assisted living services.",
+      "url": "https://legiscan.com/TX/bill/HB3268/2021",
+      "reason": "Vector similarity match (score: 0.6063, distance: 0.6493)",
+      "extra_metadata": {
+        "bill_id": "1476121",
+        "status_date": "2021-03-09",
+        "last_action": "Referred to Human Services",
+        "year": "2021",
+        "session": "2021 Regular Session",
+        "similarity_score": 0.606308505108292,
+        "distance": 0.6493253707885742
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on the registration of establishments providing assisted living services and does not explicitly mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients or their care settings in a way that would be relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill relates to the registration of assisted living facilities, which may involve regulatory oversight.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1715",
+      "title": "Relating to registration of certain establishments providing assisted living services.",
+      "url": "https://legiscan.com/TX/bill/HB1715/2019",
+      "reason": "Vector similarity match (score: 0.6063, distance: 0.6493)",
+      "extra_metadata": {
+        "bill_id": "1201074",
+        "status_date": "2019-02-13",
+        "last_action": "Referred to Human Services",
+        "year": "2019",
+        "session": "2019 Regular Session",
+        "similarity_score": 0.6063084612857679,
+        "distance": 0.6493254899978638
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on the registration of assisted living facilities and does not mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients directly or create infrastructure that would include palliative care services.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill relates to the registration and regulation of assisted living facilities.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "AB1186",
+      "title": "California Hospice Licensure Act of 1990.",
+      "url": "https://legiscan.com/CA/bill/AB1186/2021",
+      "reason": "Vector similarity match (score: 0.6059, distance: 0.6504)",
+      "extra_metadata": {
+        "bill_id": "1456884",
+        "status_date": "2022-02-01",
+        "last_action": "Died at Desk.",
+        "year": "2021",
+        "session": "2021-2022 Regular Session",
+        "similarity_score": 0.6058987348483026,
+        "distance": 0.6504408121109009
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The California Hospice Licensure Act of 1990 primarily addresses regulations related to hospice services, which are focused on end-of-life care rather than palliative care for seriously ill patients. The bill does not mention palliative care or pediatric hospice, and its provisions do not create opportunities for palliative care integration or expansion.",
+      "summary": null,
+      "bill_status": "Failed",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": true,
+        "reason": "The bill focuses on hospice care, which is excluded from tracking unless it pertains to pediatric hospice."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill amends existing regulations related to hospice licensure.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB3558",
+      "title": "Relating to provider reimbursement for certain emergency health care services.",
+      "url": "https://legiscan.com/TX/bill/HB3558/2021",
+      "reason": "Vector similarity match (score: 0.6056, distance: 0.6513)",
+      "extra_metadata": {
+        "bill_id": "1478214",
+        "status_date": "2021-03-10",
+        "last_action": "Referred to Insurance",
+        "year": "2021",
+        "session": "2021 Regular Session",
+        "similarity_score": 0.6055734855425478,
+        "distance": 0.6513272523880005
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses provider reimbursement for emergency health care services and does not mention palliative care, hospice, or end-of-life care. It does not appear to impact seriously ill patients or their care settings in a way that would be relevant to palliative care policy. The focus is on emergency services and does not create infrastructure or programs that could include palliative care.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, or other excluded topics."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB4867",
+      "title": "Relating to health care transparency, including advertising, identification, and notice requirements for certain health facilities and health professionals; authorizing administrative and civil penalties.",
+      "url": "https://legiscan.com/TX/bill/HB4867/2023",
+      "reason": "Vector similarity match (score: 0.6055, distance: 0.6514)",
+      "extra_metadata": {
+        "bill_id": "1733022",
+        "status_date": "2023-03-10",
+        "last_action": "Referred to Public Health",
+        "year": "2023",
+        "session": "2023 Regular Session",
+        "similarity_score": 0.6055339685493092,
+        "distance": 0.6514350175857544
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses healthcare transparency, including advertising and identification requirements for health facilities and professionals, without any mention of palliative care, hospice, or serious illness care. It does not create infrastructure or provisions that would directly or indirectly impact palliative care services or patients.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill includes provisions for administrative and civil penalties related to healthcare transparency regulations.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  }
+]

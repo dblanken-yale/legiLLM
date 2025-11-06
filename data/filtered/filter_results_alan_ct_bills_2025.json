@@ -1,0 +1,101 @@
+{
+  "total_results": 8,
+  "results": [
+    {
+      "bill_id": "1932259",
+      "number": "SB01071",
+      "title": "An Act Implementing The Recommendations Of The Pediatric Hospice Working Group.",
+      "url": "https://legiscan.com/CT/bill/SB01071/2025",
+      "status_date": "2025-01-22",
+      "last_action": "Referred to Joint Committee on Public Health",
+      "year": "2025",
+      "session": "2025 Regular Session",
+      "similarity_score": 0.5243911084016895,
+      "distance": 0.9069736003875732
+    },
+    {
+      "bill_id": "1925049",
+      "number": "HB05429",
+      "title": "An Act Concerning Caregivers, Qualifying Patients And The Palliative Use Of Cannabis.",
+      "url": "https://legiscan.com/CT/bill/HB05429/2025",
+      "status_date": "2025-01-17",
+      "last_action": "Public Hearing 02/14",
+      "year": "2025",
+      "session": "2025 Regular Session",
+      "similarity_score": 0.5233144062543142,
+      "distance": 0.9108971357345581
+    },
+    {
+      "bill_id": "1909808",
+      "number": "SB00484",
+      "title": "An Act Implementing The Recommendations Of The State-wide Pediatric Hospice Service Task Force.",
+      "url": "https://legiscan.com/CT/bill/SB00484/2025",
+      "status_date": "2025-01-10",
+      "last_action": "Referred to Joint Committee on Public Health",
+      "year": "2025",
+      "session": "2025 Regular Session",
+      "similarity_score": 0.5147290946652454,
+      "distance": 0.9427695274353027
+    },
+    {
+      "bill_id": "2010459",
+      "number": "SB01540",
+      "title": "An Act Implementing The Recommendations Of The Pediatric Hospice Working Group.",
+      "url": "https://legiscan.com/CT/bill/SB01540/2025",
+      "status_date": "2025-03-19",
+      "last_action": "File Number 827",
+      "year": "2025",
+      "session": "2025 Regular Session",
+      "similarity_score": 0.510839837954689,
+      "distance": 0.9575607180595398
+    },
+    {
+      "bill_id": "1932373",
+      "number": "HB06147",
+      "title": "An Act Concerning Coverage For Medically Necessary Treatment In This State.",
+      "url": "https://legiscan.com/CT/bill/HB06147/2025",
+      "status_date": "2025-01-22",
+      "last_action": "Referred to Joint Committee on Insurance and Real Estate",
+      "year": "2025",
+      "session": "2025 Regular Session",
+      "similarity_score": 0.5064055080224412,
+      "distance": 0.9747020602226257
+    },
+    {
+      "bill_id": "1927651",
+      "number": "SB00843",
+      "title": "An Act Implementing The Recommendations Of The Working Group Established To Examine Pediatric Hospice Services.",
+      "url": "https://legiscan.com/CT/bill/SB00843/2025",
+      "status_date": "2025-01-21",
+      "last_action": "Referred to Joint Committee on Public Health",
+      "year": "2025",
+      "session": "2025 Regular Session",
+      "similarity_score": 0.5062670906698292,
+      "distance": 0.9752419590950012
+    },
+    {
+      "bill_id": "1933079",
+      "number": "SB00864",
+      "title": "An Act Concerning Funding For Pediatric Hospice Services At Regional Hospice In Danbury.",
+      "url": "https://legiscan.com/CT/bill/SB00864/2025",
+      "status_date": "2025-01-22",
+      "last_action": "Referred to Joint Committee on Appropriations",
+      "year": "2025",
+      "session": "2025 Regular Session",
+      "similarity_score": 0.5052988837396539,
+      "distance": 0.979026734828949
+    },
+    {
+      "bill_id": "1907785",
+      "number": "SB00361",
+      "title": "An Act Concerning The Adequate Prescription Of Pain Medication For Cancer Patients, Palliative And Nursing Home Patients And Patients Experiencing Chronic Intractable Pain.",
+      "url": "https://legiscan.com/CT/bill/SB00361/2025",
+      "status_date": "2025-01-09",
+      "last_action": "Referred to Joint Committee on Public Health",
+      "year": "2025",
+      "session": "2025 Regular Session",
+      "similarity_score": 0.5036550167560627,
+      "distance": 0.9854860305786133
+    }
+  ]
+}

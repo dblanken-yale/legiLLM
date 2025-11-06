@@ -1,0 +1,77 @@
+[
+  {
+    "bill": {
+      "bill_number": "SB0473",
+      "title": "Various health care matters.",
+      "url": "https://legiscan.com/IN/bill/SB0473/2025",
+      "reason": "Vector similarity match (score: 0.5059, distance: 0.9766)",
+      "extra_metadata": {
+        "bill_id": "1915243",
+        "status_date": "2025-05-01",
+        "last_action": "Public Law 143",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5059215764406239,
+        "distance": 0.9765909314155579
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This omnibus healthcare bill has indirect relevance to palliative care through several provisions affecting seriously ill patients and healthcare delivery systems. The telehealth expansion for opioid treatment, changes to opioid treatment program requirements, and provisions for anesthesia services in office settings all impact pain management and symptom control for seriously ill patients. The establishment of the certified health care professions commission and changes to nurse aide, home health aide, and qualified medication aide certification directly affect the workforce providing in-home care to seriously ill patients. Additionally, the medical information release statute changes and nursing program clinical experience requirements affect care delivery infrastructure for palliative care populations.",
+      "summary": "Indiana SB0473 is an enacted omnibus healthcare bill that makes various changes to healthcare delivery, workforce certification, and treatment programs. While not explicitly mentioning palliative care, it impacts seriously ill patients through expanded telehealth prescribing for opioid dependence treatment (including full agonists), establishes a new commission to regulate nurse aides and home health aides who provide in-home care, modifies opioid treatment program requirements, and expands anesthesia service locations. These provisions affect pain management, symptom control, and home-based care delivery for palliative care populations.",
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [
+        "WORKFORCE",
+        "TELEHEALTH",
+        "CLINICAL SKILL-BUILDING",
+        "QUALITY/STANDARDS"
+      ],
+      "tags": [
+        "home health aides",
+        "nurse aides",
+        "qualified medication aides",
+        "workforce certification",
+        "opioid treatment",
+        "pain management",
+        "telehealth prescribing",
+        "home-based care",
+        "medication management",
+        "opioid dependence",
+        "anesthesia services",
+        "office-based settings",
+        "nursing education",
+        "clinical training",
+        "healthcare workforce development",
+        "residential care",
+        "medical information release",
+        "adverse event reporting",
+        "continuing education",
+        "certification commission"
+      ],
+      "key_provisions": [
+        "Establishes the certified health care professions commission to regulate certification of nurse aides, qualified medication aides, and registration of home health aides who provide care to seriously ill patients in home and residential settings",
+        "Expands telehealth prescribing authority to allow prescribers to prescribe full agonist opioids (not just partial agonists) for treatment of opioid dependence, improving access to pain management for seriously ill patients",
+        "Modifies opioid treatment program requirements by reducing mandatory drug testing frequency from weekly to monthly for patients who test positive, and allows programs to close on Sundays and federal holidays",
+        "Allows provision of anesthesia services in physician and podiatrist offices without accreditation requirements, expanding access to pain management procedures in office-based settings",
+        "Requires nursing programs to offer clinical experiences in both hospital and health facility settings, ensuring exposure to diverse care environments including those serving seriously ill patients",
+        "Establishes adverse event reporting requirements for anesthesia in office-based settings to the medical licensing board, creating quality oversight for pain management procedures",
+        "Allows specified health care providers beyond physicians to perform initial assessments for opioid treatment program admission, expanding workforce capacity for addiction treatment in seriously ill populations"
+      ],
+      "palliative_care_impact": "This bill has significant indirect impact on palliative care through multiple pathways. The workforce provisions directly affect home-based care delivery by establishing a new regulatory framework for nurse aides, home health aides, and qualified medication aides\u2014professionals who provide essential daily care and medication management for seriously ill patients at home and in residential facilities. The telehealth expansion for opioid prescribing improves access to comprehensive pain management, allowing prescribers to use full agonist medications remotely, which is particularly important for homebound seriously ill patients with complex pain needs. The modifications to opioid treatment programs (reduced testing frequency, flexible hours) make these programs more accessible and less burdensome for seriously ill patients managing both addiction and serious illness. The expansion of anesthesia services to office-based settings increases access to interventional pain management procedures for patients who may have difficulty traveling to hospitals or surgical centers. The nursing education requirements ensure future nurses gain experience in diverse settings serving seriously ill populations. Overall, the bill strengthens the infrastructure for home-based care, pain management, and symptom control that are central to palliative care delivery.",
+      "relevance_beyond_keywords": "The bill impacts palliative care without using explicit terminology through several mechanisms: (1) The certified health care professions commission regulates the workforce providing hands-on care to seriously ill patients in homes and residential facilities, including medication administration and daily care assistance; (2) Telehealth expansion for opioid treatment directly affects pain management access for homebound seriously ill patients; (3) Opioid treatment program modifications affect seriously ill patients with co-occurring addiction and serious illness; (4) Anesthesia service expansion increases access to interventional pain procedures for symptom management; (5) Home health aide training requirements affect the quality of in-home care for seriously ill patients; (6) Medical information release statute changes affect care coordination for patients with serious illness; (7) Nursing clinical experience requirements ensure exposure to settings serving seriously ill populations. These provisions collectively strengthen the healthcare delivery infrastructure, workforce capacity, and access to pain/symptom management services that seriously ill patients depend on.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "This bill does not focus on aid-in-dying, death with dignity, medical marijuana, or psilocybin therapies. While it addresses opioid treatment, this is in the context of addiction treatment and pain management for patients with opioid dependence, which is relevant to symptom management in seriously ill populations. The bill does not mention hospice care (general or pediatric). All provisions relate to healthcare workforce, treatment access, and service delivery that affect seriously ill patients."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill prohibits the division of mental health and addiction from establishing rules or guidelines concerning opioid treatment program admission and medication that are more stringent than federal regulations. It also requires the medical licensing board to determine types of adverse events to be reported for anesthesia in office-based settings and establish reporting procedures. The bill specifies that facilities must comply with administrative rules regarding nurse aide definitions and employment requirements.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  }
+]

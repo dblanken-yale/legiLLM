@@ -1,0 +1,3015 @@
+[
+  {
+    "bill": {
+      "bill_number": "HB1011",
+      "title": "End of life options.",
+      "url": "https://legiscan.com/IN/bill/HB1011/2025",
+      "reason": "Vector similarity match (score: 0.6369, distance: 0.5700)",
+      "extra_metadata": {
+        "bill_id": "1897638",
+        "status_date": "2025-01-08",
+        "last_action": "First reading: referred to Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.6369236720756585,
+        "distance": 0.5700468420982361
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on end-of-life options, which falls under the category of aid-in-dying legislation. It does not explicitly mention palliative care, hospice services, or any provisions that would support seriously ill patients in a way that aligns with palliative care principles. Therefore, it does not meet the criteria for relevance to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": true,
+        "reason": "The bill focuses on aid-in-dying legislation, which is explicitly excluded from palliative care tracking."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HR0064",
+      "title": "Urging the Legislative Council to assign to the Medicaid Oversight Committee the task of studying the use of long term care insurance.",
+      "url": "https://legiscan.com/IN/bill/HR0064/2025",
+      "reason": "Vector similarity match (score: 0.6125, distance: 0.6325)",
+      "extra_metadata": {
+        "bill_id": "2024488",
+        "status_date": "2025-04-17",
+        "last_action": "First reading: referred to the Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.6125415286637412,
+        "distance": 0.6325423717498779
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on studying long-term care insurance and does not directly mention palliative care, hospice, or end-of-life care. It does not appear to impact seriously ill patients or their care settings in a way that would be relevant to palliative care policy. Additionally, it does not create infrastructure or programs that would include palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill calls for a study by the Medicaid Oversight Committee, which may involve regulatory considerations related to long-term care insurance.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0339",
+      "title": "Caregiver tax credit.",
+      "url": "https://legiscan.com/IN/bill/SB0339/2025",
+      "reason": "Vector similarity match (score: 0.6064, distance: 0.6492)",
+      "extra_metadata": {
+        "bill_id": "1912314",
+        "status_date": "2025-01-13",
+        "last_action": "First reading: referred to Committee on Appropriations",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.6063599571212857,
+        "distance": 0.6491854190826416
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on establishing a caregiver tax credit, which does not directly mention palliative care, hospice services, or serious illness care. While it may provide financial relief to caregivers, it does not create or modify any policies, programs, or infrastructure that would impact palliative care services or the seriously ill population.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria, as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1689",
+      "title": "Human services matters.",
+      "url": "https://legiscan.com/IN/bill/HB1689/2025",
+      "reason": "Vector similarity match (score: 0.5988, distance: 0.6701)",
+      "extra_metadata": {
+        "bill_id": "1920839",
+        "status_date": "2025-05-06",
+        "last_action": "Public Law 243",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5987720423845346,
+        "distance": 0.6700846552848816
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill does not explicitly mention palliative care, hospice, or end-of-life care. It primarily addresses human services matters without specific provisions impacting seriously ill patients or their care settings. Therefore, it does not meet the criteria for relevance to palliative care policy.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under exclusion criteria as it does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1082",
+      "title": "Coverage for living organ donors.",
+      "url": "https://legiscan.com/IN/bill/HB1082/2025",
+      "reason": "Vector similarity match (score: 0.5970, distance: 0.6751)",
+      "extra_metadata": {
+        "bill_id": "1900708",
+        "status_date": "2025-01-08",
+        "last_action": "Representative Hamilton added as coauthor",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5969675492162754,
+        "distance": 0.6751329302787781
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on coverage for living organ donors and does not mention palliative care, hospice, or end-of-life care. It primarily addresses healthcare coverage and benefits related to organ donation, which does not directly impact seriously ill patients or palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0111",
+      "title": "Coverage for living organ donors.",
+      "url": "https://legiscan.com/IN/bill/SB0111/2025",
+      "reason": "Vector similarity match (score: 0.5970, distance: 0.6751)",
+      "extra_metadata": {
+        "bill_id": "1900131",
+        "status_date": "2025-01-31",
+        "last_action": "First reading: referred to Committee on Insurance",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5969675492162754,
+        "distance": 0.6751329302787781
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on coverage for living organ donors and does not mention palliative care, hospice, or end-of-life care. It primarily addresses healthcare coverage and benefits for organ donors, which does not directly impact seriously ill patients or palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0311",
+      "title": "Coverage for living organ donors.",
+      "url": "https://legiscan.com/IN/bill/SB0311/2025",
+      "reason": "Vector similarity match (score: 0.5970, distance: 0.6751)",
+      "extra_metadata": {
+        "bill_id": "1912023",
+        "status_date": "2025-01-13",
+        "last_action": "Senator Crider added as second author",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5969675492162754,
+        "distance": 0.6751329302787781
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on coverage for living organ donors and does not mention palliative care, hospice, or end-of-life care. It does not appear to impact seriously ill patients or their care settings in a way that would be relevant to palliative care policy. Additionally, it does not create infrastructure or programs that would include palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1588",
+      "title": "Long term care savings accounts.",
+      "url": "https://legiscan.com/IN/bill/HB1588/2025",
+      "reason": "Vector similarity match (score: 0.5965, distance: 0.6765)",
+      "extra_metadata": {
+        "bill_id": "1922050",
+        "status_date": "2025-01-21",
+        "last_action": "First reading: referred to Committee on Ways and Means",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5964888141743856,
+        "distance": 0.6764773726463318
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on establishing long-term care savings accounts and does not directly address palliative care, hospice services, or serious illness care. It does not mention any provisions that would affect seriously ill patients, their care settings, or healthcare providers in a way that relates to palliative care. Additionally, it does not create infrastructure or programs that would include palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1081",
+      "title": "Distributions to charitable beneficiaries.",
+      "url": "https://legiscan.com/IN/bill/HB1081/2025",
+      "reason": "Vector similarity match (score: 0.5938, distance: 0.6841)",
+      "extra_metadata": {
+        "bill_id": "1900707",
+        "status_date": "2025-05-06",
+        "last_action": "Public Law 220",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5938009143573989,
+        "distance": 0.684066116809845
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses distributions to charitable beneficiaries without any mention of palliative care, hospice services, or serious illness care. It does not create or modify any infrastructure, payment systems, or workforce development that would impact palliative care services. Therefore, it does not meet the criteria for relevance to palliative care policy.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0317",
+      "title": "Health care debt and costs.",
+      "url": "https://legiscan.com/IN/bill/SB0317/2025",
+      "reason": "Vector similarity match (score: 0.5930, distance: 0.6863)",
+      "extra_metadata": {
+        "bill_id": "1912001",
+        "status_date": "2025-01-13",
+        "last_action": "Third reading: defeated; Roll Call 183: yeas 23, nays 26",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5930036089090991,
+        "distance": 0.6863303780555725
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses healthcare debt and costs without any direct mention of palliative care, hospice services, or serious illness care. It does not create or modify any infrastructure that would directly impact palliative care services or the populations served by them.",
+      "summary": null,
+      "bill_status": "Failed",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1457",
+      "title": "Indiana department of health.",
+      "url": "https://legiscan.com/IN/bill/HB1457/2025",
+      "reason": "Vector similarity match (score: 0.5902, distance: 0.6945)",
+      "extra_metadata": {
+        "bill_id": "1918362",
+        "status_date": "2025-05-01",
+        "last_action": "Public Law 171",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5901563456239188,
+        "distance": 0.694466233253479
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the operational aspects of the Indiana Department of Health without mentioning palliative care, hospice services, or serious illness care. It does not create or modify any programs, benefits, or regulations that would directly impact palliative care services or the populations served.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill includes provisions for the regulation of health department operations.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0522",
+      "title": "Maternal health matters.",
+      "url": "https://legiscan.com/IN/bill/SB0522/2025",
+      "reason": "Vector similarity match (score: 0.5854, distance: 0.7081)",
+      "extra_metadata": {
+        "bill_id": "1920107",
+        "status_date": "2025-01-16",
+        "last_action": "First reading: referred to Committee on Health and Provider Services",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5854352072159918,
+        "distance": 0.708130955696106
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses maternal health issues and does not mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients or their care settings, nor does it impact healthcare workforce, payment systems, or quality standards in a way that would relate to palliative care. Therefore, it is not relevant to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HR0024",
+      "title": "Recognizing Regional Care Group for 50 years of service to their community.",
+      "url": "https://legiscan.com/IN/bill/HR0024/2025",
+      "reason": "Vector similarity match (score: 0.5850, distance: 0.7095)",
+      "extra_metadata": {
+        "bill_id": "1996347",
+        "status_date": "2025-03-13",
+        "last_action": "First reading: adopted voice vote",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5849654823554827,
+        "distance": 0.7095025777816772
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill HR0024 is a resolution recognizing the Regional Care Group for their community service over 50 years. It does not address palliative care, hospice, or any related healthcare policies, nor does it impact seriously ill patients, their care settings, or healthcare providers. Therefore, it does not meet the criteria for relevance to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Simple Resolution",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on any excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1609",
+      "title": "Disposition of human remains by composting.",
+      "url": "https://legiscan.com/IN/bill/HB1609/2025",
+      "reason": "Vector similarity match (score: 0.5848, distance: 0.7100)",
+      "extra_metadata": {
+        "bill_id": "1920813",
+        "status_date": "2025-01-21",
+        "last_action": "First reading: referred to Committee on Commerce, Small Business and Economic Development",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5848012811434393,
+        "distance": 0.7099825739860535
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the disposition of human remains by composting and does not mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients, their care settings, or healthcare providers in a manner relevant to palliative care services. Additionally, it does not create infrastructure or programs that could include palliative care.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, or other excluded topics."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0463",
+      "title": "Child care matters.",
+      "url": "https://legiscan.com/IN/bill/SB0463/2025",
+      "reason": "Vector similarity match (score: 0.5828, distance: 0.7159)",
+      "extra_metadata": {
+        "bill_id": "1915233",
+        "status_date": "2025-05-01",
+        "last_action": "Public Law 140",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5827724375702166,
+        "distance": 0.7159356474876404
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill titled 'Child care matters' does not mention palliative care, hospice, or end-of-life care in its text. It primarily addresses issues related to child care services and does not impact seriously ill patients, their care settings, or healthcare providers in a way that relates to palliative care. Therefore, it does not meet the criteria for relevance to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0480",
+      "title": "Prior authorization.",
+      "url": "https://legiscan.com/IN/bill/SB0480/2025",
+      "reason": "Vector similarity match (score: 0.5828, distance: 0.7160)",
+      "extra_metadata": {
+        "bill_id": "1915249",
+        "status_date": "2025-05-01",
+        "last_action": "Public Law 144",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5827575592342142,
+        "distance": 0.7159794569015503
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill SB0480 focuses on prior authorization processes and does not directly mention palliative care, hospice, or end-of-life care. It primarily addresses administrative procedures related to healthcare services rather than impacting the delivery or financing of palliative care services for seriously ill patients.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill includes provisions that may require changes to existing healthcare regulations regarding prior authorizations.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0337",
+      "title": "Hospital charity care.",
+      "url": "https://legiscan.com/IN/bill/SB0337/2025",
+      "reason": "Vector similarity match (score: 0.5807, distance: 0.7219)",
+      "extra_metadata": {
+        "bill_id": "1911974",
+        "status_date": "2025-01-13",
+        "last_action": "Senator Becker added as coauthor",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5807402939788111,
+        "distance": 0.7219401001930237
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses hospital charity care and does not directly mention palliative care, hospice, or end-of-life care. It focuses on financial assistance for hospitals rather than impacting seriously ill patients or their care settings. Therefore, it does not create relevant infrastructure or policies that would include palliative care.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1153",
+      "title": "Project Lifesaver program requirement for counties.",
+      "url": "https://legiscan.com/IN/bill/HB1153/2025",
+      "reason": "Vector similarity match (score: 0.5794, distance: 0.7258)",
+      "extra_metadata": {
+        "bill_id": "1903653",
+        "status_date": "2025-01-08",
+        "last_action": "Representative Andrade added as coauthor",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5794458487074866,
+        "distance": 0.7257868051528931
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on establishing a Project Lifesaver program for counties, which is aimed at assisting individuals with cognitive impairments. It does not mention palliative care, hospice, or end-of-life care, nor does it impact seriously ill patients or their care settings in a way that would be relevant to palliative care policy. Therefore, it does not meet the criteria for relevance to palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1409",
+      "title": "Anatomical gifts.",
+      "url": "https://legiscan.com/IN/bill/HB1409/2025",
+      "reason": "Vector similarity match (score: 0.5787, distance: 0.7280)",
+      "extra_metadata": {
+        "bill_id": "1914850",
+        "status_date": "2025-01-13",
+        "last_action": "First reading: referred to Committee on Judiciary",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5787101762444204,
+        "distance": 0.7279806733131409
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses anatomical gifts and does not mention palliative care, hospice, or end-of-life care. It does not appear to impact seriously ill patients, their care settings, or healthcare providers in a way that is relevant to palliative care. Therefore, it does not meet the criteria for relevance to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0270",
+      "title": "Coverage of orthotic and prosthetic devices.",
+      "url": "https://legiscan.com/IN/bill/SB0270/2025",
+      "reason": "Vector similarity match (score: 0.5762, distance: 0.7354)",
+      "extra_metadata": {
+        "bill_id": "1911444",
+        "status_date": "2025-01-13",
+        "last_action": "Senator Hunley added as author",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5762247580776727,
+        "distance": 0.7354339361190796
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on the coverage of orthotic and prosthetic devices and does not mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients or the healthcare workforce in ways that would be relevant to palliative care services.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1088",
+      "title": "Various probate matters.",
+      "url": "https://legiscan.com/IN/bill/HB1088/2025",
+      "reason": "Vector similarity match (score: 0.5761, distance: 0.7359)",
+      "extra_metadata": {
+        "bill_id": "1900714",
+        "status_date": "2025-04-10",
+        "last_action": "Public Law 50",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5760706287765842,
+        "distance": 0.7358982563018799
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses various probate matters and does not directly mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients, their care settings, or healthcare providers in a manner relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0520",
+      "title": "Perpetual care fund deposits for columbariums.",
+      "url": "https://legiscan.com/IN/bill/SB0520/2025",
+      "reason": "Vector similarity match (score: 0.5747, distance: 0.7400)",
+      "extra_metadata": {
+        "bill_id": "1920218",
+        "status_date": "2025-04-16",
+        "last_action": "Public Law 82",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5747141564384199,
+        "distance": 0.7399954199790955
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the establishment of perpetual care fund deposits for columbariums, which does not directly mention or impact palliative care, hospice services, or seriously ill patients. It focuses on financial aspects related to columbariums rather than healthcare delivery or patient care.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1062",
+      "title": "Coverage for certain cancer prescriptions.",
+      "url": "https://legiscan.com/IN/bill/HB1062/2025",
+      "reason": "Vector similarity match (score: 0.5737, distance: 0.7431)",
+      "extra_metadata": {
+        "bill_id": "1897686",
+        "status_date": "2025-01-08",
+        "last_action": "First reading: referred to Committee on Insurance",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5736786088440359,
+        "distance": 0.7431362867355347
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on coverage for certain cancer prescriptions and does not mention palliative care, hospice services, or end-of-life care. It primarily addresses payment and access to medications for cancer treatment, which does not directly impact palliative care services or the delivery of care for seriously ill patients.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1572",
+      "title": "Hearing aids and speech-language pathologists.",
+      "url": "https://legiscan.com/IN/bill/HB1572/2025",
+      "reason": "Vector similarity match (score: 0.5732, distance: 0.7445)",
+      "extra_metadata": {
+        "bill_id": "1920800",
+        "status_date": "2025-04-03",
+        "last_action": "Public Law 37",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5732186614660706,
+        "distance": 0.744534969329834
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill HB1572 focuses on hearing aids and speech-language pathologists, with no mention of palliative care, hospice services, or serious illness care. It does not address issues relevant to seriously ill patients, their care settings, or healthcare providers in a way that impacts palliative care policy or services.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1357",
+      "title": "Supplemental structured family care distribution.",
+      "url": "https://legiscan.com/IN/bill/HB1357/2025",
+      "reason": "Vector similarity match (score: 0.5729, distance: 0.7455)",
+      "extra_metadata": {
+        "bill_id": "1911878",
+        "status_date": "2025-01-13",
+        "last_action": "First reading: referred to Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5729012685995447,
+        "distance": 0.7455014586448669
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill HB1357 focuses on supplemental structured family care distribution, which does not directly mention palliative care, hospice, or end-of-life care. It primarily addresses family care distribution mechanisms without implications for seriously ill patients or palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0117",
+      "title": "Compassionate release.",
+      "url": "https://legiscan.com/IN/bill/SB0117/2025",
+      "reason": "Vector similarity match (score: 0.5718, distance: 0.7489)",
+      "extra_metadata": {
+        "bill_id": "1900136",
+        "status_date": "2025-01-08",
+        "last_action": "First reading: referred to Committee on Corrections and Criminal Law",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5717985639953199,
+        "distance": 0.7488676309585571
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses compassionate release for incarcerated individuals and does not directly mention palliative care, hospice, or end-of-life care. While it may indirectly affect seriously ill patients within the correctional system, the focus is not on healthcare delivery or palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1587",
+      "title": "Insurance matters.",
+      "url": "https://legiscan.com/IN/bill/HB1587/2025",
+      "reason": "Vector similarity match (score: 0.5718, distance: 0.7490)",
+      "extra_metadata": {
+        "bill_id": "1921954",
+        "status_date": "2025-05-06",
+        "last_action": "Public Law 236",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5717661573661376,
+        "distance": 0.7489667534828186
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses insurance matters without specific mention of palliative care, hospice, or end-of-life care. It does not appear to impact seriously ill patients, their care settings, or healthcare providers in a way that would be relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1585",
+      "title": "Cemetery perpetual care fund.",
+      "url": "https://legiscan.com/IN/bill/HB1585/2025",
+      "reason": "Vector similarity match (score: 0.5718, distance: 0.7490)",
+      "extra_metadata": {
+        "bill_id": "1921516",
+        "status_date": "2025-02-05",
+        "last_action": "Pursuant to Senate Rule 68(b); reassigned to Committee on Rules and Legislative Procedure",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5717516993095754,
+        "distance": 0.7490109801292419
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the establishment and regulation of a cemetery perpetual care fund, which does not directly relate to palliative care, hospice services, or seriously ill patients. It does not mention palliative care, hospice, or end-of-life care, nor does it impact healthcare workforce, payment systems, or quality standards relevant to palliative care.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill establishes regulations for the cemetery perpetual care fund.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0446",
+      "title": "Mental health and substance abuse coverage.",
+      "url": "https://legiscan.com/IN/bill/SB0446/2025",
+      "reason": "Vector similarity match (score: 0.5713, distance: 0.7503)",
+      "extra_metadata": {
+        "bill_id": "1915216",
+        "status_date": "2025-01-13",
+        "last_action": "First reading: referred to Committee on Health and Provider Services",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5713434151654665,
+        "distance": 0.7502608299255371
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses mental health and substance abuse coverage without any direct mention of palliative care, hospice, or related services. It does not appear to impact seriously ill patients or their care settings in a way that would integrate or enhance palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0370",
+      "title": "Health care matters.",
+      "url": "https://legiscan.com/IN/bill/SB0370/2025",
+      "reason": "Vector similarity match (score: 0.5709, distance: 0.7515)",
+      "extra_metadata": {
+        "bill_id": "1912259",
+        "status_date": "2025-01-13",
+        "last_action": "Senator Johnson T added as coauthor",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5709305650244346,
+        "distance": 0.7515264749526978
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill does not explicitly mention palliative care, hospice, or end-of-life care. It primarily addresses general healthcare matters without specific provisions or implications for seriously ill patients or the palliative care workforce. Therefore, it does not meet the criteria for relevance to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SR0049",
+      "title": "Memorializing Dr. Brian Dillman.",
+      "url": "https://legiscan.com/IN/bill/SR0049/2025",
+      "reason": "Vector similarity match (score: 0.5692, distance: 0.7569)",
+      "extra_metadata": {
+        "bill_id": "2015605",
+        "status_date": "2025-03-27",
+        "last_action": "First reading: adopted standing vote",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5691812072267204,
+        "distance": 0.7569097280502319
+      }
+    },
+    "analysis": {
+      "error": "JSON parsing failed: Expecting property name enclosed in double quotes"
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1253",
+      "title": "Child care.",
+      "url": "https://legiscan.com/IN/bill/HB1253/2025",
+      "reason": "Vector similarity match (score: 0.5675, distance: 0.7622)",
+      "extra_metadata": {
+        "bill_id": "1908016",
+        "status_date": "2025-05-01",
+        "last_action": "Public Law 160",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5674623631044693,
+        "distance": 0.7622314095497131
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill titled 'Child care' does not mention palliative care, hospice, or end-of-life care in its text. It primarily addresses issues related to child care services and does not impact seriously ill patients, their care settings, or healthcare providers in a way that would be relevant to palliative care policy. Therefore, it does not meet the criteria for relevance to palliative care.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1211",
+      "title": "Prevention of elder abuse.",
+      "url": "https://legiscan.com/IN/bill/HB1211/2025",
+      "reason": "Vector similarity match (score: 0.5671, distance: 0.7635)",
+      "extra_metadata": {
+        "bill_id": "1905534",
+        "status_date": "2025-01-08",
+        "last_action": "Representative Olthoff added as coauthor",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5670692839420329,
+        "distance": 0.76345294713974
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the prevention of elder abuse, focusing on protections for older adults rather than palliative care or services related to serious illness. It does not mention palliative care, hospice, or end-of-life care, nor does it create infrastructure or programs that would include palliative care. Therefore, it does not have a direct or indirect impact on palliative care policy.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0435",
+      "title": "Prohibition on copay accumulator adjustments.",
+      "url": "https://legiscan.com/IN/bill/SB0435/2025",
+      "reason": "Vector similarity match (score: 0.5659, distance: 0.7672)",
+      "extra_metadata": {
+        "bill_id": "1915205",
+        "status_date": "2025-01-13",
+        "last_action": "Senators Ford J.D. and Yoder added as coauthors",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5658662232165612,
+        "distance": 0.7672021389007568
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the prohibition of copay accumulator adjustments, which does not directly mention or impact palliative care, hospice services, or seriously ill patients. It focuses on payment mechanisms rather than care delivery or access for individuals with serious illnesses.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill references existing regulations regarding copay accumulators.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1682",
+      "title": "General legislative matters.",
+      "url": "https://legiscan.com/IN/bill/HB1682/2025",
+      "reason": "Vector similarity match (score: 0.5658, distance: 0.7675)",
+      "extra_metadata": {
+        "bill_id": "1920929",
+        "status_date": "2025-05-06",
+        "last_action": "Public Law 242",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5657559294855367,
+        "distance": 0.7675466537475586
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The full text of HB1682 does not mention palliative care, hospice services, or end-of-life care. It primarily addresses general legislative matters without specific provisions impacting seriously ill patients, their care settings, or healthcare providers. Additionally, it does not create infrastructure or programs that would include palliative care.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1595",
+      "title": "Long term care insurance partnership program.",
+      "url": "https://legiscan.com/IN/bill/HB1595/2025",
+      "reason": "Vector similarity match (score: 0.5657, distance: 0.7676)",
+      "extra_metadata": {
+        "bill_id": "1922001",
+        "status_date": "2025-04-22",
+        "last_action": "Public Law 107",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5657394463654751,
+        "distance": 0.7675981521606445
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on establishing a long-term care insurance partnership program without any explicit mention of palliative care, hospice services, or serious illness care. It does not create infrastructure or funding that would directly impact palliative care services or the populations served by them.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1112",
+      "title": "Prior authorization for opioid use disorder care.",
+      "url": "https://legiscan.com/IN/bill/HB1112/2025",
+      "reason": "Vector similarity match (score: 0.5649, distance: 0.7703)",
+      "extra_metadata": {
+        "bill_id": "1903447",
+        "status_date": "2025-01-08",
+        "last_action": "Recommitted to Committee on Ways and Means pursuant to House Rule 126.3",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5648843683756907,
+        "distance": 0.7702738046646118
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on prior authorization for opioid use disorder care and does not mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients or their care settings in a way that would be relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill may reference existing regulations regarding opioid use disorder treatment.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1213",
+      "title": "Insurance and transfer on death deeds.",
+      "url": "https://legiscan.com/IN/bill/HB1213/2025",
+      "reason": "Vector similarity match (score: 0.5648, distance: 0.7707)",
+      "extra_metadata": {
+        "bill_id": "1905437",
+        "status_date": "2025-03-25",
+        "last_action": "Public Law 6",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5647610728201503,
+        "distance": 0.7706602811813354
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses insurance and transfer on death deeds, with no explicit mention of palliative care, hospice, or serious illness care. It does not appear to affect seriously ill patients, healthcare settings, or payment systems relevant to palliative care services.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1390",
+      "title": "Bureau of motor vehicles.",
+      "url": "https://legiscan.com/IN/bill/HB1390/2025",
+      "reason": "Vector similarity match (score: 0.5643, distance: 0.7720)",
+      "extra_metadata": {
+        "bill_id": "1912082",
+        "status_date": "2025-05-06",
+        "last_action": "Public Law 227",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5643439521268113,
+        "distance": 0.7719690203666687
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses issues related to the Bureau of Motor Vehicles and does not mention palliative care, hospice services, or any related healthcare provisions. It does not impact seriously ill patients, care settings, or healthcare providers, nor does it create infrastructure relevant to palliative care.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not focus on aid-in-dying, hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0003",
+      "title": "Fiduciary duty in health plan administration.",
+      "url": "https://legiscan.com/IN/bill/SB0003/2025",
+      "reason": "Vector similarity match (score: 0.5643, distance: 0.7721)",
+      "extra_metadata": {
+        "bill_id": "1917005",
+        "status_date": "2025-04-16",
+        "last_action": "Public Law 69",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5643003512427632,
+        "distance": 0.7721059322357178
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses fiduciary duties in health plan administration without any direct mention of palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients, their care settings, or healthcare providers in a manner relevant to palliative care policy. Therefore, it does not meet the criteria for relevance to palliative care services.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill includes provisions related to fiduciary duties in health plan administration.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1044",
+      "title": "Dissolution of human remains.",
+      "url": "https://legiscan.com/IN/bill/HB1044/2025",
+      "reason": "Vector similarity match (score: 0.5641, distance: 0.7727)",
+      "extra_metadata": {
+        "bill_id": "1897670",
+        "status_date": "2025-02-07",
+        "last_action": "Pursuant to Senate Rule 68(b); reassigned to Committee on Commerce and Technology",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5641166068518657,
+        "distance": 0.7726831436157227
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill titled 'Dissolution of human remains' does not directly mention palliative care, hospice, or end-of-life care. It primarily addresses the regulations surrounding the handling of human remains, which does not impact seriously ill patients, their care settings, or healthcare providers in a way that relates to palliative care services. Therefore, it does not meet the criteria for relevance to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill outlines regulations regarding the dissolution of human remains.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1640",
+      "title": "Prekindergarten program enrollment.",
+      "url": "https://legiscan.com/IN/bill/HB1640/2025",
+      "reason": "Vector similarity match (score: 0.5637, distance: 0.7741)",
+      "extra_metadata": {
+        "bill_id": "1921476",
+        "status_date": "2025-01-21",
+        "last_action": "First reading: referred to Committee on Family, Children and Human Affairs",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5636718773754456,
+        "distance": 0.7740817666053772
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill HB1640 focuses on prekindergarten program enrollment and does not mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients, their care settings, or healthcare providers in any relevant way. Additionally, it does not create infrastructure or programs that could include palliative care.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under exclusion criteria as it does not address aid-in-dying, hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0498",
+      "title": "Child services.",
+      "url": "https://legiscan.com/IN/bill/SB0498/2025",
+      "reason": "Vector similarity match (score: 0.5633, distance: 0.7752)",
+      "extra_metadata": {
+        "bill_id": "1917135",
+        "status_date": "2025-04-16",
+        "last_action": "Public Law 81",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5633251287317501,
+        "distance": 0.7751737833023071
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on child services and does not explicitly mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients or their care settings, nor does it create infrastructure that could include palliative care services. Therefore, it does not meet the criteria for relevance to palliative care policy.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1666",
+      "title": "Ownership of health care providers.",
+      "url": "https://legiscan.com/IN/bill/HB1666/2025",
+      "reason": "Vector similarity match (score: 0.5633, distance: 0.7753)",
+      "extra_metadata": {
+        "bill_id": "1922012",
+        "status_date": "2025-05-06",
+        "last_action": "Public Law 239",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.56327474460585,
+        "distance": 0.7753325700759888
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the ownership of healthcare providers and does not explicitly mention palliative care, hospice services, or seriously ill patients. It does not create any infrastructure or provisions that would directly or indirectly impact palliative care services or workforce development.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill discusses regulations related to the ownership of healthcare providers.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1466",
+      "title": "Various agency administrative procedures.",
+      "url": "https://legiscan.com/IN/bill/HB1466/2025",
+      "reason": "Vector similarity match (score: 0.5629, distance: 0.7764)",
+      "extra_metadata": {
+        "bill_id": "1918399",
+        "status_date": "2025-04-16",
+        "last_action": "Public Law 92",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5629415928354299,
+        "distance": 0.7763832211494446
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses various agency administrative procedures without direct mention of palliative care, hospice, or related services. It does not appear to impact seriously ill patients, their care settings, or healthcare providers in a way that would be relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill includes references to existing agency regulations but does not specify any that would impact palliative care.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1168",
+      "title": "Exemption from certain health care mandates.",
+      "url": "https://legiscan.com/IN/bill/HB1168/2025",
+      "reason": "Vector similarity match (score: 0.5624, distance: 0.7781)",
+      "extra_metadata": {
+        "bill_id": "1903368",
+        "status_date": "2025-01-08",
+        "last_action": "First reading: referred to Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5624059414404071,
+        "distance": 0.778075098991394
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill HB1168 does not mention palliative care, hospice, or end-of-life care directly. It primarily addresses exemptions from certain healthcare mandates without indicating any impact on seriously ill patients or their care settings. Therefore, it does not meet the criteria for relevance to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1443",
+      "title": "Eligibility for foster care maintenance payments.",
+      "url": "https://legiscan.com/IN/bill/HB1443/2025",
+      "reason": "Vector similarity match (score: 0.5623, distance: 0.7783)",
+      "extra_metadata": {
+        "bill_id": "1917682",
+        "status_date": "2025-01-21",
+        "last_action": "Representatives Harris and Andrade added as coauthors",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5623441670255641,
+        "distance": 0.778270423412323
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on eligibility for foster care maintenance payments and does not mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients, care settings, or healthcare providers in a manner relevant to palliative care services.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0485",
+      "title": "Managed care assessment fee.",
+      "url": "https://legiscan.com/IN/bill/SB0485/2025",
+      "reason": "Vector similarity match (score: 0.5618, distance: 0.7799)",
+      "extra_metadata": {
+        "bill_id": "1915254",
+        "status_date": "2025-01-13",
+        "last_action": "Senator Charbonneau added as third author",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5618325666071275,
+        "distance": 0.779889702796936
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill SB0485 focuses on a managed care assessment fee and does not directly mention palliative care, hospice, or end-of-life care. It primarily addresses payment structures within managed care systems without implications for seriously ill patients or their specific care needs.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HR0053",
+      "title": "Recognizing the importance of repentance.",
+      "url": "https://legiscan.com/IN/bill/HR0053/2025",
+      "reason": "Vector similarity match (score: 0.5616, distance: 0.7807)",
+      "extra_metadata": {
+        "bill_id": "2023857",
+        "status_date": "2025-04-15",
+        "last_action": "First reading: referred to the Committee on Courts and Criminal Code",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5615857152803441,
+        "distance": 0.7806720733642578
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill HR0053 focuses on recognizing the importance of repentance and does not mention palliative care, hospice, or any related services. It does not impact seriously ill patients, healthcare settings, or providers, nor does it create any infrastructure relevant to palliative care. Therefore, it falls outside the scope of palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Resolution",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, hospice care, or related topics."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1444",
+      "title": "Gender transition procedures for minors.",
+      "url": "https://legiscan.com/IN/bill/HB1444/2025",
+      "reason": "Vector similarity match (score: 0.5611, distance: 0.7821)",
+      "extra_metadata": {
+        "bill_id": "1918437",
+        "status_date": "2025-01-21",
+        "last_action": "Representative Pierce M added as coauthor",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5611225383268817,
+        "distance": 0.782141923904419
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on gender transition procedures for minors and does not mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients, their care settings, or healthcare providers in a way that would relate to palliative care. Furthermore, it does not create infrastructure or programs that could include palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1310",
+      "title": "Statewide stroke plan.",
+      "url": "https://legiscan.com/IN/bill/HB1310/2025",
+      "reason": "Vector similarity match (score: 0.5609, distance: 0.7829)",
+      "extra_metadata": {
+        "bill_id": "1909489",
+        "status_date": "2025-01-13",
+        "last_action": "First reading: referred to Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5608702727806277,
+        "distance": 0.7829434871673584
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on establishing a statewide stroke plan, which does not directly mention palliative care, hospice, or end-of-life care. It primarily addresses stroke care protocols and does not impact seriously ill patients outside of stroke-related contexts. Therefore, it does not align with the criteria for relevance to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, or other excluded topics."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1438",
+      "title": "Medical record fees.",
+      "url": "https://legiscan.com/IN/bill/HB1438/2025",
+      "reason": "Vector similarity match (score: 0.5608, distance: 0.7831)",
+      "extra_metadata": {
+        "bill_id": "1918268",
+        "status_date": "2025-01-21",
+        "last_action": "Representative Harris added as coauthor",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5608303752811804,
+        "distance": 0.7830703258514404
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses medical record fees and does not directly mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients, their care settings, or healthcare providers in a way that would relate to palliative care services. Therefore, it does not meet the criteria for relevance to palliative care policy.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1194",
+      "title": "County coroners.",
+      "url": "https://legiscan.com/IN/bill/HB1194/2025",
+      "reason": "Vector similarity match (score: 0.5608, distance: 0.7832)",
+      "extra_metadata": {
+        "bill_id": "1905461",
+        "status_date": "2025-05-06",
+        "last_action": "Public Law 225",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5607915706594633,
+        "distance": 0.7831937074661255
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the roles and responsibilities of county coroners without any mention of palliative care, hospice services, or serious illness care. It does not create any infrastructure or programs that would impact seriously ill patients or their care. Therefore, it does not meet the criteria for relevance to palliative care policy.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under exclusion criteria as it does not address aid-in-dying, general hospice care, or other excluded topics."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1241",
+      "title": "Trauma informed care.",
+      "url": "https://legiscan.com/IN/bill/HB1241/2025",
+      "reason": "Vector similarity match (score: 0.5607, distance: 0.7835)",
+      "extra_metadata": {
+        "bill_id": "1907973",
+        "status_date": "2025-02-21",
+        "last_action": "Senator Ford J.D. added as cosponsor",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5606917905846299,
+        "distance": 0.7835110425949097
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on trauma-informed care and does not directly mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients or their care settings in a manner relevant to palliative care policy. Additionally, it does not create infrastructure or programs that would include palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1604",
+      "title": "Cost sharing; out-of-pocket expense credit.",
+      "url": "https://legiscan.com/IN/bill/HB1604/2025",
+      "reason": "Vector similarity match (score: 0.5607, distance: 0.7835)",
+      "extra_metadata": {
+        "bill_id": "1921697",
+        "status_date": "2025-05-06",
+        "last_action": "Public Law 237",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5606871435428167,
+        "distance": 0.783525824546814
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses cost-sharing and out-of-pocket expense credits without any direct mention of palliative care, hospice services, or serious illness. It does not appear to impact healthcare workforce, payment systems, or quality standards in a way that would affect palliative care services.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0350",
+      "title": "Automated external defibrillator requirements.",
+      "url": "https://legiscan.com/IN/bill/SB0350/2025",
+      "reason": "Vector similarity match (score: 0.5607, distance: 0.7836)",
+      "extra_metadata": {
+        "bill_id": "1910851",
+        "status_date": "2025-01-13",
+        "last_action": "Senator Bohacek added as coauthor",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5606685561458368,
+        "distance": 0.7835849523544312
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses requirements for automated external defibrillators and does not mention palliative care, hospice, or end-of-life care. It does not appear to impact seriously ill patients, their care settings, or healthcare providers in a way that relates to palliative care services.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SCR0025",
+      "title": "Honoring EMS providers.",
+      "url": "https://legiscan.com/IN/bill/SCR0025/2025",
+      "reason": "Vector similarity match (score: 0.5605, distance: 0.7840)",
+      "extra_metadata": {
+        "bill_id": "2015715",
+        "status_date": "2025-04-02",
+        "last_action": "Returned to the Senate",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5605456806942417,
+        "distance": 0.7839759263892454
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill SCR0025 focuses on honoring EMS providers and does not directly mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients, their care settings, or healthcare providers in a way that would be relevant to palliative care policy. Therefore, it does not meet the criteria for relevance to palliative care services.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Concurrent Resolution",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SR0076",
+      "title": "Urging the legislative council to assign the topic of whether the use of hyperbaric oxygen therapy in Indiana is being sufficiently regulated.",
+      "url": "https://legiscan.com/IN/bill/SR0076/2025",
+      "reason": "Vector similarity match (score: 0.5602, distance: 0.7850)",
+      "extra_metadata": {
+        "bill_id": "2026443",
+        "status_date": "2025-04-24",
+        "last_action": "First reading: adopted voice vote",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5602127631086743,
+        "distance": 0.7850360895937183
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on the regulation of hyperbaric oxygen therapy and does not mention palliative care, hospice services, or any aspects related to seriously ill patients. It does not create any infrastructure or programs that would include or support palliative care, nor does it impact the healthcare workforce, payment systems, or quality standards relevant to palliative care.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Simple Resolution",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill urges the legislative council to assess the regulation of hyperbaric oxygen therapy.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1617",
+      "title": "Parent's bill of rights.",
+      "url": "https://legiscan.com/IN/bill/HB1617/2025",
+      "reason": "Vector similarity match (score: 0.5602, distance: 0.7851)",
+      "extra_metadata": {
+        "bill_id": "1920815",
+        "status_date": "2025-01-21",
+        "last_action": "First reading: referred to Committee on Family, Children and Human Affairs",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5601980237956048,
+        "distance": 0.7850830554962158
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill titled 'Parent's bill of rights' does not directly mention palliative care, hospice services, or end-of-life care. It primarily focuses on parental rights and does not appear to affect seriously ill patients, their care settings, or healthcare providers in a manner relevant to palliative care. Therefore, it does not meet the criteria for relevance to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1428",
+      "title": "Freedom of conscience in health care.",
+      "url": "https://legiscan.com/IN/bill/HB1428/2025",
+      "reason": "Vector similarity match (score: 0.5602, distance: 0.7852)",
+      "extra_metadata": {
+        "bill_id": "1917722",
+        "status_date": "2025-01-21",
+        "last_action": "Representative Cash added as coauthor",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5601665072420213,
+        "distance": 0.7851834893226624
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses freedom of conscience in healthcare, focusing on the rights of healthcare providers to refuse participation in certain medical procedures based on moral or religious beliefs. It does not explicitly mention palliative care, hospice, or end-of-life care, nor does it impact seriously ill patients or their care settings in a way that would be relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1557",
+      "title": "Prescribed burning.",
+      "url": "https://legiscan.com/IN/bill/HB1557/2025",
+      "reason": "Vector similarity match (score: 0.5601, distance: 0.7853)",
+      "extra_metadata": {
+        "bill_id": "1921890",
+        "status_date": "2025-04-30",
+        "last_action": "Public Law 124",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5601344893071178,
+        "distance": 0.7852855324745178
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill HB1557 titled 'Prescribed burning' does not mention palliative care, hospice, or end-of-life care. It primarily addresses regulations related to prescribed burning practices and does not impact seriously ill patients, healthcare settings, or workforce related to palliative care. Therefore, it is not relevant to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not focus on aid-in-dying, hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill establishes regulations for prescribed burning practices.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1620",
+      "title": "Disclosure of artificial intelligence use in health care.",
+      "url": "https://legiscan.com/IN/bill/HB1620/2025",
+      "reason": "Vector similarity match (score: 0.5600, distance: 0.7857)",
+      "extra_metadata": {
+        "bill_id": "1921138",
+        "status_date": "2025-01-21",
+        "last_action": "First reading: referred to Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5599949211581228,
+        "distance": 0.7857304811477661
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the disclosure of artificial intelligence use in healthcare without any direct mention of palliative care, hospice, or serious illness care. It does not impact the care settings, workforce, payment systems, or quality standards relevant to palliative care. Therefore, it does not meet the criteria for relevance to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill includes provisions for the regulation of AI use in healthcare settings.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HCR0034",
+      "title": "Recognizing Guardian Ad Litems and Court Appointed Special Advocates.",
+      "url": "https://legiscan.com/IN/bill/HCR0034/2025",
+      "reason": "Vector similarity match (score: 0.5600, distance: 0.7858)",
+      "extra_metadata": {
+        "bill_id": "2015717",
+        "status_date": "2025-04-04",
+        "last_action": "Returned to the House",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.559967146702895,
+        "distance": 0.7858190536499023
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily recognizes Guardian Ad Litems and Court Appointed Special Advocates, focusing on legal advocacy for children and does not mention palliative care, hospice, or end-of-life care. It does not appear to impact seriously ill patients, their care settings, or healthcare providers in a way that would relate to palliative care policy.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Concurrent Resolution",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under exclusion criteria as it does not address aid-in-dying, hospice care, or related topics."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1152",
+      "title": "Child fatality information.",
+      "url": "https://legiscan.com/IN/bill/HB1152/2025",
+      "reason": "Vector similarity match (score: 0.5598, distance: 0.7863)",
+      "extra_metadata": {
+        "bill_id": "1903545",
+        "status_date": "2025-02-19",
+        "last_action": "First reading: referred to Committee on Family and Children Services",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5598288761602527,
+        "distance": 0.7862601280212402
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses child fatality information and does not explicitly mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients or their care settings, nor does it create infrastructure that would include palliative care services. Therefore, it does not meet the criteria for relevance to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0182",
+      "title": "Adult protective services.",
+      "url": "https://legiscan.com/IN/bill/SB0182/2025",
+      "reason": "Vector similarity match (score: 0.5598, distance: 0.7864)",
+      "extra_metadata": {
+        "bill_id": "1904023",
+        "status_date": "2025-04-10",
+        "last_action": "Public Law 47",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5597875390569151,
+        "distance": 0.7863920331001282
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses adult protective services and does not explicitly mention palliative care, hospice, or end-of-life care. Its focus is on the protection of vulnerable adults rather than the delivery of specialized medical care for serious illnesses. Therefore, it does not have a direct or indirect impact on palliative care policy or services.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1426",
+      "title": "Liability shield products.",
+      "url": "https://legiscan.com/IN/bill/HB1426/2025",
+      "reason": "Vector similarity match (score: 0.5594, distance: 0.7877)",
+      "extra_metadata": {
+        "bill_id": "1915132",
+        "status_date": "2025-01-13",
+        "last_action": "First reading: referred to Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5593766669681844,
+        "distance": 0.7877041697502136
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses liability shields for products and does not mention palliative care, hospice, or any related services for seriously ill patients. It does not appear to affect healthcare workforce, payment systems, or quality standards in a manner relevant to palliative care. Therefore, it does not meet the criteria for relevance to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1235",
+      "title": "Military and veteran matters.",
+      "url": "https://legiscan.com/IN/bill/HB1235/2025",
+      "reason": "Vector similarity match (score: 0.5589, distance: 0.7891)",
+      "extra_metadata": {
+        "bill_id": "1907618",
+        "status_date": "2025-02-19",
+        "last_action": "Committee report: amend do pass adopted; reassigned to Committee on Appropriations",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5589366208613503,
+        "distance": 0.7891116142272949
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses military and veteran matters without any explicit mention of palliative care, hospice, or serious illness care. It does not appear to affect seriously ill patients, their care settings, or healthcare providers in a way that would be relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0074",
+      "title": "Extension of lifeline law immunity.",
+      "url": "https://legiscan.com/IN/bill/SB0074/2025",
+      "reason": "Vector similarity match (score: 0.5588, distance: 0.7894)",
+      "extra_metadata": {
+        "bill_id": "1899964",
+        "status_date": "2025-04-03",
+        "last_action": "Public Law 19",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5588337023979876,
+        "distance": 0.7894411087036133
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the extension of immunity under the lifeline law, which does not directly relate to palliative care, hospice services, or the care of seriously ill patients. It does not mention palliative care or related services, nor does it impact healthcare workforce, payment systems, or quality standards relevant to palliative care.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under exclusion criteria as it does not address aid-in-dying, general hospice, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0521",
+      "title": "Pregnancy and childbirth matters.",
+      "url": "https://legiscan.com/IN/bill/SB0521/2025",
+      "reason": "Vector similarity match (score: 0.5588, distance: 0.7896)",
+      "extra_metadata": {
+        "bill_id": "1920086",
+        "status_date": "2025-01-16",
+        "last_action": "First reading: referred to Committee on Health and Provider Services",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5587936846501748,
+        "distance": 0.7895692586898804
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses pregnancy and childbirth matters and does not mention palliative care, hospice, or end-of-life care. It does not appear to impact seriously ill patients or their care settings, nor does it create infrastructure relevant to palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under exclusion criteria as it does not address aid-in-dying, hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1590",
+      "title": "Emergency medical services.",
+      "url": "https://legiscan.com/IN/bill/HB1590/2025",
+      "reason": "Vector similarity match (score: 0.5579, distance: 0.7924)",
+      "extra_metadata": {
+        "bill_id": "1920806",
+        "status_date": "2025-01-21",
+        "last_action": "First reading: referred to Committee on Veterans Affairs and Public Safety",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5578999555301899,
+        "distance": 0.7924360632896423
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on emergency medical services and does not mention palliative care, hospice, or end-of-life care. It primarily addresses the regulation and operation of emergency services, which does not directly impact seriously ill patients or the palliative care framework.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill outlines regulations for emergency medical services.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0250",
+      "title": "Pension matters.",
+      "url": "https://legiscan.com/IN/bill/SB0250/2025",
+      "reason": "Vector similarity match (score: 0.5579, distance: 0.7925)",
+      "extra_metadata": {
+        "bill_id": "1911195",
+        "status_date": "2025-02-21",
+        "last_action": "Representative Garcia Wilburn added as cosponsor",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5578894737983201,
+        "distance": 0.7924697399139404
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill titled 'Pension matters' does not mention palliative care, hospice, or end-of-life care in its text. It primarily addresses pension-related issues and does not appear to affect seriously ill patients, their care settings, or healthcare providers. Therefore, it does not have any relevance to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under exclusion criteria as it does not address aid-in-dying, hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1239",
+      "title": "Stillbirth prevention program.",
+      "url": "https://legiscan.com/IN/bill/HB1239/2025",
+      "reason": "Vector similarity match (score: 0.5572, distance: 0.7947)",
+      "extra_metadata": {
+        "bill_id": "1907781",
+        "status_date": "2025-01-09",
+        "last_action": "First reading: referred to Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.557189204132373,
+        "distance": 0.7947224974632263
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on establishing a stillbirth prevention program, which does not directly address palliative care, hospice services, or the needs of seriously ill patients. It does not mention palliative care or related services, nor does it create infrastructure that would include palliative care. Therefore, it is not relevant to the palliative care policy landscape.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0165",
+      "title": "Requirements of short term insurance plans.",
+      "url": "https://legiscan.com/IN/bill/SB0165/2025",
+      "reason": "Vector similarity match (score: 0.5564, distance: 0.7971)",
+      "extra_metadata": {
+        "bill_id": "1900181",
+        "status_date": "2025-01-08",
+        "last_action": "First reading: referred to Committee on Insurance and Financial Institutions",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.556449918444006,
+        "distance": 0.797106921672821
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses requirements for short-term insurance plans and does not mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients, their care settings, or healthcare providers in a way that would be relevant to palliative care policy. Additionally, it does not create any infrastructure or programs that could include palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1030",
+      "title": "Repeal of the death penalty.",
+      "url": "https://legiscan.com/IN/bill/HB1030/2025",
+      "reason": "Vector similarity match (score: 0.5559, distance: 0.7990)",
+      "extra_metadata": {
+        "bill_id": "1897657",
+        "status_date": "2025-01-08",
+        "last_action": "Representative Genda added as coauthor",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5558674923320297,
+        "distance": 0.7989898920059204
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill titled 'Repeal of the death penalty' does not directly mention palliative care, hospice, or end-of-life care. It primarily addresses the legal status of capital punishment and does not impact seriously ill patients, their care settings, healthcare providers, or any related healthcare policies. Therefore, it does not align with the focus areas relevant to palliative care.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  }
+]

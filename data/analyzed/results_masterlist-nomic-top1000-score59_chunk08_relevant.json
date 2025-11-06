@@ -1,0 +1,1797 @@
+[
+  {
+    "bill": {
+      "bill_number": "HB2678",
+      "title": "Relating to services for medically complex Oregonians.",
+      "url": "https://legiscan.com/OR/bill/HB2678/2025",
+      "reason": "Vector similarity match (score: 0.5934, distance: 0.6852)",
+      "extra_metadata": {
+        "bill_id": "1913321",
+        "status_date": "2025-06-27",
+        "last_action": "In committee upon adjournment.",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5933903245269571,
+        "distance": 0.6852313876152039
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill focuses on improving services for medically complex Oregonians, which includes individuals with serious illnesses who may benefit from palliative care. It directs state agencies to study funding pathways and develop a shared functional needs assessment tool, which could enhance access to palliative care services. The establishment of an Exceptional Home Care Worker Certification program may also improve the quality of care for seriously ill patients.",
+      "summary": "HB2678 directs state agencies to study and improve services for medically complex individuals, potentially enhancing access to palliative care. The bill includes provisions for workforce development and funding pathways that could directly benefit seriously ill patients and their families.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "WORKFORCE",
+        "PAYMENT",
+        "QUALITY/STANDARDS"
+      ],
+      "tags": [
+        "medically complex",
+        "home care",
+        "behavioral health",
+        "case management",
+        "funding pathways",
+        "healthcare workforce",
+        "service priority levels",
+        "seniors",
+        "physical disabilities",
+        "Oregon Health Authority"
+      ],
+      "key_provisions": [
+        "Establishes an Exceptional Home Care Worker Certification program to improve care quality.",
+        "Directs studies on funding pathways for behavioral health services for seniors and individuals with physical disabilities.",
+        "Develops a shared functional needs assessment tool to better serve medically complex individuals."
+      ],
+      "palliative_care_impact": "The bill indirectly impacts palliative care by addressing the needs of medically complex patients, which often includes those with serious illnesses. By improving workforce training and funding for services, it creates opportunities for better integration of palliative care into existing healthcare frameworks. The focus on case management and behavioral health services may also enhance holistic care for seriously ill patients.",
+      "relevance_beyond_keywords": "The bill's focus on improving services for medically complex individuals suggests a potential for integrating palliative care into broader healthcare services, even if it does not explicitly mention palliative care.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not primarily focus on excluded topics such as aid-in-dying or general hospice care; instead, it addresses the needs of individuals with complex medical conditions."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill directs state agencies to study and potentially implement new regulations regarding service delivery for medically complex individuals.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB608",
+      "title": "Relating to services for medically complex Oregonians.",
+      "url": "https://legiscan.com/OR/bill/SB608/2025",
+      "reason": "Vector similarity match (score: 0.5934, distance: 0.6852)",
+      "extra_metadata": {
+        "bill_id": "1914363",
+        "status_date": "2025-06-27",
+        "last_action": "In committee upon adjournment.",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5933903245269571,
+        "distance": 0.6852313876152039
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill is relevant to palliative care as it addresses services for medically complex individuals, which includes those with serious illnesses who may benefit from palliative care. The establishment of an Exceptional Home Care Worker Certification program and the study of funding pathways for behavioral health services directly impacts the care delivery for patients with complex medical needs, potentially enhancing access to palliative care services.",
+      "summary": "SB608 aims to improve services for medically complex Oregonians by directing state agencies to study and implement new programs and funding pathways. This bill indirectly impacts palliative care by enhancing the workforce and care delivery systems for individuals with serious illnesses, thereby improving access to necessary services for this population.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "WORKFORCE",
+        "PAYMENT",
+        "QUALITY/STANDARDS"
+      ],
+      "tags": [
+        "medically complex care",
+        "home care",
+        "behavioral health",
+        "case management",
+        "healthcare workforce",
+        "funding pathways",
+        "Oregon Health Authority",
+        "Department of Human Services",
+        "exceptional care",
+        "service priority levels"
+      ],
+      "key_provisions": [
+        "Establishes an Exceptional Home Care Worker Certification program to enhance the workforce for medically complex individuals.",
+        "Directs the Oregon Department of Administrative Services to study the feasibility of a new classification for case managers serving individuals with acute behavioral health needs.",
+        "Develops a data-driven argument for expanding service priority levels for medical assistance eligibility."
+      ],
+      "palliative_care_impact": "The bill's focus on improving services for medically complex individuals may lead to enhanced access to palliative care for seriously ill patients. By strengthening the workforce and establishing new programs, it creates opportunities for better integration of palliative care into the broader healthcare system, benefiting patients with serious illnesses and their families.",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care, and instead addresses the needs of medically complex individuals, which can include those requiring palliative care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill directs state agencies to study and potentially implement new regulations regarding care for medically complex individuals.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0192",
+      "title": "Various health care matters.",
+      "url": "https://legiscan.com/IN/bill/SB0192/2024",
+      "reason": "Vector similarity match (score: 0.5933, distance: 0.6854)",
+      "extra_metadata": {
+        "bill_id": "1800806",
+        "status_date": "2024-01-09",
+        "last_action": "Senator Ford J.D. added as coauthor",
+        "year": "2024",
+        "session": "2024 Regular Session",
+        "similarity_score": 0.5933384059571442,
+        "distance": 0.6853788495063782
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill addresses various healthcare matters including provisions for Medicaid reimbursement, which directly impacts the financial viability of services for seriously ill patients, including those receiving palliative care. The establishment of home health agency cooperative agreements may also enhance access to care for patients with serious illnesses, indirectly supporting palliative care integration.",
+      "summary": "SB0192 regulates Medicaid reimbursement processes for emergency medical services and establishes cooperative agreements for home health agencies. These changes could improve access to care for seriously ill patients, potentially enhancing the delivery of palliative care services. The bill's provisions regarding timely compensation for services may also support the sustainability of palliative care providers.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "PAYMENT",
+        "WORKFORCE",
+        "QUALITY/STANDARDS"
+      ],
+      "tags": [
+        "Medicaid reimbursement",
+        "home health care",
+        "serious illness",
+        "emergency medical services",
+        "healthcare workforce",
+        "cooperative agreements",
+        "patient access",
+        "quality of care",
+        "healthcare policy",
+        "provider compensation"
+      ],
+      "key_provisions": [
+        "Establishes prompt compensation for physicians providing emergency services under Medicaid agreements.",
+        "Allows home health agencies to form cooperative agreements to enhance service delivery.",
+        "Removes the requirement for tuberculosis testing for job applicants prior to patient contact."
+      ],
+      "palliative_care_impact": "The bill impacts palliative care by potentially improving access to timely and quality services for seriously ill patients through better Medicaid reimbursement practices. By facilitating cooperative agreements among home health agencies, it may enhance the integration of palliative care services in home settings, benefiting patients and their families.",
+      "relevance_beyond_keywords": "The bill's provisions on Medicaid reimbursement and home health agency cooperation may create a more supportive environment for the delivery of palliative care services, even though it does not explicitly mention palliative care.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care; it addresses broader healthcare matters that can support seriously ill patients."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill references Medicaid managed care laws and administrative rules regarding provider compensation.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "S00598",
+      "title": "Establishes a state frontotemporal degeneration registry; defines terms; requires every physician, nurse practitioner, nurse physician assistant and general hospital that diagnoses or is treating a patient diagnosed with an FTD disorder to give notice to the department; requires certain information to be confidential; sets forth the duties of the commissioner of health; requires the department of health to create and maintain a webpage.",
+      "url": "https://legiscan.com/NY/bill/S00598/2025",
+      "reason": "Vector similarity match (score: 0.5933, distance: 0.6855)",
+      "extra_metadata": {
+        "bill_id": "1900950",
+        "status_date": "2025-10-16",
+        "last_action": "SIGNED CHAP.479",
+        "year": "2025",
+        "session": "2025-2026 Regular Session",
+        "similarity_score": 0.5932960216224742,
+        "distance": 0.6854992508888245
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill establishes a state frontotemporal degeneration registry, which directly impacts patients diagnosed with frontotemporal degeneration (FTD), a serious illness. By requiring healthcare providers to report cases, it may indirectly enhance the awareness and integration of palliative care services for these patients, as they often require symptom management and supportive care. The establishment of a registry could facilitate better care coordination and access to palliative care resources for this population.",
+      "summary": "The bill establishes a state registry for frontotemporal degeneration, requiring healthcare providers to report diagnoses. This could indirectly improve palliative care access for patients with FTD by enhancing care coordination and awareness of available support services. The registry may also lead to better data collection on the needs of this population, informing future palliative care policies.",
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "QUALITY/STANDARDS",
+        "PUBLIC AWARENESS"
+      ],
+      "tags": [
+        "frontotemporal degeneration",
+        "serious illness",
+        "patient registry",
+        "care coordination",
+        "symptom management",
+        "healthcare providers",
+        "reporting requirements",
+        "quality improvement",
+        "awareness campaigns",
+        "neurological disorders"
+      ],
+      "key_provisions": [
+        "Establishes a state registry for frontotemporal degeneration cases.",
+        "Requires healthcare providers to report diagnoses of FTD to the department of health.",
+        "Mandates confidentiality of the reported information."
+      ],
+      "palliative_care_impact": "The bill indirectly impacts palliative care by creating a registry that may improve the identification and management of patients with frontotemporal degeneration. This could enhance access to palliative care services, as healthcare providers will be more aware of the needs of this population. Improved data collection may also inform quality measures and standards for care delivery in palliative settings.",
+      "relevance_beyond_keywords": "The establishment of a registry for FTD patients may lead to better integration of palliative care services, even if not explicitly mentioned in the bill.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill sets forth duties for the commissioner of health and requires the creation of a webpage for the registry.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "A01985",
+      "title": "Establishes a state frontotemporal degeneration registry; defines terms; requires every physician, nurse practitioner, nurse physician assistant and general hospital that diagnoses or is treating a patient diagnosed with an FTD disorder to give notice to the department; requires certain information to be confidential; sets forth the duties of the commissioner of health; requires the department of health to create and maintain a webpage.",
+      "url": "https://legiscan.com/NY/bill/A01985/2025",
+      "reason": "Vector similarity match (score: 0.5933, distance: 0.6855)",
+      "extra_metadata": {
+        "bill_id": "1917669",
+        "status_date": "2025-01-14",
+        "last_action": "substituted by s598b",
+        "year": "2025",
+        "session": "2025-2026 Regular Session",
+        "similarity_score": 0.5932959796607871,
+        "distance": 0.685499370098114
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill establishes a state frontotemporal degeneration registry, which directly impacts seriously ill patients diagnosed with frontotemporal degeneration (FTD). By requiring healthcare providers to report cases and maintain confidentiality, it enhances the tracking and management of this serious illness, potentially improving care coordination and access to palliative services for affected patients.",
+      "summary": "The bill establishes a registry for frontotemporal degeneration, requiring healthcare providers to report cases to the state health department. This could indirectly enhance palliative care services for patients with FTD by improving data collection and care coordination for this serious illness, thereby potentially leading to better symptom management and quality of life.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "QUALITY/STANDARDS",
+        "WORKFORCE"
+      ],
+      "tags": [
+        "frontotemporal degeneration",
+        "serious illness",
+        "patient registry",
+        "healthcare providers",
+        "data collection",
+        "care coordination",
+        "symptom management",
+        "quality of life",
+        "confidentiality",
+        "health department"
+      ],
+      "key_provisions": [
+        "Establishes a state registry for patients diagnosed with frontotemporal degeneration.",
+        "Requires healthcare providers to notify the health department upon diagnosing or treating a patient with an FTD disorder.",
+        "Mandates confidentiality of the information collected in the registry."
+      ],
+      "palliative_care_impact": "The establishment of a registry for frontotemporal degeneration could lead to improved tracking of patients with this serious illness, enhancing the ability of healthcare providers to deliver timely and effective palliative care. By ensuring that healthcare providers report cases, the bill may facilitate better care coordination and access to specialized services for patients suffering from FTD.",
+      "relevance_beyond_keywords": "The bill's focus on data collection and case reporting for a serious illness may lead to improvements in healthcare delivery systems that include palliative care services, even though it does not explicitly mention palliative care.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana, and instead addresses the needs of patients with a specific serious illness."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill requires the health department to create and maintain a webpage for the registry, indicating regulatory oversight.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "A02390",
+      "title": "Relates to developing and implementing a residency program initiative to service medically underserved areas; makes an appropriation therefor.",
+      "url": "https://legiscan.com/NY/bill/A02390/2019",
+      "reason": "Vector similarity match (score: 0.5932, distance: 0.6857)",
+      "extra_metadata": {
+        "bill_id": "1167105",
+        "status_date": "2019-01-22",
+        "last_action": "referred to health",
+        "year": "2019",
+        "session": "2019-2020 Regular Session",
+        "similarity_score": 0.5932161582971829,
+        "distance": 0.6857261657714844
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill establishes a residency program initiative aimed at addressing healthcare provider shortages in medically underserved areas, which could include training in palliative care. By enhancing the healthcare workforce, it indirectly supports the delivery of palliative care services to seriously ill patients in those areas. The focus on underserved populations aligns with the need for improved access to comprehensive care, including palliative services.",
+      "summary": "The bill seeks to develop and implement a residency program initiative to serve medically underserved areas, with an appropriation for funding. This initiative could enhance the healthcare workforce, indirectly benefiting palliative care services by increasing the availability of trained providers in areas where access to such care is limited. The expected impact includes improved access to quality care for seriously ill patients in underserved regions.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "WORKFORCE",
+        "CLINICAL SKILL-BUILDING"
+      ],
+      "tags": [
+        "residency program",
+        "healthcare workforce",
+        "medically underserved",
+        "training requirements",
+        "serious illness",
+        "access to care",
+        "healthcare provider shortage",
+        "quality of care",
+        "rural health",
+        "community-based care"
+      ],
+      "key_provisions": [
+        "Establishes a residency program initiative aimed at medically underserved areas.",
+        "Allocates funding for the implementation of the residency program.",
+        "Focuses on increasing the number of healthcare providers in underserved regions."
+      ],
+      "palliative_care_impact": "The bill indirectly impacts palliative care by potentially increasing the number of healthcare providers trained in palliative care principles, thereby improving access to such services for seriously ill patients in underserved areas. This could lead to enhanced quality of care and better symptom management for patients living with serious illnesses.",
+      "relevance_beyond_keywords": "The bill's focus on workforce development may lead to a greater number of healthcare professionals equipped to provide palliative care, even if the term 'palliative care' is not explicitly mentioned.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana. Its primary focus is on workforce development in underserved areas."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "A03223",
+      "title": "Relates to developing and implementing a residency program initiative to service medically underserved areas; makes an appropriation therefor.",
+      "url": "https://legiscan.com/NY/bill/A03223/2021",
+      "reason": "Vector similarity match (score: 0.5932, distance: 0.6857)",
+      "extra_metadata": {
+        "bill_id": "1419148",
+        "status_date": "2021-01-22",
+        "last_action": "referred to health",
+        "year": "2021",
+        "session": "2021-2022 Regular Session",
+        "similarity_score": 0.5932161582971829,
+        "distance": 0.6857261657714844
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill focuses on developing a residency program initiative aimed at medically underserved areas, which could indirectly enhance the palliative care workforce by increasing the number of trained healthcare providers in these regions. By addressing workforce shortages, it may improve access to palliative care services for seriously ill patients in underserved areas.",
+      "summary": "The bill establishes a residency program initiative to address healthcare provider shortages in medically underserved areas, potentially increasing access to palliative care services. By enhancing the healthcare workforce, it indirectly supports the delivery of palliative care to seriously ill patients, improving their quality of life.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "WORKFORCE",
+        "CLINICAL SKILL-BUILDING"
+      ],
+      "tags": [
+        "residency program",
+        "healthcare workforce",
+        "medically underserved",
+        "serious illness",
+        "training requirements",
+        "access to care",
+        "quality of life",
+        "healthcare providers",
+        "palliative care integration",
+        "rural health"
+      ],
+      "key_provisions": [
+        "Establishes a residency program initiative targeting medically underserved areas.",
+        "Allocates funding for the development and implementation of the residency program.",
+        "Aims to increase the number of healthcare providers trained in various specialties, potentially including palliative care."
+      ],
+      "palliative_care_impact": "The bill indirectly impacts palliative care by potentially increasing the number of healthcare providers available to deliver palliative services in underserved areas. This could lead to improved access and quality of care for seriously ill patients who may otherwise face barriers to receiving appropriate care.",
+      "relevance_beyond_keywords": "The bill addresses workforce development, which could include training for palliative care providers, thereby enhancing the capacity to deliver palliative care services in underserved regions.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana. Its focus on workforce development is relevant to palliative care."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB590",
+      "title": "Relating to long term care.",
+      "url": "https://legiscan.com/OR/bill/SB590/2025",
+      "reason": "Vector similarity match (score: 0.5931, distance: 0.6861)",
+      "extra_metadata": {
+        "bill_id": "1913147",
+        "status_date": "2025-06-27",
+        "last_action": "In committee upon adjournment.",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.593088488780354,
+        "distance": 0.686089038848877
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill directs the Department of Human Services to study long-term care, which can indirectly impact palliative care by influencing policies and practices related to the care of seriously ill patients. The findings from this study could lead to recommendations that enhance access to palliative care services, improve care quality, and address workforce needs in long-term care settings.",
+      "summary": "SB590 requires the Department of Human Services to study long-term care and report findings to legislative committees. This study may lead to improvements in the delivery of care for seriously ill patients, potentially enhancing access to palliative care services and addressing workforce issues in long-term care settings.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "WORKFORCE",
+        "QUALITY/STANDARDS",
+        "PATIENT RIGHTS AND PROTECTIONS"
+      ],
+      "tags": [
+        "long-term care",
+        "serious illness",
+        "workforce development",
+        "quality improvement",
+        "patient access",
+        "healthcare policy",
+        "care standards",
+        "Department of Human Services",
+        "legislative study",
+        "interim committees"
+      ],
+      "key_provisions": [
+        "Requires the Department of Human Services to study long-term care.",
+        "Directs submission of findings to the interim committees of the Legislative Assembly related to health.",
+        "Sunsets on January 2, 2027, indicating a limited time frame for the study."
+      ],
+      "palliative_care_impact": "The bill indirectly impacts palliative care by potentially leading to improved policies and practices in long-term care that benefit seriously ill patients. It may address workforce challenges and enhance quality standards, which are crucial for effective palliative care delivery.",
+      "relevance_beyond_keywords": "The study may reveal gaps in long-term care that could be addressed through palliative care integration, improving overall care for seriously ill patients.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care; it is relevant to long-term care and potentially to palliative care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill requires a study that may lead to regulatory recommendations for long-term care.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB2496",
+      "title": "AGING-DHS-DHFS-DON SCORES",
+      "url": "https://legiscan.com/IL/bill/HB2496/2019",
+      "reason": "Vector similarity match (score: 0.5931, distance: 0.6861)",
+      "extra_metadata": {
+        "bill_id": "1202368",
+        "status_date": "2019-02-13",
+        "last_action": "Rule 19(a) / Re-referred to Rules Committee",
+        "year": "2019",
+        "session": "2019-2020 Regular Session",
+        "similarity_score": 0.5930801862934313,
+        "distance": 0.686112642288208
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill amends multiple acts related to aging and disability services, impacting eligibility for long-term care services, which can include palliative care for seriously ill patients. By ensuring continued access to home and community-based services for individuals with serious illness, the bill indirectly supports palliative care integration within these settings.",
+      "summary": "HB2496 regulates eligibility for long-term care services under various programs, ensuring that individuals with a score of 29 or higher can access necessary care. This impacts palliative care by maintaining support for seriously ill patients, potentially enhancing their quality of life through continued access to community-based services.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "PAYMENT",
+        "QUALITY/STANDARDS",
+        "WORKFORCE"
+      ],
+      "tags": [
+        "long-term care",
+        "community care",
+        "home services",
+        "nursing home care",
+        "serious illness",
+        "patient eligibility",
+        "supportive living",
+        "care transition",
+        "Illinois Public Aid Code",
+        "Department on Aging"
+      ],
+      "key_provisions": [
+        "Individuals with a score of 29 or higher are eligible for long-term care services until a new assessment tool is implemented.",
+        "Prohibits the Department on Aging from restricting eligibility under the Community Care Program to those qualifying for medical assistance.",
+        "Requires the development of a transition plan before involuntary discharge from institutional care."
+      ],
+      "palliative_care_impact": "The bill ensures that seriously ill patients maintain access to necessary long-term care services, which can include palliative care. By preventing involuntary discharge and maintaining eligibility criteria, it supports the integration of palliative care into community and institutional settings, benefiting patients and their families.",
+      "relevance_beyond_keywords": "The bill's provisions on eligibility and care access directly impact seriously ill patients, facilitating their ability to receive supportive services that may include palliative care without explicitly mentioning it.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care, and instead addresses long-term care services relevant to seriously ill patients."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill requires the Departments involved to adopt rules regarding the updated assessment tool, impacting how services are delivered.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB0422",
+      "title": "AGING-DHS-DHFS-DON SCORES",
+      "url": "https://legiscan.com/IL/bill/HB0422/2021",
+      "reason": "Vector similarity match (score: 0.5931, distance: 0.6861)",
+      "extra_metadata": {
+        "bill_id": "1431933",
+        "status_date": "2021-02-01",
+        "last_action": "Rule 19(a) / Re-referred to Rules Committee",
+        "year": "2021",
+        "session": "2021-2022 Regular Session",
+        "similarity_score": 0.5930801862934313,
+        "distance": 0.686112642288208
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill amends various acts related to aging and disability services, impacting individuals with serious illnesses who may require long-term care services. By establishing eligibility criteria for home and community-based services, it indirectly supports access to care for seriously ill patients, which is relevant to palliative care. The provisions regarding continued eligibility and assessment tools may facilitate better care planning for individuals with serious illnesses.",
+      "summary": "The bill regulates eligibility for long-term care services under the Community Care Program and related programs, ensuring that individuals with serious illnesses can access necessary support. It impacts palliative care by potentially improving access to home and community-based services for seriously ill patients, thereby enhancing their quality of life. Key provisions include maintaining eligibility criteria and prohibiting increased copayment levels.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "PAYMENT",
+        "QUALITY/STANDARDS",
+        "WORKFORCE"
+      ],
+      "tags": [
+        "long-term care",
+        "home and community-based services",
+        "serious illness",
+        "assessment tool",
+        "eligibility criteria",
+        "Community Care Program",
+        "patient rights",
+        "supportive living",
+        "nursing home care",
+        "Department on Aging"
+      ],
+      "key_provisions": [
+        "Individuals with a score of 29 or higher are eligible for institutional and home and community-based long-term care services.",
+        "Prohibits the Department on Aging from adopting rules that restrict eligibility under the Community Care Program.",
+        "Requires the development of a transition plan before involuntary discharge from institutional settings."
+      ],
+      "palliative_care_impact": "The bill impacts palliative care indirectly by ensuring that seriously ill patients have access to necessary long-term care services. This access can improve their quality of life and facilitate better care coordination. The provisions related to eligibility and assessment tools may enhance the integration of palliative care services within the broader healthcare system, benefiting patients and providers alike.",
+      "relevance_beyond_keywords": "The bill supports the healthcare infrastructure for seriously ill patients by ensuring access to community-based services, which can include palliative care elements without explicitly mentioning them.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care; instead, it addresses long-term care services relevant to seriously ill patients."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill requires the Departments to adopt rules regarding the updated assessment tool for determining eligibility for services.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB3396",
+      "title": "Relating to health care; and declaring an emergency.",
+      "url": "https://legiscan.com/OR/bill/HB3396/2023",
+      "reason": "Vector similarity match (score: 0.5929, distance: 0.6865)",
+      "extra_metadata": {
+        "bill_id": "1718917",
+        "status_date": "2023-08-04",
+        "last_action": "Chapter 441, (2023 Laws): Effective date July 27, 2023.",
+        "year": "2023",
+        "session": "2023 Regular Session",
+        "similarity_score": 0.5929323528982469,
+        "distance": 0.6865330338478088
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill establishes a Joint Task Force on Hospital Discharge Challenges, which could indirectly impact palliative care by addressing discharge processes for seriously ill patients. Additionally, it requires the Oregon Health Authority to provide grants to support clinical education and workforce development, which may enhance the training of healthcare professionals in palliative care practices.",
+      "summary": "HB3396 establishes a Joint Task Force on Hospital Discharge Challenges and provides grants to support clinical education and workforce development in healthcare. This bill indirectly impacts palliative care by potentially improving discharge processes for seriously ill patients and enhancing the training of healthcare professionals in palliative care practices. The expected scope of impact includes statewide programs aimed at improving care transitions for patients with serious illnesses.",
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [
+        "CLINICAL SKILL-BUILDING",
+        "WORKFORCE",
+        "QUALITY/STANDARDS"
+      ],
+      "tags": [
+        "hospital discharge",
+        "clinical education",
+        "workforce development",
+        "serious illness",
+        "task force",
+        "grants",
+        "healthcare professionals",
+        "training programs",
+        "care transitions",
+        "Oregon Health Authority"
+      ],
+      "key_provisions": [
+        "Establishes a Joint Task Force on Hospital Discharge Challenges to address discharge processes for patients.",
+        "Requires the Oregon Health Authority to extend existing contracts with coordinated care organizations to improve care delivery.",
+        "Provides grants to support clinical education at hospitals and healthcare facilities, enhancing training for healthcare professionals."
+      ],
+      "palliative_care_impact": "The bill impacts palliative care indirectly by improving discharge processes for seriously ill patients, which can enhance their transition to home or other care settings. It also supports workforce development through grants for training healthcare professionals, which may include palliative care education, thereby potentially increasing the capacity for palliative care services in the state.",
+      "relevance_beyond_keywords": "The bill's focus on improving healthcare workforce development and discharge processes can benefit seriously ill patients receiving palliative care without explicitly mentioning it.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care; instead, it addresses healthcare delivery and workforce issues relevant to palliative care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill requires the Oregon Health Authority to extend contracts and provide grants, which may necessitate regulatory adjustments.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB4",
+      "title": "Relating to the provision and delivery of certain health care services in this state, including services under Medicaid and other public benefits programs, using telecommunications or information technology and to reimbursement for some of those services.",
+      "url": "https://legiscan.com/TX/bill/HB4/2021",
+      "reason": "Vector similarity match (score: 0.5929, distance: 0.6866)",
+      "extra_metadata": {
+        "bill_id": "1464908",
+        "status_date": "2021-06-15",
+        "last_action": "Effective immediately",
+        "year": "2021",
+        "session": "2021 Regular Session",
+        "similarity_score": 0.592915714990354,
+        "distance": 0.6865803599357605
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill addresses the provision and delivery of healthcare services through telehealth, which can significantly impact access to palliative care for seriously ill patients. By expanding Medicaid and public benefits programs to include telehealth services, it indirectly supports palliative care delivery, especially for those who may have difficulty accessing in-person services due to their condition. The focus on reimbursement for telehealth services also enhances the financial viability of providing palliative care remotely.",
+      "summary": "HB4 expands the use of telehealth in the provision of healthcare services under Medicaid and other public benefits programs, which can improve access to palliative care for seriously ill patients. By allowing for reimbursement of telehealth services, the bill supports the integration of palliative care into broader healthcare delivery systems, particularly for patients in rural or underserved areas.",
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [
+        "TELEHEALTH",
+        "PAYMENT",
+        "QUALITY/STANDARDS"
+      ],
+      "tags": [
+        "telehealth",
+        "Medicaid",
+        "palliative care access",
+        "reimbursement",
+        "serious illness",
+        "healthcare delivery",
+        "public benefits",
+        "rural health",
+        "healthcare technology",
+        "remote care"
+      ],
+      "key_provisions": [
+        "Expands Medicaid coverage to include telehealth services for various healthcare needs.",
+        "Establishes reimbursement guidelines for telehealth services provided under public benefits programs.",
+        "Promotes the use of telecommunications and information technology in healthcare delivery."
+      ],
+      "palliative_care_impact": "The bill enhances access to palliative care for seriously ill patients by facilitating telehealth services, which can be crucial for those unable to travel for in-person consultations. It indirectly supports palliative care providers by ensuring they can be reimbursed for virtual visits, thereby encouraging more healthcare professionals to offer these services. This could lead to improved patient outcomes and quality of life for individuals managing serious illnesses.",
+      "relevance_beyond_keywords": "The expansion of telehealth services can significantly benefit homebound patients with serious illnesses who require ongoing palliative care but may struggle to access traditional healthcare settings.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies, making it relevant to palliative care policy."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill outlines new reimbursement regulations for telehealth services under Medicaid.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "AB2338",
+      "title": "Health care decisions: decisionmakers and surrogates.",
+      "url": "https://legiscan.com/CA/bill/AB2338/2021",
+      "reason": "Vector similarity match (score: 0.5928, distance: 0.6868)",
+      "extra_metadata": {
+        "bill_id": "1592644",
+        "status_date": "2022-09-29",
+        "last_action": "Chaptered by Secretary of State - Chapter 782, Statutes of 2022.",
+        "year": "2021",
+        "session": "2021-2022 Regular Session",
+        "similarity_score": 0.5928474758104241,
+        "distance": 0.686774492263794
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill amends the Probate Code to clarify the roles of decision-makers and surrogates in healthcare decisions, which is crucial for ensuring that seriously ill patients receive appropriate care aligned with their wishes. By establishing clearer guidelines for healthcare decision-making, it indirectly supports palliative care by enhancing patient autonomy and ensuring that care aligns with patients' values and preferences.",
+      "summary": "AB2338 regulates health care decision-making by clarifying the roles of decision-makers and surrogates, which impacts how seriously ill patients receive care. This bill enhances patient autonomy and decision-making processes, indirectly supporting palliative care services by ensuring that patients' preferences are respected in their treatment plans.",
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "QUALITY/STANDARDS"
+      ],
+      "tags": [
+        "healthcare decision-making",
+        "patient autonomy",
+        "surrogate decision-makers",
+        "serious illness",
+        "advance care planning",
+        "Probate Code",
+        "patient rights",
+        "healthcare surrogacy",
+        "quality of care",
+        "decision-making standards"
+      ],
+      "key_provisions": [
+        "Amends Section 4711 of the Probate Code to clarify the roles of healthcare decision-makers.",
+        "Adds Section 4712 to establish guidelines for surrogate decision-making in healthcare.",
+        "Enhances the legal framework for patient autonomy in healthcare decisions."
+      ],
+      "palliative_care_impact": "This bill impacts palliative care by ensuring that seriously ill patients have their healthcare decisions respected and facilitated through clear guidelines for surrogates. By promoting patient autonomy and informed decision-making, the bill enhances the quality of care for patients receiving palliative services, ensuring their treatment aligns with their values and preferences.",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care; instead, it enhances patient rights and decision-making processes relevant to seriously ill patients."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill amends existing regulations within the Probate Code related to healthcare decision-making.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB296",
+      "title": "Relating to hospital discharge challenges; and declaring an emergency.",
+      "url": "https://legiscan.com/OR/bill/SB296/2025",
+      "reason": "Vector similarity match (score: 0.5928, distance: 0.6868)",
+      "extra_metadata": {
+        "bill_id": "1913129",
+        "status_date": "2025-08-13",
+        "last_action": "Effective date, July 31, 2025.",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5928457579864946,
+        "distance": 0.6867793798446655
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill addresses hospital discharge challenges and aims to improve the discharge process for patients, including those with complex medical conditions. By studying options for medical respite programs and establishing a post-hospital extended care benefit, it indirectly impacts seriously ill patients who may require palliative care services during transitions from hospital to home or skilled nursing facilities.",
+      "summary": "SB296 seeks to enhance the hospital discharge process by directing state agencies to study eligibility determinations for long-term care and expand medical respite programs. This legislation is relevant to palliative care as it aims to improve care transitions for seriously ill patients, potentially facilitating access to palliative care services during recovery and rehabilitation.",
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [
+        "PAYMENT",
+        "QUALITY/STANDARDS",
+        "WORKFORCE"
+      ],
+      "tags": [
+        "hospital discharge",
+        "medical respite",
+        "long-term care",
+        "skilled nursing facility",
+        "care transitions",
+        "serious illness",
+        "Medicaid",
+        "patient eligibility",
+        "healthcare access",
+        "coordinated care organizations"
+      ],
+      "key_provisions": [
+        "Directs DHS and OHA to study ways to expedite eligibility determination for long-term care services.",
+        "Establishes a post-hospital extended care benefit for skilled nursing facility stays up to 100 days.",
+        "Explores options to expand medical respite programs in partnership with coordinated care organizations."
+      ],
+      "palliative_care_impact": "The bill impacts palliative care by improving the discharge process for seriously ill patients, which can enhance their access to necessary care and support services. It creates opportunities for better care coordination and integration of palliative care during transitions, ultimately aiming to improve patient outcomes and quality of life.",
+      "relevance_beyond_keywords": "The bill's focus on improving discharge processes and expanding medical respite programs can benefit seriously ill patients who may require ongoing palliative care support after hospitalization.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care, but rather addresses systemic healthcare improvements for seriously ill patients."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill directs state agencies to study regulatory changes needed for facilities serving residents with complex medical conditions.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB3423",
+      "title": "Relating to equitable access to health care services; declaring an emergency.",
+      "url": "https://legiscan.com/OR/bill/HB3423/2023",
+      "reason": "Vector similarity match (score: 0.5928, distance: 0.6868)",
+      "extra_metadata": {
+        "bill_id": "1718882",
+        "status_date": "2023-06-25",
+        "last_action": "In committee upon adjournment.",
+        "year": "2023",
+        "session": "2023 Regular Session",
+        "similarity_score": 0.5928318062731024,
+        "distance": 0.6868190765380859
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill establishes minimum reimbursement amounts for primary care, dental care, and behavioral health services for recipients of medical assistance, which indirectly impacts palliative care by potentially improving access to necessary healthcare services for seriously ill patients. By ensuring equitable access to healthcare services, it may enhance the overall care environment for patients requiring palliative interventions.",
+      "summary": "HB3423 establishes minimum reimbursement rates for primary care, dental, and behavioral health services for medical assistance recipients, which may indirectly benefit seriously ill patients by improving access to essential healthcare services. This could enhance the quality of care and support available for individuals in need of palliative care services.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "PAYMENT",
+        "QUALITY/STANDARDS",
+        "WORKFORCE"
+      ],
+      "tags": [
+        "healthcare access",
+        "reimbursement rates",
+        "medical assistance",
+        "serious illness",
+        "equitable care",
+        "primary care",
+        "behavioral health",
+        "quality of care",
+        "healthcare services",
+        "palliative care integration"
+      ],
+      "key_provisions": [
+        "Establishes minimum reimbursement amounts for primary care services provided to medical assistance recipients.",
+        "Establishes minimum reimbursement amounts for dental care services provided to medical assistance recipients.",
+        "Establishes minimum reimbursement amounts for behavioral health services provided to medical assistance recipients."
+      ],
+      "palliative_care_impact": "The bill impacts palliative care indirectly by enhancing the reimbursement framework for essential healthcare services, which can improve access for seriously ill patients. This may lead to better integration of palliative care services within the broader healthcare system, as increased funding can support more comprehensive care options for patients with serious illnesses.",
+      "relevance_beyond_keywords": "This bill improves healthcare access for seriously ill patients through enhanced reimbursement, which can facilitate better palliative care integration within existing healthcare services.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, or other excluded topics; instead, it addresses reimbursement for essential healthcare services that can benefit seriously ill patients."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill establishes regulatory standards for reimbursement rates for various healthcare services.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "S07080",
+      "title": "Authorizes the office for the aging to establish and operate person-centered training and technical assistance programs to improve the quality of dependent care by informal caregivers.",
+      "url": "https://legiscan.com/NY/bill/S07080/2021",
+      "reason": "Vector similarity match (score: 0.5925, distance: 0.6876)",
+      "extra_metadata": {
+        "bill_id": "1512712",
+        "status_date": "2021-05-27",
+        "last_action": "REFERRED TO AGING",
+        "year": "2021",
+        "session": "2021-2022 Regular Session",
+        "similarity_score": 0.5925471755355937,
+        "distance": 0.6876293420791626
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill is relevant as it establishes person-centered training and technical assistance programs aimed at improving the quality of dependent care provided by informal caregivers. Such training can enhance the skills of caregivers who support seriously ill patients, thereby indirectly benefiting palliative care by improving the overall quality of care and support for patients and their families.",
+      "summary": "The bill authorizes the office for the aging to create training programs for informal caregivers to enhance the quality of dependent care. This initiative indirectly impacts palliative care by equipping caregivers with skills to better support seriously ill patients, potentially improving their quality of life and care experience.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "CLINICAL SKILL-BUILDING",
+        "WORKFORCE",
+        "QUALITY/STANDARDS"
+      ],
+      "tags": [
+        "informal caregivers",
+        "dependent care",
+        "training programs",
+        "caregiver support",
+        "quality improvement",
+        "serious illness",
+        "patient-centered care",
+        "healthcare workforce",
+        "technical assistance",
+        "aging services"
+      ],
+      "key_provisions": [
+        "Establishes person-centered training programs for informal caregivers.",
+        "Provides technical assistance to improve the quality of dependent care.",
+        "Focuses on enhancing caregiver skills to support seriously ill patients."
+      ],
+      "palliative_care_impact": "The bill impacts palliative care by indirectly enhancing the skills of informal caregivers who often play a crucial role in supporting seriously ill patients. Improved caregiver training can lead to better symptom management and emotional support for patients, thus enhancing their overall quality of life.",
+      "relevance_beyond_keywords": "The bill's focus on caregiver training and support can lead to improved care environments for seriously ill patients, even without explicit mention of palliative care.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care, but rather on enhancing caregiver support for dependent care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill may require the establishment of new regulations for training programs, though specific regulatory details are not provided.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB219",
+      "title": "Relating to advance directives.",
+      "url": "https://legiscan.com/OR/bill/SB219/2021",
+      "reason": "Vector similarity match (score: 0.5923, distance: 0.6882)",
+      "extra_metadata": {
+        "bill_id": "1401233",
+        "status_date": "2021-06-26",
+        "last_action": "In committee upon adjournment.",
+        "year": "2021",
+        "session": "2021 Regular Session",
+        "similarity_score": 0.5923465447826158,
+        "distance": 0.6882009506225586
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill establishes a statewide advance directive registry, which is crucial for ensuring that patients with serious illnesses can communicate their care preferences effectively. By facilitating advance care planning, the bill indirectly supports palliative care by promoting patient rights and ensuring that healthcare providers are aware of patients' wishes regarding symptom management and end-of-life care.",
+      "summary": "SB219 directs the Oregon Health Authority to establish a statewide registry for advance directives, enhancing the ability of seriously ill patients to communicate their care preferences. This initiative supports palliative care by ensuring that healthcare providers have access to patients' advance directives, thereby improving the quality of care and aligning treatment with patients' values.",
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "QUALITY/STANDARDS",
+        "CLINICAL SKILL-BUILDING"
+      ],
+      "tags": [
+        "advance directives",
+        "patient rights",
+        "healthcare quality",
+        "serious illness",
+        "communication training",
+        "registry",
+        "Oregon Health Authority",
+        "care planning",
+        "healthcare providers",
+        "patient preferences"
+      ],
+      "key_provisions": [
+        "Establishes a statewide advance directive registry for collection and dissemination of advance directives.",
+        "Requires the Oregon Health Authority to operate the registry and ensure its accessibility to healthcare providers.",
+        "Creates an advisory committee to guide the development and administration of the registry."
+      ],
+      "palliative_care_impact": "The establishment of the advance directive registry directly impacts palliative care by ensuring that healthcare providers can access patients' care preferences, which is essential for delivering patient-centered care. This registry supports seriously ill patients in articulating their wishes regarding symptom management and end-of-life care, thus enhancing the quality of care they receive.",
+      "relevance_beyond_keywords": "The bill enhances the infrastructure for advance care planning, which is a critical component of palliative care, by ensuring that patients' wishes are documented and accessible to their healthcare providers.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, or any excluded topics; instead, it promotes patient rights and quality standards related to advance care planning."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill mandates the establishment of a registry and outlines the regulatory framework for its operation.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "S08337",
+      "title": "Relates to the definition of the \"look-back period\" for the determination of eligibility of an individual for medical assistance benefits and exempts certain assets used on the individual's behalf or for care services provided to the individual by a family member or informal caregiver.",
+      "url": "https://legiscan.com/NY/bill/S08337/2019",
+      "reason": "Vector similarity match (score: 0.5922, distance: 0.6886)",
+      "extra_metadata": {
+        "bill_id": "1366032",
+        "status_date": "2020-07-22",
+        "last_action": "referred to ways and means",
+        "year": "2019",
+        "session": "2019-2020 Regular Session",
+        "similarity_score": 0.592190841057241,
+        "distance": 0.6886448264122009
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill modifies the definition of the 'look-back period' for medical assistance eligibility, allowing certain assets to be exempted when used for care services provided by family members or informal caregivers. This change can indirectly benefit seriously ill patients by potentially increasing their access to medical assistance, which may include palliative care services. By supporting informal caregiving, the bill may also enhance the overall care environment for patients with serious illnesses.",
+      "summary": "Bill S08337 adjusts the look-back period for determining eligibility for medical assistance benefits and exempts specific assets related to care services provided by family members. This could indirectly impact palliative care by improving access to necessary medical assistance for seriously ill patients, thereby enhancing their overall care experience.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "PAYMENT",
+        "WORKFORCE",
+        "QUALITY/STANDARDS"
+      ],
+      "tags": [
+        "medical assistance",
+        "look-back period",
+        "informal caregiver",
+        "serious illness",
+        "asset exemption",
+        "family caregiving",
+        "healthcare access",
+        "Medicaid",
+        "patient eligibility",
+        "care services"
+      ],
+      "key_provisions": [
+        "Defines the look-back period for medical assistance eligibility.",
+        "Exempts certain assets used for care services provided by family members.",
+        "Aims to improve access to medical assistance for seriously ill individuals."
+      ],
+      "palliative_care_impact": "The bill indirectly impacts palliative care by potentially increasing access to medical assistance for seriously ill patients, which may cover palliative care services. By allowing exemptions for assets used for care, it supports informal caregivers, enhancing the care environment for patients who may benefit from palliative interventions. This could lead to improved quality of life for patients and families navigating serious illnesses.",
+      "relevance_beyond_keywords": "The bill's provisions may facilitate better access to care for seriously ill patients without explicitly mentioning palliative care.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana. Its focus on medical assistance eligibility and caregiver support is relevant to palliative care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill modifies existing regulations regarding medical assistance eligibility criteria.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "A10489",
+      "title": "Relates to the definition of the \"look-back period\" for the determination of eligibility of an individual for medical assistance benefits and exempts certain assets used on the individual's behalf or for care services provided to the individual by a family member or informal caregiver.",
+      "url": "https://legiscan.com/NY/bill/A10489/2019",
+      "reason": "Vector similarity match (score: 0.5922, distance: 0.6886)",
+      "extra_metadata": {
+        "bill_id": "1366970",
+        "status_date": "2020-05-22",
+        "last_action": "reported referred to ways and means",
+        "year": "2019",
+        "session": "2019-2020 Regular Session",
+        "similarity_score": 0.5921907783489904,
+        "distance": 0.6886450052261353
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill modifies the look-back period for determining eligibility for medical assistance benefits and exempts certain assets related to care services provided by family members or informal caregivers. By potentially increasing access to medical assistance for seriously ill individuals, it indirectly supports palliative care by allowing more patients to receive necessary care services without financial penalties.",
+      "summary": "Bill A10489 changes the definition of the look-back period for medical assistance eligibility, allowing exemptions for assets used for care services provided by family members. This could enhance access to care for seriously ill patients, indirectly benefiting palliative care services by facilitating financial support for necessary care.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "PAYMENT",
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "QUALITY/STANDARDS"
+      ],
+      "tags": [
+        "medical assistance",
+        "look-back period",
+        "caregiver support",
+        "financial eligibility",
+        "serious illness",
+        "asset exemption",
+        "family caregiver",
+        "healthcare access",
+        "Medicaid",
+        "patient support"
+      ],
+      "key_provisions": [
+        "Defines the look-back period for medical assistance eligibility.",
+        "Exempts certain assets used for care services provided by family members.",
+        "Potentially increases access to medical assistance for individuals with serious illness."
+      ],
+      "palliative_care_impact": "The bill impacts palliative care by potentially increasing access to medical assistance for seriously ill patients, which can help them receive necessary care services. This change may improve the financial situation of patients and their families, allowing for better support and resources for palliative care integration.",
+      "relevance_beyond_keywords": "The bill indirectly impacts palliative care by enhancing access to financial resources for care services, which can support seriously ill patients in receiving comprehensive care.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care, but rather on financial eligibility for medical assistance."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill modifies existing regulations regarding medical assistance eligibility criteria.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB965",
+      "title": "Relating to health care providers.",
+      "url": "https://legiscan.com/OR/bill/SB965/2023",
+      "reason": "Vector similarity match (score: 0.5921, distance: 0.6889)",
+      "extra_metadata": {
+        "bill_id": "1717271",
+        "status_date": "2023-06-14",
+        "last_action": "Effective date, January 1, 2024.",
+        "year": "2023",
+        "session": "2023 Regular Session",
+        "similarity_score": 0.5921086628401911,
+        "distance": 0.6888791918754578
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill allows the Oregon Health Authority to conduct off-site investigations of complaints against hospice programs and home- and community-based care providers, which directly impacts the quality and oversight of palliative care services. It also permits the disclosure of information related to complaints, enhancing accountability in care settings that serve seriously ill patients.",
+      "summary": "SB965 regulates the Oregon Health Authority's ability to conduct off-site investigations into complaints against hospice and home-based care providers. This directly impacts palliative care by ensuring better oversight and accountability of services provided to seriously ill patients, thereby potentially improving care quality and patient outcomes.",
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [
+        "QUALITY/STANDARDS",
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "WORKFORCE"
+      ],
+      "tags": [
+        "hospice care",
+        "home-based care",
+        "quality oversight",
+        "patient complaints",
+        "healthcare regulation",
+        "Oregon Health Authority",
+        "community-based care",
+        "serious illness",
+        "investigation procedures",
+        "certification standards"
+      ],
+      "key_provisions": [
+        "Allows off-site investigations of complaints against hospice programs and home- and community-based care providers.",
+        "Permits the Oregon Health Authority to disclose information obtained during investigations to public entities for regulatory purposes.",
+        "Enables initial licensure inspections to be conducted off-site for specified providers."
+      ],
+      "palliative_care_impact": "The bill enhances the regulatory framework for hospice and home-based care, which are critical components of palliative care services. By allowing off-site investigations and improving oversight, it indirectly supports the quality of care for seriously ill patients and ensures that their rights are protected. This could lead to improved patient experiences and outcomes in palliative care settings.",
+      "relevance_beyond_keywords": "The bill's focus on regulatory oversight and quality standards impacts the delivery of care to seriously ill patients without explicitly mentioning palliative care.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general adult hospice care; instead, it addresses regulatory aspects of hospice and home-based care relevant to palliative care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill outlines the Oregon Health Authority's regulatory responsibilities and procedures for investigating complaints.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1915",
+      "title": "Relating to a state plan for education on and treatment of Alzheimer's disease and related disorders.",
+      "url": "https://legiscan.com/TX/bill/HB1915/2019",
+      "reason": "Vector similarity match (score: 0.5921, distance: 0.6890)",
+      "extra_metadata": {
+        "bill_id": "1209910",
+        "status_date": "2019-02-19",
+        "last_action": "Laid on the table subject to call",
+        "year": "2019",
+        "session": "2019 Regular Session",
+        "similarity_score": 0.5920795548178076,
+        "distance": 0.6889622211456299
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill establishes a state plan for education on and treatment of Alzheimer's disease and related disorders, which directly impacts palliative care by addressing the needs of patients with serious illnesses. It emphasizes the importance of symptom management and quality of life for individuals suffering from Alzheimer's, aligning with palliative care principles. Additionally, the bill may create opportunities for integrating palliative care services into the treatment framework for Alzheimer's patients.",
+      "summary": "HB1915 aims to create a comprehensive state plan for education and treatment of Alzheimer's disease, which includes provisions for improving care quality and symptom management for affected patients. This bill indirectly impacts palliative care by enhancing support for seriously ill patients and fostering an environment that prioritizes quality of life, potentially leading to increased integration of palliative care services in Alzheimer's treatment.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "CLINICAL SKILL-BUILDING",
+        "QUALITY/STANDARDS",
+        "PATIENT RIGHTS AND PROTECTIONS"
+      ],
+      "tags": [
+        "Alzheimer's",
+        "serious illness",
+        "symptom management",
+        "quality of life",
+        "patient education",
+        "healthcare workforce",
+        "care standards",
+        "dementia care",
+        "task force",
+        "state health services"
+      ],
+      "key_provisions": [
+        "Establishes a state plan for education on Alzheimer's disease and related disorders",
+        "Focuses on improving treatment protocols and care standards for Alzheimer's patients",
+        "Promotes training for healthcare professionals in managing symptoms and enhancing quality of life"
+      ],
+      "palliative_care_impact": "The bill impacts palliative care by promoting clinical skill-building among healthcare providers to better address the needs of Alzheimer's patients, which aligns with palliative care goals of symptom relief and quality of life improvement. It also sets standards for care that could facilitate the integration of palliative approaches in treating Alzheimer's, benefiting patients and their families.",
+      "relevance_beyond_keywords": "The bill's focus on improving care for Alzheimer's patients creates a framework that could enhance access to palliative care services, particularly in managing chronic symptoms and providing holistic support.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care; instead, it addresses treatment and education relevant to serious illness care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill may require the development of new regulations regarding the treatment and education standards for Alzheimer's care.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB999",
+      "title": "Relating to a state plan for education on and treatment of Alzheimer's disease and related disorders.",
+      "url": "https://legiscan.com/TX/bill/SB999/2019",
+      "reason": "Vector similarity match (score: 0.5921, distance: 0.6890)",
+      "extra_metadata": {
+        "bill_id": "1215008",
+        "status_date": "2019-04-25",
+        "last_action": "Effective on 9/1/19",
+        "year": "2019",
+        "session": "2019 Regular Session",
+        "similarity_score": 0.5920795548178076,
+        "distance": 0.6889622211456299
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill establishes a state plan for education on and treatment of Alzheimer's disease and related disorders, which directly impacts seriously ill patients, particularly those with dementia. By focusing on education and treatment, it indirectly supports palliative care principles, such as symptom management and quality of life improvement for patients and families affected by Alzheimer's.",
+      "summary": "SB999 establishes a state plan for education on and treatment of Alzheimer's disease and related disorders, which is relevant to palliative care as it addresses the needs of seriously ill patients. The bill aims to enhance care quality for individuals with Alzheimer's, potentially integrating palliative care approaches to improve symptom management and support for patients and their families.",
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [
+        "CLINICAL SKILL-BUILDING",
+        "QUALITY/STANDARDS",
+        "PATIENT RIGHTS AND PROTECTIONS"
+      ],
+      "tags": [
+        "Alzheimer's",
+        "dementia",
+        "serious illness",
+        "symptom management",
+        "quality of life",
+        "caregiver support",
+        "education",
+        "healthcare workforce",
+        "treatment standards",
+        "patient-centered care"
+      ],
+      "key_provisions": [
+        "Establishes a state plan for education on Alzheimer's disease and related disorders.",
+        "Promotes training for healthcare providers on effective treatment and management strategies.",
+        "Encourages the integration of palliative care principles in the treatment of Alzheimer's patients."
+      ],
+      "palliative_care_impact": "The bill impacts palliative care by promoting education and training for healthcare providers, which can enhance the quality of care for patients with Alzheimer's disease. This includes improving symptom management and overall quality of life for patients and their families, thereby creating opportunities for palliative care integration into Alzheimer's treatment protocols.",
+      "relevance_beyond_keywords": "The bill's focus on education and treatment standards for Alzheimer's may lead to improved care practices that align with palliative care principles, even if not explicitly stated.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, or other excluded topics; it specifically addresses Alzheimer's treatment and education."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill outlines the establishment of a state plan, which may require regulatory frameworks for implementation.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "A08572",
+      "title": "Provides for regulations to require general hospitals to allow personal caregiving visitors for patients.",
+      "url": "https://legiscan.com/NY/bill/A08572/2021",
+      "reason": "Vector similarity match (score: 0.5920, distance: 0.6891)",
+      "extra_metadata": {
+        "bill_id": "1538296",
+        "status_date": "2022-05-16",
+        "last_action": "REFERRED TO HEALTH",
+        "year": "2021",
+        "session": "2021-2022 Regular Session",
+        "similarity_score": 0.5920152264200604,
+        "distance": 0.6891457438468933
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill mandates that general hospitals allow personal caregiving visitors for patients, which directly impacts seriously ill patients by facilitating support from caregivers during hospital stays. Allowing personal caregivers can enhance the quality of care and emotional support for patients receiving palliative care, thereby indirectly improving their overall experience and outcomes.",
+      "summary": "The bill requires general hospitals to permit personal caregiving visitors for patients, which can enhance the support system for seriously ill individuals. This regulation may improve the quality of care for palliative care patients by allowing them to receive emotional and practical support from their caregivers during hospitalizations.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "QUALITY/STANDARDS"
+      ],
+      "tags": [
+        "patient visitation",
+        "caregiver support",
+        "hospital regulations",
+        "serious illness",
+        "patient rights",
+        "emotional support",
+        "hospital care",
+        "quality of care",
+        "healthcare policy",
+        "caregiving"
+      ],
+      "key_provisions": [
+        "General hospitals must allow personal caregiving visitors for patients.",
+        "Regulations will be established to ensure compliance across hospitals.",
+        "The bill aims to improve patient care and emotional support during hospital stays."
+      ],
+      "palliative_care_impact": "The bill enhances the rights of seriously ill patients by ensuring they can have personal caregivers present during hospital stays. This can lead to improved emotional well-being and better communication between patients and their healthcare teams, which is crucial for those receiving palliative care. It indirectly supports palliative care integration by recognizing the importance of caregiver involvement in patient care.",
+      "relevance_beyond_keywords": "The bill's focus on personal caregiving support in hospitals impacts the overall care environment for seriously ill patients, potentially leading to better palliative care experiences without explicitly mentioning palliative care.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care, and instead promotes patient rights and support for seriously ill individuals."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill requires the establishment of regulations to enforce the visitation rights of personal caregivers.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "S09200",
+      "title": "Provides for regulations to require general hospitals to allow personal caregiving visitors for patients.",
+      "url": "https://legiscan.com/NY/bill/S09200/2021",
+      "reason": "Vector similarity match (score: 0.5920, distance: 0.6891)",
+      "extra_metadata": {
+        "bill_id": "1620234",
+        "status_date": "2022-05-12",
+        "last_action": "REFERRED TO HEALTH",
+        "year": "2021",
+        "session": "2021-2022 Regular Session",
+        "similarity_score": 0.5920151637489967,
+        "distance": 0.6891459226608276
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill requires general hospitals to allow personal caregiving visitors for patients, which directly impacts seriously ill patients by enhancing their support systems during hospital stays. By facilitating personal caregiving, the bill indirectly supports palliative care principles of patient-centered care and family involvement, crucial for improving quality of life for patients with serious illnesses.",
+      "summary": "The bill mandates that general hospitals permit personal caregiving visitors for patients, thereby enhancing support for seriously ill individuals. This regulation is relevant to palliative care as it promotes family involvement and emotional support, which are vital components of holistic care for patients facing serious illnesses.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "QUALITY/STANDARDS",
+        "PUBLIC AWARENESS"
+      ],
+      "tags": [
+        "personal caregiving",
+        "hospital regulations",
+        "patient support",
+        "serious illness",
+        "family involvement",
+        "patient rights",
+        "hospital policy",
+        "caregiver access",
+        "healthcare quality",
+        "emotional support"
+      ],
+      "key_provisions": [
+        "General hospitals must allow personal caregiving visitors for patients.",
+        "Regulations will be established to define the parameters of personal caregiving access.",
+        "The bill aims to enhance the quality of care by promoting family involvement."
+      ],
+      "palliative_care_impact": "The bill positively impacts palliative care by ensuring that seriously ill patients have access to personal caregivers, which can improve emotional support and overall quality of life. This aligns with palliative care goals of providing comprehensive support to patients and their families during serious illness.",
+      "relevance_beyond_keywords": "The bill enhances the healthcare environment for seriously ill patients by facilitating caregiver access, which is essential for emotional and psychological support, critical components of palliative care.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care; rather, it supports patient rights and access to caregivers."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill requires the establishment of regulations to govern the access of personal caregivers in hospitals.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "A05449",
+      "title": "Provides for regulations to require general hospitals to allow personal caregiving visitors for patients.",
+      "url": "https://legiscan.com/NY/bill/A05449/2023",
+      "reason": "Vector similarity match (score: 0.5920, distance: 0.6891)",
+      "extra_metadata": {
+        "bill_id": "1735008",
+        "status_date": "2023-03-10",
+        "last_action": "referred to health",
+        "year": "2023",
+        "session": "2023-2024 Regular Session",
+        "similarity_score": 0.5920151428586451,
+        "distance": 0.6891459822654724
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill mandates that general hospitals allow personal caregiving visitors for patients, which directly impacts seriously ill patients by enhancing their support system during hospital stays. By facilitating personal caregiving, the bill indirectly supports the goals of palliative care, which focuses on improving quality of life and providing relief from stress and symptoms associated with serious illness.",
+      "summary": "The bill requires general hospitals to allow personal caregiving visitors for patients, thereby enhancing support for seriously ill individuals. This regulation indirectly impacts palliative care by improving the care environment for patients, allowing them to receive emotional and practical support during their hospital stays.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "QUALITY/STANDARDS"
+      ],
+      "tags": [
+        "personal caregiving",
+        "hospital regulations",
+        "patient support",
+        "serious illness",
+        "caregiver access",
+        "hospital policy",
+        "patient rights",
+        "quality of care",
+        "healthcare settings",
+        "emotional support"
+      ],
+      "key_provisions": [
+        "Requires general hospitals to allow personal caregiving visitors for patients.",
+        "Establishes regulations to ensure compliance by hospitals.",
+        "Aims to improve the support system for patients during hospital stays."
+      ],
+      "palliative_care_impact": "The bill enhances the support network for seriously ill patients in hospitals, which aligns with palliative care principles of providing holistic support. By allowing personal caregivers to visit, patients may experience reduced anxiety and improved emotional well-being, which are critical components of palliative care.",
+      "relevance_beyond_keywords": "The bill's focus on personal caregiving access improves the overall care environment for seriously ill patients, which can facilitate better integration of palliative care services within hospital settings.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care; it instead promotes patient rights and support."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill establishes new regulations for hospitals regarding patient visitation rights.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB3788",
+      "title": "Relating to establishing the supporting medically fragile children program.",
+      "url": "https://legiscan.com/TX/bill/HB3788/2019",
+      "reason": "Vector similarity match (score: 0.5919, distance: 0.6894)",
+      "extra_metadata": {
+        "bill_id": "1232757",
+        "status_date": "2019-03-07",
+        "last_action": "Referred to Human Services",
+        "year": "2019",
+        "session": "2019 Regular Session",
+        "similarity_score": 0.5919382763488792,
+        "distance": 0.6893653273582458
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill establishes a program specifically aimed at supporting medically fragile children, which directly impacts pediatric palliative care by potentially improving access to specialized services for this vulnerable population. The program may enhance care coordination and resources for families, thereby indirectly benefiting palliative care delivery for seriously ill children.",
+      "summary": "HB3788 establishes the Supporting Medically Fragile Children Program, which aims to provide resources and support for children with serious health conditions. This program is relevant to pediatric palliative care as it may improve access to necessary services and care coordination for medically fragile children, enhancing their quality of life and support for families.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "PEDIATRIC PALLIATIVE AND HOSPICE CARE",
+        "QUALITY/STANDARDS",
+        "WORKFORCE"
+      ],
+      "tags": [
+        "pediatric palliative care",
+        "medically fragile children",
+        "care coordination",
+        "healthcare access",
+        "support services",
+        "family support",
+        "serious illness",
+        "healthcare workforce",
+        "quality of life",
+        "children's healthcare"
+      ],
+      "key_provisions": [
+        "Establishes the Supporting Medically Fragile Children Program to provide resources and support.",
+        "Aims to improve care coordination for families with medically fragile children.",
+        "Potentially enhances access to specialized healthcare services for seriously ill children."
+      ],
+      "palliative_care_impact": "The bill indirectly impacts palliative care by establishing a program that supports medically fragile children, which may include palliative care services. It enhances access to necessary resources and care coordination, benefiting families and healthcare providers involved in the care of seriously ill children.",
+      "relevance_beyond_keywords": "The establishment of a program for medically fragile children can lead to improved healthcare systems and support structures that benefit pediatric palliative care without explicitly mentioning it.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care; instead, it supports pediatric populations with serious illnesses."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill may require the development of new regulations to implement the Supporting Medically Fragile Children Program.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB2435",
+      "title": "Relating to establishing the supporting medically fragile children program.",
+      "url": "https://legiscan.com/TX/bill/SB2435/2019",
+      "reason": "Vector similarity match (score: 0.5919, distance: 0.6894)",
+      "extra_metadata": {
+        "bill_id": "1235838",
+        "status_date": "2019-03-08",
+        "last_action": "Referred to Health & Human Services",
+        "year": "2019",
+        "session": "2019 Regular Session",
+        "similarity_score": 0.5919382763488792,
+        "distance": 0.6893653273582458
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill establishes the Supporting Medically Fragile Children Program, which aims to provide necessary support and services for children with complex medical needs. By addressing the healthcare needs of medically fragile children, the bill indirectly impacts pediatric palliative care by potentially improving access to specialized services that enhance the quality of life for these patients and their families.",
+      "summary": "SB2435 establishes the Supporting Medically Fragile Children Program, which provides essential support for children with serious health conditions. This program is relevant to pediatric palliative care as it may enhance access to care and services that improve the quality of life for medically fragile children and their families.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "PEDIATRIC PALLIATIVE AND HOSPICE CARE",
+        "PAYMENT",
+        "QUALITY/STANDARDS"
+      ],
+      "tags": [
+        "medically fragile children",
+        "pediatric palliative care",
+        "healthcare access",
+        "quality of life",
+        "support services",
+        "Medicaid",
+        "care coordination",
+        "serious illness",
+        "healthcare workforce",
+        "family support"
+      ],
+      "key_provisions": [
+        "Establishes a program to support medically fragile children with serious health conditions.",
+        "Provides funding for necessary services and care coordination for affected families.",
+        "Aims to improve access to specialized healthcare services for medically fragile children."
+      ],
+      "palliative_care_impact": "The bill impacts pediatric palliative care by establishing a program that focuses on the needs of medically fragile children, thereby enhancing access to specialized services that can improve their quality of life. It creates opportunities for better care coordination and support for families, which is essential for managing serious illnesses in children.",
+      "relevance_beyond_keywords": "The bill addresses healthcare access and support for children with serious health conditions, which can include palliative care services without explicitly mentioning them.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, or other excluded topics; it specifically addresses the needs of medically fragile children."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill may require the development of regulations to implement the Supporting Medically Fragile Children Program.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB3691",
+      "title": "AGING-FAMILY CAREGIVER",
+      "url": "https://legiscan.com/IL/bill/SB3691/2023",
+      "reason": "Vector similarity match (score: 0.5919, distance: 0.6894)",
+      "extra_metadata": {
+        "bill_id": "1842935",
+        "status_date": "2024-08-09",
+        "last_action": "Public Act . . . . . . . . . 103-1035",
+        "year": "2023",
+        "session": "2023-2024 Regular Session",
+        "similarity_score": 0.5919140717088474,
+        "distance": 0.6894344091415405
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill amends the Family Caregiver Act to ensure that services are provided according to state and federal law, which can indirectly support palliative care by enhancing caregiver support for seriously ill patients. By focusing on the needs of family caregivers, the bill may improve the quality of care and support for patients with serious illnesses, thus impacting palliative care delivery.",
+      "summary": "SB3691 amends the Family Caregiver Act to align service provision with state and federal requirements, enhancing support for family caregivers. This indirectly impacts palliative care by potentially improving the quality of care for seriously ill patients through better caregiver resources and support systems.",
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "WORKFORCE",
+        "QUALITY/STANDARDS"
+      ],
+      "tags": [
+        "family caregiver support",
+        "caregiver training",
+        "serious illness",
+        "patient support",
+        "state funding",
+        "caregiver resources",
+        "healthcare quality",
+        "aging services",
+        "community-based care",
+        "patient rights"
+      ],
+      "key_provisions": [
+        "Services under the Family Caregiver Act must comply with state and federal law.",
+        "Enhancement of support for family caregivers of seriously ill patients.",
+        "Potential for improved quality of care through better caregiver training and resources."
+      ],
+      "palliative_care_impact": "The bill impacts palliative care indirectly by improving support for family caregivers, which is essential for the care of seriously ill patients. Enhanced caregiver resources can lead to better symptom management and quality of life for patients, as well as support for advance care planning and communication about patient needs.",
+      "relevance_beyond_keywords": "The bill's focus on caregiver support enhances the overall healthcare system for seriously ill patients, which can include palliative care integration without explicitly mentioning it.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care; instead, it supports caregiver roles that can enhance palliative care delivery."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill requires compliance with existing state and federal regulations regarding caregiver services.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB2374",
+      "title": "Relating to infection prevention and control programs and other communicable diseases measures at certain long-term care facilities; authorizing an administrative penalty.",
+      "url": "https://legiscan.com/TX/bill/HB2374/2025",
+      "reason": "Vector similarity match (score: 0.5919, distance: 0.6895)",
+      "extra_metadata": {
+        "bill_id": "1952744",
+        "status_date": "2025-02-03",
+        "last_action": "Referred to Human Services",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5918951729994848,
+        "distance": 0.6894883513450623
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill addresses infection prevention and control measures in long-term care facilities, which directly impacts the quality of care for seriously ill patients residing in these settings. By establishing standards and potential penalties for non-compliance, it indirectly influences the environment in which palliative care is provided, ensuring better health outcomes for patients with serious illnesses.",
+      "summary": "HB2374 regulates infection prevention and control programs at long-term care facilities, aiming to enhance the quality of care for residents, including those with serious illnesses. By improving infection control, the bill supports better health outcomes for seriously ill patients, thereby indirectly benefiting palliative care services.",
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [
+        "QUALITY/STANDARDS",
+        "WORKFORCE"
+      ],
+      "tags": [
+        "infection control",
+        "long-term care",
+        "quality measures",
+        "serious illness",
+        "healthcare standards",
+        "nursing homes",
+        "patient safety",
+        "healthcare workforce",
+        "administrative penalties",
+        "communicable diseases"
+      ],
+      "key_provisions": [
+        "Establishes infection prevention and control programs in long-term care facilities.",
+        "Authorizes administrative penalties for non-compliance with infection control measures.",
+        "Mandates reporting and monitoring of communicable diseases in these facilities."
+      ],
+      "palliative_care_impact": "The bill impacts palliative care by enhancing the quality of care in long-term care settings where seriously ill patients reside. Improved infection control measures can lead to better overall health outcomes, thereby supporting the goals of palliative care in providing relief from symptoms and improving quality of life.",
+      "relevance_beyond_keywords": "The bill's focus on quality standards and infection control measures can lead to a safer environment for patients with serious illnesses, indirectly benefiting palliative care integration in long-term care facilities.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care, but rather addresses quality standards in long-term care that can benefit seriously ill patients."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill establishes regulations for infection prevention and control in long-term care facilities.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB0109",
+      "title": "HEALTH SURROGATE-POLST CHANGES",
+      "url": "https://legiscan.com/IL/bill/SB0109/2021",
+      "reason": "Vector similarity match (score: 0.5918, distance: 0.6897)",
+      "extra_metadata": {
+        "bill_id": "1435466",
+        "status_date": "2021-07-23",
+        "last_action": "Public Act . . . . . . . . . 102-0140",
+        "year": "2021",
+        "session": "2021-2022 Regular Session",
+        "similarity_score": 0.591822283316005,
+        "distance": 0.6896964311599731
+      }
+    },
+    "analysis": {
+      "is_relevant": true,
+      "relevance_reasoning": "This bill amends the Health Care Surrogate Act and impacts the execution and revocation of POLST forms, which are critical for guiding care for seriously ill patients. By ensuring that healthcare providers comply with POLST forms and involving surrogates in decision-making, the bill indirectly supports palliative care by enhancing patient-centered care and respecting patient wishes in serious illness contexts.",
+      "summary": "SB0109 regulates the execution and revocation of POLST forms, ensuring that healthcare providers comply with these orders and that surrogate decision-makers are involved in care decisions. This bill impacts palliative care by promoting adherence to patient preferences in treatment, thereby improving the quality of care for seriously ill patients across the state.",
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [
+        "PATIENT RIGHTS AND PROTECTIONS",
+        "QUALITY/STANDARDS"
+      ],
+      "tags": [
+        "POLST",
+        "surrogate decision-making",
+        "patient preferences",
+        "serious illness",
+        "advance care planning",
+        "healthcare provider compliance",
+        "life-sustaining treatment",
+        "healthcare facilities",
+        "patient rights",
+        "DNR orders"
+      ],
+      "key_provisions": [
+        "Changes the term 'qualified physician' to 'qualified health care practitioner' in the context of POLST forms.",
+        "Establishes that execution of a POLST form is not a requirement for admission to healthcare facilities.",
+        "Requires consultation with the attending healthcare practitioner before voiding or revoking a POLST form."
+      ],
+      "palliative_care_impact": "The bill enhances patient rights by ensuring that POLST forms are respected and that surrogate decision-makers are involved in care decisions. This supports palliative care by promoting adherence to patient wishes and improving the quality of care for those with serious illnesses, as it emphasizes the importance of advance care planning and patient-centered approaches.",
+      "relevance_beyond_keywords": "The bill impacts the healthcare system by reinforcing the importance of patient preferences in treatment decisions, which is a core principle of palliative care. It also supports healthcare workforce engagement in serious illness care without explicitly mentioning palliative care.",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, or other excluded topics, but rather enhances patient rights and decision-making in serious illness care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill amends existing regulations related to the Health Care Surrogate Act and POLST forms.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  }
+]

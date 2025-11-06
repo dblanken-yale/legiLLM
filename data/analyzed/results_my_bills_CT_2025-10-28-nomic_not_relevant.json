@@ -1,0 +1,2236 @@
+[
+  {
+    "bill": {
+      "bill_number": "HB05454",
+      "title": "An Act Allowing Terminally Ill Patients To Make Decisions About End-of-life Care.",
+      "url": "https://legiscan.com/CT/bill/HB05454/2025",
+      "reason": "Vector similarity match (score: 0.6653, distance: 0.5032)",
+      "extra_metadata": {
+        "bill_id": "1925335",
+        "status_date": "2025-01-17",
+        "last_action": "Referred to Joint Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.6652513784745475,
+        "distance": 0.5031911730766296
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on allowing terminally ill patients to make decisions about end-of-life care, which falls under the category of aid-in-dying legislation. It does not explicitly mention palliative care or related services and does not create infrastructure or support for palliative care integration.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": true,
+        "reason": "The bill focuses on end-of-life care decisions, which aligns with aid-in-dying legislation and does not support palliative care initiatives."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05625",
+      "title": "An Act Concerning Aid In Dying For Terminally Ill Patients.",
+      "url": "https://legiscan.com/CT/bill/HB05625/2025",
+      "reason": "Vector similarity match (score: 0.6457, distance: 0.5486)",
+      "extra_metadata": {
+        "bill_id": "1928629",
+        "status_date": "2025-01-21",
+        "last_action": "Referred to Joint Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.6457253738438905,
+        "distance": 0.5486459732055664
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on aid-in-dying legislation for terminally ill patients, which falls under the exclusion criteria for palliative care policy analysis. It does not address palliative care, hospice services, or any related infrastructure that would impact seriously ill patients or their care.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": true,
+        "reason": "The bill is focused on aid-in-dying legislation, which is explicitly excluded from palliative care policy tracking."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05429",
+      "title": "An Act Concerning Caregivers, Qualifying Patients And The Palliative Use Of Cannabis.",
+      "url": "https://legiscan.com/CT/bill/HB05429/2025",
+      "reason": "Vector similarity match (score: 0.6356, distance: 0.5734)",
+      "extra_metadata": {
+        "bill_id": "1925049",
+        "status_date": "2025-01-17",
+        "last_action": "Public Hearing 02/14",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.635553183642162,
+        "distance": 0.573432445526123
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on the palliative use of cannabis, which falls under the excluded category of medical marijuana. While it may have implications for seriously ill patients, it does not directly address palliative care services or infrastructure, nor does it create opportunities for palliative care integration.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": true,
+        "reason": "The bill focuses on the palliative use of cannabis, which is explicitly excluded from palliative care tracking."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB01269",
+      "title": "An Act Concerning Long-term Care Insurance.",
+      "url": "https://legiscan.com/CT/bill/SB01269/2025",
+      "reason": "Vector similarity match (score: 0.6040, distance: 0.6557)",
+      "extra_metadata": {
+        "bill_id": "1957724",
+        "status_date": "2025-02-06",
+        "last_action": "File Number 283",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.603970900043653,
+        "distance": 0.655708909034729
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses long-term care insurance and does not explicitly mention palliative care, hospice, or end-of-life care. It focuses on insurance coverage aspects rather than healthcare delivery or policies that would directly impact seriously ill patients or their care settings.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB07039",
+      "title": "An Act Concerning The Return Of Health Care Provider Payments, Establishing A Working Group To Study Pharmacist Compensation For Administering Certain Services, Revising The Definition Of Clinical Peer And Concerning The Connecticut Unfair Insurance Practices Act.",
+      "url": "https://legiscan.com/CT/bill/HB07039/2025",
+      "reason": "Vector similarity match (score: 0.6030, distance: 0.6584)",
+      "extra_metadata": {
+        "bill_id": "1976207",
+        "status_date": "2025-02-20",
+        "last_action": "File Number 363",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.602974039421207,
+        "distance": 0.658446192741394
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses healthcare provider payments, pharmacist compensation, and revisions to the Connecticut Unfair Insurance Practices Act without any direct mention of palliative care, hospice, or end-of-life care. It does not create infrastructure or programs that would include palliative care or impact seriously ill patients directly.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill revises definitions and practices under the Connecticut Unfair Insurance Practices Act.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB06586",
+      "title": "An Act Concerning Funeral Payment Plan Accessibility.",
+      "url": "https://legiscan.com/CT/bill/HB06586/2025",
+      "reason": "Vector similarity match (score: 0.6027, distance: 0.6592)",
+      "extra_metadata": {
+        "bill_id": "1938583",
+        "status_date": "2025-01-24",
+        "last_action": "Referred to Joint Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.6027158543339641,
+        "distance": 0.6591566205024719
+      }
+    },
+    "analysis": {
+      "error": "JSON parsing failed: Expecting property name enclosed in double quotes"
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05774",
+      "title": "An Act Requiring A Study Of Premium Rates For Long-term Care Insurance.",
+      "url": "https://legiscan.com/CT/bill/HB05774/2025",
+      "reason": "Vector similarity match (score: 0.5975, distance: 0.6737)",
+      "extra_metadata": {
+        "bill_id": "1928823",
+        "status_date": "2025-01-21",
+        "last_action": "Referred to Joint Committee on Insurance and Real Estate",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5974878837270855,
+        "distance": 0.6736741065979004
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on a study of premium rates for long-term care insurance and does not directly address palliative care, hospice, or end-of-life care. It does not appear to impact seriously ill patients, their care settings, or healthcare providers in a way that would be relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB00452",
+      "title": "An Act Concerning Consumer Protections For Long-term Care Insurance Policyholders.",
+      "url": "https://legiscan.com/CT/bill/SB00452/2025",
+      "reason": "Vector similarity match (score: 0.5954, distance: 0.6795)",
+      "extra_metadata": {
+        "bill_id": "1909686",
+        "status_date": "2025-01-10",
+        "last_action": "Referred to Joint Committee on Insurance and Real Estate",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5954183930632113,
+        "distance": 0.6794912815093994
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on consumer protections for long-term care insurance policyholders and does not directly mention palliative care, hospice, or end-of-life care. It primarily addresses insurance regulations and consumer rights, which do not have a direct impact on palliative care services or policies for seriously ill patients.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not focus on aid-in-dying, general hospice care, or other excluded topics."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill includes provisions related to consumer protections and insurance regulations.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05615",
+      "title": "An Act Concerning The Identification Of Graves.",
+      "url": "https://legiscan.com/CT/bill/HB05615/2025",
+      "reason": "Vector similarity match (score: 0.5948, distance: 0.6814)",
+      "extra_metadata": {
+        "bill_id": "1928688",
+        "status_date": "2025-01-21",
+        "last_action": "Public Hearing 02/19",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5947533342200575,
+        "distance": 0.6813693046569824
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the identification of graves and does not mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients, their care settings, or healthcare providers in any relevant way. Therefore, it does not meet the criteria for relevance to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under exclusion criteria as it does not address aid-in-dying, hospice care, or other excluded topics."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB00472",
+      "title": "An Act Requiring Nursing Homes And Assisted Living Facilities To Be Equipped With Automatic External Defibrillators And To Have A Plan For Their Use During Emergencies.",
+      "url": "https://legiscan.com/CT/bill/SB00472/2025",
+      "reason": "Vector similarity match (score: 0.5937, distance: 0.6844)",
+      "extra_metadata": {
+        "bill_id": "1909565",
+        "status_date": "2025-01-10",
+        "last_action": "Referred to Joint Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5936770475242673,
+        "distance": 0.6844174861907959
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on the requirement for nursing homes and assisted living facilities to be equipped with automatic external defibrillators and does not mention palliative care, hospice, or end-of-life care. It does not directly affect seriously ill patients or their care settings in a manner relevant to palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill requires facilities to develop a plan for the use of defibrillators during emergencies, which may involve regulatory considerations.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB00116",
+      "title": "An Act Establishing A Tax Credit For Premium Payments For Certain Long-term Care Insurance Policies.",
+      "url": "https://legiscan.com/CT/bill/SB00116/2025",
+      "reason": "Vector similarity match (score: 0.5931, distance: 0.6860)",
+      "extra_metadata": {
+        "bill_id": "1904836",
+        "status_date": "2025-01-08",
+        "last_action": "Referred to Joint Committee on Finance, Revenue and Bonding",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5931116363349432,
+        "distance": 0.6860232353210449
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily establishes a tax credit for premium payments for long-term care insurance policies and does not explicitly mention palliative care, hospice, or end-of-life care. While it may indirectly affect seriously ill patients by making long-term care more affordable, it does not create or modify any infrastructure, payment systems, or quality standards directly related to palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB06817",
+      "title": "An Act Requiring The Insurance Department To Study Health Carrier Use Of Prior Authorizations.",
+      "url": "https://legiscan.com/CT/bill/HB06817/2025",
+      "reason": "Vector similarity match (score: 0.5913, distance: 0.6911)",
+      "extra_metadata": {
+        "bill_id": "1944668",
+        "status_date": "2025-01-29",
+        "last_action": "Referred to Joint Committee on Insurance and Real Estate",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5913419655859409,
+        "distance": 0.6910688877105713
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on the study of health carrier use of prior authorizations and does not explicitly mention palliative care, hospice, or end-of-life care. It primarily addresses insurance processes that may affect various healthcare services but does not create infrastructure or provisions that directly impact seriously ill patients or their care settings. Therefore, it does not meet the criteria for relevance to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill requires the Insurance Department to study prior authorization practices, which may lead to regulatory recommendations.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05328",
+      "title": "An Act Concerning Long-term Care Insurance.",
+      "url": "https://legiscan.com/CT/bill/HB05328/2025",
+      "reason": "Vector similarity match (score: 0.5907, distance: 0.6928)",
+      "extra_metadata": {
+        "bill_id": "1921690",
+        "status_date": "2025-01-16",
+        "last_action": "Referred to Joint Committee on Insurance and Real Estate",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5907255348520057,
+        "distance": 0.6928335428237915
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on long-term care insurance and does not explicitly mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients, their care settings, or healthcare providers in a way that would be relevant to palliative care policy or services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB00246",
+      "title": "An Act Requiring A Study Of The Viability Of Allowing Naturopathic Physicians To Serve As Primary Care Providers.",
+      "url": "https://legiscan.com/CT/bill/SB00246/2025",
+      "reason": "Vector similarity match (score: 0.5901, distance: 0.6946)",
+      "extra_metadata": {
+        "bill_id": "1905170",
+        "status_date": "2025-01-08",
+        "last_action": "Referred to Joint Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5901070047159765,
+        "distance": 0.6946079134941101
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on the study of naturopathic physicians serving as primary care providers and does not explicitly mention palliative care, hospice, or serious illness care. It does not appear to affect the healthcare workforce, payment systems, or quality standards in a way that would impact palliative care services. Therefore, it does not meet the criteria for relevance to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB06987",
+      "title": "An Act Concerning Closures And Evacuations Of Residential Care Homes And Nursing Homes.",
+      "url": "https://legiscan.com/CT/bill/HB06987/2025",
+      "reason": "Vector similarity match (score: 0.5894, distance: 0.6967)",
+      "extra_metadata": {
+        "bill_id": "1973999",
+        "status_date": "2025-02-19",
+        "last_action": "Referred by House to Committee on Appropriations",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5893642774459584,
+        "distance": 0.6967434883117676
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the regulations concerning closures and evacuations of residential care homes and nursing homes, without any direct mention or implications for palliative care, hospice services, or seriously ill patients. It does not create infrastructure or programs that would include palliative care, nor does it impact payment systems or workforce development in a way that relates to palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill outlines regulations for the operation and management of residential care homes and nursing homes.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB00336",
+      "title": "An Act Concerning Medicaid Coverage Of Medical Alert Systems For Elderly Medicaid Recipients.",
+      "url": "https://legiscan.com/CT/bill/SB00336/2025",
+      "reason": "Vector similarity match (score: 0.5893, distance: 0.6970)",
+      "extra_metadata": {
+        "bill_id": "1907636",
+        "status_date": "2025-01-09",
+        "last_action": "Referred to Joint Committee on Human Services",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5892900847678851,
+        "distance": 0.6969571113586426
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on Medicaid coverage for medical alert systems for elderly Medicaid recipients and does not mention palliative care, hospice, or end-of-life care. It does not directly affect seriously ill patients or their care settings, nor does it create infrastructure that could include palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05437",
+      "title": "An Act Requiring A Feasibility Study Of Insurance Pooling For Nonprofit Entities.",
+      "url": "https://legiscan.com/CT/bill/HB05437/2025",
+      "reason": "Vector similarity match (score: 0.5885, distance: 0.6991)",
+      "extra_metadata": {
+        "bill_id": "1925514",
+        "status_date": "2025-01-17",
+        "last_action": "Referred to Joint Committee on Insurance and Real Estate",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5885306854271898,
+        "distance": 0.6991467475891113
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill does not directly mention palliative care, hospice, or end-of-life care. It focuses on a feasibility study for insurance pooling for nonprofit entities, which does not impact seriously ill patients, their care settings, or healthcare providers in a way that relates to palliative care. Additionally, it does not create any infrastructure or programs that would include palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB00387",
+      "title": "An Act Concerning Tour Providers And The Provision Of Basic Life Support.",
+      "url": "https://legiscan.com/CT/bill/SB00387/2025",
+      "reason": "Vector similarity match (score: 0.5881, distance: 0.7005)",
+      "extra_metadata": {
+        "bill_id": "1907787",
+        "status_date": "2025-01-09",
+        "last_action": "Referred to Joint Committee on General Law",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5880694419854724,
+        "distance": 0.7004794478416443
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on the regulation of tour providers and the provision of basic life support, with no direct mention of palliative care, hospice services, or serious illness care. It does not impact healthcare workforce, payment systems, or quality standards relevant to palliative care, nor does it create infrastructure that could include palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB00836",
+      "title": "An Act Requiring The Health Care Cabinet To Report On The Feasibility Of Regulating Stop Loss Insurance Policies Used In Conjunction With Health Plans As Fully Insured Health Plans.",
+      "url": "https://legiscan.com/CT/bill/SB00836/2025",
+      "reason": "Vector similarity match (score: 0.5876, distance: 0.7017)",
+      "extra_metadata": {
+        "bill_id": "1927769",
+        "status_date": "2025-01-21",
+        "last_action": "Referred to Joint Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5876494674199729,
+        "distance": 0.7016947269439697
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on regulating stop loss insurance policies and does not mention palliative care, hospice, or end-of-life care. It primarily addresses insurance mechanisms without any direct or indirect implications for seriously ill patients or palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not pertain to aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill requires the Health Care Cabinet to report on the feasibility of regulating stop loss insurance policies.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05763",
+      "title": "An Act Concerning Compensation For Bereavement Leave Under The Paid Family And Medical Leave Insurance Program.",
+      "url": "https://legiscan.com/CT/bill/HB05763/2025",
+      "reason": "Vector similarity match (score: 0.5871, distance: 0.7033)",
+      "extra_metadata": {
+        "bill_id": "1928567",
+        "status_date": "2025-01-21",
+        "last_action": "Referred to Joint Committee on Labor and Public Employees",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5871079857101219,
+        "distance": 0.7032641768455505
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses bereavement leave under the Paid Family and Medical Leave Insurance Program and does not directly mention palliative care, hospice, or end-of-life care. While it may indirectly support families dealing with loss, it does not create or modify any policies that would impact palliative care services or the care of seriously ill patients.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB07226",
+      "title": "An Act Concerning Long-term Care Insurance And Eligibility For State Contracts.",
+      "url": "https://legiscan.com/CT/bill/HB07226/2025",
+      "reason": "Vector similarity match (score: 0.5871, distance: 0.7034)",
+      "extra_metadata": {
+        "bill_id": "2006802",
+        "status_date": "2025-03-14",
+        "last_action": "Referred by House to Committee on Insurance and Real Estate",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5870533193051662,
+        "distance": 0.7034227848052979
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on long-term care insurance and eligibility for state contracts, without any direct mention of palliative care, hospice services, or serious illness care. It does not appear to impact seriously ill patients or their care settings, nor does it address healthcare workforce, payment systems, or quality standards that would relate to palliative care.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB00251",
+      "title": "An Act Requiring A Study Of The Feasibility Of Reimbursing Student Loan Payments By Health Care Providers Who Provide Pro Bono Services At School-based Health Clinics.",
+      "url": "https://legiscan.com/CT/bill/SB00251/2025",
+      "reason": "Vector similarity match (score: 0.5863, distance: 0.7057)",
+      "extra_metadata": {
+        "bill_id": "1905195",
+        "status_date": "2025-01-08",
+        "last_action": "Referred to Joint Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5862525289829951,
+        "distance": 0.7057495713233948
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on a study regarding the feasibility of reimbursing student loan payments for healthcare providers offering pro bono services at school-based health clinics. It does not directly mention palliative care, hospice, or end-of-life care, nor does it impact seriously ill patients or their care settings. Additionally, it does not create infrastructure that would include palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB01443",
+      "title": "An Act Concerning The Provision Of Survivor's Benefits And Health Insurance Coverage To Family Members Of Correction Officers, Court Support Services Division Investigators, Criminal Justice Division Investigators And Office Of The Chief Public Defender Investigators Killed In The Line Of Duty.",
+      "url": "https://legiscan.com/CT/bill/SB01443/2025",
+      "reason": "Vector similarity match (score: 0.5854, distance: 0.7083)",
+      "extra_metadata": {
+        "bill_id": "1990129",
+        "status_date": "2025-05-20",
+        "last_action": "House Calendar Number 628",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5853738870991355,
+        "distance": 0.7083098888397217
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses survivor's benefits and health insurance coverage for family members of specific law enforcement personnel killed in the line of duty. It does not mention palliative care, hospice, or end-of-life care, nor does it appear to impact seriously ill patients or healthcare systems relevant to palliative care. Therefore, it does not meet the criteria for relevance to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB06597",
+      "title": "An Act Concerning The Standards Of Care For Members Of The Lgbtq+ Community In Long-term Care Facilities.",
+      "url": "https://legiscan.com/CT/bill/HB06597/2025",
+      "reason": "Vector similarity match (score: 0.5844, distance: 0.7112)",
+      "extra_metadata": {
+        "bill_id": "1938510",
+        "status_date": "2025-01-24",
+        "last_action": "Referred to Joint Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5843803622442829,
+        "distance": 0.7112142443656921
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on establishing standards of care for LGBTQ+ individuals in long-term care facilities, which does not explicitly mention palliative care, hospice, or end-of-life care. While it may indirectly affect the quality of care for seriously ill patients in these settings, it does not create specific provisions or infrastructure that would directly impact palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill establishes standards of care which may require regulatory updates in long-term care facilities.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB06138",
+      "title": "An Act Requiring Cancellation Notices Of Property Or Casualty Insurance Coverage For Seniors.",
+      "url": "https://legiscan.com/CT/bill/HB06138/2025",
+      "reason": "Vector similarity match (score: 0.5843, distance: 0.7115)",
+      "extra_metadata": {
+        "bill_id": "1932080",
+        "status_date": "2025-01-22",
+        "last_action": "Referred to Joint Committee on Insurance and Real Estate",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5842778520415924,
+        "distance": 0.7115144729614258
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on property and casualty insurance coverage for seniors and does not mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients or their care settings, nor does it impact healthcare workforce, payment systems, or quality standards related to palliative care.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05439",
+      "title": "An Act Establishing A Tax Credit For Premium Payments For Certain Long-term Care Insurance Policies.",
+      "url": "https://legiscan.com/CT/bill/HB05439/2025",
+      "reason": "Vector similarity match (score: 0.5842, distance: 0.7116)",
+      "extra_metadata": {
+        "bill_id": "1925267",
+        "status_date": "2025-01-17",
+        "last_action": "Referred to Joint Committee on Insurance and Real Estate",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5842379729386767,
+        "distance": 0.7116312980651855
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill establishes a tax credit for premium payments for long-term care insurance policies, which does not directly address palliative care, hospice services, or the needs of seriously ill patients. While it may provide some financial relief for long-term care, it does not create infrastructure or policies specifically related to palliative care delivery or access.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB06176",
+      "title": "An Act Concerning The Authority Of The Probate Court To Order A Person With Intellectual And Developmental Disabilities To Submit To An Involuntary Medical Evaluation And Assisted Outpatient Medical Treatment.",
+      "url": "https://legiscan.com/CT/bill/HB06176/2025",
+      "reason": "Vector similarity match (score: 0.5841, distance: 0.7119)",
+      "extra_metadata": {
+        "bill_id": "1932324",
+        "status_date": "2025-01-22",
+        "last_action": "Referred to Joint Committee on Judiciary",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5841401294332295,
+        "distance": 0.7119179964065552
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on the authority of the probate court regarding involuntary medical evaluations and treatment for individuals with intellectual and developmental disabilities. It does not directly mention palliative care, hospice, or end-of-life care, nor does it address seriously ill patients or their care settings in a way that impacts palliative care services. Therefore, it does not have relevance to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB00187",
+      "title": "An Act Concerning The Regulation Of Premium Rates On Long-term Care Insurance Policies.",
+      "url": "https://legiscan.com/CT/bill/SB00187/2025",
+      "reason": "Vector similarity match (score: 0.5838, distance: 0.7129)",
+      "extra_metadata": {
+        "bill_id": "1904814",
+        "status_date": "2025-01-08",
+        "last_action": "Referred to Joint Committee on Insurance and Real Estate",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5838173360441614,
+        "distance": 0.7128645181655884
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on the regulation of premium rates for long-term care insurance policies and does not directly mention palliative care, hospice, or end-of-life care. It does not appear to impact seriously ill patients, their care settings, or healthcare providers in a way that would be relevant to palliative care policy. Therefore, it does not meet the criteria for relevance to palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill involves the regulation of premium rates for long-term care insurance policies.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05442",
+      "title": "An Act Concerning The Authority Of The Probate Court To Order A Person With A Substance Use Disorder Or Psychiatric Disability To Submit To An Involuntary Medical Evaluation And Assisted Outpatient Medical Treatment.",
+      "url": "https://legiscan.com/CT/bill/HB05442/2025",
+      "reason": "Vector similarity match (score: 0.5834, distance: 0.7140)",
+      "extra_metadata": {
+        "bill_id": "1925109",
+        "status_date": "2025-01-17",
+        "last_action": "Referred to Joint Committee on Judiciary",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5834318342211107,
+        "distance": 0.7139962911605835
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on the authority of the probate court regarding involuntary medical evaluations and treatment for individuals with substance use disorders or psychiatric disabilities. It does not mention palliative care, hospice services, or serious illness care, nor does it impact healthcare workforce, payment systems, or quality standards relevant to palliative care. Therefore, it is not relevant to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05280",
+      "title": "An Act Concerning Consumer Protections For Long-term Care Insurance.",
+      "url": "https://legiscan.com/CT/bill/HB05280/2025",
+      "reason": "Vector similarity match (score: 0.5834, distance: 0.7141)",
+      "extra_metadata": {
+        "bill_id": "1918791",
+        "status_date": "2025-01-15",
+        "last_action": "Referred to Joint Committee on Insurance and Real Estate",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5833889870290204,
+        "distance": 0.7141221761703491
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on consumer protections for long-term care insurance and does not directly address palliative care, hospice, or end-of-life care. It does not affect seriously ill patients or their care settings in a way that would be relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill includes provisions that may require regulatory adjustments related to long-term care insurance.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05712",
+      "title": "An Act Concerning The Cause Of Death For Persons Who Self-administer Medication Prescribed To Bring About Death.",
+      "url": "https://legiscan.com/CT/bill/HB05712/2025",
+      "reason": "Vector similarity match (score: 0.5833, distance: 0.7144)",
+      "extra_metadata": {
+        "bill_id": "1928977",
+        "status_date": "2025-01-21",
+        "last_action": "Referred to Joint Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5832841677848135,
+        "distance": 0.7144302129745483
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the cause of death for individuals who self-administer medication prescribed to bring about death, which falls under aid-in-dying legislation. It does not mention palliative care, hospice, or any related services, nor does it impact seriously ill patients or their care settings in a way that would be relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": true,
+        "reason": "The bill focuses on aid-in-dying legislation, which is explicitly excluded from palliative care tracking."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB00363",
+      "title": "An Act Codifying Certain Provisions Of The Emergency Medical Treatment And Active Labor Act.",
+      "url": "https://legiscan.com/CT/bill/SB00363/2025",
+      "reason": "Vector similarity match (score: 0.5828, distance: 0.7160)",
+      "extra_metadata": {
+        "bill_id": "1907559",
+        "status_date": "2025-01-09",
+        "last_action": "Referred to Joint Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5827543002715676,
+        "distance": 0.7159890532493591
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses provisions of the Emergency Medical Treatment and Active Labor Act, focusing on emergency medical services and patient treatment in acute care settings. It does not explicitly mention palliative care, hospice, or end-of-life care, nor does it impact seriously ill patients or their care settings in a way that would be relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill references existing regulations related to emergency medical treatment.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB01278",
+      "title": "An Act Concerning Long-term Care Insurance Premium Rates.",
+      "url": "https://legiscan.com/CT/bill/SB01278/2025",
+      "reason": "Vector similarity match (score: 0.5827, distance: 0.7161)",
+      "extra_metadata": {
+        "bill_id": "1962974",
+        "status_date": "2025-02-10",
+        "last_action": "Immediate Transmittal",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.58270023919681,
+        "distance": 0.7161482572555542
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill concerning long-term care insurance premium rates does not directly mention palliative care, hospice, or end-of-life care. It primarily addresses insurance premium structures and does not create or modify any programs, benefits, or standards that would impact seriously ill patients or the delivery of palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not focus on aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05066",
+      "title": "An Act Establishing Contracted Premium Rates For Long-term Care Insurance Policies.",
+      "url": "https://legiscan.com/CT/bill/HB05066/2025",
+      "reason": "Vector similarity match (score: 0.5826, distance: 0.7166)",
+      "extra_metadata": {
+        "bill_id": "1907716",
+        "status_date": "2025-01-09",
+        "last_action": "Referred to Joint Committee on Insurance and Real Estate",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5825526596240405,
+        "distance": 0.7165830135345459
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on establishing contracted premium rates for long-term care insurance policies, which does not directly address palliative care, hospice services, or the needs of seriously ill patients. It does not create infrastructure or programs that would include palliative care, nor does it impact payment systems or workforce development in a way that relates to palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB01322",
+      "title": "An Act Requiring Studies Of Insurance Pooling For Nonprofit Organizations And Certain Practices By Homeowners Insurance Companies.",
+      "url": "https://legiscan.com/CT/bill/SB01322/2025",
+      "reason": "Vector similarity match (score: 0.5824, distance: 0.7172)",
+      "extra_metadata": {
+        "bill_id": "1970184",
+        "status_date": "2025-02-14",
+        "last_action": "Favorable Report, Tabled for the Calendar, Senate",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5823560704866354,
+        "distance": 0.7171624898910522
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses insurance pooling for nonprofit organizations and practices by homeowners insurance companies, with no direct mention or implications for palliative care, hospice, or seriously ill patients. It does not create infrastructure or programs that would include palliative care services, nor does it affect payment systems or workforce development relevant to this field.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05278",
+      "title": "An Act Prohibiting Health Care Insurers From Retroactively Denying Health Insurance Claims For Behavioral Health And Substance Abuse Services.",
+      "url": "https://legiscan.com/CT/bill/HB05278/2025",
+      "reason": "Vector similarity match (score: 0.5815, distance: 0.7196)",
+      "extra_metadata": {
+        "bill_id": "1918671",
+        "status_date": "2025-01-15",
+        "last_action": "Referred to Joint Committee on Insurance and Real Estate",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5815465861970271,
+        "distance": 0.7195526957511902
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on prohibiting retroactive denials of health insurance claims specifically for behavioral health and substance abuse services. It does not mention palliative care, hospice, or end-of-life care, and does not appear to directly affect seriously ill patients or their care settings. Therefore, it does not meet the criteria for relevance to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill references existing regulations related to health insurance claims.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB01129",
+      "title": "An Act Concerning Long-term Care Insurance Premium Rate Increases.",
+      "url": "https://legiscan.com/CT/bill/SB01129/2025",
+      "reason": "Vector similarity match (score: 0.5815, distance: 0.7196)",
+      "extra_metadata": {
+        "bill_id": "1936187",
+        "status_date": "2025-01-23",
+        "last_action": "Referred to Joint Committee on Insurance and Real Estate",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5815169351758902,
+        "distance": 0.7196403741836548
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses long-term care insurance premium rate increases and does not mention palliative care, hospice, or end-of-life care. It focuses on insurance regulation rather than healthcare delivery or support for seriously ill patients, thus lacking direct or indirect relevance to palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill discusses regulatory changes related to insurance premium rates.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB07183",
+      "title": "An Act Concerning The Regulation Of Long-term Care Insurance, Reports Concerning Such Insurance And A Limited Performance Audit Of The Connecticut Partnership For Long-term Care.",
+      "url": "https://legiscan.com/CT/bill/HB07183/2025",
+      "reason": "Vector similarity match (score: 0.5807, distance: 0.7222)",
+      "extra_metadata": {
+        "bill_id": "1992818",
+        "status_date": "2025-03-06",
+        "last_action": "Referred by House to Committee on Appropriations",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5806547113395522,
+        "distance": 0.7221938967704773
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on the regulation of long-term care insurance and does not directly mention palliative care, hospice, or end-of-life care. It does not appear to impact seriously ill patients or their care settings in a way that would be relevant to palliative care services. Additionally, it does not create infrastructure or programs that would include palliative care.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill includes provisions for the regulation of long-term care insurance.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB06837",
+      "title": "An Act Extending The Authorization Of Shock Therapy By A Patient's Written Consent Or Probate Court Order.",
+      "url": "https://legiscan.com/CT/bill/HB06837/2025",
+      "reason": "Vector similarity match (score: 0.5805, distance: 0.7226)",
+      "extra_metadata": {
+        "bill_id": "1944719",
+        "status_date": "2025-01-29",
+        "last_action": "Public Hearing 02/03",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5805282126262309,
+        "distance": 0.7225691676139832
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the authorization of shock therapy through patient consent or probate court order, with no direct mention or implications for palliative care, hospice services, or seriously ill patients. It does not create infrastructure or support for palliative care, nor does it impact payment systems or workforce development in a manner relevant to palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05363",
+      "title": "An Act Concerning A Study Of The Costs And Benefits Of Expanding State-funded Assisted Living Services.",
+      "url": "https://legiscan.com/CT/bill/HB05363/2025",
+      "reason": "Vector similarity match (score: 0.5802, distance: 0.7236)",
+      "extra_metadata": {
+        "bill_id": "1920900",
+        "status_date": "2025-01-16",
+        "last_action": "Referred to Joint Committee on Human Services",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5801863232786174,
+        "distance": 0.7235842347145081
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on a study of the costs and benefits of expanding state-funded assisted living services, which does not directly address palliative care, hospice, or end-of-life care. While it may impact care settings for seriously ill patients, it does not explicitly mention or create infrastructure for palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill may reference existing regulations related to assisted living services but does not specify.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB06572",
+      "title": "An Act Requiring The Implementation Of Doula-friendly Policies By Health Care Facilities And Providers Of Obstetrics And Gynecology Services.",
+      "url": "https://legiscan.com/CT/bill/HB06572/2025",
+      "reason": "Vector similarity match (score: 0.5802, distance: 0.7236)",
+      "extra_metadata": {
+        "bill_id": "1938942",
+        "status_date": "2025-01-24",
+        "last_action": "Referred to Joint Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5801694901656365,
+        "distance": 0.7236342430114746
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on implementing doula-friendly policies in obstetrics and gynecology services, which does not directly mention or impact palliative care, hospice, or seriously ill patients. It does not create infrastructure or funding opportunities relevant to palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05294",
+      "title": "An Act Requiring Assisted Living Facilities To Have An Automated External Defibrillator Available In A Public Area.",
+      "url": "https://legiscan.com/CT/bill/HB05294/2025",
+      "reason": "Vector similarity match (score: 0.5800, distance: 0.7240)",
+      "extra_metadata": {
+        "bill_id": "1918839",
+        "status_date": "2025-01-15",
+        "last_action": "Referred to Joint Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5800336171083409,
+        "distance": 0.7240380048751831
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on requiring assisted living facilities to have an automated external defibrillator available in a public area. It does not mention palliative care, hospice, or end-of-life care, nor does it impact seriously ill patients or their care settings. The provisions are primarily related to emergency preparedness rather than palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, or other excluded topics."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB01059",
+      "title": "An Act Allowing Certain Nurse's Aides And Assisted Living Aides To Administer Medication To Nursing Home Residents And Assisted Living Services Agency Clients.",
+      "url": "https://legiscan.com/CT/bill/SB01059/2025",
+      "reason": "Vector similarity match (score: 0.5795, distance: 0.7256)",
+      "extra_metadata": {
+        "bill_id": "1931898",
+        "status_date": "2025-01-22",
+        "last_action": "Referred to Joint Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5794959848736813,
+        "distance": 0.7256374955177307
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on allowing nurse's aides and assisted living aides to administer medication to nursing home residents and clients of assisted living services agencies. It does not mention palliative care, hospice, or end-of-life care, nor does it impact seriously ill patients or their care settings in a way that relates to palliative care. Therefore, it does not meet the criteria for relevance to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB01323",
+      "title": "An Act Concerning The Nonemergency Transportation Of Persons Via Stretcher Vans.",
+      "url": "https://legiscan.com/CT/bill/SB01323/2025",
+      "reason": "Vector similarity match (score: 0.5792, distance: 0.7265)",
+      "extra_metadata": {
+        "bill_id": "1970268",
+        "status_date": "2025-02-14",
+        "last_action": "Public Hearing 02/21",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5791951379857602,
+        "distance": 0.726533830165863
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses nonemergency transportation services via stretcher vans and does not mention palliative care, hospice, or seriously ill patients. It focuses on logistics and transportation rather than healthcare delivery or policy impacting palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, or other excluded topics."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB01101",
+      "title": "An Act Concerning The Fees Charged For A Medical Records Postmortem Report And A True Copy Certification.",
+      "url": "https://legiscan.com/CT/bill/SB01101/2025",
+      "reason": "Vector similarity match (score: 0.5777, distance: 0.7310)",
+      "extra_metadata": {
+        "bill_id": "1932234",
+        "status_date": "2025-01-22",
+        "last_action": "Referred to Joint Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5776865262662353,
+        "distance": 0.7310426235198975
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the fees associated with medical records postmortem reports and true copy certifications. It does not mention palliative care, hospice, or end-of-life care, nor does it impact seriously ill patients, healthcare providers, or payment systems in a way that would affect palliative care services. Therefore, it is not relevant to palliative care policy and services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB07026",
+      "title": "An Act Concerning Exceptions To The Nursing Home Bed Moratorium.",
+      "url": "https://legiscan.com/CT/bill/HB07026/2025",
+      "reason": "Vector similarity match (score: 0.5776, distance: 0.7313)",
+      "extra_metadata": {
+        "bill_id": "1976175",
+        "status_date": "2025-06-02",
+        "last_action": "Senate Calendar Number 589",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5776157813465452,
+        "distance": 0.7312546372413635
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses exceptions to a nursing home bed moratorium and does not directly mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients or their care settings in a way that would be relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill references existing regulations regarding nursing home bed moratoriums.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB00184",
+      "title": "An Act Concerning Consumer Protection In The Long-term Care Insurance Market.",
+      "url": "https://legiscan.com/CT/bill/SB00184/2025",
+      "reason": "Vector similarity match (score: 0.5776, distance: 0.7314)",
+      "extra_metadata": {
+        "bill_id": "1905040",
+        "status_date": "2025-01-08",
+        "last_action": "Referred to Joint Committee on Insurance and Real Estate",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5775819365184448,
+        "distance": 0.7313560843467712
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on consumer protection in the long-term care insurance market and does not explicitly mention palliative care, hospice, or end-of-life care. It does not appear to impact seriously ill patients directly, nor does it address healthcare workforce, payment systems, or quality standards relevant to palliative care. Therefore, it does not meet the criteria for relevance to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill includes provisions related to consumer protection regulations in the long-term care insurance market.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05196",
+      "title": "An Act Concerning Death Certificates.",
+      "url": "https://legiscan.com/CT/bill/HB05196/2025",
+      "reason": "Vector similarity match (score: 0.5772, distance: 0.7326)",
+      "extra_metadata": {
+        "bill_id": "1916292",
+        "status_date": "2025-01-14",
+        "last_action": "Referred to Joint Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5771785897675745,
+        "distance": 0.7325659990310669
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the regulation of death certificates and does not directly mention or impact palliative care, hospice services, or seriously ill patients. It does not create any infrastructure or programs that would include palliative care, nor does it affect healthcare workforce, payment systems, or quality standards relevant to palliative care.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill establishes regulations regarding the issuance and management of death certificates.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB00800",
+      "title": "An Act Increasing Asset Limits For Husky C Eligibility.",
+      "url": "https://legiscan.com/CT/bill/SB00800/2025",
+      "reason": "Vector similarity match (score: 0.5772, distance: 0.7326)",
+      "extra_metadata": {
+        "bill_id": "1927391",
+        "status_date": "2025-01-21",
+        "last_action": "Referred to Joint Committee on Human Services",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5771783117780978,
+        "distance": 0.7325668334960938
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on increasing asset limits for Husky C eligibility, which primarily addresses Medicaid eligibility criteria rather than directly impacting palliative care, hospice services, or seriously ill patients. It does not mention palliative care or related services, nor does it create infrastructure that would include palliative care. Therefore, it does not meet the criteria for relevance to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB07067",
+      "title": "An Act Concerning An Emergency Certificate Of Need Application Process For Transfers Of Ownership Of Hospitals That Have Filed For Bankruptcy Protection, The Assessment Of Motor Vehicles For Property Taxation, A Property Tax Exemption For Veterans Who Are Permanently And Totally Disabled And Funding Of The Special Education Excess Cost Grant.",
+      "url": "https://legiscan.com/CT/bill/HB07067/2025",
+      "reason": "Vector similarity match (score: 0.5764, distance: 0.7349)",
+      "extra_metadata": {
+        "bill_id": "1980689",
+        "status_date": "2025-03-12",
+        "last_action": "Public Act 25-2",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5763870093653352,
+        "distance": 0.7349454164505005
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the emergency certificate of need application process for hospitals in bankruptcy, property tax assessments, and veterans' benefits. It does not mention palliative care, hospice services, or any provisions that would directly or indirectly impact seriously ill patients or their care. Therefore, it does not meet the criteria for relevance to palliative care policy.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill references the emergency certificate of need application process, which involves regulatory oversight.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB01434",
+      "title": "An Act Implementing The Treasurer's Recommendations For Revisions Concerning Unclaimed Property.",
+      "url": "https://legiscan.com/CT/bill/SB01434/2025",
+      "reason": "Vector similarity match (score: 0.5756, distance: 0.7372)",
+      "extra_metadata": {
+        "bill_id": "1987759",
+        "status_date": "2025-06-23",
+        "last_action": "Signed by the Governor",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5756279709116221,
+        "distance": 0.7372331619262695
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses revisions concerning unclaimed property and does not mention palliative care, hospice, or any related services. It does not impact seriously ill patients, their care settings, or healthcare providers in a manner relevant to palliative care. Therefore, it falls outside the scope of palliative care policy.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB01044",
+      "title": "An Act Concerning Adverse Determination And Utilization Reviews.",
+      "url": "https://legiscan.com/CT/bill/SB01044/2025",
+      "reason": "Vector similarity match (score: 0.5755, distance: 0.7377)",
+      "extra_metadata": {
+        "bill_id": "1932018",
+        "status_date": "2025-01-22",
+        "last_action": "Referred to Joint Committee on Public Health",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5754704102186479,
+        "distance": 0.7377088069915771
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses adverse determinations and utilization reviews in healthcare without directly mentioning palliative care, hospice, or serious illness care. It does not create infrastructure or programs that would include palliative care, nor does it impact payment systems or workforce development relevant to palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill may reference existing regulations related to utilization reviews and adverse determinations.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05030",
+      "title": "An Act Establishing A Personal Income Tax Deduction For Long-term Care Insurance Premium Payments.",
+      "url": "https://legiscan.com/CT/bill/HB05030/2025",
+      "reason": "Vector similarity match (score: 0.5753, distance: 0.7383)",
+      "extra_metadata": {
+        "bill_id": "1905026",
+        "status_date": "2025-01-08",
+        "last_action": "Referred to Joint Committee on Finance, Revenue and Bonding",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5752802873696691,
+        "distance": 0.738283097743988
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on establishing a personal income tax deduction for long-term care insurance premium payments, which does not directly address palliative care, hospice services, or the needs of seriously ill patients. It does not create or modify any infrastructure, payment systems, or workforce development that would impact palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB06528",
+      "title": "An Act Concerning Applications For Senior, Veteran And Circuit Breaker Property Tax Relief Programs.",
+      "url": "https://legiscan.com/CT/bill/HB06528/2025",
+      "reason": "Vector similarity match (score: 0.5752, distance: 0.7386)",
+      "extra_metadata": {
+        "bill_id": "1938258",
+        "status_date": "2025-01-24",
+        "last_action": "Referred to Joint Committee on Planning and Development",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5751853617844319,
+        "distance": 0.738569974899292
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses property tax relief programs for seniors, veterans, and circuit breakers without any mention or implication of palliative care, hospice services, or seriously ill patients. It does not create infrastructure or funding opportunities relevant to palliative care, nor does it affect healthcare workforce or payment systems in a way that would impact palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB06100",
+      "title": "An Act Concerning Medicaid Rates For Custom Orthotics And Prosthetic Devices.",
+      "url": "https://legiscan.com/CT/bill/HB06100/2025",
+      "reason": "Vector similarity match (score: 0.5751, distance: 0.7388)",
+      "extra_metadata": {
+        "bill_id": "1932684",
+        "status_date": "2025-01-22",
+        "last_action": "Referred to Joint Committee on Human Services",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5751206891185152,
+        "distance": 0.7387654781341553
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on Medicaid rates for custom orthotics and prosthetic devices, which does not directly address palliative care, hospice services, or the needs of seriously ill patients. It does not create or modify any infrastructure that would impact palliative care delivery or access. Therefore, it is not relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  }
+]

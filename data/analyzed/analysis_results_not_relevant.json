@@ -1,0 +1,546 @@
+[
+  {
+    "bill": {
+      "bill_number": "HB07102",
+      "title": "An Act Concerning Maternal And Infant Health Care.",
+      "url": "https://legiscan.com/CT/bill/HB07102/2025",
+      "reason": "Maternal and infant health care may include perinatal palliative care services for families facing life-limiting fetal diagnoses. Key indicators: 'Maternal And Infant Health Care' - potential connection to perinatal palliative care."
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "After reviewing the full bill text, this legislation focuses exclusively on maternal and infant health care infrastructure, specifically developing strategies to increase birth centers and birthing hospitals in underserved regions, increasing Medicaid reimbursement for doulas, and expanding fathers' roles in supporting maternal and infant health. The bill does not address perinatal palliative care, life-limiting fetal diagnoses, pediatric palliative care, or any services for seriously ill patients. It is focused on healthy pregnancy, birth, and postpartum care delivery systems rather than serious illness care.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": null,
+      "tags": null,
+      "key_provisions": null,
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": null,
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "Bill does not fall under exclusion criteria (aid-in-dying, general hospice, medical marijuana, psilocybin). However, it is not relevant to palliative care policy as it focuses on maternal health infrastructure and doula services for healthy pregnancies rather than serious illness care or perinatal palliative care services."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB06436",
+      "title": "An Act Concerning Revisions To The Health Insurance Statutes.",
+      "url": "https://legiscan.com/CT/bill/HB06436/2025",
+      "reason": "Revisions to health insurance statutes may include coverage provisions for palliative care services. Key indicators: 'Health Insurance Statutes' - potential connection to palliative care coverage and benefits."
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "After reviewing the full bill text, HB06436 is purely administrative legislation that makes technical corrections to health insurance statutes. It eliminates outdated reporting requirements for entities that no longer exist, adjusts pharmacy benefits manager reporting dates, and removes a regulation requirement for wheelchair coverage that is already implemented. The bill does not establish, modify, or affect any health insurance coverage provisions, benefits, or mandates. It contains no provisions related to palliative care services, seriously ill patients, healthcare workforce, or care delivery systems.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": null,
+      "tags": null,
+      "key_provisions": null,
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": null,
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "Bill does not fall under exclusion criteria (aid-in-dying, general hospice, medical marijuana, psilocybin). However, it is not relevant to palliative care for different reasons - it is purely administrative/technical corrections to insurance statutes with no substantive policy changes affecting healthcare coverage or services."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "Bill eliminates the requirement that the Insurance Commissioner adopt regulations to implement health insurance coverage requirements concerning medically necessary wheelchair repairs and replacements, as these regulations have already been adopted",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB07287",
+      "title": "An Act Concerning The State Budget For The Biennium Ending June 30, 2027, And Making Appropriations Therefor, And Provisions Related To Revenue And Other Items Implementing The State Budget.",
+      "url": "https://legiscan.com/CT/bill/HB07287/2025",
+      "reason": "State budget bill making appropriations. Budget bills may contain funding for palliative care programs, hospice services, or related healthcare initiatives requiring further investigation to identify any palliative care appropriations."
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "This is Connecticut's biennial state budget bill (HB07287) for fiscal years 2026-2027. While comprehensive state budget bills often contain appropriations for healthcare programs including palliative care, the initial filter reason indicates this requires investigation of the full text to identify specific palliative care appropriations. Without access to the actual detailed appropriations within the 600+ page budget document (only the bill shell/title is provided), it is impossible to determine if palliative care funding is included. The bill title and description are generic budget language that does not indicate specific palliative care provisions. A meaningful analysis would require reviewing the detailed appropriations schedules, which are not available in the provided information.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": null,
+      "tags": null,
+      "key_provisions": null,
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": null,
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "Bill does not fall under exclusion criteria (aid-in-dying, general hospice, medical marijuana, psilocybin). However, without access to detailed appropriations line items within this comprehensive budget bill, specific palliative care relevance cannot be determined."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "As a comprehensive state budget bill, it likely contains numerous regulatory references and implementation requirements across state agencies, but specific details cannot be determined without full appropriations schedules",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB07049",
+      "title": "An Act Concerning The Recommendations Of The Office Of The Child Advocate Regarding The Infant Mortality Review Program.",
+      "url": "https://legiscan.com/CT/bill/HB07049/2025",
+      "reason": "Concerns infant mortality review program recommendations from Office of Child Advocate. Infant mortality review programs may intersect with perinatal palliative care for families facing life-limiting fetal diagnoses. Key indicators: 'Infant Mortality Review Program,' potential connection to perinatal palliative care."
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "After reviewing the full bill text, this legislation focuses exclusively on behavior analysts (applied behavior analysis practitioners) and their regulatory framework. The bill establishes background check requirements, mandated reporter designations, disciplinary procedures, complaint notification requirements, and a task force to study behavior analyst issues. While the title mentions infant mortality review, the actual bill content only allows data sharing between the Commissioner of Public Health and Child Advocate for infant mortality review purposes\u2014it does not establish, modify, or expand the infant mortality review program itself, nor does it address perinatal palliative care, pediatric hospice, or care for seriously ill infants. The bill is entirely focused on behavior analyst professional regulation.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": null,
+      "tags": null,
+      "key_provisions": null,
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": null,
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "Bill does not fall under exclusion criteria (aid-in-dying, general hospice, medical marijuana, psilocybin). However, it is not relevant to palliative care as it focuses on behavior analyst professional regulation rather than care for seriously ill patients or infant mortality review program enhancements."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB01472",
+      "title": "An Act Concerning A Task Force To Develop A Strategic Plan For Optimal Use Of The Department Of Developmental Disabilities' Regional Centers.",
+      "url": "https://legiscan.com/CT/bill/SB01472/2025",
+      "reason": "Task force to develop strategic plan for Department of Developmental Disabilities regional centers. Key indicators: 'developmental disabilities' - creates opportunity for palliative care integration for individuals with complex medical needs."
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "After reviewing the full bill text, this legislation focuses exclusively on reopening Medicaid-funded service applications at Department of Developmental Services regional centers by January 1, 2026. While individuals with developmental disabilities may have complex medical needs, this bill is an administrative directive about application processes rather than clinical care delivery, service standards, or healthcare infrastructure that would impact palliative care services. The bill does not address serious illness care, symptom management, end-of-life planning, or healthcare delivery models relevant to palliative care practice.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": null,
+      "tags": null,
+      "key_provisions": null,
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": null,
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "Bill does not fall under exclusion criteria (aid-in-dying, general hospice, medical marijuana, psilocybin). However, it is not relevant to palliative care policy as it addresses only administrative application processes for developmental disability services rather than clinical care, healthcare delivery, or services for people with serious illness."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB07214",
+      "title": "An Act Concerning Maternal Health.",
+      "url": "https://legiscan.com/CT/bill/HB07214/2025",
+      "reason": "Maternal health bill may include provisions for perinatal palliative care or support for families facing life-limiting fetal diagnoses. Key indicators: 'Maternal Health' - potential opportunity for perinatal palliative care policy."
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "After reviewing the full bill text, this maternal health legislation establishes three distinct initiatives: (1) a task force to study perinatal mental health care, (2) a report card system for birth centers and hospitals providing maternity care, and (3) an advisory committee to study doula-friendly hospital practices. While the initial filter suggested potential relevance to perinatal palliative care for families facing life-limiting fetal diagnoses, the enacted bill focuses exclusively on mental health services for pregnant and postpartum individuals, quality metrics for maternity care facilities, and doula integration. There is no mention of serious illness, life-limiting conditions, perinatal palliative care, or support for families facing adverse fetal diagnoses.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": null,
+      "tags": null,
+      "key_provisions": null,
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": null,
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "Bill does not fall under exclusion criteria (aid-in-dying, general hospice, medical marijuana, psilocybin). However, it is not relevant to palliative care policy as it focuses on maternal mental health, maternity care quality reporting, and doula services without addressing serious illness, life-limiting fetal conditions, or perinatal palliative care."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB07233",
+      "title": "An Act Establishing A Parkinson's Disease Research Account.",
+      "url": "https://legiscan.com/CT/bill/HB07233/2025",
+      "reason": "Establishes Parkinson's Disease research account. Parkinson's is a neurodegenerative disease where palliative care integration opportunities exist for symptom management and quality of life. Key indicators: 'Parkinson's Disease,' 'research' - disease-specific context with palliative care potential."
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "After reviewing the full bill text, this legislation establishes a dedicated research account specifically for Parkinson's disease research funding. While Parkinson's disease is a serious neurodegenerative illness where palliative care services are clinically appropriate, this bill focuses exclusively on research funding mechanisms and does not address clinical care delivery, healthcare services, workforce development, payment for care services, or quality standards. The bill creates a financial account structure for research grants but has no direct or indirect impact on palliative care policy, service delivery, or access to care for people living with Parkinson's disease.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": null,
+      "tags": null,
+      "key_provisions": null,
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": null,
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "Bill does not fall under exclusion criteria (aid-in-dying, general hospice, medical marijuana, or psilocybin). However, it is not relevant to palliative care policy tracking because it addresses research funding only, not clinical care services, delivery systems, workforce, payment for services, or quality standards that would affect palliative care for people living with Parkinson's disease."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB01519",
+      "title": "An Act Designating Various Days, Weeks And Months.",
+      "url": "https://legiscan.com/CT/bill/SB01519/2025",
+      "reason": "Designates various days, weeks and months which may include palliative care awareness days/months or hospice recognition. Key indicators: 'designating days, weeks and months' - potential for palliative care awareness designation."
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "After reviewing the full bill text, this is a ceremonial designation bill that establishes various commemorative days, weeks, and months in Connecticut. While the initial filter flagged it as potentially including palliative care awareness designations, the bill does not actually designate any days, weeks, or months related to palliative care, hospice care, serious illness awareness, or end-of-life care. It is purely ceremonial legislation without policy impact on healthcare delivery, workforce, payment, or patient care.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": null,
+      "tags": null,
+      "key_provisions": null,
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": null,
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "This bill does not fall under exclusion criteria (aid-in-dying, general hospice, medical marijuana, psilocybin). However, it is not relevant to palliative care policy because it is a ceremonial designation bill that does not include any palliative care, hospice, or serious illness-related commemorative designations, nor does it create any healthcare policy, programs, or requirements."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05429",
+      "title": "An Act Concerning Caregivers, Qualifying Patients And The Palliative Use Of Cannabis.",
+      "url": "https://legiscan.com/CT/bill/HB05429/2025",
+      "reason": "Explicitly mentions palliative use of cannabis for qualifying patients and caregivers. Key indicators: 'palliative use of cannabis,' 'qualifying patients,' 'caregivers' - direct reference to palliative care requiring investigation."
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "After reviewing the full bill text, this legislation exclusively concerns Connecticut's medical cannabis program for qualifying patients. While the bill uses the term 'palliative use of cannabis,' this refers to the state's regulatory framework for medical marijuana, not palliative care as a specialized medical discipline. The bill addresses cannabis cultivation, testing laboratory fees, anti-discrimination protections for cannabis users, and enforcement mechanisms. This falls squarely under the exclusion criteria for medical marijuana/cannabis legislation, even when labeled as 'palliative use.'",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": null,
+      "tags": null,
+      "key_provisions": null,
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": null,
+      "exclusion_check": {
+        "is_excluded": true,
+        "reason": "This bill is explicitly excluded as it concerns medical marijuana/cannabis policy. Despite using the term 'palliative use of cannabis,' this is Connecticut's regulatory terminology for their medical cannabis program and does not relate to palliative care as a medical specialty focused on serious illness care. The bill addresses cannabis cultivation rights, testing fees, anti-discrimination protections for cannabis users, and enforcement of cannabis regulations\u2014all outside the scope of palliative care policy tracking."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "Bill modifies the Department of Consumer Protection's enforcement powers related to the state's palliative-use cannabis market and references qualifying patient registration certificates",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB00476",
+      "title": "An Act Declaring Opioid And Substance Use Disorders A Public Health Crisis And Establishing A Commission On Opioid And Substance Use Disorders.",
+      "url": "https://legiscan.com/CT/bill/SB00476/2025",
+      "reason": "Addresses opioid and substance use disorders as public health crisis. Potential connection to palliative care through pain management policy and opioid prescribing regulations that may impact palliative care patients. Key indicators: 'opioid,' 'substance use disorders,' 'public health crisis'."
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "After reviewing the full bill text, this legislation focuses exclusively on declaring opioid and substance use disorders a public health crisis and establishing a commission to address addiction treatment, prevention, and recovery services. While the initial filter identified potential connections to pain management in palliative care, the bill does not address opioid prescribing practices, pain management protocols, or access to opioids for legitimate medical purposes including palliative care. The commission's scope is limited to substance use disorder treatment and prevention, not the clinical management of pain in seriously ill patients.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": null,
+      "tags": null,
+      "key_provisions": null,
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": null,
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "Bill does not fall under exclusion criteria (aid-in-dying, general hospice, medical marijuana, psilocybin). However, it is not relevant to palliative care policy as it focuses on substance use disorder treatment and prevention rather than pain management or opioid access for seriously ill patients."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05712",
+      "title": "An Act Concerning The Cause Of Death For Persons Who Self-administer Medication Prescribed To Bring About Death.",
+      "url": "https://legiscan.com/CT/bill/HB05712/2025",
+      "reason": "Concerns cause of death for persons who self-administer prescribed medication to bring about death. This relates to medical aid in dying/death with dignity laws, which intersect with end-of-life care and palliative care policy. Key indicators: 'self-administer medication prescribed to bring about death,' 'cause of death' - end-of-life care context."
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "After reviewing the full bill text, this legislation exclusively addresses medical aid-in-dying/assisted suicide, specifically requiring notification to next of kin about the cause of death when someone self-administers prescribed medication to bring about death. This falls squarely under the exclusion criteria for aid-in-dying/death with dignity legislation. The bill does not address palliative care services, symptom management, quality of life for people living with serious illness, or any other aspects of palliative care delivery or policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": null,
+      "tags": null,
+      "key_provisions": null,
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": null,
+      "exclusion_check": {
+        "is_excluded": true,
+        "reason": "This bill is explicitly focused on aid-in-dying/assisted suicide procedures, specifically addressing notification requirements when someone self-administers medication prescribed to bring about death. It falls directly under the exclusion criteria for aid-in-dying or death with dignity legislation. The bill has no provisions related to palliative care services, symptom management, or care for people living with serious illness."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB00245",
+      "title": "An Act Concerning The State's Health Care System.",
+      "url": "https://legiscan.com/CT/bill/SB00245/2025",
+      "reason": "Broad healthcare system bill that may include palliative care provisions or create opportunities for palliative care integration. Key indicators: 'State's Health Care System' - comprehensive healthcare policy requiring investigation."
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "After reviewing the full bill text, this legislation focuses exclusively on establishing a state-run health insurance program (Connecticut Care) as an alternative to private insurance. The bill addresses insurance market structure, premium rates, coverage requirements, and administrative mechanisms for a public option. It does not mention palliative care, hospice, end-of-life care, or seriously ill populations. While it establishes healthcare coverage, it does not specify benefit designs, clinical service requirements, or quality standards that would directly or indirectly impact palliative care delivery, workforce, or payment models beyond general insurance coverage.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": null,
+      "tags": null,
+      "key_provisions": null,
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": null,
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "Bill does not fall under exclusion criteria (aid-in-dying, general hospice, medical marijuana, or psilocybin). However, it is not relevant to palliative care policy tracking as it focuses on insurance market structure rather than clinical services, care delivery models, workforce development, or specific benefits that would affect palliative care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "Bill requires the Insurance Commissioner to adopt regulations for implementation of Connecticut Care program, including rate-setting methodologies, enrollment procedures, and administrative requirements",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB00562",
+      "title": "An Act Concerning Funding For The Connecticut Rare Disease Advisory Council.",
+      "url": "https://legiscan.com/CT/bill/SB00562/2025",
+      "reason": "Concerns funding for Connecticut Rare Disease Advisory Council. Rare disease programs often intersect with palliative care needs as many rare diseases are serious, life-limiting conditions requiring symptom management and quality of life support. Key indicators: 'Rare Disease Advisory Council,' potential for palliative care integration."
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "After reviewing the full bill text, this legislation solely addresses administrative funding mechanisms for the Connecticut Rare Disease Advisory Council, specifically allowing it to collaborate with and accept funds from nonprofit entities. While rare diseases can involve serious illness requiring palliative care, this bill does not establish programs, services, benefits, or standards that would impact palliative care delivery, access, workforce, or payment. It is purely an administrative funding authorization without substantive healthcare service provisions.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": null,
+      "tags": null,
+      "key_provisions": null,
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": null,
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "Bill does not fall under exclusion criteria (aid-in-dying, general hospice, medical marijuana, psilocybin). However, it is not relevant to palliative care policy as it only addresses administrative funding authority for an advisory council without establishing healthcare services, programs, or standards."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB00705",
+      "title": "An Act Requiring Smoke Detectors In All Homes In Which A Person Is Providing Health Care Or Hospice Care Through A Home Health Care Agency, Hospice Agency Or Home Health Aide Agency.",
+      "url": "https://legiscan.com/CT/bill/SB00705/2025",
+      "reason": "Requires smoke detectors in homes where hospice care is provided through hospice agencies. Direct reference to hospice care delivery and safety standards. Key indicators: 'hospice care,' 'hospice agency.'"
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "After reviewing the full bill text, this legislation focuses exclusively on workplace safety requirements for home health care workers by mandating smoke detectors in homes where services are provided. While the bill mentions 'hospice care' and 'hospice agency' in its title and scope, it does not address any aspect of palliative or hospice care delivery, quality, access, payment, or clinical services. The bill is purely an occupational safety measure for healthcare workers and does not impact care for seriously ill patients, palliative care services, or hospice care delivery models. It falls outside the scope of palliative care policy tracking as it addresses worker safety infrastructure rather than patient care.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": null,
+      "tags": null,
+      "key_provisions": null,
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": null,
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "Bill does not fall under specific exclusion criteria (aid-in-dying, general hospice focus, medical marijuana, or psilocybin). However, it is not relevant to palliative care policy because it addresses only workplace safety requirements for healthcare workers rather than any aspect of care delivery, access, quality, or services for seriously ill patients."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05454",
+      "title": "An Act Allowing Terminally Ill Patients To Make Decisions About End-of-life Care.",
+      "url": "https://legiscan.com/CT/bill/HB05454/2025",
+      "reason": "Allows terminally ill patients to make decisions about end-of-life care. Key indicators: 'terminally ill patients,' 'end-of-life care,' 'decisions' - directly relates to advance care planning and patient autonomy in serious illness, core components of palliative care policy."
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "Based on the bill title and description, this appears to be aid-in-dying/death with dignity legislation. The description states the bill would 'allow terminally ill patients to make decisions about their end-of-life care that do not cause them to endure lengthy, painful deaths,' which is characteristic language of medical aid-in-dying laws. This falls under the explicit exclusion criteria for palliative care policy tracking, as these bills focus on hastening death rather than improving quality of life during serious illness.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": null,
+      "tags": null,
+      "key_provisions": null,
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": null,
+      "exclusion_check": {
+        "is_excluded": true,
+        "reason": "This bill appears to be aid-in-dying/death with dignity legislation based on the description stating it would allow terminally ill patients to make decisions 'that do not cause them to endure lengthy, painful deaths.' This language is characteristic of medical aid-in-dying laws, which fall under the explicit exclusion criteria. While advance care planning and patient autonomy are important to palliative care, aid-in-dying legislation is specifically excluded from palliative care policy tracking."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB05625",
+      "title": "An Act Concerning Aid In Dying For Terminally Ill Patients.",
+      "url": "https://legiscan.com/CT/bill/HB05625/2025",
+      "reason": "Directly addresses aid in dying for terminally ill patients, which is closely related to end-of-life care and palliative care policy. Key indicators: 'Aid In Dying,' 'Terminally Ill Patients' - explicit connection to end-of-life care requiring further investigation."
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "This bill is an aid-in-dying/death with dignity law that allows terminally ill patients to request and receive medication to end their lives. While the bill mentions palliative care in the context of requiring physicians to inform patients about alternatives including palliative care and hospice, the primary purpose and focus of the legislation is to establish a legal framework for physician-assisted death. This falls squarely under the exclusion criteria for aid-in-dying legislation, which is explicitly excluded from palliative care policy tracking regardless of tangential mentions of palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": null,
+      "tags": null,
+      "key_provisions": null,
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": null,
+      "exclusion_check": {
+        "is_excluded": true,
+        "reason": "This bill is aid-in-dying legislation that establishes procedures for terminally ill patients to request and receive life-ending medication. While it requires physicians to inform patients about palliative care and hospice as alternatives, the primary focus is on physician-assisted death, which is explicitly excluded from palliative care policy tracking per the exclusion criteria."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB00952",
+      "title": "An Act Designating Parkinson's Awareness Day.",
+      "url": "https://legiscan.com/CT/bill/SB00952/2025",
+      "reason": "Designates Parkinson's Awareness Day. Parkinson's disease is a progressive neurodegenerative condition where palliative care plays important role in symptom management and quality of life. Awareness initiatives create opportunities for palliative care integration. Key indicators: 'Parkinson's,' neurodegenerative disease, awareness day."
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "After reviewing the full bill text, this legislation solely designates April 11th of each year as 'Parkinson's Awareness Day' in Connecticut. It is a symbolic resolution that creates an awareness day but does not establish programs, funding, task forces, clinical requirements, payment mechanisms, or any infrastructure that would impact palliative care delivery, workforce, or policy. While Parkinson's disease patients benefit from palliative care, this ceremonial designation does not create actionable policy changes or opportunities for palliative care integration.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": null,
+      "tags": null,
+      "key_provisions": null,
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": null,
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "Bill does not fall under exclusion criteria (aid-in-dying, general hospice, medical marijuana, psilocybin). However, it is not relevant to palliative care policy tracking because it is purely ceremonial and creates no substantive policy, programs, or requirements."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  }
+]

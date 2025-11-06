@@ -1,0 +1,43 @@
+[
+  {
+    "bill": {
+      "bill_number": "HB05429",
+      "title": "An Act Concerning Caregivers, Qualifying Patients And The Palliative Use Of Cannabis.",
+      "url": "https://legiscan.com/CT/bill/HB05429/2025",
+      "reason": "Vector similarity match (score: 0.5233, distance: 0.9109)",
+      "extra_metadata": {
+        "bill_id": "1925049",
+        "status_date": "2025-01-17",
+        "last_action": "Public Hearing 02/14",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5233144062543142,
+        "distance": 0.9108971357345581
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "After reviewing the full bill text, this legislation exclusively concerns Connecticut's medical cannabis program for qualifying patients. While the bill uses the term 'palliative use of cannabis,' this refers to the state's medical marijuana program terminology, not palliative care as a specialized medical discipline. The bill addresses cannabis cultivation, testing laboratory fees, anti-discrimination protections for cannabis users, and enforcement mechanisms. This falls squarely under the exclusion criteria for medical marijuana/cannabis legislation, even when labeled as 'palliative use.'",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": null,
+      "tags": null,
+      "key_provisions": null,
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": null,
+      "exclusion_check": {
+        "is_excluded": true,
+        "reason": "This bill is explicitly excluded as it focuses entirely on medical marijuana/cannabis policy. Despite using the term 'palliative use of cannabis' in its title, this refers to Connecticut's medical cannabis program terminology, not palliative care as a medical specialty. The bill addresses cannabis cultivation rights, testing laboratory fee caps, anti-discrimination protections for cannabis users and caregivers, and enforcement modifications for the state's medical marijuana market. This falls under the clear exclusion criteria for medical marijuana and cannabis legislation."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "Bill modifies the Department of Consumer Protection's enforcement powers and registration certificate requirements for the state's medical cannabis program",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  }
+]

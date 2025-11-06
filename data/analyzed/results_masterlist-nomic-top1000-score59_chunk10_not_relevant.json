@@ -1,0 +1,822 @@
+[
+  {
+    "bill": {
+      "bill_number": "HB1273",
+      "title": "Relating to denial of payment for preauthorized health care or dental care services.",
+      "url": "https://legiscan.com/TX/bill/HB1273/2019",
+      "reason": "Vector similarity match (score: 0.5903, distance: 0.6940)",
+      "extra_metadata": {
+        "bill_id": "1183960",
+        "status_date": "2019-05-02",
+        "last_action": "Referred to Business & Commerce",
+        "year": "2019",
+        "session": "2019 Regular Session",
+        "similarity_score": 0.590335906552968,
+        "distance": 0.6939508318901062
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses the denial of payment for preauthorized healthcare or dental services without any mention of palliative care, hospice, or seriously ill patients. It focuses on insurance regulations rather than directly impacting palliative care services or policies.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill relates to insurance payment regulations.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1432",
+      "title": "Relating to the billing for certain health care services provided to a sexual assault survivor.",
+      "url": "https://legiscan.com/TX/bill/HB1432/2019",
+      "reason": "Vector similarity match (score: 0.5903, distance: 0.6940)",
+      "extra_metadata": {
+        "bill_id": "1192072",
+        "status_date": "2019-02-06",
+        "last_action": "Referred to Homeland Security & Public Safety",
+        "year": "2019",
+        "session": "2019 Regular Session",
+        "similarity_score": 0.5903278471234881,
+        "distance": 0.693973958492279
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on billing for healthcare services provided to sexual assault survivors and does not mention palliative care, hospice, or serious illness care. It primarily addresses issues related to healthcare provider reimbursement and does not impact seriously ill patients or their care settings.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB3259",
+      "title": "Relating to naturopathic physicians; declaring an emergency.",
+      "url": "https://legiscan.com/OR/bill/HB3259/2023",
+      "reason": "Vector similarity match (score: 0.5903, distance: 0.6942)",
+      "extra_metadata": {
+        "bill_id": "1715821",
+        "status_date": "2023-06-25",
+        "last_action": "In committee upon adjournment.",
+        "year": "2023",
+        "session": "2023 Regular Session",
+        "similarity_score": 0.5902632757744041,
+        "distance": 0.6941592693328857
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on the study of naturopathic physicians and their impact on healthcare outcomes, without any direct mention of palliative care, hospice, or seriously ill patients. It does not create infrastructure or provisions that would affect palliative care services or the delivery of care to those with serious illnesses.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill directs the Oregon Board of Naturopathic Medicine to study and report on healthcare outcomes.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB3299",
+      "title": "Relating to the applicability of mediation requirements for balance billing to certain health benefit plans.",
+      "url": "https://legiscan.com/TX/bill/HB3299/2019",
+      "reason": "Vector similarity match (score: 0.5902, distance: 0.6943)",
+      "extra_metadata": {
+        "bill_id": "1230679",
+        "status_date": "2019-03-05",
+        "last_action": "Left pending in committee",
+        "year": "2019",
+        "session": "2019 Regular Session",
+        "similarity_score": 0.5902148513410865,
+        "distance": 0.694298267364502
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses mediation requirements for balance billing in health benefit plans and does not mention palliative care, hospice, or end-of-life care. It focuses on insurance and dispute resolution mechanisms, which do not directly impact seriously ill patients or palliative care services.",
+      "summary": null,
+      "bill_status": "Failed",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill references mediation requirements related to balance billing, which may involve regulatory changes in insurance practices.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB1530",
+      "title": "Relating to the applicability of mediation requirements for balance billing to certain health benefit plans.",
+      "url": "https://legiscan.com/TX/bill/SB1530/2019",
+      "reason": "Vector similarity match (score: 0.5902, distance: 0.6943)",
+      "extra_metadata": {
+        "bill_id": "1230760",
+        "status_date": "2019-04-16",
+        "last_action": "Corrected committee report sent to Calendars",
+        "year": "2019",
+        "session": "2019 Regular Session",
+        "similarity_score": 0.5902148513410865,
+        "distance": 0.694298267364502
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses mediation requirements for balance billing in health benefit plans and does not mention palliative care, hospice, or seriously ill patients. It focuses on dispute resolution related to insurance practices, which does not directly impact palliative care services or policies.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill relates to mediation and dispute resolution regulations for health benefit plans.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB4982",
+      "title": "IDPH-GREEN BURIALS",
+      "url": "https://legiscan.com/IL/bill/HB4982/2023",
+      "reason": "Vector similarity match (score: 0.5902, distance: 0.6943)",
+      "extra_metadata": {
+        "bill_id": "1839813",
+        "status_date": "2025-01-07",
+        "last_action": "Session Sine Die",
+        "year": "2023",
+        "session": "2023-2024 Regular Session",
+        "similarity_score": 0.5901972444261079,
+        "distance": 0.6943488121032715
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "This bill primarily addresses regulations surrounding green burials and does not mention palliative care, hospice services, or end-of-life care. It focuses on environmental and health impacts of burial practices rather than on care for seriously ill patients or their healthcare providers.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not focus on aid-in-dying, hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill requires the Director of Public Health to study and develop recommendations regarding green burials.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB501",
+      "title": "Relating to the requirement and study of insurance coverage for serious emotional disturbance of a child.",
+      "url": "https://legiscan.com/TX/bill/HB501/2019",
+      "reason": "Vector similarity match (score: 0.5902, distance: 0.6944)",
+      "extra_metadata": {
+        "bill_id": "1132632",
+        "status_date": "2018-12-10",
+        "last_action": "Considered in Calendars",
+        "year": "2019",
+        "session": "2019 Regular Session",
+        "similarity_score": 0.5901650231701074,
+        "distance": 0.6944413185119629
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on insurance coverage for serious emotional disturbances in children and does not mention palliative care, hospice, or end-of-life care. It primarily addresses mental health issues for minors and does not have provisions that would directly or indirectly impact palliative care services or the care of seriously ill patients.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB314",
+      "title": "Relating to the requirement and study of insurance coverage for serious emotional disturbance of a child.",
+      "url": "https://legiscan.com/TX/bill/SB314/2019",
+      "reason": "Vector similarity match (score: 0.5902, distance: 0.6944)",
+      "extra_metadata": {
+        "bill_id": "1140078",
+        "status_date": "2019-01-07",
+        "last_action": "Co-author authorized",
+        "year": "2019",
+        "session": "2019 Regular Session",
+        "similarity_score": 0.5901650231701074,
+        "distance": 0.6944413185119629
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "This bill focuses specifically on insurance coverage for serious emotional disturbances in children and does not address palliative care, hospice services, or seriously ill patients. The content of the bill does not create infrastructure or provisions that would include or support palliative care services.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB240",
+      "title": "Relating to the requirement and study of insurance coverage for serious emotional disturbance of a child.",
+      "url": "https://legiscan.com/TX/bill/HB240/2021",
+      "reason": "Vector similarity match (score: 0.5902, distance: 0.6944)",
+      "extra_metadata": {
+        "bill_id": "1382156",
+        "status_date": "2020-11-09",
+        "last_action": "Placed on General State Calendar",
+        "year": "2021",
+        "session": "2021 Regular Session",
+        "similarity_score": 0.5901650231701074,
+        "distance": 0.6944413185119629
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on insurance coverage for serious emotional disturbances in children and does not mention palliative care, hospice, or related services. It primarily addresses mental health issues and does not have a direct or indirect impact on seriously ill patients or palliative care systems.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB51",
+      "title": "Relating to the requirement and study of insurance coverage for serious emotional disturbance of a child.",
+      "url": "https://legiscan.com/TX/bill/SB51/2021",
+      "reason": "Vector similarity match (score: 0.5902, distance: 0.6944)",
+      "extra_metadata": {
+        "bill_id": "1382140",
+        "status_date": "2020-11-09",
+        "last_action": "Referred to Business & Commerce",
+        "year": "2021",
+        "session": "2021 Regular Session",
+        "similarity_score": 0.5901650231701074,
+        "distance": 0.6944413185119629
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on insurance coverage for serious emotional disturbance in children and does not mention palliative care, hospice, or end-of-life care. It does not appear to directly or indirectly impact seriously ill patients or the palliative care workforce, payment systems, or quality standards relevant to palliative care.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB340",
+      "title": "Relating to the requirement and study of insurance coverage for serious emotional disturbance of a child.",
+      "url": "https://legiscan.com/TX/bill/HB340/2023",
+      "reason": "Vector similarity match (score: 0.5902, distance: 0.6944)",
+      "extra_metadata": {
+        "bill_id": "1633165",
+        "status_date": "2023-05-06",
+        "last_action": "Received from the House",
+        "year": "2023",
+        "session": "2023 Regular Session",
+        "similarity_score": 0.5901650231701074,
+        "distance": 0.6944413185119629
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on insurance coverage for serious emotional disturbance in children and does not mention palliative care, hospice, or end-of-life care. It primarily addresses mental health and insurance issues rather than the needs of seriously ill patients or palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying or general hospice care."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB709",
+      "title": "Relating to the requirement and study of insurance coverage for serious emotional disturbance of a child.",
+      "url": "https://legiscan.com/TX/bill/HB709/2025",
+      "reason": "Vector similarity match (score: 0.5902, distance: 0.6944)",
+      "extra_metadata": {
+        "bill_id": "1891344",
+        "status_date": "2024-11-12",
+        "last_action": "Referred to Insurance",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.590165002410123,
+        "distance": 0.6944413781166077
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on insurance coverage for serious emotional disturbances in children and does not mention palliative care, hospice, or end-of-life care. It primarily addresses mental health issues rather than the needs of seriously ill patients or the provision of palliative care services.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1457",
+      "title": "Indiana department of health.",
+      "url": "https://legiscan.com/IN/bill/HB1457/2025",
+      "reason": "Vector similarity match (score: 0.5902, distance: 0.6945)",
+      "extra_metadata": {
+        "bill_id": "1918362",
+        "status_date": "2025-05-01",
+        "last_action": "Public Law 171",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5901563041051725,
+        "distance": 0.6944663524627686
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses administrative regulations for the Indiana Department of Health, including provisions related to health facility operations, home health aide employment criteria, and WIC program vendor agreements. It does not explicitly mention palliative care, hospice, or end-of-life care, nor does it impact seriously ill patients or their care settings in a manner relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill specifies that provisions of law governing the office of administrative law proceedings apply to the Indiana Department of Health.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1306",
+      "title": "Relating to certain claims for benefits or compensation by a death investigation professional.",
+      "url": "https://legiscan.com/TX/bill/HB1306/2025",
+      "reason": "Vector similarity match (score: 0.5901, distance: 0.6945)",
+      "extra_metadata": {
+        "bill_id": "1891929",
+        "status_date": "2025-06-20",
+        "last_action": "Effective on 9/1/25",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5901372476173036,
+        "distance": 0.6945210695266724
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses claims for benefits or compensation by death investigation professionals, which does not directly relate to palliative care, hospice services, or seriously ill patients. It does not mention palliative care or related services and focuses on regulatory aspects concerning death investigations.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill involves claims and compensation regulations for death investigation professionals.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB2921",
+      "title": "AGING-PERSONS WHO WANDER",
+      "url": "https://legiscan.com/IL/bill/HB2921/2023",
+      "reason": "Vector similarity match (score: 0.5901, distance: 0.6946)",
+      "extra_metadata": {
+        "bill_id": "1711093",
+        "status_date": "2025-01-07",
+        "last_action": "Session Sine Die",
+        "year": "2023",
+        "session": "2023-2024 Regular Session",
+        "similarity_score": 0.5901060707017954,
+        "distance": 0.694610595703125
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill focuses on establishing a pilot program for individuals who wander due to medical conditions like Alzheimer's or autism, primarily addressing safety and recovery rather than palliative care services. It does not mention palliative care, hospice, or end-of-life care, and its provisions are centered on tracking and recovery rather than symptom management or quality of life improvements for seriously ill patients.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": null,
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not focus on aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill requires the Department on Aging to adopt rules necessary for the implementation of the pilot program.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB3254",
+      "title": "Relating to the education of students in treatment programs; and declaring an emergency.",
+      "url": "https://legiscan.com/OR/bill/HB3254/2021",
+      "reason": "Vector similarity match (score: 0.5900, distance: 0.6948)",
+      "extra_metadata": {
+        "bill_id": "1460738",
+        "status_date": "2021-09-25",
+        "last_action": "Chapter 304, (2021 Laws): Effective date July 01, 2021.",
+        "year": "2021",
+        "session": "2021 Regular Session",
+        "similarity_score": 0.5900460924272426,
+        "distance": 0.6947828531265259
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on the education of students in treatment programs and does not explicitly mention palliative care, hospice, or end-of-life care. It does not appear to affect seriously ill patients or their care settings in a way that would be relevant to palliative care policy.",
+      "summary": null,
+      "bill_status": "Enacted",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address topics related to aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB1645",
+      "title": "Relating to health benefit plan coverage of preexisting conditions.",
+      "url": "https://legiscan.com/TX/bill/HB1645/2019",
+      "reason": "Vector similarity match (score: 0.5900, distance: 0.6948)",
+      "extra_metadata": {
+        "bill_id": "1199865",
+        "status_date": "2019-02-12",
+        "last_action": "Referred to Insurance",
+        "year": "2019",
+        "session": "2019 Regular Session",
+        "similarity_score": 0.590038953956734,
+        "distance": 0.6948033571243286
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses health benefit plan coverage of preexisting conditions without mentioning palliative care, hospice, or end-of-life care. It does not appear to directly or indirectly impact seriously ill patients or their care settings, nor does it create infrastructure that could include palliative care services.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, or medical marijuana."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB2114",
+      "title": "Relating to health benefit plan coverage of preexisting conditions.",
+      "url": "https://legiscan.com/TX/bill/HB2114/2019",
+      "reason": "Vector similarity match (score: 0.5900, distance: 0.6948)",
+      "extra_metadata": {
+        "bill_id": "1212337",
+        "status_date": "2019-02-20",
+        "last_action": "Left pending in committee",
+        "year": "2019",
+        "session": "2019 Regular Session",
+        "similarity_score": 0.590038953956734,
+        "distance": 0.6948033571243286
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses health benefit plan coverage of preexisting conditions without any explicit mention of palliative care, hospice services, or serious illness care. It does not create infrastructure or funding opportunities that would directly benefit palliative care or related services.",
+      "summary": null,
+      "bill_status": "Failed",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not fall under the exclusion criteria as it does not address aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "HB508",
+      "title": "Relating to health benefit plan coverage of preexisting conditions.",
+      "url": "https://legiscan.com/TX/bill/HB508/2021",
+      "reason": "Vector similarity match (score: 0.5900, distance: 0.6948)",
+      "extra_metadata": {
+        "bill_id": "1382203",
+        "status_date": "2020-11-10",
+        "last_action": "Referred to Insurance",
+        "year": "2021",
+        "session": "2021 Regular Session",
+        "similarity_score": 0.590038953956734,
+        "distance": 0.6948033571243286
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily addresses health benefit plan coverage of preexisting conditions without any direct mention of palliative care, hospice services, or serious illness care. It does not create any infrastructure or provisions that would impact seriously ill patients or their care settings. Therefore, it does not meet the criteria for relevance to palliative care policy.",
+      "summary": null,
+      "bill_status": "Pending",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": false,
+        "regulation_details": null,
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  },
+  {
+    "bill": {
+      "bill_number": "SB1522",
+      "title": "Relating to the regulation of continuing care facilities.",
+      "url": "https://legiscan.com/TX/bill/SB1522/2025",
+      "reason": "Vector similarity match (score: 0.5900, distance: 0.6948)",
+      "extra_metadata": {
+        "bill_id": "1978924",
+        "status_date": "2025-06-20",
+        "last_action": "Effective on 1/1/26",
+        "year": "2025",
+        "session": "2025 Regular Session",
+        "similarity_score": 0.5900239097807135,
+        "distance": 0.6948465704917908
+      }
+    },
+    "analysis": {
+      "is_relevant": false,
+      "relevance_reasoning": "The bill primarily focuses on the regulation of continuing care facilities, which does not explicitly mention palliative care, hospice, or end-of-life care. While it may indirectly affect care settings for seriously ill patients, the lack of direct relevance to palliative care services or policies means it does not meet the criteria for inclusion.",
+      "summary": null,
+      "bill_status": "Unknown",
+      "legislation_type": "Bill",
+      "categories": [],
+      "tags": [],
+      "key_provisions": [],
+      "palliative_care_impact": "None identified",
+      "relevance_beyond_keywords": "None identified",
+      "exclusion_check": {
+        "is_excluded": false,
+        "reason": "The bill does not focus on excluded topics such as aid-in-dying, general hospice care, medical marijuana, or psilocybin therapies."
+      },
+      "special_flags": {
+        "references_regulation": true,
+        "regulation_details": "The bill relates to the regulation of continuing care facilities.",
+        "references_executive_order": false,
+        "executive_order_details": null,
+        "references_ballot_measure": false,
+        "ballot_measure_details": null
+      }
+    }
+  }
+]
