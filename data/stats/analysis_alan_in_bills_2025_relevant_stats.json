@@ -1,0 +1,18 @@
+{
+  "total_bills": 1,
+  "total_with_scores": 1,
+  "highest_score": {
+    "bill_id": "1915243",
+    "bill_number": "SB0473",
+    "title": "Various health care matters.",
+    "score": 0.5059215764406239
+  },
+  "lowest_score": {
+    "bill_id": "1915243",
+    "bill_number": "SB0473",
+    "title": "Various health care matters.",
+    "score": 0.5059215764406239
+  },
+  "average_score": 0.5059215764406239,
+  "file": "../data/analyzed/analysis_alan_in_bills_2025_relevant.json"
+}

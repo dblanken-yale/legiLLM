@@ -1,0 +1,18 @@
+{
+  "total_bills": 1040,
+  "total_with_scores": 1040,
+  "highest_score": {
+    "bill_id": "1155132",
+    "bill_number": "S01814",
+    "title": "Establishes reimbursement mechanisms for access to hospice services for residents of assisted living programs.",
+    "score": 0.724878275960333
+  },
+  "lowest_score": {
+    "bill_id": "1685536",
+    "bill_number": "HB1570",
+    "title": "MEDICAL SERVICES-NON-CITIZENS",
+    "score": 0.6009596532625292
+  },
+  "average_score": 0.6182757331617796,
+  "file": "../data/analyzed/results_masterlist-nomic-top2000-score50-enhanced_relevant.json"
+}

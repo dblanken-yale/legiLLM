@@ -1,0 +1,18 @@
+{
+  "total_bills": 960,
+  "total_with_scores": 960,
+  "highest_score": {
+    "bill_id": "1481342",
+    "bill_number": "SB1944",
+    "title": "Relating to end-of-life issues and hospice care.",
+    "score": 0.7000747885730004
+  },
+  "lowest_score": {
+    "bill_id": "1914086",
+    "bill_number": "HB2122",
+    "title": "Relating to residential care facilities.",
+    "score": 0.6009729353243668
+  },
+  "average_score": 0.613155429576987,
+  "file": "../data/analyzed/results_masterlist-nomic-top2000-score50-enhanced_not_relevant.json"
+}

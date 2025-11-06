@@ -1,0 +1,18 @@
+{
+  "total_bills": 7,
+  "total_with_scores": 7,
+  "highest_score": {
+    "bill_id": "1932259",
+    "bill_number": "SB01071",
+    "title": "An Act Implementing The Recommendations Of The Pediatric Hospice Working Group.",
+    "score": 0.5243911084016895
+  },
+  "lowest_score": {
+    "bill_id": "1907785",
+    "bill_number": "SB00361",
+    "title": "An Act Concerning The Adequate Prescription Of Pain Medication For Cancer Patients, Palliative And Nursing Home Patients And Patients Experiencing Chronic Intractable Pain.",
+    "score": 0.5036550167560627
+  },
+  "average_score": 0.5102266486013729,
+  "file": "../data/analyzed/analysis_alan_ct_bills_2025_relevant.json"
+}
