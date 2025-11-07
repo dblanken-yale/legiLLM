@@ -296,6 +296,16 @@ def main():
     if len(bills_to_process) > 10:
         logger.info(f"   ... and {len(bills_to_process) - 10} more bills")
 
+    # Initialize storage provider for caching
+    logger.info("   Initializing storage provider...")
+    try:
+        storage_provider = StorageProviderFactory.create_from_env(config)
+        logger.info(f"   Using storage backend: {type(storage_provider).__name__}")
+    except Exception as e:
+        logger.warning(f"Could not initialize storage provider: {e}")
+        logger.warning("Continuing without caching - this will be slower")
+        storage_provider = None
+
     # Get LegiScan API key
     legiscan_api_key = os.getenv('LEGISCAN_API_KEY')
     if not legiscan_api_key:
@@ -314,7 +324,8 @@ def main():
         max_tokens=config.get('max_tokens', 2000),
         timeout=timeout,
         legiscan_api_key=legiscan_api_key,
-        api_delay=api_delay
+        api_delay=api_delay,
+        storage_provider=storage_provider
     )
 
     logger.info(f"   Configuration: provider={provider.get_provider_name()}, "

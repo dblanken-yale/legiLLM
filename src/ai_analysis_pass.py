@@ -475,13 +475,18 @@ Do not include any text before or after the JSON."""
             bill_id: LegiScan bill ID for fetching full text (optional)
 
         Returns:
-            Structured analysis as defined by system_prompt
+            Dictionary containing:
+            - analysis results as defined by system_prompt
+            - full_bill_text: the complete bill text that was analyzed (if fetched)
         """
         # Convert data item to string
         if isinstance(data_item, dict):
             data_str = json.dumps(data_item, indent=2)
         else:
             data_str = str(data_item)
+
+        # Track the full bill text for inclusion in results
+        full_bill_text = None
 
         # If bill_id provided and LegiScan API available, fetch full bill details
         if bill_id and self.legiscan_api_key:
@@ -491,6 +496,7 @@ Do not include any text before or after the JSON."""
             if bill_data:
                 # Extract and append bill text to data
                 bill_text = self._extract_bill_text(bill_data)
+                full_bill_text = bill_text  # Save for inclusion in results
                 data_str += f"\n\n## Full Bill Details from LegiScan API:\n\n{bill_text}"
                 logger.info("Bill text successfully added to analysis")
                 logger.info("=" * 80)
@@ -508,15 +514,18 @@ Do not include any text before or after the JSON."""
 
         try:
             result = self._call_ai(self.system_prompt, user_prompt)
+            # Add full bill text to result if it was fetched
+            if full_bill_text:
+                result['full_bill_text'] = full_bill_text
             return result
         except json.JSONDecodeError as e:
             logger.error(f"JSON parsing error in analyze_data: {e}")
             logger.error(f"JSON error at line {e.lineno}, column {e.colno}")
             logger.error(f"Error details: {e.msg}")
-            return {"error": f"JSON parsing failed: {e.msg}"}
+            return {"error": f"JSON parsing failed: {e.msg}", "full_bill_text": full_bill_text}
         except Exception as e:
             logger.error(f"Error in analyze_data: {e}")
             logger.error(f"Error type: {type(e).__name__}")
             import traceback
             logger.error(f"Traceback: {traceback.format_exc()}")
-            return {"error": str(e)}
+            return {"error": str(e), "full_bill_text": full_bill_text}
