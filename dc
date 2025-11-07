@@ -1,0 +1,100 @@
+#!/bin/bash
+# Docker Compose convenience wrapper
+# Usage: ./dc <service> [args]
+
+set -e
+
+SERVICE=$1
+shift || true
+
+case "$SERVICE" in
+    fetch)
+        # Pass state and year arguments
+        docker-compose run --rm fetch "$@"
+        ;;
+    filter)
+        # Pass optional filename (e.g., ct_bills_2025)
+        if [ -n "$1" ]; then
+            docker-compose run --rm -e FILE="$1" filter
+        else
+            docker-compose run --rm filter
+        fi
+        ;;
+    analyze)
+        # Run analysis pass
+        docker-compose run --rm analyze "$@"
+        ;;
+    direct-analyze|direct)
+        # Requires file path
+        if [ -z "$1" ]; then
+            echo "Error: File path required"
+            echo "Usage: ./dc direct <file_in_data_filtered>"
+            echo ""
+            echo "Examples:"
+            echo "  ./dc direct filter_results_ct_bills_2025.json"
+            echo "  ./dc direct filter_results_alan_ct_bills_2025.json"
+            echo "  ./dc direct filter_results_in_bills_2025.json"
+            echo ""
+            echo "Files are loaded from data/filtered/ directory"
+            exit 1
+        fi
+        # Convert local path to container path
+        # If user provides full path, extract just the filename
+        FILENAME=$(basename "$1")
+        # File will be at /app/data/filtered/ in container
+        docker-compose run --rm direct-analyze "data/filtered/$FILENAME"
+        ;;
+    shell|sh)
+        docker-compose exec legiscan-pipeline bash
+        ;;
+    logs)
+        docker-compose logs -f legiscan-pipeline
+        ;;
+    up|start)
+        docker-compose up -d
+        ;;
+    down|stop)
+        docker-compose down
+        ;;
+    ps|status)
+        docker-compose ps
+        ;;
+    build)
+        docker-compose build
+        ;;
+    restart)
+        docker-compose restart
+        ;;
+    *)
+        echo "LegiScan Pipeline - Docker Compose Wrapper"
+        echo ""
+        echo "Usage: ./dc <command> [args]"
+        echo ""
+        echo "Commands:"
+        echo "  fetch [--state ST] [--year YYYY]    Fetch bills from LegiScan"
+        echo "  filter [filename]                   Run filter pass (default: latest in data/raw/)"
+        echo "  analyze                             Run analysis pass"
+        echo "  direct <file>                       Run direct analysis on pre-filtered data"
+        echo ""
+        echo "  shell                               Open bash shell in container"
+        echo "  logs                                View container logs"
+        echo "  up                                  Start containers"
+        echo "  down                                Stop containers"
+        echo "  restart                             Restart containers"
+        echo "  ps                                  Show container status"
+        echo "  build                               Build images"
+        echo ""
+        echo "Examples:"
+        echo "  ./dc fetch"
+        echo "  ./dc fetch --state NY --year 2024"
+        echo "  ./dc filter"
+        echo "  ./dc filter ct_bills_2025"
+        echo "  ./dc analyze"
+        echo "  ./dc direct ../data/filtered/filter_results_ct_bills_2025.json"
+        echo "  ./dc direct ../data/filtered/filter_results_alan_ct_bills_2025.json"
+        echo "  ./dc shell"
+        echo ""
+        echo "Direct analysis with pre-filtered data:"
+        echo "  ./dc direct ../data/filtered/filter_results_alan_ct_bills_2025.json"
+        ;;
+esac

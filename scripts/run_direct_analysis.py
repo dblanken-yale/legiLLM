@@ -14,12 +14,22 @@ import subprocess
 import shutil
 from pathlib import Path
 
+# Load environment variables from .env file
+try:
+    from dotenv import load_dotenv
+    # Load from project root
+    env_path = Path(__file__).parent.parent / '.env'
+    load_dotenv(dotenv_path=env_path)
+except ImportError:
+    pass  # dotenv not installed, will use system env vars
+
 # Add parent directory to path for imports
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from src.ai_analysis_pass import AIAnalysisPass
 from src.format_normalizer import normalize_filter_results, detect_format, get_format_info
 from src.storage_provider import StorageProviderFactory
+from src.llm_provider import create_llm_provider
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -231,7 +241,7 @@ def main():
 
     filter_file = Path(sys.argv[1])
     if not filter_file.is_absolute():
-        filter_file = SCRIPT_DIR / filter_file
+        filter_file = PROJECT_ROOT / filter_file
 
     if not filter_file.exists():
         logger.error(f"Filter file not found: {filter_file}")
@@ -253,11 +263,17 @@ def main():
     test_mode = os.getenv('TEST_MODE', 'false').lower() == 'true'
     test_count = int(os.getenv('TEST_COUNT', '5'))
 
-    # Get API key from environment variable
-    api_key = os.getenv('PORTKEY_API_KEY')
-    if not api_key:
-        logger.error("PORTKEY_API_KEY environment variable not set")
-        logger.info("Set it with: export PORTKEY_API_KEY='your-key'")
+    # Create LLM provider from config and environment
+    logger.info("   Creating LLM provider...")
+    try:
+        provider = create_llm_provider(config=config)
+        logger.info(f"   Using LLM provider: {provider.get_provider_name()}")
+    except Exception as e:
+        logger.error(f"Failed to create LLM provider: {e}")
+        logger.info("Make sure you have the appropriate API keys set in your .env file:")
+        logger.info("  - For Portkey: PORTKEY_API_KEY")
+        logger.info("  - For Azure: AZURE_OPENAI_API_KEY, AZURE_OPENAI_ENDPOINT, AZURE_OPENAI_DEPLOYMENT")
+        logger.info("  - For Ollama: (no key needed, just set LLM_PROVIDER=ollama)")
         sys.exit(1)
 
     # Load and normalize filter results
@@ -293,8 +309,7 @@ def main():
     api_delay = analysis_config.get('api_delay', 0.0)
 
     analyzer = AIAnalysisPass(
-        api_key=api_key,
-        model=config.get('model', 'gpt-4o-mini'),
+        provider=provider,
         temperature=config.get('temperature', 0.3),
         max_tokens=config.get('max_tokens', 2000),
         timeout=timeout,
@@ -302,7 +317,7 @@ def main():
         api_delay=api_delay
     )
 
-    logger.info(f"   Configuration: model={config.get('model', 'gpt-4o-mini')}, "
+    logger.info(f"   Configuration: provider={provider.get_provider_name()}, "
                 f"timeout={timeout}s, max_tokens={config.get('max_tokens', 2000)}, "
                 f"api_delay={api_delay}s")
 

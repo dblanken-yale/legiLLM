@@ -1,6 +1,5 @@
-version: '3.8'
-
 services:
+  # Main persistent container
   legiscan-pipeline:
     build:
       context: .
@@ -10,6 +9,12 @@ services:
       # API Keys (loaded from .env file)
       - PORTKEY_API_KEY=${PORTKEY_API_KEY}
       - LEGISCAN_API_KEY=${LEGISCAN_API_KEY}
+      - AZURE_OPENAI_API_KEY=${AZURE_OPENAI_API_KEY}
+      - AZURE_OPENAI_ENDPOINT=${AZURE_OPENAI_ENDPOINT}
+      - AZURE_OPENAI_DEPLOYMENT=${AZURE_OPENAI_DEPLOYMENT}
+      - LLM_PROVIDER=${LLM_PROVIDER:-portkey}
+      - LLM_MODEL=${LLM_MODEL}
+      - LLM_BASE_URL=${LLM_BASE_URL}
 
       # Test mode settings
       - TEST_MODE=${TEST_MODE:-false}
@@ -41,6 +46,33 @@ services:
 
     networks:
       - legiscan-network
+
+  # Convenience services - just extend the main service with different commands
+  fetch:
+    extends: legiscan-pipeline
+    container_name: fetch
+    profiles: ["cli"]
+    entrypoint: ["python", "scripts/fetch_legiscan_bills.py"]
+
+  filter:
+    extends: legiscan-pipeline
+    container_name: filter
+    profiles: ["cli"]
+    entrypoint: ["/bin/bash", "-c"]
+    command: ["cd scripts && python run_filter_pass.py $${FILE:-}"]
+
+  analyze:
+    extends: legiscan-pipeline
+    container_name: analyze
+    profiles: ["cli"]
+    entrypoint: ["/bin/bash", "-c"]
+    command: ["cd scripts && python run_analysis_pass.py"]
+
+  direct-analyze:
+    extends: legiscan-pipeline
+    container_name: direct-analyze
+    profiles: ["cli"]
+    entrypoint: ["python", "scripts/run_direct_analysis.py"]
 
 networks:
   legiscan-network:

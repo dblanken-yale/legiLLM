@@ -96,13 +96,45 @@ The LegiUI dashboard can be deployed as a static site on GitHub Pages:
 
 ## Quick Start
 
-### 1. Install Dependencies
+### Easy Mode: Docker with Convenience Commands 🚀
+
+**Recommended for most users:**
+
+```bash
+# 1. Setup environment
+cp .env.example .env
+# Edit .env with your API keys (PORTKEY_API_KEY, LEGISCAN_API_KEY)
+
+# 2. Run the entire pipeline with ONE command
+make run              # or: ./run.sh run    or: python pipeline.py run
+
+# 3. View results
+make results          # or: ./run.sh results
+
+# 4. Start dashboard
+make ui               # or: ./run.sh ui
+```
+
+**Quick test (5 bills):**
+```bash
+make test             # or: ./run.sh test
+```
+
+See [Convenience Commands Guide](docs/CONVENIENCE_COMMANDS.md) for all available commands.
+
+---
+
+### Traditional Setup (Local Python)
+
+For those who prefer to run without Docker:
+
+#### 1. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. Configure Environment
+#### 2. Configure Environment
 
 ```bash
 cp .env.example .env
@@ -113,7 +145,7 @@ cp .env.example .env
 - `PORTKEY_API_KEY` - Your Portkey API key (for AI analysis)
 - `LEGISCAN_API_KEY` - Your LegiScan API key (for bill data)
 
-### 3. Fetch State Bills
+#### 3. Fetch State Bills
 
 ```bash
 cd scripts
@@ -122,7 +154,7 @@ python fetch_legiscan_bills.py
 
 This fetches bills from LegiScan and saves to `data/raw/ct_bills_2025.json`.
 
-### 4. Run Filter Pass
+#### 4. Run Filter Pass
 
 ```bash
 cd scripts
@@ -131,7 +163,7 @@ python run_filter_pass.py
 
 Processes bills in batches and outputs potentially relevant bills to `data/filtered/`.
 
-### 5. Run Analysis Pass
+#### 5. Run Analysis Pass
 
 **Option A: Standard Analysis** (for AI-filtered results from step 4)
 ```bash
