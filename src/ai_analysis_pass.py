@@ -15,6 +15,8 @@ import io
 from typing import Any, Dict, Optional
 from pathlib import Path
 from PyPDF2 import PdfReader
+from bs4 import BeautifulSoup
+from docx import Document
 
 from src.llm_provider import LLMProvider, create_llm_provider
 
@@ -321,17 +323,148 @@ Do not include any text before or after the JSON."""
             logger.error(f"Error extracting text from PDF: {e}")
             return None
 
-    def _fetch_bill_text_from_legiscan(self, bill_id: int, doc_id: str) -> Optional[str]:
+    def _extract_text_from_html(self, base64_html: str) -> Optional[str]:
+        """
+        Extract text from base64-encoded HTML document.
+
+        Args:
+            base64_html: Base64-encoded HTML string
+
+        Returns:
+            Extracted text or None if extraction fails
+        """
+        try:
+            # Decode base64 to bytes, then to string
+            html_bytes = base64.b64decode(base64_html)
+            html_string = html_bytes.decode('utf-8', errors='ignore')
+
+            # Parse HTML and extract text
+            soup = BeautifulSoup(html_string, 'lxml')
+
+            # Remove script and style elements
+            for script in soup(["script", "style"]):
+                script.decompose()
+
+            # Get text
+            text = soup.get_text(separator='\n', strip=True)
+
+            # Clean up extra whitespace
+            lines = [line.strip() for line in text.splitlines() if line.strip()]
+            clean_text = '\n'.join(lines)
+
+            logger.info(f"Successfully extracted {len(clean_text)} characters from HTML")
+            return clean_text
+
+        except Exception as e:
+            logger.error(f"Error extracting text from HTML: {e}")
+            return None
+
+    def _extract_text_from_docx(self, base64_docx: str) -> Optional[str]:
+        """
+        Extract text from base64-encoded DOCX document.
+
+        Args:
+            base64_docx: Base64-encoded DOCX string
+
+        Returns:
+            Extracted text or None if extraction fails
+        """
+        try:
+            # Decode base64 to bytes
+            docx_bytes = base64.b64decode(base64_docx)
+
+            # Create DOCX document from bytes
+            docx_file = io.BytesIO(docx_bytes)
+            doc = Document(docx_file)
+
+            # Extract text from all paragraphs
+            paragraphs = []
+            for para in doc.paragraphs:
+                if para.text.strip():
+                    paragraphs.append(para.text)
+
+            full_text = '\n\n'.join(paragraphs)
+            logger.info(f"Successfully extracted {len(full_text)} characters from DOCX ({len(paragraphs)} paragraphs)")
+            return full_text
+
+        except Exception as e:
+            logger.error(f"Error extracting text from DOCX: {e}")
+            return None
+
+    def _extract_text_from_plain_text(self, base64_text: str) -> Optional[str]:
+        """
+        Extract text from base64-encoded plain text document.
+
+        Args:
+            base64_text: Base64-encoded text string
+
+        Returns:
+            Decoded text or None if extraction fails
+        """
+        try:
+            # Decode base64 to bytes, then to string
+            text_bytes = base64.b64decode(base64_text)
+            text_string = text_bytes.decode('utf-8', errors='ignore')
+
+            logger.info(f"Successfully decoded {len(text_string)} characters from plain text")
+            return text_string
+
+        except Exception as e:
+            logger.error(f"Error extracting text from plain text: {e}")
+            return None
+
+    def _extract_text_by_format(self, base64_content: str, mime_type: str) -> Optional[str]:
+        """
+        Extract text from base64-encoded document based on MIME type.
+
+        Args:
+            base64_content: Base64-encoded document content
+            mime_type: MIME type of the document
+
+        Returns:
+            Extracted text or None if extraction fails
+        """
+        if not base64_content:
+            return None
+
+        # Normalize mime type
+        mime_type = mime_type.lower() if mime_type else ''
+
+        # Route to appropriate extractor
+        if 'pdf' in mime_type or mime_type == 'application/pdf':
+            logger.info("Extracting text from PDF format")
+            return self._extract_text_from_pdf(base64_content)
+
+        elif 'html' in mime_type or mime_type == 'text/html':
+            logger.info("Extracting text from HTML format")
+            return self._extract_text_from_html(base64_content)
+
+        elif 'wordprocessingml' in mime_type or 'msword' in mime_type or mime_type == 'application/vnd.openxmlformats-officedocument.wordprocessingml.document':
+            logger.info("Extracting text from DOCX format")
+            return self._extract_text_from_docx(base64_content)
+
+        elif 'plain' in mime_type or mime_type == 'text/plain':
+            logger.info("Extracting text from plain text format")
+            return self._extract_text_from_plain_text(base64_content)
+
+        else:
+            logger.warning(f"Unknown MIME type '{mime_type}', attempting plain text extraction")
+            # Fallback: try plain text
+            return self._extract_text_from_plain_text(base64_content)
+
+    def _fetch_bill_text_from_legiscan(self, bill_id: int, doc_id: str, mime_type: str = 'application/pdf') -> Optional[str]:
         """
         Fetch actual bill text from LegiScan API using getBillText operation.
         Uses storage provider cache to avoid re-fetching the same document.
 
-        Note: LegiScan returns bill text as base64-encoded PDF. This method decodes
-        the PDF and extracts readable text using PyPDF2.
+        Note: LegiScan returns bill text as base64-encoded documents in various formats
+        (PDF, HTML, DOCX, plain text). This method decodes and extracts readable text
+        based on the MIME type.
 
         Args:
             bill_id: LegiScan bill ID
             doc_id: LegiScan document ID
+            mime_type: MIME type of the document (default: 'application/pdf')
 
         Returns:
             Extracted bill text or None if fetch/extraction fails
@@ -363,14 +496,14 @@ Do not include any text before or after the JSON."""
 
             if result.get('status') == 'OK':
                 text_data = result.get('text', {})
-                base64_pdf = text_data.get('doc', '')
+                base64_content = text_data.get('doc', '')
 
                 logger.info(f"Successfully fetched bill text for doc_id {doc_id} from API")
 
-                # Extract text from base64-encoded PDF
+                # Extract text from base64-encoded document based on MIME type
                 bill_text = None
-                if base64_pdf:
-                    bill_text = self._extract_text_from_pdf(base64_pdf)
+                if base64_content:
+                    bill_text = self._extract_text_by_format(base64_content, mime_type)
 
                     if bill_text:
                         # Save extracted text to cache (via storage provider if available)
@@ -381,7 +514,7 @@ Do not include any text before or after the JSON."""
                             except Exception as e:
                                 logger.warning(f"Could not save bill text for doc_id {doc_id} to cache: {e}")
                     else:
-                        logger.warning(f"Could not extract text from PDF for doc_id {doc_id}")
+                        logger.warning(f"Could not extract text from document (mime: {mime_type}) for doc_id {doc_id}")
 
                 # Add delay after API call (only when not using cache)
                 if self.api_delay > 0:
@@ -448,13 +581,14 @@ Do not include any text before or after the JSON."""
                 # Get the most recent text version
                 latest_text = texts[-1]
                 doc_id = latest_text.get('doc_id')
+                mime_type = latest_text.get('mime', 'application/pdf')  # Get MIME type, default to PDF
 
                 if doc_id:
                     bill_id = bill_data.get('bill_id')
-                    text_parts.append(f"\nBill Text (Version: {latest_text.get('type', 'Unknown')}):")
+                    text_parts.append(f"\nBill Text (Version: {latest_text.get('type', 'Unknown')}, Format: {mime_type}):")
 
-                    # Fetch actual bill text via getBillText API
-                    bill_text = self._fetch_bill_text_from_legiscan(bill_id, str(doc_id))
+                    # Fetch actual bill text via getBillText API with MIME type
+                    bill_text = self._fetch_bill_text_from_legiscan(bill_id, str(doc_id), mime_type)
 
                     if bill_text:
                         text_parts.append(bill_text)
