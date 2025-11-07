@@ -271,3 +271,20 @@ class LocalFileStorage(StorageProvider):
 
         except (FileNotFoundError, json.JSONDecodeError, KeyError):
             return None
+
+    def get_bill_text_from_cache(self, doc_id: str) -> Optional[str]:
+        """Get cached bill text from data/cache/legiscan_cache/bill_text_{doc_id}.txt"""
+        cache_file = self.cache_dir / f"bill_text_{doc_id}.txt"
+
+        if not cache_file.exists():
+            return None
+
+        with open(cache_file, 'r', encoding='utf-8') as f:
+            return f.read()
+
+    def save_bill_text_to_cache(self, doc_id: str, text: str) -> None:
+        """Save bill text to cache at data/cache/legiscan_cache/bill_text_{doc_id}.txt"""
+        cache_file = self.cache_dir / f"bill_text_{doc_id}.txt"
+
+        with open(cache_file, 'w', encoding='utf-8') as f:
+            f.write(text)

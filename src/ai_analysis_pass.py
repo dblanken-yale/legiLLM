@@ -10,8 +10,11 @@ import json
 import logging
 import os
 import time
+import base64
+import io
 from typing import Any, Dict, Optional
 from pathlib import Path
+from PyPDF2 import PdfReader
 
 from src.llm_provider import LLMProvider, create_llm_provider
 
@@ -277,9 +280,127 @@ Do not include any text before or after the JSON."""
             logger.error(f"Error fetching bill {bill_id} from LegiScan: {e}")
             return None
 
+    def _extract_text_from_pdf(self, base64_pdf: str) -> Optional[str]:
+        """
+        Extract text from base64-encoded PDF document.
+
+        Args:
+            base64_pdf: Base64-encoded PDF string
+
+        Returns:
+            Extracted text or None if extraction fails
+        """
+        try:
+            # Decode base64 to bytes
+            pdf_bytes = base64.b64decode(base64_pdf)
+
+            # Create PDF reader from bytes
+            pdf_file = io.BytesIO(pdf_bytes)
+            pdf_reader = PdfReader(pdf_file)
+
+            # Extract text from all pages
+            text_parts = []
+            for page_num, page in enumerate(pdf_reader.pages, 1):
+                try:
+                    page_text = page.extract_text()
+                    if page_text:
+                        text_parts.append(f"--- Page {page_num} ---\n{page_text}")
+                except Exception as e:
+                    logger.warning(f"Could not extract text from page {page_num}: {e}")
+                    continue
+
+            if text_parts:
+                full_text = "\n\n".join(text_parts)
+                logger.info(f"Successfully extracted {len(full_text)} characters from {len(pdf_reader.pages)} pages")
+                return full_text
+            else:
+                logger.warning("No text could be extracted from PDF")
+                return None
+
+        except Exception as e:
+            logger.error(f"Error extracting text from PDF: {e}")
+            return None
+
+    def _fetch_bill_text_from_legiscan(self, bill_id: int, doc_id: str) -> Optional[str]:
+        """
+        Fetch actual bill text from LegiScan API using getBillText operation.
+        Uses storage provider cache to avoid re-fetching the same document.
+
+        Note: LegiScan returns bill text as base64-encoded PDF. This method decodes
+        the PDF and extracts readable text using PyPDF2.
+
+        Args:
+            bill_id: LegiScan bill ID
+            doc_id: LegiScan document ID
+
+        Returns:
+            Extracted bill text or None if fetch/extraction fails
+        """
+        if not self.legiscan_api_key:
+            logger.warning("LegiScan API key not set, cannot fetch bill text")
+            return None
+
+        # Check cache first (via storage provider if available)
+        if self.storage_provider:
+            cached_text = self.storage_provider.get_bill_text_from_cache(doc_id)
+            if cached_text:
+                logger.info(f"Loading bill text for doc_id {doc_id} from cache")
+                return cached_text
+
+        # Fetch from API if not in cache
+        try:
+            params = {
+                'key': self.legiscan_api_key,
+                'op': 'getBillText',
+                'id': doc_id
+            }
+
+            logger.info(f"Fetching bill text for doc_id {doc_id} from LegiScan API...")
+            response = requests.get(LEGISCAN_API_BASE, params=params, timeout=30)
+            response.raise_for_status()
+
+            result = response.json()
+
+            if result.get('status') == 'OK':
+                text_data = result.get('text', {})
+                base64_pdf = text_data.get('doc', '')
+
+                logger.info(f"Successfully fetched bill text for doc_id {doc_id} from API")
+
+                # Extract text from base64-encoded PDF
+                bill_text = None
+                if base64_pdf:
+                    bill_text = self._extract_text_from_pdf(base64_pdf)
+
+                    if bill_text:
+                        # Save extracted text to cache (via storage provider if available)
+                        if self.storage_provider:
+                            try:
+                                self.storage_provider.save_bill_text_to_cache(doc_id, bill_text)
+                                logger.info(f"Cached extracted bill text for doc_id {doc_id}")
+                            except Exception as e:
+                                logger.warning(f"Could not save bill text for doc_id {doc_id} to cache: {e}")
+                    else:
+                        logger.warning(f"Could not extract text from PDF for doc_id {doc_id}")
+
+                # Add delay after API call (only when not using cache)
+                if self.api_delay > 0:
+                    logger.info(f"Waiting {self.api_delay}s before next API call...")
+                    time.sleep(self.api_delay)
+
+                return bill_text
+            else:
+                logger.error(f"LegiScan API error: {result.get('alert', {}).get('message', 'Unknown error')}")
+                return None
+
+        except requests.exceptions.RequestException as e:
+            logger.error(f"Error fetching bill text for doc_id {doc_id} from LegiScan: {e}")
+            return None
+
     def _extract_bill_text(self, bill_data: Dict) -> str:
         """
         Extract readable text from LegiScan bill data.
+        Fetches actual bill text via getBillText API if available.
 
         Args:
             bill_data: Bill data from LegiScan API
@@ -306,19 +427,6 @@ Do not include any text before or after the JSON."""
         if bill_data.get('status_date'):
             text_parts.append(f"Status Date: {bill_data['status_date']}")
 
-        # Add bill text from documents
-        if bill_data.get('texts'):
-            texts = bill_data['texts']
-            if isinstance(texts, list) and len(texts) > 0:
-                # Get the most recent text version
-                latest_text = texts[-1]
-                if latest_text.get('doc_id'):
-                    text_parts.append(f"\nBill Text (Version: {latest_text.get('type', 'Unknown')}):")
-                    # Note: LegiScan API's getBill includes doc_id but actual text content
-                    # requires a separate getBillText API call or doc download
-                    # For now, we'll note the document is available
-                    text_parts.append(f"[Full text document ID: {latest_text['doc_id']}]")
-
         # Add sponsors
         if bill_data.get('sponsors'):
             sponsors = bill_data['sponsors']
@@ -332,6 +440,28 @@ Do not include any text before or after the JSON."""
             if isinstance(subjects, list):
                 subject_names = [s.get('subject_name', '') for s in subjects]
                 text_parts.append(f"Subjects: {', '.join(subject_names)}")
+
+        # Fetch and add actual bill text from documents
+        if bill_data.get('texts'):
+            texts = bill_data['texts']
+            if isinstance(texts, list) and len(texts) > 0:
+                # Get the most recent text version
+                latest_text = texts[-1]
+                doc_id = latest_text.get('doc_id')
+
+                if doc_id:
+                    bill_id = bill_data.get('bill_id')
+                    text_parts.append(f"\nBill Text (Version: {latest_text.get('type', 'Unknown')}):")
+
+                    # Fetch actual bill text via getBillText API
+                    bill_text = self._fetch_bill_text_from_legiscan(bill_id, str(doc_id))
+
+                    if bill_text:
+                        text_parts.append(bill_text)
+                        logger.info(f"Added full bill text ({len(bill_text)} characters)")
+                    else:
+                        text_parts.append(f"[Full text unavailable for document ID: {doc_id}]")
+                        logger.warning(f"Could not fetch bill text for doc_id {doc_id}")
 
         return "\n".join(text_parts)
 

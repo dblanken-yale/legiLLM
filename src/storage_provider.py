@@ -175,6 +175,30 @@ class StorageProvider(ABC):
         """
         pass
 
+    @abstractmethod
+    def get_bill_text_from_cache(self, doc_id: str) -> Optional[str]:
+        """
+        Get cached LegiScan bill text data
+
+        Args:
+            doc_id: LegiScan document ID
+
+        Returns:
+            Cached bill text if exists, None otherwise
+        """
+        pass
+
+    @abstractmethod
+    def save_bill_text_to_cache(self, doc_id: str, text: str) -> None:
+        """
+        Save LegiScan bill text to cache
+
+        Args:
+            doc_id: LegiScan document ID
+            text: Full bill text content
+        """
+        pass
+
 
 class StorageProviderFactory:
     """Factory for creating storage provider instances based on configuration"""
