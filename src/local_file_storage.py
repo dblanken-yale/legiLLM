@@ -8,7 +8,7 @@ This is the default storage provider and maintains backward compatibility.
 import json
 import os
 from pathlib import Path
-from typing import Dict, List, Optional, Any, Tuple
+from typing import Dict, List, Optional, Any, Tuple, Union
 
 from src.storage_provider import StorageProvider
 
@@ -103,13 +103,17 @@ class LocalFileStorage(StorageProvider):
     def save_analysis_results(
         self,
         run_id: str,
-        relevant: List[Dict[str, Any]],
-        not_relevant: List[Dict[str, Any]]
+        relevant: Union[List[Dict[str, Any]], Dict[str, Any]],
+        not_relevant: Union[List[Dict[str, Any]], Dict[str, Any]]
     ) -> None:
         """
         Save analysis results to:
         - data/analyzed/analysis_{run_id}_relevant.json
         - data/analyzed/analysis_{run_id}_not_relevant.json
+
+        Accepts either:
+        - List format (legacy): [{"bill": {...}, "analysis": {...}}, ...]
+        - Dict format (with stats): {"summary": {...}, "timing_stats": {...}, "results": [...]}
         """
         # Determine filename prefix
         if run_id.startswith('analysis_'):
@@ -121,12 +125,12 @@ class LocalFileStorage(StorageProvider):
         if prefix.endswith('.json'):
             prefix = prefix[:-5]
 
-        # Save relevant bills
+        # Save relevant bills (handles both list and dict formats automatically)
         relevant_path = self.analyzed_dir / f"{prefix}_relevant.json"
         with open(relevant_path, 'w', encoding='utf-8') as f:
             json.dump(relevant, f, indent=2, ensure_ascii=False)
 
-        # Save not relevant bills
+        # Save not relevant bills (handles both list and dict formats automatically)
         not_relevant_path = self.analyzed_dir / f"{prefix}_not_relevant.json"
         with open(not_relevant_path, 'w', encoding='utf-8') as f:
             json.dump(not_relevant, f, indent=2, ensure_ascii=False)

@@ -68,6 +68,51 @@ def get_source_bills_file(state: str, year: str) -> Path:
     return DATA_DIR / 'raw' / f'{state}_bills_{year}.json'
 
 
+def calculate_timing_stats(all_timings):
+    """
+    Calculate aggregate timing statistics from all bill timings.
+
+    Args:
+        all_timings: List of timing dicts from each bill analysis
+
+    Returns:
+        Dict with min, max, avg, median, sum for each timing component
+    """
+    if not all_timings:
+        return None
+
+    def get_stats(values):
+        """Calculate stats for a list of values"""
+        if not values:
+            return None
+        sorted_vals = sorted(values)
+        n = len(sorted_vals)
+        return {
+            'min': round(min(sorted_vals), 2),
+            'max': round(max(sorted_vals), 2),
+            'avg': round(sum(sorted_vals) / n, 2),
+            'median': round(sorted_vals[n // 2] if n % 2 == 1 else (sorted_vals[n // 2 - 1] + sorted_vals[n // 2]) / 2, 2),
+            'sum': round(sum(sorted_vals), 2)
+        }
+
+    # Extract timing components
+    total_times = [t['total_seconds'] for t in all_timings if 'total_seconds' in t]
+    api_times = [t['legiscan_api_seconds'] for t in all_timings if 'legiscan_api_seconds' in t and t['legiscan_api_seconds'] > 0]
+    extraction_times = [t['text_extraction_seconds'] for t in all_timings if 'text_extraction_seconds' in t and t['text_extraction_seconds'] > 0]
+    ai_times = [t['ai_analysis_seconds'] for t in all_timings if 'ai_analysis_seconds' in t and t['ai_analysis_seconds'] > 0]
+    cache_hits = sum(1 for t in all_timings if t.get('cache_hit', False))
+    cache_misses = len(all_timings) - cache_hits
+
+    return {
+        'total_seconds': get_stats(total_times),
+        'legiscan_api_seconds': get_stats(api_times),
+        'text_extraction_seconds': get_stats(extraction_times),
+        'ai_analysis_seconds': get_stats(ai_times),
+        'cache_hits': cache_hits,
+        'cache_misses': cache_misses
+    }
+
+
 def fetch_bills_if_needed(state: str, year: str, source_file: Path):
     """Fetch bills from LegiScan if source file doesn't exist"""
     if source_file.exists():
@@ -336,6 +381,7 @@ def main():
     logger.info("\n5. Analyzing bills...")
     relevant_results = []
     not_relevant_results = []
+    all_timings = []  # Collect timing data for statistics
 
     # Cache for loaded source bill files (by state/year)
     source_bill_cache = {}
@@ -421,6 +467,10 @@ def main():
             if bill.get('extra_metadata'):
                 result['bill']['extra_metadata'] = bill['extra_metadata']
 
+            # Collect timing data for statistics
+            if 'timing' in analysis:
+                all_timings.append(analysis['timing'])
+
             # Sort by relevance
             is_relevant = analysis.get('is_relevant', False)
             if is_relevant:
@@ -474,6 +524,32 @@ def main():
                 'analysis': {'error': str(e), 'is_relevant': False}
             })
 
+    # Calculate timing statistics
+    timing_stats = calculate_timing_stats(all_timings)
+
+    # Prepare results with timing stats
+    results_with_stats = {
+        'summary': {
+            'total_processed': len(bills_to_process),
+            'relevant_count': len(relevant_results),
+            'not_relevant_count': len(not_relevant_results),
+            'source_file': filter_file.name
+        },
+        'timing_stats': timing_stats,
+        'results': relevant_results
+    }
+
+    not_relevant_with_stats = {
+        'summary': {
+            'total_processed': len(bills_to_process),
+            'relevant_count': len(relevant_results),
+            'not_relevant_count': len(not_relevant_results),
+            'source_file': filter_file.name
+        },
+        'timing_stats': timing_stats,
+        'results': not_relevant_results
+    }
+
     # Create output directory if it doesn't exist
     ANALYZED_DIR.mkdir(exist_ok=True)
 
@@ -481,17 +557,37 @@ def main():
     logger.info(f"\n{'=' * 80}")
     logger.info("6. Saving results...")
 
-    # Save relevant bills
-    logger.info(f"   Saving {len(relevant_results)} relevant bills to {RELEVANT_OUTPUT_FILE}...")
-    with open(RELEVANT_OUTPUT_FILE, 'w') as f:
-        json.dump(relevant_results, f, indent=2)
+    # Construct run_id from filter file
+    run_id = output_prefix  # e.g., "analysis_alan_ct_bills_2025"
 
-    # Save not relevant bills
-    logger.info(f"   Saving {len(not_relevant_results)} not relevant bills to {NOT_RELEVANT_OUTPUT_FILE}...")
-    with open(NOT_RELEVANT_OUTPUT_FILE, 'w') as f:
-        json.dump(not_relevant_results, f, indent=2)
+    # Save via storage provider if available
+    if storage_provider:
+        try:
+            storage_provider.save_analysis_results(run_id, results_with_stats, not_relevant_with_stats)
+            logger.info(f"   Saved {len(relevant_results)} relevant and {len(not_relevant_results)} not relevant bills via storage provider")
+        except Exception as e:
+            logger.error(f"   Error saving via storage provider: {e}")
+            # Fallback to direct file writing
+            logger.warning("   Falling back to direct file writing...")
+            try:
+                with open(RELEVANT_OUTPUT_FILE, 'w') as f:
+                    json.dump(results_with_stats, f, indent=2)
+                with open(NOT_RELEVANT_OUTPUT_FILE, 'w') as f:
+                    json.dump(not_relevant_with_stats, f, indent=2)
+                logger.info("   Fallback save successful")
+            except Exception as fallback_e:
+                logger.error(f"   Fallback save failed: {fallback_e}")
+    else:
+        # No storage provider - use direct file writing
+        logger.info(f"   Saving {len(relevant_results)} relevant bills to {RELEVANT_OUTPUT_FILE}...")
+        with open(RELEVANT_OUTPUT_FILE, 'w') as f:
+            json.dump(results_with_stats, f, indent=2)
 
-    logger.info(f"   Results saved successfully")
+        logger.info(f"   Saving {len(not_relevant_results)} not relevant bills to {NOT_RELEVANT_OUTPUT_FILE}...")
+        with open(NOT_RELEVANT_OUTPUT_FILE, 'w') as f:
+            json.dump(not_relevant_with_stats, f, indent=2)
+
+        logger.info(f"   Results saved successfully")
 
     # Summary
     logger.info(f"\n{'=' * 80}")
@@ -520,6 +616,39 @@ def main():
         category_counts = Counter(all_categories)
         for category, count in category_counts.most_common():
             logger.info(f"  {category}: {count}")
+
+    # Timing statistics
+    if timing_stats:
+        logger.info(f"\nTiming Statistics:")
+        logger.info(f"  Cache Performance:")
+        logger.info(f"    Cache hits: {timing_stats['cache_hits']}")
+        logger.info(f"    Cache misses: {timing_stats['cache_misses']}")
+
+        if timing_stats['total_seconds']:
+            logger.info(f"\n  Total Processing Time:")
+            logger.info(f"    Min: {timing_stats['total_seconds']['min']}s")
+            logger.info(f"    Max: {timing_stats['total_seconds']['max']}s")
+            logger.info(f"    Avg: {timing_stats['total_seconds']['avg']}s")
+            logger.info(f"    Median: {timing_stats['total_seconds']['median']}s")
+            logger.info(f"    Total: {timing_stats['total_seconds']['sum']}s")
+
+        if timing_stats['ai_analysis_seconds']:
+            logger.info(f"\n  AI Analysis Time:")
+            logger.info(f"    Min: {timing_stats['ai_analysis_seconds']['min']}s")
+            logger.info(f"    Max: {timing_stats['ai_analysis_seconds']['max']}s")
+            logger.info(f"    Avg: {timing_stats['ai_analysis_seconds']['avg']}s")
+
+        if timing_stats['legiscan_api_seconds']:
+            logger.info(f"\n  LegiScan API Time:")
+            logger.info(f"    Min: {timing_stats['legiscan_api_seconds']['min']}s")
+            logger.info(f"    Max: {timing_stats['legiscan_api_seconds']['max']}s")
+            logger.info(f"    Avg: {timing_stats['legiscan_api_seconds']['avg']}s")
+
+        if timing_stats['text_extraction_seconds']:
+            logger.info(f"\n  Text Extraction Time:")
+            logger.info(f"    Min: {timing_stats['text_extraction_seconds']['min']}s")
+            logger.info(f"    Max: {timing_stats['text_extraction_seconds']['max']}s")
+            logger.info(f"    Avg: {timing_stats['text_extraction_seconds']['avg']}s")
 
     logger.info(f"\n{'=' * 80}")
     logger.info("Analysis Complete!")

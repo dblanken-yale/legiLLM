@@ -7,7 +7,7 @@ Mirrors the local file structure but stores data in Azure Blob containers.
 
 import json
 import os
-from typing import Dict, List, Optional, Any, Tuple
+from typing import Dict, List, Optional, Any, Tuple, Union
 
 from src.storage_provider import StorageProvider
 
@@ -139,13 +139,17 @@ class AzureBlobStorage(StorageProvider):
     def save_analysis_results(
         self,
         run_id: str,
-        relevant: List[Dict[str, Any]],
-        not_relevant: List[Dict[str, Any]]
+        relevant: Union[List[Dict[str, Any]], Dict[str, Any]],
+        not_relevant: Union[List[Dict[str, Any]], Dict[str, Any]]
     ) -> None:
         """
         Save analysis results to:
         - analyzed/analysis_{run_id}_relevant.json
         - analyzed/analysis_{run_id}_not_relevant.json
+
+        Accepts either:
+        - List format (legacy): [{"bill": {...}, "analysis": {...}}, ...]
+        - Dict format (with stats): {"summary": {...}, "timing_stats": {...}, "results": [...]}
         """
         if run_id.startswith('analysis_'):
             prefix = run_id
@@ -155,11 +159,11 @@ class AzureBlobStorage(StorageProvider):
         if prefix.endswith('.json'):
             prefix = prefix[:-5]
 
-        # Save relevant bills
+        # Save relevant bills (handles both list and dict formats automatically)
         relevant_path = f"{self.analyzed_prefix}{prefix}_relevant.json"
         self._upload_json(relevant_path, relevant)
 
-        # Save not relevant bills
+        # Save not relevant bills (handles both list and dict formats automatically)
         not_relevant_path = f"{self.analyzed_prefix}{prefix}_not_relevant.json"
         self._upload_json(not_relevant_path, not_relevant)
 

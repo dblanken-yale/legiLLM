@@ -6,7 +6,7 @@ Allows the application to run identically in local and Azure environments.
 """
 
 from abc import ABC, abstractmethod
-from typing import Dict, List, Optional, Any, Tuple
+from typing import Dict, List, Optional, Any, Tuple, Union
 
 
 class StorageProvider(ABC):
@@ -74,16 +74,29 @@ class StorageProvider(ABC):
     def save_analysis_results(
         self,
         run_id: str,
-        relevant: List[Dict[str, Any]],
-        not_relevant: List[Dict[str, Any]]
+        relevant: Union[List[Dict[str, Any]], Dict[str, Any]],
+        not_relevant: Union[List[Dict[str, Any]], Dict[str, Any]]
     ) -> None:
         """
         Save analysis pass results
 
+        Supports two formats for backward compatibility:
+
+        Format 1 (legacy): List of results
+            relevant: [{"bill": {...}, "analysis": {...}}, ...]
+            not_relevant: [{"bill": {...}, "analysis": {...}}, ...]
+
+        Format 2 (with stats): Dict containing summary, timing stats, and results
+            relevant: {
+                "summary": {"total_processed": N, ...},
+                "timing_stats": {...},
+                "results": [{"bill": {...}, "analysis": {...}}, ...]
+            }
+
         Args:
             run_id: Unique identifier for this analysis run
-            relevant: List of bills deemed relevant with full analysis
-            not_relevant: List of bills deemed not relevant
+            relevant: Either a list of relevant bills, or a dict with summary/timing_stats/results
+            not_relevant: Either a list of not relevant bills, or a dict with summary/timing_stats/results
         """
         pass
 

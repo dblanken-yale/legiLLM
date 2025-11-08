@@ -240,9 +240,11 @@ Do not include any text before or after the JSON."""
             cached_data = self.storage_provider.get_bill_from_cache(bill_id)
             if cached_data:
                 logger.info(f"Loading bill {bill_id} from storage provider cache")
+                self._last_fetch_was_cached = True
                 return cached_data
 
         # Fetch from API if not in cache
+        self._last_fetch_was_cached = False
         try:
             params = {
                 'key': self.legiscan_api_key,
@@ -612,7 +614,20 @@ Do not include any text before or after the JSON."""
             Dictionary containing:
             - analysis results as defined by system_prompt
             - full_bill_text: the complete bill text that was analyzed (if fetched)
+            - timing: dict with processing time breakdown
         """
+        # Start overall timing
+        start_time = time.time()
+
+        # Initialize timing trackers
+        timing = {
+            'total_seconds': 0.0,
+            'legiscan_api_seconds': 0.0,
+            'text_extraction_seconds': 0.0,
+            'ai_analysis_seconds': 0.0,
+            'cache_hit': False
+        }
+
         # Convert data item to string
         if isinstance(data_item, dict):
             data_str = json.dumps(data_item, indent=2)
@@ -625,11 +640,25 @@ Do not include any text before or after the JSON."""
         # If bill_id provided and LegiScan API available, fetch full bill details
         if bill_id and self.legiscan_api_key:
             logger.info(f"Fetching full bill text for bill_id {bill_id}...")
+
+            # Track LegiScan API time
+            legiscan_start = time.time()
             bill_data = self._fetch_bill_from_legiscan(bill_id)
+            legiscan_time = time.time() - legiscan_start
 
             if bill_data:
-                # Extract and append bill text to data
+                # Track text extraction time
+                extraction_start = time.time()
                 bill_text = self._extract_bill_text(bill_data)
+                extraction_time = time.time() - extraction_start
+
+                timing['legiscan_api_seconds'] = round(legiscan_time, 2)
+                timing['text_extraction_seconds'] = round(extraction_time, 2)
+
+                # Check if data was from cache
+                if self.storage_provider and hasattr(self, '_last_fetch_was_cached'):
+                    timing['cache_hit'] = self._last_fetch_was_cached
+
                 full_bill_text = bill_text  # Save for inclusion in results
                 data_str += f"\n\n## Full Bill Details from LegiScan API:\n\n{bill_text}"
                 logger.info("Bill text successfully added to analysis")
@@ -647,19 +676,33 @@ Do not include any text before or after the JSON."""
         user_prompt = self.analysis_prompt.format(data=data_str)
 
         try:
+            # Track AI analysis time
+            ai_start = time.time()
             result = self._call_ai(self.system_prompt, user_prompt)
+            ai_time = time.time() - ai_start
+            timing['ai_analysis_seconds'] = round(ai_time, 2)
+
+            # Calculate total time
+            timing['total_seconds'] = round(time.time() - start_time, 2)
+
             # Add full bill text to result if it was fetched
             if full_bill_text:
                 result['full_bill_text'] = full_bill_text
+
+            # Add timing data to result
+            result['timing'] = timing
+
             return result
         except json.JSONDecodeError as e:
             logger.error(f"JSON parsing error in analyze_data: {e}")
             logger.error(f"JSON error at line {e.lineno}, column {e.colno}")
             logger.error(f"Error details: {e.msg}")
-            return {"error": f"JSON parsing failed: {e.msg}", "full_bill_text": full_bill_text}
+            timing['total_seconds'] = round(time.time() - start_time, 2)
+            return {"error": f"JSON parsing failed: {e.msg}", "full_bill_text": full_bill_text, "timing": timing}
         except Exception as e:
             logger.error(f"Error in analyze_data: {e}")
             logger.error(f"Error type: {type(e).__name__}")
             import traceback
             logger.error(f"Traceback: {traceback.format_exc()}")
-            return {"error": str(e), "full_bill_text": full_bill_text}
+            timing['total_seconds'] = round(time.time() - start_time, 2)
+            return {"error": str(e), "full_bill_text": full_bill_text, "timing": timing}

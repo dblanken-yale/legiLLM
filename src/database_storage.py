@@ -8,7 +8,7 @@ Supports optional dual-write mode to maintain file compatibility during migratio
 import json
 import os
 from datetime import datetime
-from typing import Dict, List, Optional, Any, Tuple
+from typing import Dict, List, Optional, Any, Tuple, Union
 import psycopg2
 from psycopg2.extras import RealDictCursor, execute_values
 from psycopg2.pool import SimpleConnectionPool
@@ -358,15 +358,25 @@ class DatabaseStorage(StorageProvider):
     def save_analysis_results(
         self,
         run_id: str,
-        relevant: List[Dict[str, Any]],
-        not_relevant: List[Dict[str, Any]]
+        relevant: Union[List[Dict[str, Any]], Dict[str, Any]],
+        not_relevant: Union[List[Dict[str, Any]], Dict[str, Any]]
     ) -> None:
-        """Save analysis results to analysis_results table"""
+        """
+        Save analysis results to analysis_results table
+
+        Accepts either:
+        - List format (legacy): [{"bill": {...}, "analysis": {...}}, ...]
+        - Dict format (with stats): {"summary": {...}, "timing_stats": {...}, "results": [...]}
+        """
         conn = self._get_connection()
         try:
             with conn.cursor() as cursor:
+                # Extract results list from either format
+                relevant_list = relevant if isinstance(relevant, list) else relevant.get('results', [])
+                not_relevant_list = not_relevant if isinstance(not_relevant, list) else not_relevant.get('results', [])
+
                 # Process both relevant and not relevant bills
-                all_bills = [(bill, True) for bill in relevant] + [(bill, False) for bill in not_relevant]
+                all_bills = [(bill, True) for bill in relevant_list] + [(bill, False) for bill in not_relevant_list]
 
                 for bill_data, is_relevant in all_bills:
                     bill_number = bill_data.get('bill_number')
