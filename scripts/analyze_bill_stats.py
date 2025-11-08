@@ -42,6 +42,7 @@ def analyze_bill_file(file_path: str) -> Optional[Dict]:
     if len(data) == 0:
         return {
             'total_bills': 0,
+            'total_with_scores': 0,
             'highest_score': None,
             'lowest_score': None,
             'average_score': None,
@@ -72,6 +73,7 @@ def analyze_bill_file(file_path: str) -> Optional[Dict]:
         print(f"Warning: No bills with similarity scores found in {file_path}")
         return {
             'total_bills': len(data),
+            'total_with_scores': 0,
             'highest_score': None,
             'lowest_score': None,
             'average_score': None,

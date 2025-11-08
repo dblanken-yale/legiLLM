@@ -1,0 +1,18 @@
+{
+  "total_bills": 58,
+  "total_with_scores": 58,
+  "highest_score": {
+    "bill_id": "1897638",
+    "bill_number": "HB1011",
+    "title": "End of life options.",
+    "score": 0.6369236720756585
+  },
+  "lowest_score": {
+    "bill_id": "1897657",
+    "bill_number": "HB1030",
+    "title": "Repeal of the death penalty.",
+    "score": 0.5558674923320297
+  },
+  "average_score": 0.5698255219626391,
+  "file": "../data/analyzed/analysis_in_bills_2025_not_relevant.json"
+}
