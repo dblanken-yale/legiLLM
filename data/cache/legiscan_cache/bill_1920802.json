@@ -1,0 +1,186 @@
+{
+  "bill_id": 1920802,
+  "change_hash": "53210db27e816a71eea56976833ea3d2",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/HB1580/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/house/1580/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-21",
+  "progress": [
+    {
+      "date": "2025-01-21",
+      "event": 1
+    },
+    {
+      "date": "2025-01-21",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "HB1580",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "H",
+  "body_id": 37,
+  "current_body": "H",
+  "current_body_id": 37,
+  "title": "Parkinson's disease registry.",
+  "description": "Parkinson's disease registry. Requires the Indiana University School of Medicine to collect data on the incidence of Parkinson's disease and establish a Parkinson's disease registry. Requires health care providers to report a diagnosis of Parkinson's disease and a related condition to the registry, and, if a patient agrees to the reporting, additional information concerning the medical treatment. Requires the health care provider to provide certain information to a patient diagnosed with Parkinson's disease or a related condition and to receive either permission or a denial to provide other information concerning the diagnosis and treatment. Requires that the information be confidential. Provides immunity to a person that provides information for the registry. Specifies persons that can obtain information from the registry.",
+  "pending_committee_id": 1300,
+  "committee": {
+    "committee_id": 1300,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Public Health"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-21",
+      "committee_id": 1300,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Public Health"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-21",
+      "action": "Coauthored by Representative Errington",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Authored by Representative Hamilton",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-21",
+      "action": "First reading: referred to Committee on Public Health",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 18543,
+      "person_hash": "qzgvyoto",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Carey Hamilton",
+      "first_name": "Carey",
+      "middle_name": "",
+      "last_name": "Hamilton",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-087",
+      "ftm_eid": 15301806,
+      "votesmart_id": 174304,
+      "opensecrets_id": "",
+      "knowwho_pid": 595670,
+      "ballotpedia": "Carey_Hamilton",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    },
+    {
+      "people_id": 5624,
+      "person_hash": "vfyf0nj9",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Sue Errington",
+      "first_name": "Sue",
+      "middle_name": "E.",
+      "last_name": "Errington",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-034",
+      "ftm_eid": 6420866,
+      "votesmart_id": 10394,
+      "opensecrets_id": "",
+      "knowwho_pid": 249876,
+      "ballotpedia": "Sue_Errington",
+      "bioguide_id": "",
+      "sponsor_type_id": 2,
+      "sponsor_order": 2,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3057933,
+      "date": "2025-01-15",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/HB1580/id/3057933",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1580/HB1580.01.INTR.pdf",
+      "text_size": 130331,
+      "text_hash": "604115dda632267e2ffa9eafa3186bb8",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 488962,
+      "date": "2025-01-15",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/HB1580/id/488962",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1580/fiscal-notes/HB1580.01.INTR.FN001.pdf",
+      "supplement_size": 52884,
+      "supplement_hash": "00c23edfe29e07af683da190d5749fbc",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

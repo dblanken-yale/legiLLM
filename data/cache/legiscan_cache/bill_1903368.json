@@ -1,0 +1,152 @@
+{
+  "bill_id": 1903368,
+  "change_hash": "39c33f8881cdaa7817d018050d2b3d19",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/HB1168/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/house/1168/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-08",
+  "progress": [
+    {
+      "date": "2025-01-08",
+      "event": 1
+    },
+    {
+      "date": "2025-01-08",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "HB1168",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "H",
+  "body_id": 37,
+  "current_body": "H",
+  "current_body_id": 37,
+  "title": "Exemption from certain health care mandates.",
+  "description": "Exemption from certain health care mandates. Prohibits an individual from being required to: (1) inject; (2) receive an injection of; (3) ingest; (4) inhale; or (5) otherwise incorporate; a qualified substance into the individual's body. Defines \"qualified substance\".",
+  "pending_committee_id": 1300,
+  "committee": {
+    "committee_id": 1300,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Public Health"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-08",
+      "committee_id": 1300,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Public Health"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-08",
+      "action": "Authored by Representative Lucas",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-08",
+      "action": "First reading: referred to Committee on Public Health",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 14764,
+      "person_hash": "e3x473cn",
+      "party_id": "2",
+      "state_id": 14,
+      "party": "R",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Jim Lucas",
+      "first_name": "Jim",
+      "middle_name": "",
+      "last_name": "Lucas",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-069",
+      "ftm_eid": 6682223,
+      "votesmart_id": 120405,
+      "opensecrets_id": "",
+      "knowwho_pid": 291494,
+      "ballotpedia": "Jim_Lucas",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3040129,
+      "date": "2025-01-07",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/HB1168/id/3040129",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1168/HB1168.01.INTR.pdf",
+      "text_size": 85895,
+      "text_hash": "910ba4a583f994637e01bf0e99606557",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 486089,
+      "date": "2025-01-07",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/HB1168/id/486089",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1168/fiscal-notes/HB1168.01.INTR.FN001.pdf",
+      "supplement_size": 47168,
+      "supplement_hash": "f4b3f5f845eaa7d4b92709f75459390a",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

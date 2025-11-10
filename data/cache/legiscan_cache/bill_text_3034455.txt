@@ -1,0 +1,610 @@
+--- Page 1 ---
+ 
+Introduced Version
+HOUSE BILL No. 1011
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 16-18-2; IC 16-36-8; IC 27-2-30;
+IC 34-30-2.1-229.2; IC 35-52-16-27.5.
+Synopsis:  End of life options. Allows individuals with a terminal
+illness who meet certain requirements to make a request to an attending
+provider for medication that the individual may self-administer to bring
+about death. Specifies requirements a provider must meet in order to
+prescribe the medication to a patient. Prohibits an insurer from denying
+payment of benefits under a life insurance policy based upon a suicide
+clause in the life insurance policy if the death of the insured individual
+is the result of medical aid in dying. Establishes a Level 1 felony if a
+person: (1) without authorization of the patient, willfully alters, forges,
+conceals, or destroys a request for medication or a rescission of a
+request for medication with the intent or effect of causing the
+individual's death; or (2) knowingly or intentionally coerces or exerts
+undue influence on an individual to request medication to bring about
+death or to destroy a rescission of a request for medication to bring
+about death. Establishes a Class A misdemeanor if a person, without
+authorization of the patient, willfully alters, forges, conceals, or
+destroys a request for medication or a rescission of a request for
+medication in order to affect a health care decision by the individual.
+Establishes certain criminal and civil immunity for health care
+providers. 
+Effective:  July 1, 2025.
+Pierce M
+January 8, 2025, read first time and referred to Commi ttee on Public Health.
+2025 IN 1011—LS 6048/DI 104
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE BILL No. 1011
+A BILL FOR AN ACT to amend the Indiana Code concerning
+health.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 16-18-2-29.1 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2025]: Sec. 29.1. "Attending provider", for
+4 purposes of IC 16-36-8, has the meaning set forth in IC 16-36-8-1.
+5 SECTION 2. IC 16-18-2-47.5 IS ADDED TO THE INDIANA
+6 CODE AS A NEW SECTION TO READ AS FOLLOWS
+7 [EFFECTIVE JULY 1, 2025]: Sec. 47.5. "Capable", for purposes of
+8 IC 16-36-8, has the meaning set forth in IC 16-36-8-2.
+9 SECTION 3. IC 16-18-2-69.1 IS ADDED TO THE INDIANA
+10 CODE AS A NEW SECTION TO READ AS FOLLOWS
+11 [EFFECTIVE JULY 1, 2025]: Sec. 69.1. "Consulting provider", for
+12 purposes of IC 16-36-8, has the meaning set forth in IC 16-36-8-3.
+13 SECTION 4. IC 16-18-2-84.5 IS ADDED TO THE INDIANA
+14 CODE AS A NEW SECTION TO READ AS FOLLOWS
+15 [EFFECTIVE JULY 1, 2025]: Sec. 84.5. "Counseling", for purposes
+16 of IC 16-36-8, has the meaning set forth in IC 16-36-8-4.
+17 SECTION 5. IC 16-18-2-302, AS AMENDED BY P.L.2-2015,
+2025 IN 1011—LS 6048/DI 104
+
+
+--- Page 3 ---
+2
+1 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+2 JULY 1, 2025] : Sec. 302. (a) "Qualified patient", for purposes of
+3 IC 16-36-4, has the meaning set forth in IC 16-36-4-4.
+4 (b) "Qualified patient", for purposes of IC 16-36-8, has the
+5 meaning set forth in IC 16-36-8-5.
+6 (b) (c) "Qualified patient", for purposes of IC 16-42-26, has the
+7 meaning set forth in IC 16-42-26-3.
+8 SECTION 6. IC 16-18-2-326.8 IS ADDED TO THE INDIANA
+9 CODE AS A NEW SECTION TO READ AS FOLLOWS
+10 [EFFECTIVE JULY 1, 2025]: Sec. 326.8. "Self-administer", for
+11 purposes of IC 16-36-8, has the meaning set forth in IC 16-36-8-6.
+12 SECTION 7. IC 16-18-2-351.5 IS AMENDED TO READ AS
+13 FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 351.5. "Terminal
+14 illness" means the following:
+15 (1) For purposes of IC 16-25, has the meaning set forth in
+16 IC 16-25-1.1-9.
+17 (2) For purposes of IC 16-36-8, the meaning set forth in
+18 IC 16-36-8-7.
+19 SECTION 8. IC 16-36-8 IS ADDED TO THE INDIANA CODE AS
+20 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+21 1, 2025]:
+22 Chapter 8. Medical Aid in Dying
+23 Sec. 1. As used in this chapter, "attending provider" means the
+24 provider who has primary responsibility for the care of the patient
+25 and treatment of the patient's terminal illness.
+26 Sec. 2. As used in this chapter, "capable" means that a patient
+27 is, in the opinion of the patient's:
+28 (1) attending provider; or
+29 (2) consulting:
+30 (A) provider;
+31 (B) psychiatrist; or
+32 (C) psychologist;
+33 able to make and communicate health care decisions to health care
+34 providers, including communication through an individual familiar
+35 with the patient's manner of communicating if such an individual
+36 is available.
+37 Sec. 3. (a) As used in this chapter, "consulting provider" means
+38 a provider who is qualified by specialty or experience to make a
+39 professional diagnosis and prognosis regarding the individual's
+40 disease.
+41 (b) The term includes a licensed mental health care provider,
+42 including the following:
+2025 IN 1011—LS 6048/DI 104
+
+
+--- Page 4 ---
+3
+1 (1) A consulting psychiatrist licensed under IC 25-22.5.
+2 (2) A consulting psychologist licensed under IC 25-33.
+3 (3) An advanced practice registered nurse licensed under
+4 IC 25-23 and who is qualified to practice nursing in a mental
+5 health specialty role.
+6 (4) A behavioral health and human services professional
+7 licensed under IC 25-23.6.
+8 Sec. 4. As used in this chapter, "counseling" means at least one
+9 (1) consultation as necessary with a consulting provider described
+10 in section 3 of this chapter for the purpose of determining whether
+11 the patient is capable and not suffering from a psychiatric
+12 disorder, a psychological disorder, or depression that renders the
+13 patient unable to make and communicate an informed decision.
+14 Sec. 5. As used in this chapter, "qualified patient" means an
+15 individual who is at least eighteen (18) years of age, is an Indiana
+16 resident, and has satisfied the requirements of this chapter in order
+17 to obtain a prescription for medication to bring about a peaceful
+18 death in a humane and dignified manner.
+19 Sec. 6. (a) As used in this chapter, "self-administer" means a
+20 qualified patient performing an affirmative, conscious, voluntary
+21 act to ingest medication prescribed to bring about the qualified
+22 patient's death.
+23 (b) The term does not include administration by parenteral
+24 injection or infusion.
+25 Sec. 7. As used in this chapter, "terminal illness" means an
+26 incurable and irreversible illness that has been confirmed and will,
+27 within reasonable medical judgment, result in death within six (6)
+28 months.
+29 Sec. 8. (a) An individual who:
+30 (1) is at least eighteen (18) years of age;
+31 (2) is an Indiana resident;
+32 (3) is capable;
+33 (4) is diagnosed, by a provider, with a terminal illness that is
+34 confirmed by a consulting provider; and
+35 (5) has voluntarily expressed to the attending provider a wish
+36 to receive medical aid in dying;
+37 may make a written request in accordance with this chapter for
+38 medication for the purpose of bringing about the patient's peaceful
+39 death in a humane and dignified manner. An individual does not
+40 qualify under this chapter solely because of the individual's age or
+41 disability.
+42 (b) In order to receive a prescription for medication to bring
+2025 IN 1011—LS 6048/DI 104
+
+
+--- Page 5 ---
+4
+1 about the patient's peaceful death, a qualified patient must have:
+2 (1) made an oral request;
+3 (2) made a written request as described in this chapter; and
+4 (3) either:
+5 (A) reiterated the oral request to the patient's attending
+6 provider not less than fifteen (15) days after making the
+7 initial oral request; or
+8 (B) if the patient's attending provider has medically
+9 confirmed that the patient will, within reasonable medical
+10 judgment, die within fifteen (15) days after making the
+11 initial oral request under this section, reiterate the oral
+12 request for the medication to the attending provider at any
+13 time after making the initial oral request.
+14 (c) At the time the patient makes the second oral request, the
+15 attending provider shall offer the patient an opportunity to rescind
+16 the request.
+17 (d) Evidence of a patient's Indiana residency under subsection
+18 (a) may include the following:
+19 (1) Possession of a valid Indiana driver's license or
+20 identification card issued under IC 9-24.
+21 (2) A valid Indiana voter registration card.
+22 (3) Documentation that the patient currently owns or leases
+23 property in Indiana.
+24 (4) The filing of an Indiana state tax return for the most
+25 recent tax year.
+26 Sec. 9. (a) A patient may rescind a request for medication under
+27 this chapter at any time and in any manner.
+28 (b) No prescription for the medication under this chapter may
+29 be written without the attending provider offering the qualified
+30 patient an opportunity to rescind the request.
+31 Sec. 10. (a) Except as provided in subsection (b), at least:
+32 (1) fifteen (15) days must elapse between the patient's initial
+33 oral request for the medication; and
+34 (2) forty-eight (48) hours must elapse between the patient's
+35 written request under this chapter;
+36 before the attending provider may dispense or write a prescription
+37 for the medication under this chapter for the patient.
+38 (b) If the qualified patient's attending provider has medically
+39 confirmed that the qualified patient will, within reasonable medical
+40 judgment, die before the expiration of at least one (1) of the waiting
+41 periods described in subsection (a), the attending provider may
+42 dispense or write a prescription for the medication at any time
+2025 IN 1011—LS 6048/DI 104
+
+
+--- Page 6 ---
+5
+1 following the later of the qualified patient's written request or
+2 second oral request under this chapter.
+3 Sec. 11. (a) The written request for medication required by
+4 section 8 of this chapter must meet the following requirements:
+5 (1) Be on a form issued by the state department, as set forth
+6 in section 12 of this chapter.
+7 (2) Be attested to and signed by the patient.
+8 (3) Be witnessed by at least two (2) individuals who, in the
+9 presence of the patient, attest that, to the best of the
+10 individuals' knowledge and belief, the patient is:
+11 (A) capable;
+12 (B) acting voluntarily; and
+13 (C) not being coerced to sign the request.
+14 (b) At least one (1) of the witnesses described in subsection (a)(3)
+15 may not be any of the following:
+16 (1) A relative of the patient by blood, marriage, or adoption.
+17 (2) An heir to any part of the patient's estate, by will or law,
+18 upon the death of the patient.
+19 (3) An owner, operator, or employee of a health care facility
+20 where the patient is receiving medical treatment or is a
+21 resident.
+22 (4) The patient's attending provider at the time the request is
+23 signed.
+24 Sec. 12. The state department shall prepare and make available
+25 the form described in section 11 of this chapter that states the
+26 following:
+27 "REQUEST FOR MEDICATION TO BRING ABOUT
+28 MY PEACEFUL DEATH
+29 I, _____________________ (insert patient's name), am an
+30 adult of sound mind.
+31 I have been diagnosed with and am suffering from
+32 ____________ (insert the name of the terminal illness), which
+33 my attending provider has determined is a terminal illness
+34 and which has been medically confirmed by a consulting
+35 provider.
+36 I have been fully informed of my diagnosis, prognosis, the
+37 nature of medication to be prescribed, and the potential
+38 associated risks, the expected result, and the feasible
+39 alternatives, including comfort care, hospice care, and pain
+40 control.
+41 I request that my attending provider dispense or prescribe
+42 medication to bring about my own peaceful death in a
+2025 IN 1011—LS 6048/DI 104
+
+
+--- Page 7 ---
+6
+1 humane and dignified manner.
+2 INITIAL ONE:
+3 ___ I have informed my family of my decision and taken their
+4 opinions into consideration.
+5 ___ I have decided not to inform my family of my decision.
+6 ___ I have no family to inform of my decision.
+7 I understand that I have the right to rescind this request at
+8 any time.
+9 I understand the full import of this request, and I expect to die
+10 when I take the medication to be prescr ibed. I further
+11 understand that although most deaths occur within three (3)
+12 hours, my death may take longer, and my provider has
+13 counseled me about this possibility.
+14 I make this request voluntarily and without reservation, and
+15 I accept full moral responsibility for my actions.
+16 Signed:_____________
+17 Dated: _____________
+18 DECLARATION OF WITNESSES
+19 By initialing and signing below on or after the date the person
+20 named above signs, I declare that the person making and
+21 signing the above request:
+22 is personally known to me or has provided proof of identity;
+23 signed this request in my presence on the date of the person's
+24 signature;
+25 appears to be of sound mind and not under duress or undue
+26 influence; and
+27 is not a patient for whom I am the attending provider.
+28 Witness 1: _____________ _________ _______
+29 Printed Name Signature Date
+30 Witness 2: _____________ __________ ________
+31 Printed Name Signature Date
+32 NOTE: One (1) witness shall not be a relative (by blood, marriage,
+33 or adoption) of the person signing this request, shall not be entitled
+34 to any portion of the person's estate upon death, and shall not own,
+35 operate, or be employed at a health care facility where the person
+36 is a patient or resident. However,  if the patient is a resident of a
+37 health facility, one (1) of the witnesses shall be an individual
+38 designated by the health facility.".
+39 Sec. 13. (a) For a patient who has made a request under this
+40 chapter, the attending provider shall do the following:
+41 (1) Make an initial determination of whether the patient:
+42 (A) has a terminal illness;
+2025 IN 1011—LS 6048/DI 104
+
+
+--- Page 8 ---
+7
+1 (B) is capable; and
+2 (C) has made the request voluntarily.
+3 (2) Refer the patient to counseling if, after examining the
+4 patient, the attending provider considers counseling
+5 necessary.
+6 (3) Refer the patient to a consulting provider for medical
+7 confirmation:
+8 (A) of the terminal illness diagnosis;
+9 (B) of the patient's capability; and
+10 (C) that the patient is voluntarily making a request under
+11 this chapter.
+12 (4) Request and obtain proof of the patient's Indiana
+13 residency.
+14 (5) Inform the patient of the following to ensure that the
+15 patient is making an informed decision:
+16 (A) The patient's medical diagnosis.
+17 (B) The patient's prognosis.
+18 (C) The potential risks associated with taking the
+19 medication to be prescribed.
+20 (D) The probable result of taking the medication to be
+21 prescribed.
+22 (E) The feasible alternatives to taking the medication,
+23 including:
+24 (i) alternative treatments, and the risks and benefits of
+25 each alternative;
+26 (ii) comfort care;
+27 (iii) hospice care; and
+28 (iv) pain control.
+29 (6) Recommend that the patient notify next of kin.
+30 (7) Counsel the patient:
+31 (A) about the importance of having another individual
+32 present when the patient self-administers the medication
+33 prescribed under this chapter; and
+34 (B) not to self-administer the medication in a public place.
+35 (8) Inform the patient that the patient may rescind the request
+36 for medication at any time and in any manner.
+37 (9) Offer the patient an opportunity to rescind the request at
+38 the end of the fifteen (15) day waiting period under section 9
+39 of this chapter.
+40 (10) Verify immediately before writing the prescription for
+41 the medication under this chapter that the patient is making
+42 an informed decision.
+2025 IN 1011—LS 6048/DI 104
+
+
+--- Page 9 ---
+8
+1 (11) Complete the medical record documentation required
+2 under this chapter.
+3 (12) Ensure that the requirements of this chapter have been
+4 met before writing a prescription for medication to enable a
+5 qualified patient to bring about the patient's peaceful death.
+6 (13) Either:
+7 (A) dispense any medication necessary to facilitate the
+8 desired effect and minimize the qualified patient's
+9 discomfort if the attending provider is qualified to dispense
+10 the medication; or
+11 (B) prescribe the medication, and with the qualified
+12 patient's written consent, contact a pharmacist to inform
+13 the pharmacist of the prescription, and transfer the
+14 prescription to the pharmacist for dispensing of the
+15 medication to:
+16 (i) the attending provider;
+17 (ii) the patient; or
+18 (iii) the patient's expressly identified agent.
+19 (b) The attending provider may sign the patient's death
+20 certification.
+21 (c) Not later than thirty (30) days after dispensing or writing a
+22 prescription for medication under this chapter, the attending
+23 provider shall file a copy of the record of the dispensing or
+24 prescription with the state department in a manner and with the
+25 information prescribed by the state department.
+26 (d) The state department shall adopt rules under IC 4-22-2
+27 prescribing the information and manner in which the report
+28 required under subsection (c) must be filed with the state
+29 department.
+30 Sec. 14. Before a patient is qualified and may obtain a
+31 prescription for medication under this chapter, a consulting
+32 provider must do the following:
+33 (1) Examine the patient and the patient's relevant medical
+34 records.
+35 (2) Confirm in writing the attending provider's terminal
+36 illness diagnosis.
+37 (3) Verify that the patient is capable and is making a
+38 voluntary informed decision to request the medication under
+39 this chapter.
+40 Sec. 15. (a) If either the attending provider or the consulting
+41 provider determines that the patient is suffering from any
+42 psychiatric or psychological condition or depression that renders
+2025 IN 1011—LS 6048/DI 104
+
+
+--- Page 10 ---
+9
+1 the patient unable to make and communicate an informed decision,
+2 the provider shall refer the patient for counseling.
+3 (b) Medication may not be prescribed under this chapter until
+4 the individual performing the counseling under subsection (a)
+5 determines that the patient is capable and not suffering from a
+6 psychiatric or psychological condition or depression that renders
+7 the patient unable to make and communicate an informed decision.
+8 (c) A patient may not receive a prescription for medication to
+9 end the patient's life unless the patient has made an informed
+10 decision based on an appreciation of the relevant facts and after
+11 being fully informed by the attending provider under section 13 of
+12 this chapter of the following:
+13 (1) The patient's medical diagnosis.
+14 (2) The patient's prognosis.
+15 (3) The potential risks associated with taking the medication
+16 to be prescribed.
+17 (4) The probable result of taking the medication to be
+18 prescribed.
+19 (5) The feasible alternatives to taking the medication,
+20 including:
+21 (A) alternative treatments, and the risks and benefits of
+22 each alternative;
+23 (B) comfort care;
+24 (C) hospice care; and
+25 (D) pain control.
+26 Immediately before writing a prescription for medication under
+27 this chapter, the attending provider shall verify that the patient is
+28 making an informed decision as described in this subsection.
+29 Sec. 16. A request for medication under this chapter may not be
+30 refused because a patient declines, or is unable, to notify the
+31 patient's next of kin as recom mended by the attending provider
+32 under section 13(a)(6) of this chapter.
+33 Sec. 17. The attending provider shall maintain or document the
+34 following in the patient's medical record:
+35 (1) All oral requests by a patient for medication to end the
+36 patient's life.
+37 (2) All written requests made by the patient for medication to
+38 end the patient's life.
+39 (3) The attending provider's diagnosis and the patient's
+40 prognosis.
+41 (4) The attending provider's determination that the patient is
+42 capable, is acting voluntarily in making a request for the
+2025 IN 1011—LS 6048/DI 104
+
+
+--- Page 11 ---
+10
+1 medication, and is making an informed decision.
+2 (5) The consulting provider's diagnosis and the patient's
+3 prognosis.
+4 (6) The consulting provider's determination that the patient
+5 is capable, is acting voluntarily in making a request for the
+6 medication, and is making an informed decision.
+7 (7) Documentation of any counseling under section 15 of this
+8 chapter and the results of the counseling.
+9 (8) Documentation that the attending provider offered the
+10 patient the opportunity to rescind the written request.
+11 (9) Any medically confirmed certification of the imminence of
+12 the patient's death.
+13 (10) A statement by the attending provider that all of the
+14 requirements under this chapter have been met, including a
+15 notation of the medication prescribed.
+16 Sec. 18. (a) After June 30, 2025, the sale, issuance, or
+17 procurement of a life insurance policy, an accident and sickness
+18 insurance policy, or an annuity may not be conditioned upon or
+19 affected by a person making a request or taking medication under
+20 this chapter if the requirements of this chapter are met.
+21 (b) After June 30, 2025, any provision in a contract, will, or
+22 other agreement that limits a patient's ability to make a request
+23 under this chapter is void.
+24 Sec. 19. (a) Nothing in this chapter authorizes a person ,
+25 including the qualified patient, to end a patient's life by lethal
+26 injection, lethal infusion, mercy killing, or active euthanasia.
+27 Actions taken in accordance with this chapter do not, for any
+28 purpose, constitute neglect, suicide, assisted suicide, mercy killing,
+29 or homicide under any law.
+30 (b) Nothing in this chapter shall be interpreted to lower a health
+31 care provider's standard of care.
+32 (c) Nothing in this chapter shall be interpreted to lower the
+33 requirements of informed health care consent under this article.
+34 Sec. 20. (a) The state department shall review a sample of the
+35 records submitted to the state department by an attending
+36 provider as required by this chapter. The records submitted to the
+37 state department are not public records and may not be inspected
+38 by the public. Only the report described in subsection (c) is a public
+39 record.
+40 (b) The state department shall adopt rules under IC 4-22-2
+41 concerning the procedure for submitting records to comply with
+42 this chapter.
+2025 IN 1011—LS 6048/DI 104
+
+
+--- Page 12 ---
+11
+1 (c) Not later than February 1 of each year, the state department
+2 shall generate and make available to the public an annual
+3 statistical report of the records collected under this section. The
+4 report may not disclose any personally identifiable information of
+5 the providers or the patients whose medical records were
+6 submitted.
+7 Sec. 21. (a) An individual or a health care provider who in good
+8 faith provides medical care in compliance with this chapter,
+9 including:
+10 (1) writing or dispensing a prescription for medication under
+11 this chapter; or
+12 (2) being present when a qualified patient self-administers the
+13 medication under this chapter;
+14 is immune from professional, civil, and criminal liability arising
+15 from the provision of care.
+16 (b) Except as provided in subsection (d), a professional
+17 organization or association or a health care provider may not
+18 subject a person to censure, discipline, suspension, loss of license,
+19 loss of privileges, loss of membership, or other penalty for
+20 participating or refusing to participate in good faith compliance
+21 with this chapter.
+22 (c) A health care provider may not be required to participate in
+23 the dispensing or prescribing of medication under this chapter to
+24 a patient who meets the requirem ents of this chapter. If a health
+25 care provider is unwilling or unable to carry out a patient's request
+26 under this chapter, the health care provider shall transfer, upon
+27 the patient's request, a copy of the patient's relevant medical
+28 records to the subsequent health care provider.
+29 (d) A health care provider may prohibit another health care
+30 provider from participating under this chapter on the prohibiting
+31 health care provider's premises if the prohibiting health care
+32 provider has given notice of the prohibition to health care
+33 providers with privileges to practice on the prohibiting health care
+34 provider's premises. This subsection does not prohibit a health
+35 care provider from providing other health care services to the
+36 patient. The prohibiting health care provider may sanction a health
+37 care provider described in this subsection for participating under
+38 this chapter in violation of the prohibition.
+39 (e) A health care facility may not prohibit a health care provider
+40 from providing services consistent with the applicable standard of
+41 medical care, including:
+42 (1) informing and providing information concerning medical
+2025 IN 1011—LS 6048/DI 104
+
+
+--- Page 13 ---
+12
+1 aid in dying;
+2 (2) being present when a qualified patient self-administers the
+3 medication, if requested by the qualified patient or
+4 representative; and
+5 (3) referring the patient to another health care provider.
+6 (f) A request by an individual to provide medication under this
+7 chapter does not solely constitute neglect or elder abuse under any
+8 law and may not be the sole basis for the appointment of a
+9 guardian or conservator of an individual.
+10 (g) This section does not limit civil or criminal liability for
+11 negligence, recklessness, or intentional misconduct.
+12 Sec. 22. (a) A person who, without authorization of the patient,
+13 willfully alters, forges, conceals, or destroys a request for
+14 medication or a rescission of a request for medication under this
+15 chapter with the intent or effect of causing the patient's death
+16 commits a Level 1 felony.
+17 (b) A person who knowingly or intentionally coerces or exerts
+18 undue influence on a patient to request medication to bring about
+19 the patient's peaceful death or to destroy a rescission of a request
+20 for medication under this chapter commits a Level 1 felony.
+21 (c) A person who knowingly or intentionally, without
+22 authorization of the patient, alters, forges, conceals, or destroys an
+23 instrument, the reinstatement or revocation of an instrument, or
+24 any other evidence or document reflecting the patient's desires and
+25 interests to obtain medication under this chapter with the intent or
+26 effect of affecting a health care decision commits a Class A
+27 misdemeanor.
+28 Sec. 23. This chapter is severable as provided in IC 1-1-1-8(b).
+29 SECTION 9. IC 27-2-30 IS ADDED TO THE INDIANA CODE AS
+30 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+31 1, 2025]:
+32 Chapter 30. Nonapplication of Suicide Clause
+33 Sec. 1. For purposes of this chapter, an individual is an "insured
+34 individual" if a life insurance policy provides for the payment of
+35 benefits upon the death of the individual, regardless of whether the
+36 payment of benefits is subject to certain conditions or exclusions.
+37 Sec. 2. As used in this chapter, "life insurance policy" means
+38 any policy of insurance, whether issued on an individual or group
+39 basis, that:
+40 (1) is issued in Indiana or issued for delivery in Indiana; and
+41 (2) provides for the payment of benefits upon the death of the
+42 insured individual.
+2025 IN 1011—LS 6048/DI 104
+
+
+--- Page 14 ---
+13
+1 Sec. 3. As used in this chapter, "suicide clause" means a
+2 provision of a life insurance policy under which the payment of
+3 benefits may be denied if the death of the insured individual is the
+4 result of suicide.
+5 Sec. 4. (a) An insurer shall not deny payment of benefits under
+6 a life insurance policy based upon a suicide clause in the life
+7 insurance policy if the death of the insured individual is the result
+8 of medical aid in dying as provided in IC 16-36-8.
+9 (b) Subsection (a) applies regardless of the length of time that
+10 passes between the issuance of the policy and the death of the
+11 insured individual.
+12 SECTION 10. IC 34-30-2.1-229.2 IS ADDED TO THE INDIANA
+13 CODE AS A NEW SECTION TO READ AS FOLLOWS
+14 [EFFECTIVE JULY 1, 2025]: Sec. 229.2. IC 16-36-8-21 (Concerning
+15 an individual or health care provider providing assistance to a
+16 patient who is terminally ill).
+17 SECTION 11. IC 35-52-16-27.5 IS ADDED TO THE INDIANA
+18 CODE AS A NEW SECTION TO READ AS FOLLOWS
+19 [EFFECTIVE JULY 1, 2025]: Sec. 27.5. IC 16-36-8-22 defines crimes
+20 concerning medical aid in dying.
+2025 IN 1011—LS 6048/DI 104

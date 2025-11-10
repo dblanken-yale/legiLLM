@@ -1,0 +1,1696 @@
+--- Page 1 ---
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE ENROLLED ACT No. 1003
+AN ACT to amend the Indiana Code concerning health.
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1. IC 4-6-10-1.5 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 1.5. The state Medicaid
+fraud control unit has the authority to:
+(1) investigate, in accordance with federal law (42 U.S.C. 1396 et
+seq.):
+(A) Medicaid fraud (including provider fraud, insurer
+fraud, duplicate billing, and other instances of fraud that
+the state Medicaid fraud control unit determines may
+result in Medicaid fraud);
+(B) misappropriation of a Medicaid patient's private funds;
+(C) abuse of Medicaid patients; and
+(D) neglect of Medicaid patients; and
+(2) investigate, in accordance with federal law (42 U.S.C. 1396 et
+seq.) and as allowed under 42 U.S.C. 1396b(q)(4)(A)(ii), abuse or
+neglect of patients in board and care facilities.
+SECTION 2. IC 4-6-10-4 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2025]: Sec. 4. (a) The attorney general may execute a data
+sharing agreement with the:
+(1) department of state revenue;
+(2) office of the secretary of family and social services;
+HEA 1003 — CC 1
+
+
+--- Page 2 ---
+2
+(3) bureau of motor vehicles; and
+(4) department of workforce development.
+(b) The state Medicaid fraud control unit may analyze and
+review data received under subsection (a) to carry out its duties
+under section 1.5 of this chapter.
+SECTION 3. IC 4-6-10-6 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2025]: Sec. 6. All complaints made to the state Medicaid fraud
+control unit are confidential until an action is filed concerning the
+complaint.
+SECTION 4. IC 12-15-12-24 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 24. The office of the secretary
+shall establish:
+(1) metrics to assess:
+(A) the quality of care provided under; and
+(B) patient outcomes of; and
+(2) transparency and accountability safeguards for;
+the risk based managed care program for the covered population
+established by IC 12-15-13-1.8(c).
+SECTION 5. IC 16-18-2-92.3, AS ADDED BY P.L.151-2021,
+SECTION 1 AND P.L.198-2021, SECTION 4, IS AMENDED TO
+READ AS FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 92.3. (a)
+"De-identified maximum negotiated charge", for purposes of
+IC 16-21-17, has the meaning set forth in IC 16-21-17-0.3(a).
+(b) "De-identified maximum negotiated charge", for purposes
+of IC 16-41-35.5, has the meaning set forth in IC 16-41-35.5-1.
+(b) (c) "De-identified minimum negotiated charge", for purposes of
+IC 16-21-17, has the meaning set forth in IC 16-21-17-0.3(b).
+(d) "De-identified minimum negotiated charge", for purposes
+of IC 16-41-35.5, has the meaning set forth in IC 16-41-35.5-2.
+SECTION 6. IC 16-18-2-94.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 94.5. "Diagnostic imaging
+facility", for purposes of IC 16-41-35.5, has the meaning set forth
+in IC 16-41-35.5-3.
+SECTION 7. IC 16-18-2-96.1, AS ADDED BY P.L.151- 2021,
+SECTION 2 AND P.L.198-2021, SECTION 5, IS AMENDED TO
+READ AS FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 96.1. (a)
+"Discounted cash price", for purposes of IC 16-21-17, has the meaning
+set forth in IC 16-21-17-0.3(c).
+(b) "Discounted cash price", for purposes of IC 16-41-35.5, has
+HEA 1003 — CC 1
+
+
+--- Page 3 ---
+3
+the meaning set forth in IC 16-41-35.5-4.
+SECTION 8. IC 16-18-2-105.9 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 105.9. "Electronic health record",
+for purposes of IC 16-39-9, has the meaning set forth in
+IC 16-39-9-1.5.
+SECTION 9. IC 16-18-2-106.7  IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 106.7 . "Eligible facility", for
+purposes of IC 16-42-26.5, has the meaning set forth in
+IC 16-42-26.5-1.
+SECTION 10. IC 16-18-2-153.8, AS ADDED BY P.L.151-2021,
+SECTION 3 AND P.L.198-2021, SECTION 6, IS AMENDED TO
+READ AS FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 153. 8. (a)
+"Gross charge", for purposes of IC 16-21-17, has the meaning set forth
+in IC 16-21-17-0.3(d).
+(b) "Gross charge", for purposes of IC 16-41-35.5, has the
+meaning set forth in IC 16-41-35.5-5.
+SECTION 11. IC 16-18-2-188.6 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 188.6. "Individualized
+investigational treatment", for purposes of IC 16-42-26.5, has the
+meaning set forth in IC 16-42-26.5-2.
+SECTION 12. IC 16-18-2-194.7, AS ADDED BY P.L.151-2021,
+SECTION 4 AND P.L.198-2021, SECTION 7, IS AMENDED TO
+READ AS FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 194.7. (a)
+"Item or service", for purposes of IC 16-21-17, has the meaning set
+forth in IC 16-21-17-0.3(e).
+(b) "Item or service", for purposes of IC 16-41-35.5, has the
+meaning set forth in IC 16-41-35.5-6.
+SECTION 13. IC 16-18-2-204.2 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 204.2. "Life threatening or
+severely debilitating disease" , for purposes of IC 16-42-26.5, has
+the meaning set forth in IC 16-42-26.5-3.
+SECTION 14. IC 16-18-2-250.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 250.5. "Non-invasive treatment",
+for purposes of IC 16-51-1, has the meaning set forth in
+IC 16-51-1-8.5.
+SECTION 15. IC 16-18-2-272.5, AS ADDED BY P.L.151-2021,
+SECTION 5 AND P.L.198-2021, SECTION 8, IS AMENDED TO
+HEA 1003 — CC 1
+
+
+--- Page 4 ---
+4
+READ AS FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 272.5. (a)
+"Payer-specific negotiated charge", for purposes of IC 16-21-17, has
+the meaning set forth in IC 16-21-17-0.3(f).
+(b) "Payer -specific negotiated charge", for purposes of
+IC 16-41-35.5, has the meaning set forth in IC 16-41-35.5-7.
+SECTION 16. IC 16-18-2-272.7 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 272.7. "Payor", for purposes of
+IC 16-51-1, has the meaning set forth in IC 16-51-1-9.5.
+SECTION 17. IC 16-18-2-328.7 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 328.7. "Services provided for the
+treatment of individuals with psychiatric disorders or chronic
+addiction disorders", for purposes of IC 16-51-1, has the meaning
+set forth in IC 16-51-1-10.5.
+SECTION 18. IC 16-18-2-337.5, AS ADDED BY P.L.151-2021,
+SECTION 6 AND P.L.198-2021, SECTION 9, IS AMENDED TO
+READ AS FOLLOWS [EFFECTIVE JULY 1, 2025 ]: Sec. 337.5. (a)
+"Standard charge", for purposes of IC 16-21-17 and IC 16-24.5-1, has
+the meaning set forth in IC 16-21-17-0.3(g).
+(b) "Standard charge", for purposes of IC 16-41-35.5, has the
+meaning set forth in IC 16-41-35.5-8.
+SECTION 19. IC 16-18-2-379 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 379. "X-ray film", for
+purposes of IC 16-39, has the meaning set forth in IC 16-39-7-2.
+includes a microfilm copy of the x-ray film.
+SECTION 20. IC 16-18-2-379.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 379.5. "X-ray image", for
+purposes of IC 16-39-1-2 and IC 16-39-7-2, has the meaning set
+forth in IC 16-39-7-2.
+SECTION 21. IC 16-19-9-4 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2025]: Sec. 4. (a) As used in this section, "clinical laboratory"
+means a laboratory that:
+(1) provides clinical services;
+(2) holds a federal Clinical Laboratory Improvement Act
+(CLIA) certificate of accreditation; and
+(3) is not owned or operated by a hospital licensed under
+IC 16-21-2.
+(b) As used in this section, "de-identified maximum negotiated
+charge" means the highest charge that a clinical laboratory has
+HEA 1003 — CC 1
+
+
+--- Page 5 ---
+5
+negotiated with any third party payer for an item or service.
+(c) As used in this section, "de-identified minimum negotiated
+charge" means the lowest charge that a clinical laboratory has
+negotiated with any third party payer for an item or service.
+(d) As used in this section, "discounted cash price" means the
+charge that applies to an individual who pays cash or the cash
+equivalent for a clinical laboratory item or service.
+(e) As used in this section, "gross charge" means the charge for
+an individual item or service that is reflected on a clinical
+laboratory's chargemaster, absent any discounts.
+(f) As used in this section, "item or service" means any item or
+service, including service packages, that could be provided by a
+clinical laboratory to a patient for which the clinical laboratory has
+established a standard charge. The term includes the following:
+(1) Supplies.
+(2) Procedures.
+(3) Use of the facility and other facility fees.
+(4) Services of employed physicians and non-physician
+practitioners, including professional charges.
+(5) Anything that a clinical laboratory has established as a
+standard charge.
+(g) As used in this section, "payer-specific negotiated charge"
+means the charge that a clinical laboratory has negotiated with a
+third party payer for an item or service.
+(h) As used in this section, "standard charge" means the regular
+rate established by the clinical laboratory for an item or service
+provided to a specific group of paying patients. The term includes
+the following:
+(1) Gross charge.
+(2) Payer-specific negotiated charge.
+(3) De-identified minimum negotiated charge.
+(4) De-identified maximum negotiated charge.
+(5) Discounted cash price.
+(i) Not later than July 31, 2026, a clinical laboratory serving
+patients in Indiana shall post on the website of the clinical
+laboratory the following information and pricing, to the extent
+applicable, for the fifty (50) laboratory services designated by the
+department of insurance as shoppable for consumers who would be
+self paying for those services without the benefit of a health
+insurance plan or government subsidy:
+(1) A description of the service in plain language.
+(2) The discounted cash price.
+HEA 1003 — CC 1
+
+
+--- Page 6 ---
+6
+(3) The de-identified minimum negotiated charge.
+(4) The de-identified maximum negotiated charge.
+(j) Not later than May 1, 2026, the department of insurance
+shall:
+(1) determine the fifty (50) laboratory services to be disclosed
+as shoppable for consumers as required under this section;
+and
+(2) post a list of the designated shoppable services on the
+department's website.
+SECTION 22. IC 16-21-17-0.3, AS ADDED BY P.L.151-2021,
+SECTION 9 AND P.L.198-2021, SECTION 12, IS AMENDED TO
+READ AS FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 0.3. (a) As
+used in this chapter, "de-identified maximum negotiated charge" means
+the highest charge that a hospital or an ambulatory outpatient surgical
+center has negotiated with any third party payer for an item or service.
+(b) As used in this chapter, "de-identified minimum negotiated
+charge" means the lowest charge that a hospital or an ambulatory
+outpatient surgical center has negotiated with any third party payer for
+an item or service.
+(c) As used in this chapter, "discounted cash price" means the
+charge that applies to an individual who pays cash or the cash
+equivalent for a hospital or an ambulatory outpatient surgical center
+item or service.
+(d) As used in this chapter, "gross charge" means the charge for an
+individual item or service that is reflected on a hospital's or an
+ambulatory outpatient surgical center's chargemaster, absent any
+discounts.
+(e) As used in this chapter, "item or service" means any item or
+service, including service packages, that could be provided by a
+hospital or an ambulatory outpatient surgical center to a patient for
+which the hospital or ambulatory outpatient surgical center has
+established a standard charge. The term includes the following:
+(1) Supplies.
+(2) Procedures.
+(3) Use of the facility and other facility fees.
+(4) Services of employed physicians and non-physician
+practitioners, including professional charges.
+(5) Anything that a hospital or an ambulatory outpatient surgical
+center has established as a standard charge.
+(f) As used in this chapter, "payer-specific negotiated charge" means
+the charge that a hospital or an ambulatory outpatient surgical center
+has negotiated with a third party payer for an item or service.
+HEA 1003 — CC 1
+
+
+--- Page 7 ---
+7
+(g) As used in this chapter, "standard charge" means the regular rate
+established by the hospital or ambulatory outpatient surgical center for
+an item or service provided to a specific group of paying patients. The
+term includes the following:
+(1) Gross charge.
+(2) Payer-specific negotiated charge.
+(3) De-identified minimum negotiated charge.
+(4) De-identified maximum negotiated charge.
+(5) Discounted cash price.
+SECTION 23. IC 16-21-17-1, AS AMENDED BY P.L.151-2021,
+SECTION 11 AND P.L.198-2021, SECTION 14, IS AMENDED TO
+READ AS FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 1. (a) Not
+later than December 31, 2021, 2025, a hospital and an ambulatory
+outpatient surgical center shall post on the Internet web site website of
+the hospital or ambulatory outpatient surgical center pricing and other
+information specified in this chapter for the following:
+(1) For as many of the seventy (70) shoppable services specified
+in the final rule of the Centers for Medicare and Medicaid
+Services published in 84 FR 65524 that are provided by the
+hospital or ambulatory outpatient surgical center.
+(2) In addition to the services specified in subdivision (1):
+(A) the thirty (30) most common services that are provided by
+the hospital or ambulatory outpatient surgical center not
+included in subdivision (1); or
+(B) if the hospital or ambulatory outpatient surgical center
+offers less than thirty (30) services not included under
+subdivision (1), all of the services provided by the hospital or
+ambulatory outpatient surgical center.
+(b) The following information, to the extent applicable, must be
+included on the Internet web site website by a hospital and an
+ambulatory outpatient surgical center for the shoppable and common
+services described in subsection (a):
+(1) A description of the shoppable and common service.
+(2) The standard charge per item or service for each of the
+following categories:
+(A) Any nongovernment sponsored health benefit plan or
+insurance plan provided by a health carrier in which the
+provider is in the network.
+(B) Medicare, including fee for service and Medicare
+Advantage.
+(C) Self-pay without charitable assistance from the hospital or
+ambulatory outpatient surgical center.
+HEA 1003 — CC 1
+
+
+--- Page 8 ---
+8
+(D) Self-pay with charitable assistance from The maximum
+charitable assistance allowed under the charity or financial
+assistance policy of the hospital or ambulatory outpatient
+surgical center.
+(E) Medicaid, including fee for service and risk based
+managed care.
+(c) If:
+(1) the federal Hospital Price Transparency Rule is repealed; or
+(2) federal enforcement of the federal Hospital Price
+Transparency Rule is stopped;
+the state health commissioner shall notify the legislative council of the
+occurrence referred to in subdivision (1) or (2) in an electronic format
+under IC 5-14-6.
+(d) This subsection takes effect when the legislative council receives
+a notification from the state health commissioner under subsection (c).
+A hospital shall post pricing information in compliance with the federal
+Hospital Price Transparency Rule of the federal Centers for Medicare
+and Medicaid Services as published at 84 FR 65524 and in effect on
+January 1, 2021.
+SECTION 24. IC 16-39-1-2 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 2. Upon a patient's
+written request and reasonable notice, a provider shall, at the provider's
+actual costs, at no cost, provide to the patient or the patient's designee:
+(1) access to; or
+(2) a copy of;
+the patient's x-ray film image possessed by the provider.
+SECTION 25. IC 16-39-7-2 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 2. (a) This section does
+not apply to original mammograms, which are governed by section 3
+of this chapter.
+(b) As used in this section, "x-ray film" image" includes a
+microfilm copy of the an x-ray film and a digital image of an x-ray.
+(c) A provider shall maintain a patient's x-ray film image for at least
+five (5) years.
+(d) At the time an x-ray film image is taken, the provider shall do
+one (1) of the following:
+(1) Inform the patient in writing of the following:
+(A) The patient's x-ray film image will be kept on file by the
+provider for at least five (5) years.
+(B) If the patient would like a copy of the x-ray film image
+during that period, the provider will provide the patient with
+a copy of the x-ray film image at the actual no cost, to the
+HEA 1003 — CC 1
+
+
+--- Page 9 ---
+9
+provider, as provided in IC 16-39-1-2.
+(2) Have posted conspicuously in the x-ray examination area a
+sign informing patients of the following:
+(A) All x-ray films images will be kept on file by a provider
+for at least five (5) years.
+(B) On request during that time, the provider will provide the
+patient a copy of the patient's x-ray film image at the actual no
+cost to the provider.
+(e) A provider is immune from civil liability for destroying or
+otherwise failing to maintain an x-ray film image in violation of this
+section if the destruction or failure to maintain the x-ray film image is
+inadvertent and not done in bad faith. However, this subsect ion does
+not prevent the imposition of disciplinary sanctions against the
+provider, as described in subsection (f).
+(f) A provider who violates this section commits an offense for
+which a board may impose disciplinary sanctions against the provider
+under the statute that governs the provider's licensure, registration, or
+certification under this title or IC 25.
+SECTION 26. IC 16-39-9-1.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 1.5. (a) As used in this chapter,
+"electronic health record" means a record of an individual's
+medical history that is created, generated, sent, communicated,
+received, or stored by electronic means.
+(b) For purposes of this chapter, the term includes billing
+statements and other administrative records that may be provided
+through electronic means.
+SECTION 27. IC 16-39-9-2, AS AMENDED BY P.L.173-2007,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 2. A provider may not charge a person for:
+(1) providing a digital copy or digital access through an
+interoperability platform of an individual's electronic health
+record; or
+(2) making and providing paper copies of medical records at an
+amount greater than the amount set in rules adopted by the
+department of insurance under section 4 of this chapter.
+SECTION 28. IC 16-39-9-4, AS AMENDED BY P.L.173-2007,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 4. (a) As used in this section, "department" refers
+to the department of insurance created by IC 27-1-1-1.
+(b) The department may adopt rules unde r IC 4-22-2 to set the
+amounts that may be charged for copying and providing paper copies
+HEA 1003 — CC 1
+
+
+--- Page 10 ---
+10
+of medical records under this chapter.
+(c) In adopting rules under this section, the department shall
+consider the following factors relating to the costs of copying medical
+records:
+(1) The following labor costs:
+(A) Verification of requests.
+(B) Logging requests.
+(C) Retrieval.
+(D) Copying.
+(E) Refiling.
+(2) Software costs for logging requests.
+(3) Expense costs for copying.
+(4) Capital costs for copying.
+(5) Billing and bad debt expenses.
+(6) Space costs.
+SECTION 29. IC 16-41-35.5 IS ADDED TO THE INDIANA
+CODE AS A NEW CHAPTER TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]:
+Chapter 35.5. Diagnostic Imaging Facility: Health Care Pricing
+Information
+Sec. 1. As used in this chapter, "de-identified maximum
+negotiated charge" means the highest charge that a diagnostic
+imaging facility has negotiated with any third party payer for an
+item or service.
+Sec. 2. As used in this chapter, "de-identified minimum
+negotiated charge" means the lowest charge that a diagnostic
+imaging facility has negotiated with any third party payer for an
+item or service.
+Sec. 3. (a) As used in this chapter, "diagnostic imaging facility"
+means an entity that:
+(1) provides diagnostic imaging to an individual for the
+purpose of health care; and
+(2) is not owned or operated by a hospital licensed under
+IC 16-21-2.
+(b) The term does not include the following offices where an
+x-ray or imaging service is exclusively used by the office:
+(1) A dental office.
+(2) An optometrist office.
+(3) A practitioner's office.
+Sec. 4. As used in this chapter, "discounted cash price" means
+the charge that applies to an individual who pays cash or the cash
+equivalent for a diagnostic imaging facility item or service.
+HEA 1003 — CC 1
+
+
+--- Page 11 ---
+11
+Sec. 5. As used in this chapter, "gross charge" means the charge
+for an individual item or service that is reflected on a diagnostic
+imaging facility's chargemaster, absent any discounts.
+Sec. 6. As used in this chapter, "item or service" means any item
+or service, including service packages, that could be provided by a
+diagnostic imaging facility to a patient for which the diagnostic
+imaging facility has established a standard charge. The term
+includes the following:
+(1) Supplies.
+(2) Procedures.
+(3) Use of the facility and other facility fees.
+(4) Services of employed physicians and non-physician
+practitioners, including professional charges.
+(5) Anything that a diagnostic imaging facility has established
+as a standard charge.
+Sec. 7. As used in this chapter, "payer-specific negotiated
+charge" means the charge that a diagnostic imaging facility has
+negotiated with a third party payer for an item or service.
+Sec. 8. As used in this chapter, "standard charge" means the
+regular rate established by the diagnostic imaging facility for an
+item or service provided to a specific group of paying patients. The
+term includes the following:
+(1) Gross charge.
+(2) Payer-specific negotiated charge.
+(3) De-identified minimum negotiated charge.
+(4) De-identified maximum negotiated charge.
+(5) Discounted cash price.
+Sec. 9. Not later than July 31, 2026, a diagnostic imaging facility
+serving patients in Indiana shall post on the diagnostic imaging
+facility's website the following information and pricing, to the
+extent applicable, for the fifty (50) diagnostic imaging services
+designated by the department of insurance as shoppable for
+consumers who would be self paying for those services without the
+benefit of a health insurance plan or government subsidy:
+(1) A description of the service in plain language.
+(2) The discounted cash price.
+(3) The de-identified minimum negotiated charge.
+(4) The de-identified maximum negotiated charge.
+Sec. 10. Not later than May 1, 2026, the department of insurance
+shall:
+(1) determine the fifty (50) diagnostic imaging services to be
+disclosed as shoppable for consumers as required under this
+HEA 1003 — CC 1
+
+
+--- Page 12 ---
+12
+section; and
+(2) post a list of the designated shoppable services on the
+department's website.
+SECTION 30. IC 16-42-26.5 IS ADDED TO THE INDIANA
+CODE AS A NEW CHAPTER TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]:
+Chapter 26.5. Individualized Investigational Treatment
+Sec. 1. As used in this chapter, "eligible facility" means an entity
+that operates under the Federalwide Assurance for the Protection
+of Human Subjects in accordance with 42 U.S.C. 289(a) and 45
+CFR 46.
+Sec. 2. As used in this chapter, "individualized investigational
+treatment" means a drug, biological product, or device that is
+unique to and produced exclusively for use by an individual
+patient, based  on the individual's own genetic profile. The term
+includes individualized gene therapy, antisense oligonucleotides
+(ASO), and individualized neoantigen vaccines.
+Sec. 3. As used in this chapter, "life threatening or severely
+debilitating disease" has the meaning described in 21 CFR 312.81.
+Sec. 4. An individual must meet the following requirements in
+order to qualify as an eligible patient under this chapter:
+(1) Has been diagnosed with a life threatening or severely
+debilitating disease, as attested by the individual's physician.
+(2) Has considered other treatment options currently
+approved by the United States Food and Drug
+Administration.
+(3) Has received a recommendation from the individual's
+physician for an individualized investigational treatment
+based on analysis of the patient's genomic sequence, human
+chromosomes, deoxyribonucleic acid, ribonucleic acid, genes,
+gene products, or metabolites.
+(4) Has given written informed consent as set forth in section
+5 of this chapter for the use of the individualized
+investigational treatment.
+(5) Has documentation from the individual's physician that
+the individual meets the requirements of this section.
+Sec. 5. (a) Written informed consent as required under section
+4(4) of this chapter must include the following:
+(1) An explanation of the currently approved products and
+treatments for the individual's disease or condition.
+(2) An attestation by the individual of the individual's
+debilitating condition and that the individual concurs with the
+HEA 1003 — CC 1
+
+
+--- Page 13 ---
+13
+individual's physician that all currently approved treatments
+are unlikely to prolong the individual's life or improve the
+individual's debilitating condition.
+(3) A clear identification of the specific individualized
+investigational treatment proposed to be used to treat the
+individual.
+(4) A description of the best and worst outcomes, including
+the most likely outcome, resulting from use of the
+individualized investigational treatment of the individual's life
+threatening or severely debilitating illness.
+(5) A statement acknowledging that new, unanticipated,
+different, or worse symptoms or death may result from the
+proposed treatment.
+(6) A statement that the individual's health insurance may not
+be obligated to pay for any care or treatment and that the
+patient may be liable for all expenses of the treatment unless
+specifically required to do so by contract or law.
+(7) A statement that eligibility for hospice care may be
+withdrawn if the individual begins individualized
+investigational treatment and does not meet hospice care
+eligibility requirements.
+(8) A statement that the individual or the individual's legal
+guardian consents to the individualized investigational
+treatment for the life threatening or severely debilitating
+illness.
+(b) The description of outcomes descri bed in subsection (a)(4)
+must be based on the treating physician's knowledge of both the
+individualized investigational treatment and the individual's life
+threatening or severely debilitating disease.
+Sec. 6. (a) A manufacturer operating within an eligible facility
+and in accordance with federal law may make available to an
+eligible patient the manufacturer's individualized investigational
+treatment from an eligible facility.
+(b) Nothing in this chapter may be construed to require a
+manufacturer of an individualized investigational treatment to
+make the individualized investigational treatment available to an
+eligible patient.
+(c) A manufacturer of an individualized investigational
+treatment may do any of the following:
+(1) Provide an individualized investigational treatment to an
+eligible patient without receiving compensation.
+(2) Require an eligible patient to pay the costs of or associated
+HEA 1003 — CC 1
+
+
+--- Page 14 ---
+14
+with the manufacture of the individualized investigational
+treatment.
+(d) This chapter does not create a cause of action against a
+manufacturer of an individualized investigational treatment for
+any harm to an eligible patient resulting from use of an
+individualized investigational treatment.
+Sec. 7. If an eligible patient dies while being treated with an
+individualized investigational treatment, the eligible patient's heirs
+are not liable for any outstanding debt related to the individualized
+investigational treatment.
+Sec. 8. The medical licensing board of Indiana may not revoke,
+suspend, fail to renew, or take any other disciplinary action against
+a physician licensed under IC 25-22.5 based solely on the
+physician's recommendations to an eligible patient concerning
+access to or treatment with an individualized investigational
+treatment.
+Sec. 9. This chapter does not affect coverage for clinical trials
+set forth in IC 5-10-8-15, IC 12-15-5-9.2, IC 27-8-25, or
+IC 27-13-7-20.2.
+SECTION 31. IC 16-51-1-8.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 8.5. As used in this chapter,
+"non-invasive treatment" means a treatment that is not included
+in the definition of surgery or other invasive procedure under 410
+IAC 15-1.1-22.
+SECTION 32. IC 16-51-1-9, AS ADDED BY P.L.203-2023,
+SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 9. (a) As used in this chapter, "office setting"
+means a location of a qualified provider where health care services are
+provided and that:
+(1) is located more than two hundred fifty (250) yards from the
+main building of any hospital owned in whole or in part by the
+Indiana nonprofit hospital system; and
+(2) is where a qualified provider routinely provides health
+examinations, diagnosis, or non-invasive treatment of illness or
+injury on an ambulatory basis.
+(b) The term does not include the following:
+(1) A location within the campus (as defined in 42 CFR
+413.65(a)(2)) of a hospital.
+(2) A location not more than two hundred fifty (250) yards
+from the main building of a remote location of a hospital (as
+defined in 42 CFR 413.65(a)(2)).
+HEA 1003 — CC 1
+
+
+--- Page 15 ---
+15
+SECTION 33. IC 16-51-1-9.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 9.5. As used in this chapter,
+"payor" means an insurer, health maintenance organization,
+employer, or other person responsible for the payment of the cost
+of health care services provided by a qualified provider.
+SECTION 34. IC 16-51-1-10, AS ADDED BY P.L.203-2023,
+SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 10. As used in this chapter, "qualified provider"
+means an individual or entity owned in whole or in part employed by
+an Indiana nonprofit hospital system and that is duly licensed or legally
+authorized to provide health care services.
+SECTION 35. IC 16-51-1-10.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 10.5. As used in this chapter,
+"services provided for the treatment of individuals with psychiatric
+disorders or chronic addiction disorders" means services to
+diagnose or treat a mental illness or substance-related or addictive
+disorder diagnosis under the Diagnostic and Statistical Manual of
+Mental Disorders, Fifth Edition, Text Revision, published by the
+American Psychiatric Association (DSM V-TR).
+SECTION 36. IC 16-51-1-11, AS ADDED BY P.L.203-2023,
+SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 11. (a) As used in this section, "physician fee
+schedule" refers to the negotiated agreement between a payor and
+a qualified provider specifying reimbursement for services
+furnished in an office setting and billed on a CMS 1500 form or its
+electronic equivalent.
+(a) (b) A bill for health care services provided by a qualified
+provider in an office setting:
+(1) may not be submitted on an institutional provider form; and
+(2) must be submitted on an individual provider form.
+(b) (c) An insurer, health maintenance organization, employer, or
+other person responsible for the payment of the cost of health care
+services provided by a qualified provider in an office setting A payor
+shall not accept a bill for the health care services that is submitted on
+an institutional provider form.
+(d) A qualified provider in an office setting may not bill health
+care services with a place of service code 21 or 22, as published in
+the place of service code set maintained by the federal Centers for
+Medicare and Medicaid Services.
+(e) Beginning January 1, 2026, a payor shall pay the claims
+HEA 1003 — CC 1
+
+
+--- Page 16 ---
+16
+incurred by an in-network qualified provider based on the
+physician fee schedule.
+SECTION 37. IC 16-51-1-11.1 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 11.1. (a) If, after making payment
+for health care services provided by a qualified provider, a payor
+discovers that a bill was submitted in violation of section 11 of this
+chapter, the payor may utilize the remedies set forth in either:
+(1) the contract or other arrangement between the payor and
+qualified provider; or
+(2) IC 27-8-5.7-10.
+(b) If a qualified provider disagrees with a determination made
+by a payor  that a bill was submitted in violation of section 11 of
+this chapter, the qualified provider may use the dispute resolution
+process set forth in the contract or other arrangement between the
+payor and qualified provider.
+SECTION 38. IC 16-51-1-11.3 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 11.3. (a) Before July 1, 2025,
+and every two (2) years with licensure renewal, an Indiana
+nonprofit hospital system shall submit a complete list of facilities
+within the Indiana nonprofit hospital system that:
+(1) qualify as an institutional provider; and
+(2) may submit a bill on an institutional provider form under
+this chapter;
+to the state department, in a manner prescribed by the state
+department. The list submitted under this section must include for
+each listed facility the appropriate place of service code, as
+published in the place of service code set maintained by the federal
+Centers for Medicaid and Medicare Services.
+(b) An Indiana nonprofit hospital system shall notify the state
+department of:
+(1) a new facility that:
+(A) qualifies as an institutional provider; and
+(B) may submit a bill on an institutional provider form
+under this chapter; or
+(2) the closure or change of location of a facility that:
+(A) qualifies as an institutional provider; and
+(B) may submit a bill on an institutional provider form
+under this chapter.
+The notice under this subsection must be provided not later than
+thirty (30) days after an event under subdivision (1) or (2) occurs.
+HEA 1003 — CC 1
+
+
+--- Page 17 ---
+17
+(c) The state department shall post on the state department's
+website a list of the facilities, as identified under subsection (a) or
+(b), that:
+(1) qualify as an institutional provider; and
+(2) may submit a bill on an institutional provider form under
+this chapter.
+SECTION 39. IC 16-51-1-11.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 11.5. ( a) A payor or an Indiana
+nonprofit hospital system may report a violation of this chapter to
+the state department on a form prescribed by the state department.
+(b) The state department may assess a civil penalty of one
+thousand dollars ($1,000) per day against a qualified provider for
+a violation of this chapter.
+SECTION 40. IC 16-51-1-13 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 13. Nothing in this chapter is
+intended to change any other billing or coding requirements that
+are not specifically addressed in this chapter.
+SECTION 41. IC 25-1-9-23, AS AMENDED BY P.L.93-2024,
+SECTION 180, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 23. (a) This section does not apply
+to emergency services.
+(b) As used in this section, "covered individual" means an
+individual who is entitled to be provided health care services at a cost
+established according to a network plan.
+(c) As used in this section, "emergency services" means services
+that are:
+(1) furnished by a provider qualified to furnish emergency
+services; and
+(2) needed to evaluate or stabilize an emergency medical
+condition.
+(d) As used in this section, "in network practitioner" means a
+practitioner who is required under a network plan to provide health
+care services to covered individuals at not more than a preestablished
+rate or amount of compensation.
+(e) As used in this section, "network plan" means a plan under
+which facilities and practitioners are required by contract to provide
+health care services to covered individuals at not more than a
+preestablished rate or amount of compensation.
+(f) As used in this section, "out of network" means that the health
+care services provided by the practitioner to a covered individual are
+HEA 1003 — CC 1
+
+
+--- Page 18 ---
+18
+not subject to the covered individual's health carrier network plan.
+(g) As used in this section, "practitioner" means the following:
+(1) An individual who holds:
+(A) an unlimited license, certificate, or registration;
+(B) a limited or probationary license, certificate, or
+registration;
+(C) a temporary license, certificate, registration, or permit;
+(D) an intern permit; or
+(E) a provisional license;
+issued by the board (as defined in IC 25-0.5-11-1) regulating the
+profession in question.
+(2) An entity that:
+(A) is owned by, or employs; or
+(B) performs billing for professional health care services
+rendered by;
+an individual described in subdivision (1).
+The term does not include a dentist licensed under IC 25-14, an
+optometrist licensed under IC 25-24, or a provider facility (as defined
+in IC 25-1-9.8-10).
+(h) An in network practitioner who provides covered health care
+services to a covered individual may not charge more for the covered
+health care services than allowed according to the rate or amount of
+compensation established by the individual's network plan.
+(i) An out of network practitioner who provides health care services
+at an in network facility to a covered individual may not be reimbursed
+more for the health care services than allowed according to the rate or
+amount of compensation established by the covered individual's
+network plan unless all of the following conditions are met:
+(1) At least five (5) business days before the health care services
+are scheduled to be provided to the covered individual, the
+practitioner provides to the covered individual, on a form separate
+from any other form provided to the covered individual by the
+practitioner, a statement in conspicuous type that meets the
+following requirements:
+(A) Includes a notice reading substantially as follows: "[Name
+of practitioner] is an out of network practitioner providing
+[type of care] with [name of in network facility], which is an
+in network provider facility within your health carrier's plan.
+[Name of practitioner] will not be allowed to bill you the
+difference between the price charged by the practitioner and
+the rate your health carrier will reimburse for the services
+during your care at [name of in network facility] unless you
+HEA 1003 — CC 1
+
+
+--- Page 19 ---
+19
+give your written consent to the charge.".
+(B) Sets forth the practitioner's good faith estimate of the
+amount that the practitioner intends to charge for the health
+care services provided to the covered individual.
+(C) Includes a notice reading substantially as follows
+concerning the good faith estimate set forth under clause (B):
+"The estimate of our intended charge for [name or description
+of health care services] set forth in this statement is provided
+in good faith and is our best estimate of the amount we will
+charge. If our actual charge for [name or description of health
+care services] exceeds our estimate by the greater of:
+(i) one hundred dollars ($100); or
+(ii) five percent (5%);
+we will explain to you why the charge exceeds the estimate.".
+(2) The covered individual signs the statement provided under
+subdivision (1), signifying the covered individual's consent to the
+charge for the health care services being greater than allowed
+according to the rate or amount of compensation established by
+the network plan.
+(j) If an out of network practitioner does not meet the requirements
+of subsection (i), the out of network practitioner shall include on any
+bill remitted to a covered individual a written statement in conspicuous
+type stating that the covered individual is not responsible for more than
+the rate or amount of compensation established by the covered
+individual's network plan plus any required copayment, deductible, or
+coinsurance.
+(k) If a covered individual's network plan remits reimbursement to
+the covered individual for health care services subject to the
+reimbursement limitation of subsection (i), the network plan shall
+provide with the reimbursement a written statement in conspicuous
+type that states that the covered individual is not responsible for more
+than the rate or amount of compensation established by the covered
+individual's network plan and that is included in the reimbursement
+plus any required copayment, deductible, or coinsurance.
+(l) If the charge of a practitioner for health care services provided
+to a covered individual exceeds the estimate provided to the covered
+individual under subsection (i)(1)(B) by the greater of:
+(1) one hundred dollars ($100); or
+(2) five percent (5%);
+the facility or practitioner shall explain in a writing provided to the
+covered individual why the charge exceeds the estimate.
+(m) An in network practitioner is not required to provide a covered
+HEA 1003 — CC 1
+
+
+--- Page 20 ---
+20
+individual with the good faith estimate if the nonemergency health care
+service is scheduled to be performed by the practitioner within five (5)
+two (2) business days after the health care service is ordered.
+(n) The department of insurance shall adopt rules under IC 4-22-2
+to specify the requirements of the notifications set forth in subsections
+(j) and (k).
+(o) The requirements of this section do not apply to a practitioner
+who:
+(1) is required to comply with; and
+(2) is in compliance with;
+45 CFR Part 149, Subparts E and G, as may be enforced and amended
+by the federal Department of Health and Human Services.
+SECTION 42. IC 25-1-9.8-11, AS ADDED BY P.L.93-2020,
+SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 11. (a) This section does not apply to an
+individual who is a Medicaid recipient.
+(b) An individual for whom a nonemergency health care service has
+been ordered, scheduled, or referred may request from the practitioner
+who may provide the nonemergency health care service a good faith
+estimate of the total price the practitioner will charge for providing the
+nonemergency health care service.
+(c) A practitioner who receives a request from a patient under
+subsection (b) shall, not more than five (5) two (2) business days after
+receiving relevant information from the individual, provide to the
+individual a good faith estimate of the price that the practitioner will
+charge for providing the nonemergency health care service.
+(d) A practitioner must ensure that a good faith estimate provided
+to an individual under this section is accompanied by a notice stating
+that:
+(1) an estimate provided under this section is not binding on the
+practitioner;
+(2) the price the practitioner charges the individual may vary from
+the estimate based on the individual's medical needs; and
+(3) the estimate provided under this section is only valid for thirty
+(30) days.
+(e) A practitioner may not charge an individual for information
+provided under this section.
+SECTION 43. IC 25-1-9.8-16, AS AMENDED BY P.L.202-2021,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 16. (a) A practitioner that has scheduled or
+ordered for an individual a nonemergency health care service shall
+provide to the individual an electronic or paper copy of a written notice
+HEA 1003 — CC 1
+
+
+--- Page 21 ---
+21
+that states the following, or words to the same effect: "A patient may
+ask a health care provider for an estimate of the price the health care
+providers and health facility will charge for providing a nonemergency
+health care service. The law requires that the estimate be provided
+within 5 business 2 business days of scheduling the nonemergency
+health care service unless the nonemergency health care service is
+scheduled to be performed by the practitioner within 5 business 2
+business days of the date of the patient's request.".
+(b) The appropriate board (as defined in IC 25-1-9-1) may adopt
+rules under IC 4-22-2 to establish requirements for practitioners to
+provide additional charging information under this section.
+SECTION 44. IC 25-1-9.8-17, AS ADDED BY P.L.93-2020,
+SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 17. If:
+(1) a practitioner receives a request for a good faith estimate
+under this chapter; and
+(2) the patient is eligible for Medicare coverage;
+the practitioner shall provide a good faith estimate to the patient within
+five (5) two (2) business days based on available Medicare rates.
+SECTION 45. IC 25-1-9.8-18, AS AMENDED BY P.L.202-2021,
+SECTION 6, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 18. (a) Each provider must make diligent attempts
+to ensure that the patient is aware of the patient's right to request a good
+faith estimate under this chapter. The communication by each provider
+of information to the patient concerning the right to a good faith
+estimate must be conspicuous and must be provided by at least three
+(3) of the following means:
+(1) Notice on the provider's Internet web site. website.
+(2) On hold messaging.
+(3) Waiting room notification.
+(4) Preappointment reminders, including through electronic mail
+(email) or text messaging.
+(5) During appointment or services check in.
+(6) During appointment or services check out.
+(7) During patient financial services or billing department
+inquiries.
+(8) Through an electronic medical and patient communication
+portal.
+(b) The communication required under subsection (a) must state the
+following, or words to the same effect: "A patient may ask for an
+estimate of the amount the patient will be charged for a nonemergency
+medical service provided in our office. The law requires that an
+HEA 1003 — CC 1
+
+
+--- Page 22 ---
+22
+estimate be provided within 5 business 2 business days of scheduling
+the nonemergency health care service unless the nonemergency health
+care service is scheduled to be performed by the practitioner within 5
+business 2 business days of the date of the patient's request.".
+SECTION 46. IC 27-1-3-36 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2025]: Sec. 36. (a) As used in this section, "prior authorization"
+means a practice implemented by a health plan through which
+coverage of a health care servi ce is dependent on the covered
+individual or health care provider obtaining approval from the
+health plan before the health care service is rendered. The term
+includes prospective or utilization review procedures conducted
+before a health care service is rendered.
+(b) The department may enter into partnerships and joint
+ventures to encourage best practices in the appropriate and
+effective use of prior authorization in health care.
+SECTION 47. IC 27-1-24.5-25, AS AMENDED BY P.L.152-2024,
+SECTION 12, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025] : Sec. 2 5. (a) A contract holder may, one (1) time in a
+calendar year and not earlier than six (6) months following a previously
+requested audit, request an audit of compliance with the contract. If
+requested by the contract holder, the audit shall include full disclosure
+of the following data specific to the contract holder:
+(1) Rebate amounts secured on prescription drugs, whether
+product specific or general rebates, that were provided by a
+pharmaceutical manufacturer. The information provided under
+this subdivision must identify the prescription drugs by
+therapeutic category.
+(2) Pharmaceutical and device claims received by the pharmacy
+benefit manager on any of the following:
+(A) The CMS-1500 form or its successor form.
+(B) The HCFA-1500 form or its successor form.
+(C) The HIPAA X12 837P electronic claims transaction for
+professional services, or its successor transaction.
+(D) The HIPAA X12 837I institutional form or its successor
+form.
+(E) The CMS-1450 form or its successor form.
+(F) The UB-04 form or its successor form.
+The forms or transaction may be modified as necessary to comply
+with the federal Health Insurance Portability and Accountability
+Act (HIPAA) (P.L. 104-191). or to redact a trade secret (as
+defined in IC 24-2-3-2).
+HEA 1003 — CC 1
+
+
+--- Page 23 ---
+23
+(3) Pharmaceutical and device claims payments or electronic
+funds transfer or remittance advice notices provided by the
+pharmacy benefit manager as ASC X12N 835 files or a successor
+format. The files may be modified as necessary to comply with
+the federal Health Insurance Portability and Accountability Act
+(HIPAA) (P.L. 104-191). or to redact a trade secret (as defined in
+IC 24-2-3-2). In the event that paper claims are provided, the
+pharmacy benefit manager shall convert the paper claims to the
+ASC X12N 835 electronic format or a successor format.
+(4) Any other revenue and fees derived by the pharmacy benefit
+manager from the contract, including all direct and indirect
+remuneration from pharmaceutical manufacturers regardless of
+whether the remuneration is classified as a rebate, fee, or another
+term.
+(b) A pharmacy benefit manager may not impose the following:
+(1) Fees for:
+(A) requesting an audit under this section; or
+(B) selecting an auditor other than an auditor designated by the
+pharmacy benefit manager.
+(2) Conditions that would restrict a contract holder's right to
+conduct an audit under this section, including restrictions on the:
+(A) time period of the audit;
+(B) number of claims analyzed;
+(C) type of analysis conducted;
+(D) data elements used in the analysis; or
+(E) selection of an auditor as long as the auditor:
+(i) does not have a conflict of interest;
+(ii) meets a threshold for liability insurance specified in the
+contract between the parties;
+(iii) does not work on a contingent fee basis; and
+(iv) does not have a history of breaching nondisclosure
+agreements.
+(c) A pharmacy benefit manager shall disclose, upon request from
+a contract holder, to the contract holder the actual amounts directly or
+indirectly paid by the pharmacy benefit manager to the pharmacist or
+pharmacy for the drug and for pharmacist services related to the drug.
+(d) A pharmacy benefit manager shall provide notice to a contract
+holder contracting with the pharmacy benefit manager of any
+consideration, including direct or indirect remuneration, that the
+pharmacy benefit manager receives from a pharmaceutical
+manufacturer or group purchasing organization for formulary
+placement or any other reason.
+HEA 1003 — CC 1
+
+
+--- Page 24 ---
+24
+(e) The commissioner may establish a procedure to release
+information from an audit performed by the department to a contract
+holder that has requested an audit under this section in a manner that
+does not violate confidential or proprietary information laws.
+(f) A contract that is entered into, issued, amended, or renewed after
+June 30, 2024, may not contain a provision that violates this section.
+(g) A pharmacy benefit manager shall:
+(1) obtain any information requested in an audit under this section
+from a group purchasing organization or other partner entity of
+the pharmacy benefit manager; and
+(2) confirm receipt of a request for an audit under this section to
+the contract holder not later than ten (10) business days after the
+information is requested.
+(h) Information provided in an audit under this section must be
+provided in accordance with the federal Health Insurance Portability
+and Accountability Act (HIPAA) (P.L. 104-191).
+SECTION 48. IC 27-1-37-0.1 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 0.1. As used in this chapter,
+"administrative denial" means the denial by a health carrier for
+nonmedical reasons of a health provider facility's or provider's
+claim for reimbursement.
+SECTION 49. IC 27-1-37-7.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 7.5. (a) This section applies to a
+health provider contract entered into, amended, or renewed after
+June 30, 2025.
+(b) When a health carrier is in the process of negotiating a
+health provider contract with a health provider facility or
+provider, the health carrier must provide to the health provider
+facility or provider the following:
+(1) A current fee schedule that must include the following
+information:
+(A) The proposed reimbursement for each covered service
+under the proposed health provider contract.
+(B) The twenty-fifth percentile, fiftieth percentile, and
+seventy-fifth percentile reimbursement amounts in Indiana
+for each covered service under the proposed health
+provider contract.
+(2) The current criteria that the health carrier uses when
+determining whether to issue an administrative denial.
+(c) When a health provider facility or provider is in the process
+HEA 1003 — CC 1
+
+
+--- Page 25 ---
+25
+of negotiating a health provider contract with a health carrier, the
+health provider facility or provider shall provide the health carrier
+with the twenty-fifth percentile, fiftieth percentile, and
+seventy-fifth percentile reimbursement amounts that the health
+provider facility or provider receives for each covered service
+under the proposed health provider contract.
+SECTION 50. IC 27-1-37-8, AS ADDED BY P.L.198-2021,
+SECTION 22, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 8. (a) This section applies to a health provider
+contract entered into, amended, or renewed after June 30, 2021. 2025.
+(b) A health provider contract, including a contract with a pharmacy
+benefit manager, may not contain a provision that does any of the
+following:
+(1) Limits the ability of either the health carrier, or the health
+provider facility, or the provider to disclose the allowed amount
+and fees of services to any insured (as defined in IC 27-8-5.8-3)
+or enrollee (as defined in IC 27-13-1-12), or to the treating health
+provider facility or physician provider of the insured or enrollee.
+(2) Limits the ability of either the health carrier, or the health
+provider facility, or the provider to disclose out-of-pocket costs
+to an insured (as defined in IC 27-8-5.8-3) or an enrollee (as
+defined in IC 27-13-1-12).
+(3) Limits the ability of the health carrier to introduce or
+modify a select network plan or tiered network plan by
+granting the provider a guaranteed right of participation.
+(4) Requires the health carrier to place all facilities in the
+same tier of a tiered network plan.
+(5) Requires the health carrier to include all facilities in a
+select network plan on an all-or-nothing basis.
+(6) Requires a provider to participate in a new select network
+or tiered network plan that the health carrier introduces
+without granting the provider the right to opt out of the new
+plan at least sixty (60) days before the new plan is submitted
+to the commissioner for approval.
+(c) Any provision of a health provider contract that includes a
+provision described in subsection (b) in violation of this section is
+severable and the provision in violation is null and void. The remaining
+provisions of the health provider contract, excluding the provision in
+violation of this section, remain in effect and are enforceable.
+(d) The attorney general may issue a civil investigative demand to
+obtain information from a party of, or pertaining to, a health provider
+contract and compliance of this section.
+HEA 1003 — CC 1
+
+
+--- Page 26 ---
+26
+SECTION 51. IC 27-1-37-10 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 10. (a) This section applies to a
+health provider contract in which at least one (1) of the parties is
+a health provider facility.
+(b) A health provider contract that:
+(1) requires the parties to commence negotiations to amend
+the terms of the contract if there is a change in law; or
+(2) guarantees that the health carrier or provider will be
+made whole for the financial effects of a law or regulation;
+is against public policy and is void and unenforceable.
+SECTION 52. IC 27-1-37-11 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 11. The department shall do the
+following:
+(1) Require health carriers to meet network adequacy
+standards that are no less stringent than the network
+adequacy standards established by the Centers for Medicare
+and Medicaid Services.
+(2) When assessing whether a health carrier has met the
+network adequacy standards, consider the availability and
+variety of independent specialty providers that provide
+services within in network provider facilities in the health
+carrier's network.
+SECTION 53. IC 27-1-37.7 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]:
+Chapter 37.7. Reporting of Prior Authorization Disputes
+Sec. 1. As used in this chapter, "department" refers to the
+department of insurance created by IC 27-1-1-1.
+Sec. 2. As used in this chapter, "health plan" has the meaning
+set forth in IC 27-1-37.5-5.
+Sec. 3. As used in this chapter, "prior authorization" has the
+meaning set forth in IC 27-1-37.5-7.
+Sec. 4. A health care provider or health plan may submit
+information concerning a dispute between a health care provider
+and a health plan regarding prior authorization to the department.
+Sec. 5. (a) The department may:
+(1) receive;
+(2) categorize; and
+(3) maintain;
+any information provided by a health care provider or a health
+HEA 1003 — CC 1
+
+
+--- Page 27 ---
+27
+plan under this chapter.
+(b) The department may not adjudicate or otherwise mediate
+any of the disputes between health care providers and health plans.
+Sec. 6. If the department receives information under section 4
+of this chapter from a health care provider or health plan, the
+department shall keep the following information of the individual
+who submitted the information confidential:
+(1) Name.
+(2) Address.
+(3) Telephone number.
+(4) Electronic mail address.
+(5) Personal health information.
+(6) Any other information that could identify the individual.
+Sec. 7. (a) Before December 1, 2026, the department shall
+provide a report in an electronic format under IC 5-14-6 to the
+general assembly with any findings and recommendations related
+to the information received under section 4 of this chapter.
+(b) This section expires July 1, 2027.
+SECTION 54. IC 27-1-44.5-3.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 3.5. (a) Not later than September
+1, 2025, the department shall issue a request for information in
+compliance with IC 5-23-4.5 concerning ways to better enable
+medical consumers to compare and shop for medical and health
+care services using real time price and health quality information
+from respected sources approved by the advisory board, including
+claims data maintained by the data base.
+(b) The request for information must consider:
+ (1) the convenience of medical consumers, including whether
+and how to develop, procure, or license one (1) or more
+services into a single application that is available on both
+desktop and mobile; and
+(2) whether and how to benchmark price and health quality
+comparison shopping by medical consumers in Indiana.
+(c) The department shall set the deadline for submissions of the
+request for inform ation under this section that may not be later
+than December 1, 2025.
+SECTION 55. IC 27-1-45-7, AS AMENDED BY P.L.165-2022,
+SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 7. (a) This section is effective beginning January
+1, 2022.
+(b) A facility or a practitioner is not required to provide the good
+HEA 1003 — CC 1
+
+
+--- Page 28 ---
+28
+faith estimate if the health care service to be provided to the covered
+individual is scheduled to be performed within five (5) two (2)
+business days after the health care service is ordered.
+SECTION 56. IC 27-1-46-11, AS AMENDED BY P.L.202-2021,
+SECTION 13, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 11. (a) This section does not:
+(1) apply to an individual who is a Medicaid recipient; or
+(2) limit the authority of a legal representative of the patient.
+(b) An individual for whom a nonemergency health care service has
+been ordered, scheduled, or referred may request from the provider
+facility in which the nonemergency health care service will be provided
+a good faith estimate of the price that will be charged for the
+nonemergency health care service.
+(c) A provider facility that receives a request from an individual
+under subsection (b) shall, not more than five (5) two (2) business days
+after receiving relevant information from the individual, provide to the
+individual a good faith estimate of:
+(1) the price that the provider facility in which the health care
+service will be performed will charge for:
+(A) the use of the provider facility to care for the individual for
+the nonemergency health care service;
+(B) the services rendered by the employed or contracted staff
+of the provider facility in connection with the nonemergency
+health care service; and
+(C) medication, supplies, equipment, and material items to be
+provided to or used by the individual while the individual is
+present in the provider facility in connection with the
+nonemergency health care service; and
+(2) the price charged for the services of all practitioners, support
+staff, and other persons who provide professional health services:
+(A) who may provide services to or for the individual during
+the individual's presence in the provider facility for the
+nonemergency health care service; and
+(B) for whose services the individual will be charged
+separately from the charge of the provider facility.
+(d) The price that must be included in a good faith estimate under
+this section includes all services under subsection (c)(1) or (c)(2) for
+imaging, laboratory services, diagnostic services, therapy, observation
+services, and other services expected to be provided to the individual
+for the episode of care.
+(e) A provider facility shall ensure that a good faith estimate states
+that:
+HEA 1003 — CC 1
+
+
+--- Page 29 ---
+29
+(1) an estimate provided under this section is not binding on the
+provider facility;
+(2) the price the provider facility charges the individual may vary
+from the estimate based on the individual's medical needs; and
+(3) the estimate provided under this section is only valid for thirty
+(30) days.
+(f) A provider facility may not charge a patient for information
+provided under this section.
+SECTION 57. IC 27-1-46-15, AS AMENDED BY P.L.202-2021,
+SECTION 14, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 15. (a) Each provider must make diligent attempts
+to ensure that the patient is aware of the patient's right to request a good
+faith estimate under this chapter. The communication by a provider to
+the patient concerning the right to a good faith estimate must be
+conspicuous and must be provided by at least three (3) of the following
+means:
+(1) Notice on the provider's Internet web site. website.
+(2) On hold messaging.
+(3) Waiting room notification.
+(4) Preappointment reminders, including through electronic mail
+(email) or text messaging.
+(5) During appointment or services check in.
+(6) During appointment or services check out.
+(7) During patient financial services or billing department
+inquiries.
+(8) Through an electronic medical and patient communication
+portal.
+(b) The communication required under subsection (a) must state the
+following, or words to the same effect: "A patient may ask for an
+estimate of the amount the patient will be charged for a nonemergency
+health care service provided in our facility. The law requires that an
+estimate be provided within 5 business 2 business days.".
+SECTION 58. IC 27-1-46-16, AS AMENDED BY P.L.202-2021,
+SECTION 15, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 16. If:
+(1) a provider facility receives a request for a good faith estimate
+under this chapter; and
+(2) the patient is eligible for Medicare coverage;
+the provider facility shall provide a good faith estimate to the patient
+within five (5) two (2) business days based on available Medicare cost
+sharing rates.
+SECTION 59. IC 27-2-25-12, AS ADDED BY P.L.93-2020,
+HEA 1003 — CC 1
+
+
+--- Page 30 ---
+30
+SECTION 13, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 12. (a) A covered individual may request from the
+health carrier a good faith estimate of:
+(1) the amount of the cost of the nonemergency health care
+service that the health carrier will:
+(A) pay for; or
+(B) reimburse to;
+the covered individual; or
+(2) the applicable benefit limitations of the ordered nonemergency
+health care service a covered individual is entitled to receive from
+the health carrier.
+(b) If:
+(1) a health carrier provides coverage to a covered individual
+through a network plan; and
+(2) the health carrier receives a request for a good faith estimate
+from a covered individual for whom a nonemergency health care
+service has been ordered;
+the health carrier shall inform the covered individual whether the
+provider facility in which the nonemergency health care service will be
+provided is in network and whether each scheduled practitioner who
+may provide the nonemergency health care service is in network.
+(c) A health carrier that receives a request from a covered individual
+patient under subsection (b) shall, not more than five (5) two (2)
+business days after receiving relevant information, provide to the
+individual a good faith estimate as described in section 14 of this
+chapter.
+(d) A health carrier must ensure that a good faith estimate states that
+the estimate provided under this section is only valid for thirty (30)
+days and that:
+(1) the amount that the health carrier will:
+(A) pay; or
+(B) reimburse;
+for or to the covered individual for the nonemergency health care
+services the individual receives; and
+(2) the applicable benefit limitations of the nonemergency health
+care services the individual will receive;
+may vary from the health carrier's good faith estimate based on the
+individual's medical needs.
+(e) A health carrier may not charge an individual for information
+provided under this section.
+(f) A practitioner and provider facility shall provide a health carrier
+with the information needed by the health carrier to comply with the
+HEA 1003 — CC 1
+
+
+--- Page 31 ---
+31
+requirements under this chapt er not more than two (2) business days
+after receiving the request.
+SECTION 60. IC 27-2-25-15, AS ADDED BY P.L.93-2020,
+SECTION 13, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 15. A health carrier that provides an Internet web
+site a website for the use of its covered individuals shall ensure that the
+Internet web site website includes a printed notice that:
+(1) is designed, lettered, and featured on the Internet web site
+website so as to be conspicuous to and readable by any individual
+with normal vision who visits the Internet web site; website; and
+(2) states the following, or words to the same effect: "A covered
+individual may at any time ask the health carrier for an estimate
+of the amount the health carrier will pay for or reimburse to a
+covered individual for nonemergency health care services that
+have been ordered for the covered individual or the applicable
+benefit limitations of the ordered nonemergency health care
+services a covered individual is entitled to receive from the health
+carrier. The law requires that an estimate be provided within 5
+business 2 business days.".
+SECTION 61. IC 27-2-25.5-3, AS ADDED BY P.L.152-2024,
+SECTION 15, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 3. (a) This section applies to a contract entered
+into, issued, amended, or renewed after June 30, 2024.
+(b) A contract:
+(1) between a:
+(A) third party administrator; and
+(B) plan sponsor;
+(2) between a:
+(A) prepaid health care delivery plan under IC 5-10-8-7(c) to
+provide group health coverage for state employees; and
+(B) plan sponsor; or
+(3) between:
+(A) a pharmacy benefit manager (as defined in
+IC 27-1-24.5-12); and
+(B) either a:
+(i) plan sponsor; or
+(ii) third party administrator for the administration of a
+self-funded health benefit plan on behalf of the plan
+sponsor;
+must provide that the plan sponsor owns the claims data relating to the
+contract. However, a plan sponsor's ownership of the claims data under
+this section may not be construed to require the pharmacy benefit
+HEA 1003 — CC 1
+
+
+--- Page 32 ---
+32
+manager or third party administrator to disclose a trade secret (as
+defined in IC 24-2-3-2).
+(c) Any claims data provided under this section must be provided in
+accordance with the federal Health Insurance Portability and
+Accountability Act (HIPAA) (P.L. 104-191).
+SECTION 62. IC 27-2-25.5-4, AS ADDED BY P.L.152-2024,
+SECTION 16, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 4. (a) A plan sponsor that contracts with a third
+party administrator, the office of the secretary of family and social
+services that contracts with a managed care organization (as defined in
+IC 12-7-2-126.9 ) to provide services to a Medicaid recipient, or the
+state personnel department that contracts with a prepaid health care
+delivery plan under IC 5-10-8-7(c) to provide group health coverage for
+state employees may, one (1) time in a calendar year and not earlier
+than six (6) months following a previously requested audit, request an
+audit of compliance with the contract. If requested by the plan sponsor,
+office of the secretary of family and social services, or state personnel
+department, the audit shall include full disclosure of the following
+concerning data specific to the plan sponsor, office of the secretary, or
+state personnel department:
+(1) Claims data described in section 1 of this chapter.
+(2) Claims received by the third party administrator, managed
+care organization, or prepaid health care delivery plan on any of
+the following:
+(A) The CMS-1500 form or its successor form.
+(B) The HCFA-1500 form or its successor form.
+(C) The HIPAA X12 837P electronic claims transaction for
+professional services, or its successor transaction.
+(D) The HIPAA X12 837I institutional form or its successor
+form.
+(E) The CMS-1450 form or its successor form.
+(F) The UB-04 form or its successor form.
+The forms or transaction may be modified as necessary to comply
+with the federal Health Insurance Portability and Accountability
+Act (HIPAA) (P.L. 104-191). or to redact a trade secret (as
+defined in IC 24-2-3-2).
+(3) Claims payments, electronic funds transfer, or remittance
+advice notices provided by the third party administrator, managed
+care organization, or prepaid health care delivery plan as ASC
+X12N 835 files or a successor format. The files may be modified
+only as necessary to comply with the federal Health Insurance
+Portability and Accountability Act (HIPAA) (P.L. 104-191). or to
+HEA 1003 — CC 1
+
+
+--- Page 33 ---
+33
+redact a trade secret (as defined in IC 24-2-3-2). In the event that
+paper claims are provided, the third party administrator, managed
+care organization, or prepaid health care delivery plan shall
+convert the paper claims to the ASC X12N 835 electronic format
+or a successor format.
+(4) Any fees charged to the plan sponsor, office of the secretary
+of family and social services, or state personnel department
+related to plan administration and claims processing, including
+renegotiation fees, access fees, repricing fees, or enhanced review
+fees.
+(b) A third party administrator, managed care organization, or
+prepaid health care delivery plan may not impose:
+(1) fees for:
+(A) requesting an audit under this section; or
+(B) selecting an auditor other than an auditor designated by the
+third party administrator, managed care organization, or
+prepaid health care delivery plan; or
+(2) conditions that would restrict a party's right to conduct an
+audit under this section, including restrictions on the:
+(A) time period of the audit;
+(B) number of claims analyzed;
+(C) type of analysis conducted;
+(D) data elements used in the analysis; or
+(E) selection of an auditor as long as the auditor:
+(i) does not have a conflict of interest;
+(ii) meets a threshold for liability insurance specified in the
+contract between the parties;
+(iii) does not work on a contingent fee basis; and
+(iv) does not have a history of breaching nondisclosure
+agreements.
+(c) A third party administrator, managed care organization, or
+prepaid health care delivery plan shall confirm receipt of a request for
+an audit under this section to the plan sponsor, office of the secretary
+of family and social services, or state personnel department not later
+than ten (10) business days after the information is requested.
+(d) Information provided in an audit under this section must be
+provided in accordance with the federal Health Insurance Portability
+and Accountability Act (HIPAA) (P.L. 104-191).
+(e) A contract that is entered into, issued, amended, or renewed after
+June 30, 2024, may not contain a provision that violates this section.
+(f) A violation of this section is an unfair or deceptive act or practice
+in the business of insurance under IC 27-4-1-4.
+HEA 1003 — CC 1
+
+
+--- Page 34 ---
+34
+(g) The department may also adopt rules under IC 4-22-2 to set forth
+fines for a violation under this section.
+SECTION 63. IC 27-8-5.7-12 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 12. (a) This section applies to a
+policy of accident and sickness insurance that is issued, delivered,
+amended, or renewed after June 30, 2025.
+(b) An insurer may not deny a claim for reimbursement for a
+covered service or item provided to an insured on the sole basis
+that the referring provider is an out of network provider.
+SECTION 64. IC 27-8-11-13.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 13.5. (a) As used in this section,
+"physician" refers to an individual who:
+(1) is licensed under IC 25-22.5;
+(2) has been granted reciprocity by the medical licensing
+board of Indiana under IC 25-1-21 before July 1, 2026; or
+(3) is licensed in a state that has enacted the interstate medical
+licensure compact.
+(b) If a physician who is fully credentialed by an insurer:
+(1) leaves the employment of an employer and becomes
+employed with another employer in Indiana; or
+(2) establishes or relocates a medical practice in Indiana;
+the insurer shall provisionally credential the physician for the time
+frame set forth in subsection (c).
+(c) A physician under subsection (b) must be provisionally
+credentialed:
+(1) for sixty (60) days after the physician's separation from
+employment or the establishment or relocation of the medical
+practice; or
+(2) until the physician is fully credentialed by the insurer;
+whichever is earlier.
+(d) Notwithstanding section 7(k) of this chapter, an insurer shall
+reimburse a physician who is provisionally credentialed under this
+section for services rendered while the physician was provisionally
+credentialed at the rates determined by:
+(1) the agreement between the physician's new employer and
+the insurer under section 3 of this chapter; or
+(2) if:
+(A) the physician's new employer has not entered into an
+agreement with the insurer under section 3 of this chapter;
+or
+HEA 1003 — CC 1
+
+
+--- Page 35 ---
+35
+(B) the physician established or relocated a medical
+practice;
+the agreement between the physician and the insurer under
+section 3 of this chapter that was in effect at the time of the
+physician's separation from employment or the establishment
+or relocation of the medical practice.
+SECTION 65. IC 27-13-36.2-10 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 10. (a) This section applies to an
+individual contract and a group contract that is entered into,
+delivered, amended, or renewed after June 30, 2025.
+(b) A health maintenance organization may not deny a claim for
+reimbursement for a covered service or item provided to an
+enrollee on the sole basis that the referring provider is an out of
+network provider.
+SECTION 66. IC 27-13-43-5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 5. (a) As used in this section,
+"physician" refers to an individual who:
+(1) is licensed under IC 25-22.5;
+(2) has been granted reciprocity by the medical licensing
+board of Indiana under IC 25-1-21 before July 1, 2026; or
+(3) is licensed in a state that has enacted the interstate medical
+licensure compact.
+(b) If a physician who is fully credentialed by a health
+maintenance organization:
+(1) leaves the employment of an employer and becomes
+employed with another employer in Indiana; or
+(2) establishes or relocates a medical practice in Indiana;
+the health maintenance organization shall provisionally credential
+the physician for the time frame set forth in subsection (c).
+(c) A physician under subsection (b) must be provisionally
+credentialed:
+(1) for sixty (60) days after the physician's separation from
+employment or the establishment or relocation of the medical
+practice; or
+(2) until the physician is fully credentialed by the health
+maintenance organization;
+whichever is earlier.
+(d) Notwithstanding section 2(j) of this chapter, a health
+maintenance organization shall reimburse a physician who is
+provisionally credentialed under this section for services rendered
+HEA 1003 — CC 1
+
+
+--- Page 36 ---
+36
+while the physician was provisionally credentialed at the rates
+determined by:
+(1) the agreement between the physician's new employer and
+the health maintenance organization relating to terms and
+conditions of reimbursement; or
+(2) if:
+(A) the physician's new employer has not entered into an
+agreement with the health maintenance organization
+relating to the terms and conditions of reimbursement; or
+(B) the physician established or relocated a medical
+practice;
+the agreement between the physician and the health
+maintenance organization relating to terms and conditions of
+reimbursement that was in effect at the time of the physician's
+separation from employment or the establishment or
+relocation of the medical practice.
+SECTION 67. IC 34-30-2.1-240, AS ADDED BY P.L.105-2022,
+SECTION 12, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025] : Sec. 240. IC 16-39-7-2 (Concerning medical care
+providers for maintenance of x-ray film). images).
+SECTION 68. [EFFECTIVE JULY 1, 2025] (a) The Indiana
+department of health, in consultation with the office of technology
+established by IC 4-13.1-2-1, shall study the feasibility of
+developing and implementing standards for health providers
+concerning the following:
+(1) Medical record interoperability.
+(2) Medical data security.
+(3) Patient control over the access and use of the patient's
+medical information, including the ability to opt out or
+rescind authorization to share the patient's medical
+information.
+(4) Notification to individuals of any unauthorized access or
+disclosure of the individual's medical information.
+(5) Compliance with the federal Health Insurance Portability
+and Accountability Act (HIPAA) concerning safety and
+patient's information.
+(b) Not later than November 1, 2025, the Indiana department of
+health shall submit a report to the legislative council in an
+electronic format under IC 5-14-6 concerning the study conducted
+under subsection (a) and any findings or recommendations as a
+result of the study.
+(c) This SECTION expires December 31, 2025.
+HEA 1003 — CC 1
+
+
+--- Page 37 ---
+37
+SECTION 69. An emergency is declared for this act.
+HEA 1003 — CC 1
+
+
+--- Page 38 ---
+Speaker of the House of Representatives
+President of the Senate
+President Pro Tempore
+Governor of the State of Indiana
+Date: Time: 
+HEA 1003 — CC 1

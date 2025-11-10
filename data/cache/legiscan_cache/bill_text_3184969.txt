@@ -1,0 +1,600 @@
+--- Page 1 ---
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+SENATE ENROLLED ACT No. 486
+AN ACT to amend the Indiana Code concerning human services.
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1. IC 11-12-5-9, AS ADDED BY P.L.185-2015,
+SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 9. (a) This section is effective beginning
+September 1, 2015.
+(b) For an offender who is incarcerated for less than thirty (30) days,
+a sheriff, in consultation with the county executive or a person
+designated by the county executive, may:
+(1) assist an offender in applying for Medicaid; and
+(2) act as the offender's Medicaid authorized representative as
+described in IC 11-10-3-7;
+so that the offender might be eligible for coverage when the offender
+is subsequently released from the county jail.
+(c) Before discharge or release from an offender who has been
+incarcerated in a county jail of an offender incarcerated or a facility
+listed in IC 12-15-1-20.4(a)(1) for at least thirty (30) days is released
+or discharged from the county jail or facility, the sheriff, in
+consultation with the county executive or a person designated by the
+county executive in the county in which the incarcerated person is
+located shall assist the offender in applying for Medicaid, if eligible, as
+the authorized representative as described in IC 11-10-3-7 or as a
+SEA 486
+
+
+--- Page 2 ---
+2
+health navigator under the requirements of IC 27-19-2-12, so that the
+offender might be eligible for coverage when the offender is
+subsequently released from the county jail.
+(d) The sheriff shall provide the assistance described in subsection
+(c) in sufficient time to ensure that the offender will be able to receive
+coverage at the time the offender is released from the county jail.
+(e) A county executive may contract with any entity that complies
+with IC 27-19-2-12, including a hospital or outreach eligibility worker,
+to assist with Medicaid applications under this section. A county
+executive may develop intergovernmental agreements with other
+counties to provide both authorized representative and health navigator
+services required under this section. Upon a determination that an
+incarcerated individual qualifies for Medicaid coverage, the office of
+the secretary of family and social services, division of family resources,
+shall authorize and then immediately suspend Medicaid coverage for
+those inmates not requiring immediate medical attention.
+SECTION 2. IC 12-15-1-20.4, AS AMENDED BY P.L.57-2021,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 20.4. (a) If a Medicaid recipient is:
+(1) adjudicated to be a delinquent child and placed in:
+(A) a community based correctional facility for children;
+(B) a juvenile detention facility; or
+(C) a secure facility, not including a facility licensed as a child
+caring institution under IC 31-27; or
+(2) incarcerated in a prison or jail; and
+ineligible to participate in the Medicaid program during the placement
+described in subdivision (1) or (2) because of federal Medicaid law, the
+division of family resources, upon notice that a child has been
+adjudicated to be a delinquent child and placed in a facility described
+in subdivision (1) or upon notice that a person is incarcerated in a
+prison or jail and placed in a facility described in subdivision (2), shall
+suspend the person's participation in the Medicaid program.
+(b) If the division of family resources receives:
+(1) a dispositional decree under IC 31-37-19-28; or
+(2) a modified disposition order under IC 31-37-22-9;
+regarding a person described in subsection (a)(2) and the
+department of correction gives the division of family resources at least
+forty (40) days notice that a the person will be released from a facility
+described in subsection (a)(1)(C) or (a)(2), the division of family
+resources shall take action necessary to ensure that a the person
+described in subsection (a) is eligible to participate in the Medicaid
+program upon the person's release, if the person is eligible to
+SEA 486
+
+
+--- Page 3 ---
+3
+participate.
+(c) A facility described in subsection (a)(1) shall, not less than
+forty-five (45) days before the release date of a person placed in the
+facility as described in subsection (a)(1), provide notice of the
+person's release date to the division of family resources. The
+division of family resources shall take action necessary to ensure
+that the person is eligible to:
+(1) participate in the Medicaid program upon the person's
+release, if the person is eligible to participate; and
+(2) receive services mandated under 42 U.S.C. 1396a for thirty
+(30) days before the person's release date and for thirty (30)
+days after the person's release date.
+SECTION 3. IC 12-15-29-4.5, AS AMENDED BY P.L.265-2019,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 4.5. (a) An insurer shall:
+(1) accept a Medicaid claim for a Medicaid recipient for three (3)
+years from the date the service was provided; and
+(2) respond to an inquiry by the office regarding the claim not
+later than sixty (60) days after receiving the inquiry.
+(b) An insurer may not deny a Medicaid claim submitted by the
+office solely on the basis of:
+(1) the date of submission of the claim;
+(2) the type or format of the claim form;
+(3) the method of submission of the claim; or
+(4) a failure to provide proper documentation at the point of sale
+that is the basis of the claim;
+if the claim is submitted by the office within three (3) years from the
+date the service was provided as required in subsection (a) and the
+office commences action to enforce the office's rights regarding the
+claim within six (6) years of the office's submission of the claim.
+(c) In accordance with 42 U.S.C. 1396a, an insurer, other than
+Medicare, Medicare Advantage, and Medicare Part D, may not
+deny a Medicaid claim submitted by the office solely due to a lack of
+prior authorization. An insurer shall:
+(1) after December 31, 2020, meet the requirements set forth in
+IC 27-1-37.5;
+(2) conduct the prior authorization on a retrospective basis for
+claims where prior authorization is necessary; and
+(3) adjudicate any claim authorized in this manner as if the claim
+received prior authorization.
+SECTION 4. IC 12-15-29-9, AS AMENDED BY P.L.187-2007,
+SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+SEA 486
+
+
+--- Page 4 ---
+4
+JULY 1, 2025]: Sec. 9. (a) IC 27-8-23 applies to this section.
+(b) To the extent that payment for covered medical expenses has
+been made under the state Medicaid program for health care items or
+services furnished to a person, in a case where a third party has a legal
+liability to make payments, the state is considered to have acquired the
+rights of the person to payment by any other party for the health care
+items or services.
+(c) As required under 42 U.S.C. 1396a(a)(25), an insurer shall
+accept the state's right of recovery and the assignment to the state of
+any right of the individual or entity to payment for a health care item
+or service for which payment has been made under the state Medicaid
+plan.
+(d) The state may seek reimbursement under 42 U.S.C. 1396k(a)
+from settlement amounts representing:
+(1) past medical expenses; and
+(2) rights to payment of future medical expenses.
+SECTION 5. IC 12-15-33-2, AS AMENDED BY P.L.42-2024,
+SECTION 86, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 2. The Medicaid advisory commission is created
+to act in an advisory capacity to the following: office in matters
+related to policy development and in the effective administration
+of the Medicaid program.
+(1) The office in the administration of the Medicaid program.
+(2) The children's health policy board established by IC 4-23-27-2
+in the board's responsibility to direct policy coordination of
+children's health programs.
+SECTION 6. IC 12-15-33-3, AS AMENDED BY P.L.42-2024,
+SECTION 87, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 3. (a) The commission shall be appo inted as
+follows:
+(1) One (1) member Sixteen (16) members shall be appointed by
+the administrator of the office to represent each of the following
+organizations: as follows:
+(A) Six (6) members representing Medicaid providers, with
+no more than one (1) representative of each Medicaid type.
+(B) Two (2) members representing managed care entities.
+(C) Two (2) members representing:
+(i) state or local consumer advocacy groups; or
+(ii) other community based organizations;
+that represent the interests of, or provide direct service to,
+Medicaid beneficiaries.
+(D) Six (6) members of the Medicaid beneficiary advisory
+SEA 486
+
+
+--- Page 5 ---
+5
+commission established by IC 12-15-33.3-2.
+(A) Indiana Council of Community Mental Health Centers.
+(B) Indiana State Medical Association.
+(C) Indiana State Chapter of the American Academy of
+Pediatrics.
+(D) Indiana Hospital Association.
+(E) Indiana Dental Association.
+(F) Indiana State Psychiatric Association.
+(G) Indiana State Osteopathic Association.
+(H) Indiana State Nurses Association.
+(I) Indiana State Licensed Practical Nurses Association.
+(J) Indiana State Podiatry Association.
+(K) Indiana Health Care Association.
+(L) Indiana Optometric Association.
+(M) Indiana Pharmaceutical Association.
+(N) Indiana Psychological Association.
+(O) Indiana State Chiropractic Association.
+(P) Indiana Ambulance Association.
+(Q) Indiana Association for Home Care.
+(R) Indiana Academy of Ophthalmology.
+(S) Indiana Speech and Hearing Association.
+(T) Indiana Academy of Physician Assistants.
+(U) Indiana Association of Rehabilitation Facilities.
+(V) Indiana Association of Health Plans.
+(W) Indiana Primary Health Care Association.
+(2) Ten (10) members shall be appointed by the governor as
+follows:
+(A) One (1) member who represents agricultural interests.
+(B) One (1) member who represents business and industrial
+interests.
+(C) One (1) member who represents labor interests.
+(D) One (1) member who represents insurance interests.
+(E) One (1) member who represents a statewide taxpayer
+association.
+(F) Two (2) members who are parent advocates.
+(G) Three (3) members who represent Indiana citizens.
+(3) (2) Three (3) Two (2) members of the senate appointed by the
+president pro tempore of the senate.
+(4) (3) Three (3) Two (2) members of the senate appointed by the
+president pro tempore of the senate after consultation with the
+minority leader of the senate.
+(5) (4) Three (3) Two (2) members of the house of representatives
+SEA 486
+
+
+--- Page 6 ---
+6
+appointed by the speaker of the house.
+(6) (5) Three (3) Two (2) members of the house of representatives
+appointed by the speaker of the house after consultation with the
+minority leader of the house.
+(b) The president pro tempore of the senate shall appoint three (3)
+of the commission members appointed under subsection (a)(3) and
+(a)(4) to the standing fiscal subcommittee created under section 8(b)
+of this chapter.
+(c) The speaker of the house shall appoint three (3) of the
+commission members appointed under subsection (a)(5) and (a)(6) to
+the standing fiscal subcommittee created under section 8(b) of this
+chapter.
+SECTION 7. IC 12-15-33-4, AS AMENDED BY P.L.42-2024,
+SECTION 88, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 4. (a) Subject to subsection (b), an appointment
+to the commission expires in accordance with section 5 of this chapter,
+but a member serves until the member's successor is designated.
+(b) A member of the commission serves at the pleasure of the
+appointing authority who appointed the member to the commission.
+(c) A member of the commission may be reappointed to successive
+terms.
+(d) (c) A vacancy on the commission shall be filled by the
+appropriate appointing authority. An individual appointed to fill a
+vacancy serves for the unexpired term of the individual's predecessor.
+SECTION 8. IC 12-15-33-5, AS AMENDED BY P.L.42-2024,
+SECTION 89, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 5. (a) This subsection does not apply to a member
+of the general assembly appointed to the commission under section 3
+of this chapter. Except as provided in subsection (c), an appointment
+to the commission is for a four (4) year term that expires as follows:
+(1) For a member appointed under section 3(a)(1)(A) through
+3(a)(1)(Q) 3(1)(A) or 3(1)(B) of this chapter, December 31, 2025,
+2027, and every fourth year thereafter.
+(2) For a member appointed under section 3(a)(1)(R) through
+3(a)(1)(W) 3(1)(C) or 3(1)(D) of this chapter, or under section
+3(a)(2) of this chapter, December 31, 2027, 2029, and every
+fourth year thereafter.
+(b) This subsection applies only to a member of the general
+assembly appointed to the commission under section 3 of this chapter.
+The member serves a term of two (2) years that expires June 30 of each
+odd-numbered year.
+(c) A member described in subsection (a)(2) who is appointed to
+SEA 486
+
+
+--- Page 7 ---
+7
+the commission in 2025 serves until the member's term expires on
+December 31, 2029.
+SECTION 9. IC 12-15-33-6, AS AMENDED BY P.L.42-2024,
+SECTION 90, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 6. The following shall serve as ex officio members
+of the commission:
+(1) The state health commissioner or the commissioner's
+designee.
+(2) The director of the division of mental health and addiction or
+the director's designee.
+(3) The administrator of the office.
+(4) The director of the department of child services or the
+director's designee.
+SECTION 10. IC 12-15-33-8 IS REPEALED [EFFECTIVE JULY
+1, 2025]. Sec. 8. (a) A subcommittee may be created as the commission
+considers necessary.
+(b) The commission shall create a standing fiscal subcommittee.
+(c) The chairman of each subcommittee must be a member of the
+commission.
+(d) Subcommittees may convene as often as needed.
+SECTION 11. IC 12-15-33.3 IS ADDED TO THE INDIANA
+CODE AS A NEW CHAPTER TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]:
+Chapter 33.3. Medicaid Beneficiary Advisory Commission
+Sec. 1. As used in this chapter, "commission" refers to the
+Medicaid beneficiary advisory commission created by section 2 of
+this chapter.
+Sec. 2. The Medicaid beneficiary advisory commission is created
+under the executive branch of government to act in an advisory
+capacity to the office in matters related to policy development and
+in the effective administration of the Medicaid program.
+Sec. 3. (a) The commission is composed of individuals who:
+(1) are:
+(A) current and former Medicaid beneficiaries; and
+(B) family members and caregivers of current and former
+Medicaid beneficiaries; and
+(2) are appointed as follows:
+(A) Four (4) members appointed by the administrator of
+the office.
+(B) One (1) member who is not a member of the general
+assembly, appointed by the president pro tempore of the
+senate.
+SEA 486
+
+
+--- Page 8 ---
+8
+(C) One (1) member who is not a member of the general
+assembly, appointed by the minority leader of the senate.
+(D) One (1) member who is not a member of the general
+assembly, appointed by the speaker of the house.
+(E) One (1) member who is not a member of the general
+assembly, appointed by the minority leader of the house.
+(b) The administrator of the office shall appoint the chair of the
+commission from among the members of the commission and
+serves at the pleasure of the administrator.
+Sec. 4. (a) Except as provided in subsection (b), and subject to
+subsection (c), an appointment to the commission is for a four (4)
+year term that expires as follows:
+(1) For a member appointed under section 3(a)(2)(A) of this
+chapter, December 31, 2027, and every fourth year thereafter.
+(2) For a member appointed under section 3(a)(2)(B) through
+3(a)(2)(E) of this chapter, December 31, 2029, and every
+fourth year thereafter.
+(b) A member described in subsection (a)(2) who is appointed to
+the commission in 2025 serves until the member's term expires on
+December 31, 2029.
+(c) A member of the commission:
+(1) serves at the pleasure of the appointing authority who
+appointed the member to the commission; and
+(2) serves until the member's successor is designated.
+ (d) A vacan cy on the commission shall be filled by the
+appointing authority of the member whose position on the
+commission is vacant. An individual appointed to fill a vacancy
+serves for the unexpired term of the individual's predecessor.
+Sec. 5. The office shall provide staff support to the commission.
+Sec. 6. The commission shall:
+(1) meet at least four (4) times each year, with one (1) meeting
+held in each calendar quarter; and
+(2) hold special meetings at the request of the commission or
+the secretary.
+Sec. 7. (a) Each member of the commission who is not a state
+employee is entitled to the minimum salary per diem provided by
+IC 4-10-11-2.1(b). The member is also entitled to reimbursement
+for mileage, traveling expenses as provided under IC 4-13-1-4, and
+other expenses actually incurred in connection with the member's
+duties as provided in the state policies and procedures established
+by the Indiana department of administration and approved by the
+budget agency.
+SEA 486
+
+
+--- Page 9 ---
+9
+(b) Each member of the commission who is a state employee is
+entitled to reimbursement for traveling expenses as provided under
+IC 4-13-1-4 and other expenses actually incurred in connection
+with the member's duties as provided in the state policies and
+procedures established by the Indiana department of
+administration and approved by the budget agency.
+(c) Expenses paid under subsections (a) and (b) shall be paid
+from appropriations made to the family and social services
+administration.
+SECTION 12. IC 12-17.2-3.5-6 IS REPEALED [EFFECTIVE JULY
+1, 2025]. Sec. 6. (a) A provider who is an individual shall have an
+intradermal tuberculosis test before the provider is eligible for a
+voucher payment.
+(b) A provider shall assure that an individual who is at least
+eighteen (18) years of age and:
+(1) who, if the provider operates a child care program in the
+provider's home, resides with the provider; or
+(2) who:
+(A) is employed; or
+(B) volunteers;
+as a caregiver at the facility where the provider operates a child
+care program;
+has an intradermal tuberculosis test before the individual resides with
+the provider or is employed or allowed to volunteer as a caregiver.
+(c) A provider shall maintain documentation of an annual health
+assessment by a physician reflecting the results of symptom screening
+for tuberculosis for:
+(1) the provider, if the provider is an individual; and
+(2) an individual described in subsection (b);
+who has a history of latent or active tuberculosis.
+(d) A provider shall provide the results of the tests and screening
+required under this section to the division upon request.
+SECTION 13. IC 12-17.2-3.5-8, AS AMENDED BY P.L.92-2024,
+SECTION 8, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 8. (a) At least one (1) adult individual who
+maintains certification in a course of pediatric cardiopulmonary
+resuscitation applicable to all age groups of children cared for by a
+provider shall be present at all times when a child is in the care of the
+provider.
+(b) The following apply to an individual who is employed or
+volunteers as a caregiver at a facility where a provider operates a child
+care program:
+SEA 486
+
+
+--- Page 10 ---
+10
+(1) The individual shall maintain current certification in pediatric
+first aid applicable to all age groups of children cared for by the
+provider.
+(2) If the individual is:
+(A) at least eighteen (18) years of age, the individual may act
+as a caregiver without supervision of another caregiver; or
+(B) less than eighteen (18) years of age, the individual may act
+as a caregiver only if the individual:
+(i) is at least fourteen (14) years of age; and
+(ii) is, at all times when child care is provided, directly
+supervised by a caregiver who is at least eighteen (18) years
+of age.
+(3) Before beginning employment or volunteer duties, the
+individual must receive a formal orientation to the facility and the
+child care program.
+(4) Beginning July 1, 2015, unless the provider is a parent,
+stepparent, guardian, custodian, or other relative to each child in
+the care of the provider, the individual annually must receive at
+least twelve (12) hours of continuing education approved by the
+division and related to the age appropriate educational
+development, care, and safety of children. The hours of
+continuing education required by this subdivision may include the
+training described in this chapter concerning child abuse
+detection and prevention, first aid, cardiopulmonary resuscitation,
+and safe sleeping practices.
+(5) Not more than three (3) months after the individual begins
+employment or volunteer duties, the individual must receive
+training approved by the division concerning child abuse
+detection and prevention.
+(6) Not more than ninety (90) days after the individual begins
+employment or volunteer duties, the individual must be
+trained in pediatric cardiopulmonary resuscitation applicable
+to all age groups of children cared for by the child care
+provider.
+(c) A provider shall:
+(1) maintain at the facility where the provider operates a child
+care program documentation of all training and completion of
+continuing education required by this section; and
+(2) make the documentation available to the division upon
+request.
+SECTION 14. IC 12-17.2-4-2, AS AMENDED BY P.L.246-2023,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+SEA 486
+
+
+--- Page 11 ---
+11
+JULY 1, 2025]: Sec. 2. (a) A license may be issued only if a child care
+center is in compliance with food, health, safety, and sanitation
+standards as determined by the division under rules adopted by the
+division under IC 12-17.2-2-4 or in accordance with a variance or
+waiver approved by the division under IC 12-17.2-2-10.
+(b) A license may be issued only if the child care center is in
+substantial compliance with the fire and life safety rules as determined
+by the state fire marshal under rules adopted by the division under
+IC 12-17.2-2-4 or in accordance with a variance or waiver approved by
+the division under IC 12-17.2-2-10.
+(c) The division may issue a waiver or variance regarding a
+determination by the division or the state fire marshal under
+subsections (a) and (b).
+(d) At least one (1) adult individual who maintains current
+certification in a course of pediatric cardiopulmonary resuscitation
+applicable to all age groups of children cared for by the child care
+center shall be present at all times when a child is in the care of a child
+care center. Certifications accepted under this subsection must include
+a live return demonstration of skills.
+(e) An individual who (1) is employed or (2) volunteers as a
+caregiver at a child care center:
+(1) must, not more than ninety (90) days after the individual
+begins employment or volunteer duties, be trained in pediatric
+cardiopulmonary resuscitation applicable to all age groups of
+children cared for by the child care center; and
+(2) shall maintain current certification in pediatric first aid
+applicable to all age groups of children cared for by the child care
+center.
+SECTION 15. IC 12-17.2-5-18.2, AS AMENDED BY
+P.L.246-2023, SECTION 6, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 18.2. (a) At least one (1) adult
+individual who maintains current certification in a course of pediatric
+cardiopulmonary resuscitation applicable to all age groups of children
+cared for by the child care home shall be present at all times when a
+child is in the care of a child care home. Certifications accepted under
+this subsection must include a live return demonstration of skills.
+(b) An individual who (1) is employed or (2) volunteers as a
+caregiver at a child care home:
+(1) must, not more than ninety (90) days after the individual
+begins employment or volunteer duties, be trained in pediatric
+cardiopulmonary resuscitation applicable to all age groups of
+children cared for by the child care home; and
+SEA 486
+
+
+--- Page 12 ---
+12
+(2) shall maintain current certification in pediatric first aid
+applicable to all age groups of children cared for by the child care
+home.
+SECTION 16. IC 12-17.2-6-7.5, AS AMENDED BY P.L.246-2023,
+SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 7.5. (a) At least one (1) adult individual who
+maintains current certification in a course of pediatric
+cardiopulmonary resuscitation applicable to all age groups of children
+cared for by the child care ministry shall be present at all times when
+a child is in the care of a child care ministry. Certifications accepted
+under this subsection must include a live return demonstration of skills.
+(b) An individual who (1) is employed or (2) volunteers as a
+caregiver at a child care ministry:
+(1) must, not more than ninety (90) days after the individual
+begins employment or volunteer duties, be trained in pediatric
+cardiopulmonary resuscitation applicable to all age groups of
+children cared for by the child care ministry; and
+(2) shall maintain current certification in pediatric first aid
+applicable to all age groups of children cared for by the child care
+ministry.
+SECTION 17. IC 12-21-4-3, AS AMENDED BY P.L.207-2021,
+SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 3. The council consists of the following
+twenty-nine (29) members, not less than fifty percent (50%) of whom
+must be individuals who are not state employees or providers of mental
+health services:
+(1) The director.
+(2) The secretary of education or the secretary's designee.
+(3) The director of the office of Medicaid policy and planning, or
+the secretary's designee.
+(4) The director of the bureau of rehabilitation services or the
+director's designee.
+(5) The executive director of the Indiana housing and community
+development authority created by IC 5-20-1-3 or the executive
+director's designee.
+(6) The director of the criminal justice institute or the director's
+designee.
+(7) The director of the department of child services or the
+director's designee.
+(8) Twenty-two (22) individuals at least two (2) of whom are
+community mental health center chief executive officers or a chief
+executive officer's designee, who:
+SEA 486
+
+
+--- Page 13 ---
+13
+(A) are appointed by the secretary;
+(B) have a recognized knowledge of or interest in the
+programs administered by the division; including
+representatives of parents of children with serious emotional
+disturbances;
+(C) include:
+(i) at least two (2) community mental health center chief
+executive officers or designees of community mental
+health center chief executive officers;
+(ii) at least one (1) individual who has a serious mental
+illness and is receiving, or has received, mental health
+services;
+(iii) at least one (1) individual with personal or family
+experience with mental illness;
+(iv) at least one (1) individual representing a public
+entity concerned with the need for, and the planning,
+operation, funding, and use of, mental health services
+and related support services;
+(v) at least one (1) individual representing a private
+entity concerned with the need for, and the planning,
+operation, funding, and use of, mental health services
+and related support services; and
+(vi) parents of children with serious emotional
+disturbances, in a sufficiently representative number in
+relation to the number of other members of the council;
+(C) (D) are appointed for a term of four (4) years; and
+(D) (E) serve until a successor is appointed.
+SECTION 18. IC 12-21-4-8 IS REPEALED [EFFECTIVE JULY 1,
+2025]. Sec. 8. (a) This section applies to a member of the council who
+is appointed under section 3(8) of this chapter.
+(b) Notwithstanding section 3(8)(C) of this chapter, for the
+appointments made in 2012, eleven (11) members shall be appointed
+for a term of four (4) years, and eleven (11) members shall be
+appointed for a term of three (3) years.
+SEA 486
+
+
+--- Page 14 ---
+President of the Senate
+President Pro Tempore
+Speaker of the House of Representatives
+Governor of the State of Indiana
+Date: Time: 
+SEA 486

@@ -1,0 +1,603 @@
+--- Page 1 ---
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE ENROLLED ACT No. 1666
+AN ACT to amend the Indiana Code concerning health.
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1. IC 12-15-1-18.5, AS ADDED BY P.L.203- 2023,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 18.5. (a) The payer affordability penalty fund is
+established for the purpose of receiving fines collected under
+IC 16-21-6-3, IC 27-1-4.5-7, and fines collected under IC 27-2-25.5 to
+be used for:
+(1) the state's share of the Medicaid program; and
+(2) a study of hospitals that are impacted by changes made in the
+disproportionate share hospital methodology payments set forth
+in Section 203 of the federal Consolidated Appropriations Act of
+2021.
+The office of the secretary shall perform the study and provide the
+results of the study described in subdivision (2) to the budget
+committee.
+(b) The fund shall be administered by the office of the secretary.
+(c) The expenses of administering the fund shall be paid from
+money in the fund.
+(d) The treasurer of state shall invest the money in the fund not
+currently needed to meet the obligations of the fund in the same
+manner as other public money may be invested. Interest that accrues
+from these investments shall be deposited in the fund.
+(e) Money in the fund at the end of a state fiscal year does not revert
+HEA 1666 — CC 1
+
+
+--- Page 2 ---
+2
+to the state general fund.
+(f) Money in the fund is continually appropriated.
+SECTION 2. IC 16-18-2-79.1 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 79.1. "Controlling", for purposes
+of IC 16-21-6, has the meaning set forth in IC 16-21-6-0.3.
+SECTION 3. IC 16-19-3-35 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2025]: Sec. 35. (a) The state department shall do the following:
+(1) Cooperate with the secretary of state and the department
+of insurance to develop and implement a plan to collect the
+information described in IC 16-21-6-3(a)(14) through
+IC 16-21-6-3(a)(18), IC 23-0.5-2-13(a)(6), and IC 27-1-4.5-5.
+(2) Annually publish on the state department's website a
+report concerning the information collected under subdivision
+(1).
+(3) Upon request, provide the information collected under
+subdivision (1) to any the following:
+(A) The legislative council created by IC 2-5-1.1-1.
+(B) The office of the attorney general.
+(C) The health care cost oversight task force established by
+IC 2-5-47.
+(4) In carrying out the state department's duties under this
+section, operate within existing appropriations for the state
+department.
+(b) In publishing the report required under subsection (a)(2),
+the state department:
+(1) may omit information the state department determines is
+not widely available to the general public; and
+(2) may not include the name of a person or entity that has an
+ownership stake in a hospital, health care entity, insurer, third
+party administrator, or pharmacy benefit manager.
+SECTION 4. IC 16-21-6-0.3 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2025]: Sec. 0.3. As used in this chapter, "controlling" has the
+meaning set forth in IC 23-1-43-8.
+SECTION 5. IC 16-21-6-3, AS AMENDED BY P.L.152-2024,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 3. (a) Each hospital shall file with the state
+department a report for the preceding fiscal year within one hundred
+twenty (120) days after the end of the hospital's fiscal year. For the
+filing of a report, the state department may grant an extension of the
+HEA 1666 — CC 1
+
+
+--- Page 3 ---
+3
+time to file the report if the hospital shows good cause for the
+extension. The report must contain the following:
+(1) A copy of the hospital's balance sheet, including a statement
+describing the hospital's total assets and total liabilities.
+(2) A copy of the hospital's income statement.
+(3) A statement of changes in financial position.
+(4) A statement of changes in fund balance.
+(5) Accountant notes pertaining to the report.
+(6) A copy of the hospital's report required to be filed annually
+under 42 U.S.C. 1395g, and other appropriate utilization and
+financial reports required to be filed under federal statutory law.
+(7) Net patient revenue and total number of paid claims, including
+providing the information as follows:
+(A) The net patient revenue and total number of paid claims
+for inpatient services for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including inpatient services
+provided to patients participating in a fully-funded health
+insurance plan or a self-funded health insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(B) The net patient revenue and total number of paid claims
+for outpatient services for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including outpatient services
+provided to patients participating in a fully-funded health
+insurance plan or a self-funded health insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(C) The total net patient revenue and total number of paid
+claims for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including the total net patient
+revenue for services provided to patients participating in a
+fully-funded health insurance plan or a self-funded health
+insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(8) Net patient revenue and total number of paid claims from
+HEA 1666 — CC 1
+
+
+--- Page 4 ---
+4
+facility fees, including providing the information as follows:
+(A) The net patient revenue and total number of paid claims
+for inpatient services from facility fees for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including inpatient services from
+facility fees provided to patients participating in a
+fully-funded health insurance plan or a self-funded health
+insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(B) The net patient revenue and total number of paid claims
+for outpatient services from facility fees for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including outpatient services
+from facility fees provided to patients participating in a
+fully-funded health insurance plan or a self-funde d health
+insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(C) The total net patient revenue and total number of paid
+claims from facility fees for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including the total net patient
+revenue from facility fees provided to patients participating
+in a fully-funded health insurance plan or a self-funded
+health insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(9) Net patient revenue and total number of paid claims from
+professional fees, including providing the information as follows:
+(A) The net patient revenue and total number of paid claims
+for inpatient services from professional fees for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including inpatient services from
+professional fees provided to patients participating in a
+fully-funded health insurance plan or a self-funded health
+insurance plan;
+(iv) self-pay; and
+HEA 1666 — CC 1
+
+
+--- Page 5 ---
+5
+(v) any other category of payer.
+(B) The net patient revenue and total number of paid claims
+for outpatient services from professional fees for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including outpatient services
+from professional fees provided to patients participating in
+a fully-funded health insurance plan or a self-funded health
+insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(C) The total net patient revenue and total number of paid
+claims from professional fees for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including the total net patient
+revenue from professional fees provided to patients
+participating in a fully-funded health insurance plan or a
+self-funded health insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(10) A statement including:
+(A) Medicare gross revenue;
+(B) Medicaid gross revenue;
+(C) other revenue from state programs;
+(D) revenue from local government programs;
+(E) local tax support;
+(F) charitable contributions;
+(G) other third party payments;
+(H) gross inpatient revenue;
+(I) gross outpatient revenue;
+(J) contractual allowance;
+(K) any other deductions from revenue;
+(L) charity care provided;
+(M) itemization of bad debt expense; and
+(N) an estimation of the unreimbursed cost of subsidized
+health services.
+(11) A statement itemizing donations.
+(12) A statement describing the total cost of reimbursed and
+unreimbursed research.
+(13) A statement describing the total cost of reimbursed and
+unreimbursed education separated into the following categories:
+HEA 1666 — CC 1
+
+
+--- Page 6 ---
+6
+(A) Education of physicians, nurses, technicians, and other
+medical professionals and health care providers.
+(B) Scholarships and funding to medical schools, and other
+postsecondary educational institutions for health professions
+education.
+(C) Education of patients concerning diseases and home care
+in response to community needs.
+(D) Community health education through informational
+programs, publications, and outreach activities in response to
+community needs.
+(E) Other educational services resulting in education related
+costs.
+(14) The name of each person or entity that has:
+(A) either:
+(i) an ownership interest of at least five percent (5%); or
+(ii) if the person is a practitioner of the hospital, any
+ownership interest;
+(B) a controlling interest; or
+(C) an interest as a private equity partner;
+in the hospital.
+(15) The business address of each person or entity identified
+under subdivision (14). The business address must include a:
+(A) building number;
+(B) street name;
+(C) city name;
+(D) ZIP code; and
+(E) country name.
+The business address may not include a post office box
+number.
+(16) The business website, if applicable, of each person or
+entity identified under subdivision (14).
+(17) Any of the following identification numbers, if applicable,
+for a person or entity identified under subdivision (14):
+(A) National provider identifier (NPI).
+(B) Taxpayer identification number (TIN).
+(C) Employer identification number (EIN).
+(D) CMS certification number (CCN).
+(E) National Association of Insurance Commissioners
+(NAIC) identification number.
+(F) A personal identification number associated with a
+license issued by the department of insurance.
+A hospital may not include the Social Security number of any
+HEA 1666 — CC 1
+
+
+--- Page 7 ---
+7
+individual.
+(18) The ownership stake of each person or entity identified
+under subdivision (14).
+(b) The information in the report filed under subsection (a) must be
+provided from reports or audits certified by an independent certified
+public accountant or by the state board of accounts.
+(c) A hospital that fails to file the report required under subsection
+(a) by the date required shall pay to the state department a fine of one
+thousand dollars ($1,000) per day for which the report is past due. A
+fine under this subsection shall be deposited into the payer affordability
+penalty fund established by IC 12-15-1-18.5.
+SECTION 6. IC 23-0.5-2-12.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JANUARY 1, 2026]: Sec. 12.5. (a) As used in sections
+13 and 14 of this chapter, "health care entity" means any
+organization or business that provides health care services. The
+term does not include the following:
+(1) A hospital.
+(2) An insurer (as defined in IC 27-1-4.5-2).
+(3) A pharmacy benefit manager (as defined in IC 27-1-4.5-3).
+(4) A third party administrator (as defined in IC 27-1-4.5-4).
+(5) A person or entity that does not accept commercial health
+insurance reimbursement.
+(b) As used in this section, "health care services" means any
+diagnostic, medical, surgical, dental treatment, or rehabilitative
+care for the purpose of preventing, alleviating, curing, or healing
+human illness or injury.
+SECTION 7. IC 23-0.5-2-13, AS AMENDED BY HEA 1593-2025,
+SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JANUARY 1, 2026]: Sec. 13. (a) A domestic filing entity or registered
+foreign entity shall deliver to the secretary of state for filing a biennial
+report that states:
+(1) the name of the entity and, if a registered foreign entity, its
+jurisdiction of formation;
+(2) the information required by IC 23-0.5-4-3(b);
+(3) the street address of the entity's principal office;
+(4) for a corporation, the names and business addresses of its
+directors, secretary, and the highest executive office of the
+corporation; and
+(5) for a nonprofit corporation, the names and business or resident
+addresses of its directors, secretary, and highest executive office;
+and
+HEA 1666 — CC 1
+
+
+--- Page 8 ---
+8
+(6) for a health care entity, the information required under
+section 14 of this chapter.
+(b) Information in a biennial report must be current as of the date
+the report is signed by the entity.
+(c) The biennial report must be delivered to the secretary of state for
+filing every two (2) calendar years on a schedule determined by the
+secretary of state. The secretary of state may accept biennial reports
+during the ninety (90) days before the month in which the biennial
+report is due.
+(d) If a biennial report does not contain the information required by
+this section, the secretary of state shall promptly notify the reporting
+entity in a record and return the report for correction. If the report is
+corrected to contain the information required by this section and
+delivered to the secretary of state within thirty (30) days after the
+effective date of notice, the report is considered to be timely filed.
+(e) If a biennial report contains information required by
+IC 23-0.5-4-3(b) which differs from the information shown in the
+records of the secretary of state immediately before the report becomes
+effective, the differing information is considered a statement of change
+under IC 23-0.5-4-7.
+(f) A biennial report filed under this section may not specify a future
+effective date.
+(g) If a person submits a biennial report on behalf of another person,
+the person submitting the biennial report shall take reasonable steps,
+including manual verification, the use of software or third party
+services to perform background or identification verification, or
+obtaining identifying documents from the person on whose behalf the
+biennial report is being submitted, such as:
+(1) a state issued driver's license;
+(2) a state issued identification card; or
+(3) a passport;
+to verify the identity of the person on whose behalf the submitting
+person is submitting the biennial report.
+(h) A person who submits a biennial report on behalf of another
+person under subsection (g) shall provide the information used by the
+submitting person to verify the identity of the person on whose behalf
+the biennial report is being submitted to the secretary of state upon
+request.
+SECTION 8. IC 23-0.5-2-14 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE
+JANUARY 1, 2026]: Sec. 14. (a) Each health care entity that does
+business in Indiana shall report the following information as part
+HEA 1666 — CC 1
+
+
+--- Page 9 ---
+9
+of the report under this chapter:
+(1) The name of each person or entity that has:
+(A) either:
+(i) an ownership interest of at least five percent (5%); or
+(ii) if the person is a practitioner of the health care
+entity, any ownership interest;
+(B) a controlling interest; or
+(C) an interest as a private equity partner;
+in the health care entity.
+(2) The business address of each person or entity identified
+under subdivision (1). The business address must include a:
+(A) building number;
+(B) street name;
+(C) city name;
+(D) ZIP code; and
+(E) country name.
+The business address may not include a post office box
+number.
+(3) The business website, if applicable, of each person or
+entity identified under subdivision (1).
+(4) Any of the following identification numbers, if applicable,
+for a person or entity identified under subdivision (1):
+(A) National provider identifier (NPI).
+(B) Taxpayer identification number (TIN).
+(C) Employer identification number (EIN).
+(D) CMS certification number (CCN).
+(E) National Association of Insurance Commissioners
+(NAIC) identification number.
+(F) A personal identification number associated with a
+license issued by the department of insurance.
+(5) The ownership stake of each person or entity identified
+under subdivision (1).
+(6) Whether the health care entity is a Medicaid provider and,
+if so, whether the health care entity accepted Medicaid
+recipients during a majority of the preceding two (2) calendar
+years.
+A report provided under this section may not include the Social
+Security number of any individual.
+(b) The secretary of state shall cooperate with the Indiana
+department of health and the department of insurance to develop
+and implement a plan to collect the information described in this
+section.
+HEA 1666 — CC 1
+
+
+--- Page 10 ---
+10
+(c) In carrying out the secretary of state's duties under this
+section, the secretary of state shall operate within existing
+appropriations for the secretary of state.
+SECTION 9. IC 25-1-8.5-2, AS ADDED BY P.L.95-2024,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 2. (a) As used in this chapter, "health care entity"
+means any of the following:
+(1) Any Except as provided in subsection (b), an organization
+or business that provides diagnostic, medical, surgical, dental
+treatment, or rehabilitative care.
+(2) An insurer that issues a policy of accident and sickness
+insurance (as defined in IC 27-8-5-1), except for the following
+types of coverage:
+(A) Accident only, credit, dental, vision, long term care, or
+disability income insurance.
+(B) Coverage issued as a supplement to liability insurance.
+(C) Automobile medical payment insurance.
+(D) A specified disease policy.
+(E) A policy that provides indemnity benefits not based on any
+expense incurred requirements, including a plan that provides
+coverage for:
+(i) hospital confinement, critical illness, or intensive care; or
+(ii) gaps for deductibles or copayments.
+(F) Worker's compensation or similar insurance.
+(G) A student health plan.
+(H) A supplemental plan that always pays in addition to other
+coverage.
+(3) A health maintenance organization (as defined in
+IC 27-13-1-19).
+(4) A pharmacy benefit manager (as defined in IC 27-1-24.5-12).
+(5) An administrator (as defined in IC 27-1-25-1).
+(6) A private equity partnership, regardless of where the private
+equity partnership is located, seeking to enter into a merger or
+acquisition with an entity described in subdivisions (1) through
+(5).
+(b) The term does not include:
+(1) a health care provider (as defined by IC 4-6-14-2) that is
+majority owned, or that would be majority owned after the
+merger or acquisition, by practitioners who:
+(A) are licensed in Indiana; and
+(B) routinely provide health care services in the
+practitioner owned practice;
+HEA 1666 — CC 1
+
+
+--- Page 11 ---
+11
+(2) the Medicaid program; or
+(3) the Medicare program.
+SECTION 10. IC 25-1-8.5-3.7 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 3.7. (a) The office of the attorney
+general may at any time investigate the market concentration of a
+health care entity. The office of the attorney general may issue a
+civil investigative demand under IC 4-6-3 to a health care entity
+subject to an investigation conducted under this section.
+(b) The office of the attorney general shall keep confidential all
+nonpublic information obtained in the course of an investigation
+conducted under this section. Confidential information may not be
+released to the public.
+SECTION 11. IC 27-1-4.5 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]:
+Chapter 4.5. Disclosure of Ownership Information
+Sec. 1. As used in this chapter, "controlling" has the meaning set
+forth in IC 23-1-43-8.
+Sec. 2. As used in this chapter, "insurer" includes the following:
+(1) An insurer (as defined in IC 27-1-2-3(x)) that issues a
+policy of accident and sickness insurance (as defined in
+IC 27-8-5-1(a)). However, the term does not include the
+coverages described in IC 27-8-5-2.5(a).
+(2) A health maintenance organization (as defined in
+IC 27-13-1-19) that provides coverage for basic health care
+services (as defined in IC 27-13-1-4).
+(3) A managed care organization (as defined in
+IC 12-7-2-126.9) that provides services to a Medicaid
+recipient.
+(4) A prepaid health care delivery plan under IC 5-10-8-7(c)
+that provides group health coverage for state employees.
+Sec. 3. As used in this chapter, "pharmacy benefit manager" has
+the meaning set forth in IC 27-1-24.5-12.
+Sec. 4. As used in this chapter, "third party administrator"
+means an individual or entity that performs administrative services
+for an insurer or a self-funded health benefit plan, including:
+(1) a self-funded health benefit plan that complies with the
+federal Employee Retirement Income Security Act (ERISA)
+of 1974 (29 U.S.C. 1001 et seq.); and
+(2) a self-insurance program established under IC 5-10-8-7(b).
+Sec. 5. (a) Beginning July 1, 2025, and each July 1 thereafter,
+HEA 1666 — CC 1
+
+
+--- Page 12 ---
+12
+each insurer, third party administrator, and pharmacy benefit
+manager that does business in Indiana shall file with the
+department a report that includes the following information:
+(1) The name of each person or entity that has:
+(A) an ownership interest of at least five percent (5%);
+(B) a controlling interest; or
+(C) an interest as a private equity partner;
+in the insurer, third party administrator, or pharmacy benefit
+manager.
+(2) The business address of each person or entity identified
+under subdivision (1). The business address must include a:
+(A) building number;
+(B) street name;
+(C) city name;
+(D) ZIP code; and
+(E) country name.
+The business address may not include a post office box
+number.
+(3) The business website, if applicable, of each person or
+entity identified under subdivision (1).
+(4) Any of the following identification numbers, if applicable,
+for a person or entity identified under subdivision (1):
+(A) National provider identifier (NPI).
+(B) Taxpayer identification number (TIN).
+(C) Employer identification number (EIN).
+(D) CMS certification number (CCN).
+(E) National Association of Insurance Commissioners
+(NAIC) identification number.
+(F) A personal identification number associated with a
+license issued by the department of insurance.
+(5) The ownership stake of each person or entity identified
+under subdivision (1).
+A report provided under this section may not include the Social
+Security number of any individual.
+(b) The department may not charge a fee for a report submitted
+under this section.
+Sec. 6. (a) The department shall cooperate with the Indiana
+department of health and the secretary of state to develop and
+implement a plan to collect the information described in section 5
+of this chapter, IC 16-21-6-3(a)(14) through IC 16-21-6-3(a)(18),
+and IC 23-0.5-2-13(a)(6).
+(b) Before September 1 of each year, the department shall
+HEA 1666 — CC 1
+
+
+--- Page 13 ---
+13
+provide the information collected under section 5 of this chapter to
+the Indiana department of health.
+Sec. 7. (a) The department may assess:
+(1) an insurer;
+(2) a third party administrator; or
+(3) a pharmacy benefit manager;
+that violates section 5 of this chapter a fine of one thousand dollars
+($1,000) per day for which the report is past due.
+(b) A fine under this section shall be deposited into the payer
+affordability penalty fund established by IC 12-15-1-18.5.
+(c) The department may waive a fine assessed under this section.
+(d) The department may take disciplinary action against:
+(1) an insurer;
+(2) a third party administrator; or
+(3) a pharmacy benefit manager;
+that is licensed under this title for repeated violations of section 5
+of this chapter.
+Sec. 8. (a) Before December 1 of each year, the department shall
+submit to the legislative council an annual report of the:
+(1) violations assessed; and
+(2) fines waived;
+under section 7 of this chapter in the previous calendar year.
+(b) A report descri bed in this section must be submitted in an
+electronic format under IC 5-14-6.
+Sec. 9. (a) The department shall issue a notice or bulletin on at
+least two (2) occasions to notify insurers, third party
+administrators, and pharmacy benefit managers of the reporting
+requirements set forth in this chapter.
+(b) A notice or bulletin issued under this section must be posted
+on the department's website in a manner that is easily accessible to
+insurers, third party administrators, and pharmacy benefit
+managers.
+Sec. 10. In carrying out the department's duties under this
+chapter, the department shall operate within existing
+appropriations for the department.
+HEA 1666 — CC 1
+
+
+--- Page 14 ---
+Speaker of the House of Representatives
+President of the Senate
+President Pro Tempore
+Governor of the State of Indiana
+Date: Time: 
+HEA 1666 — CC 1

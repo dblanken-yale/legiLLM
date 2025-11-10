@@ -1,0 +1,1869 @@
+--- Page 1 ---
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE ENROLLED ACT No. 1390
+AN ACT to amend the Indiana Code concerning motor vehicles.
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1. IC 5-2-26.1 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]:
+Chapter 26.1. Towing Rotation Requirements
+Sec. 1. The definitions in IC 24-14-2 apply throughout this
+chapter.
+Sec. 2. A law enforcement agency shall do at least one (1) of the
+following for emergency towing:
+(1) Establish a written policy for towing rotations.
+(2) Enter into a contract.
+Sec. 3. (a) This section applies to:
+(1) a written policy established after June 30, 2025; and
+(2) a contract entered into, amended, or renewed after June
+30, 2025.
+(b) A written policy or contract required under section 2 of this
+chapter must include the following, as applicable:
+(1) The length of time of the contract between  the towing
+company and the law enforcement agency, including renewal
+periods.
+(2) Rates for all services, including standby rates. A towing
+company may include a standard minimum charge of one (1)
+hour.
+HEA 1390 — CC 1
+
+
+--- Page 2 ---
+2
+(3) Rates for storage and the timing for when storage charges
+begin.
+(4) The allowable administrative fee for each service and
+when the fee is applicable.
+(5) Truck and equipment requirements.
+(6) Availability of a towing company to respond to calls.
+(7) Response time requirements.
+(8) Storage lot requirements.
+(9) Availability for the owner to pick up the vehicle, including
+after hours.
+(10) Access to personal belongings in a vehicle that is in
+storage.
+(11) Markup percentages for items or services provided by
+third parties.
+(12) A provision that allows the law enforcement agency to
+suspend or remove a towing company that violates the written
+policy or contract.
+(13) A prohibition on charging fees that are not listed under
+the written policy or contract.
+(c) Notwithstanding IC 9-22-1-14, and in addition to the
+requirements under subsection (b), in the case of a contract
+between a towing company and a local law enforcement agency in
+a county containing a consolidated city, the contract must provide
+that a person may park a vehicle that is registered to the person's
+residence on the street outside the person's residence for not more
+than seven (7) days before the vehicle is required to be towed.
+Sec. 4. A law enforcement agency may not use a towing
+company that charges unreasonable fees as part of its towing
+rotation. A law enforcement agency must perform a periodic
+review of a towing company's rates for reasonableness.
+Sec. 5. A law enforcement agency may select a towing company
+outside of its towing rotation if an emergency situation requires the
+use of a towing company with certain equipment or capacity to
+adequately respond to the emergency situation.
+SECTION 2. IC 8-2.1-17-6.5, AS AMENDED BY P.L.215-2023,
+SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 6.5. (a) "Digital network", for purposes of
+IC 8-2.1-19.1, means an online enabled application, software, website,
+or system offered or used by a TNC to enable the prearrangement of
+rides with TNC drivers.
+(b) "Digital network", for purposes of this chapter and IC 8-2.1-19.3,
+means an online enabled application, software, website, or system
+HEA 1390 — CC 1
+
+
+--- Page 3 ---
+3
+offered or used by a DNC to enab le deliveries with DNC drivers. A
+digital network is not a product under law.
+(c) A digital network is not a product under law.
+SECTION 3. IC 8-15-2-14, AS AMENDED BY P.L.93-2024,
+SECTION 81, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 14. (a) The authority may do the following:
+(1) Fix, revise, charge, and collect tolls for the use of each toll
+road project by any person, partnership, association, limited
+liability company, or corporation desiring the use of any part
+thereof, including the right-of-way adjoining the paved portion
+and for placing thereon telephone, telegraph, electric light, or
+power lines.
+(2) Fix the terms, conditions, and rates of charge for such use,
+including assessments for the failure to pay required tolls, subject,
+however, to the state's police power.
+(3) Collect tolls, user fees, or other charges through manual or
+nonmanual methods, including, but not limited to, automatic
+vehicle identification systems, electronic toll collection systems,
+and, to the extent permitted by law, including rules adopted by the
+authority under section 17.2(a)(10) of this chapter, global
+positioning systems and photo or video based toll collection or
+toll collection enforcement systems.
+(4) Adopt rules under IC 4-22-2 authorizing the use of and
+establishing procedures for the implementation of the collection
+of user fees by electronic or other nonmanual means under
+subdivision (3).
+(b) Notwithstanding subsection (a), no toll or charge shall be made
+by the authority under this section or under a public-private agreement
+entered into under IC 8-15.5 for:
+(1) the operation of temporary lodging facilities located upon or
+adjacent to any project, nor may the authority itself operate or
+gratuitously permit the operation of such temporary lodging
+facilities by other persons without any toll or charge; or
+(2) placing in, on, along, over, or under such project, such
+telephone, telegraph, electric light or power lines, equipment, or
+facilities as may be necessary to serve establishments located on
+the project or as may be necessary to interconnect any public
+utility facilities on one (1) side of the toll road project with those
+on the other side.
+(c) All contracts executed by the authority shall be preserved in the
+principal office of the authority.
+(d) In the case of a toll road project that is not leased to the
+HEA 1390 — CC 1
+
+
+--- Page 4 ---
+4
+department under IC 8-9.5-8-7, the tolls shall be fixed and adjusted for
+each toll road project so that the aggregate of the tolls from the project,
+together with other revenues that are available to the authority without
+prior restriction or encumbrance, will at least be adequate to pay:
+(1) the cost of operating, maintaining, and repairing the toll road
+project, including major repairs, replacements, and
+improvements;
+(2) the principal of and the interest on bonds issued in connection
+with the toll road project, as the principal and interest becomes
+due and payable, including any reserve or sinking fund required
+for the project; and
+(3) the payment of principal of and interest on toll road bonds
+issued by the authority in connection with any other toll road
+project, including any reserve or sinking fund required for the
+project, but only to the extent that the authority provides by
+resolution and subject to the provisions of any trust agreement
+relating to the project.
+(e) Not less than one (1) year before the date that final payment of
+all such bonds, interest, and reimbursement is expected by the
+chairman of the authority to be completed, the chairman shall notify the
+state budget committee in writing of the expected date of final
+payment.
+(f) Such tolls shall not be subject to supervision or regulation by any
+other commission, board, bureau, or agency of the state.
+(g) The tolls, rents, and all other revenues derived by the authority
+from the toll road project, except those received in accordance with a
+public-private agreement under IC 8-15.5, shall be used as follows:
+(1) To pay the cost of operating, maintaining, and repairing the
+toll road project, including major repairs, replacem ents, and
+improvements, to the extent that those costs are not paid out of
+other funds.
+(2) To the extent provided for in the resolution authorizing the
+issuance of bonds under this chapt er or in the trust agreement
+securing the bonds, to pay:
+(A) the principal of and interest on any bonds as the principal
+and interest become due; or
+(B) the redemption price or purchase price of the bonds retired
+by call or purchase.
+(3) Except as prohibited by the resolution authorizing the issuance
+of bonds under this chapter or the trust agreement securing them,
+for any purpose relating to any toll road project, including the
+subject toll road project, as the authority provides by resolution.
+HEA 1390 — CC 1
+
+
+--- Page 5 ---
+5
+(h) Neither the resolution nor any trust agreement by which a pledge
+is created needs to be filed or recorded except in the records of the
+authority.
+(i) The use and disposition of moneys to the credit of any sinking
+fund shall be subject to the provisions of any resolution or resolutions
+authorizing the issuance of any bonds or of any trust agreement. Except
+as may otherwise be provided in this chapter or in any resolution or any
+trust agreement, any sinking fund shall be a fund for all bonds without
+distinction or priority of one over another, subject, however, to such
+priorities as may arise from prior pledges.
+(j) In the case of a toll road project that is leased to the department
+under IC 8-9.5-8-8, the lease must require that the department fix tolls
+for the toll road project that comply with IC 8-9.5-8-8(c)(6).
+(k) User fees (as defined in IC 8-15.5-2-10) for a toll road project
+that is subject to a public-private agreement under IC 8-15.5 shall be
+set in accordance with IC 8-15.5-7.
+(l) The amount of a toll must be invoiced to a driver not later
+than one (1) year after the date the driver incurs the toll.
+SECTION 4. IC 8-15.5-7-9 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2025]: Sec. 9. An operator must invoice a user for a user fee not
+later than one (1) year after the date the operator incurs the toll.
+SECTION 5. IC 9-17-5-2, AS AMENDED BY P.L.198-2016,
+SECTION 240, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 2. A person that holds a lien on a
+vehicle, has repossessed the vehicle, and wants to obtain a certificate
+of title for the vehicle in the person's name may obtain the certificate
+of title from the bureau if:
+(1) the person from whom the vehicle has been repossessed is
+shown by the records of the bureau, as defined in
+IC 9-14-12-2(1) and IC 9-14-12-2(2), to be the last registered
+owner of the vehicle; and
+(2) the person that holds the lien:
+(A) has complied with this chapter; and
+(B) establishes to the satisfaction of the bureau that the person
+is entitled to the certificate of title.
+SECTION 6. IC 9-18.1-4-2, AS ADDED BY P.L.198-2016,
+SECTION 326, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 2. (a) The bureau shall adopt rules
+under IC 4-22-2 regarding the size, character, and content of a
+certificate of registration. The bureau may issue a certificate of
+registration by electronically delivering or providing access to an
+HEA 1390 — CC 1
+
+
+--- Page 6 ---
+6
+electronic certificate of registration.
+(b) A certificate of registration or a legible reproduction of the
+certificate of registration must be carried:
+(1) in the vehicle to which the registration refers; or
+(2) by the individual operating or in control of the vehicle, who
+shall display the registration upon the demand of a police officer.
+(c) An individual who fails to carry a certificate of registration or a
+legible reproduction of a certificate of registration as required under
+subsection (b) commits a Class C infraction.
+SECTION 7. IC 9-18.1-12-2, AS AMENDED BY P.L.108-2019,
+SECTION 180, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 2. (a) A person may apply to the
+bureau for a temporary registration permit for a vehicle. The bureau
+shall issue the person a temporary registration permit after the person
+does the following:
+(1) Provides proof of financial responsibility in effect with respect
+to the vehicle in the amounts specified under IC 9-25.
+(2) Pays a fee of eighteen dollars ($18). The fee shall be
+distributed as follows:
+(A) Twenty-five cents ($0.25) to the state construction fund.
+(B) Fifty cents ($0.50) to the state motor vehicle technology
+fund.
+(C) One dollar and twenty-five cents ($1.25) to the integrated
+public safety communications fund.
+(D) Five dollars ($5) to the commission fund.
+(E) Any remaining amount to the motor vehicle highway
+account.
+(b) A temporary registration permit is valid for a period of thirty
+(30) days from the date of issuance and authorizes the use of the
+vehicle on a highway if any of the following conditions exist:
+(1) The person has purchased or otherwise obtained the vehicle
+in Indiana and will be titling or registering the vehicle in another
+state or foreign country.
+(2) The person is an Indiana resident and is intending to move to
+another state and the current vehicle registration or temporary
+permit will expire before the person moves.
+(3) The person is an Indiana resident and the vehicle registration
+in another state has expired and the person has applied under
+IC 9-17 for a title for the vehicle.
+(4) The person owns and operates the vehicle and the person:
+(A) does not operate the vehicle as a lessor; and
+(B) moves the empty vehicle from one (1) lessee-carrier to
+HEA 1390 — CC 1
+
+
+--- Page 7 ---
+7
+another.
+(5) The person owns a vehicle for which emissions testing is
+required and the vehicle will require further mechanical repairs
+in order to comply with the emissions testing requirements.
+(c) A temporary registration permit shall be displayed on a vehicle
+in a manner determined by the bureau.
+(d) The bureau  may issue a temporary registration permit
+under this section at the bureau's discretion if the person complies
+with subsection (a) and applies in a form and manner prescribed
+by the bureau.
+SECTION 8. IC 9-18.5-2-2, AS ADDED BY P.L.198-2016,
+SECTION 327, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 2. (a) A personalized license plate
+may be the same color and size and contain similar required
+information as regular license plates issued under IC 9-18 (before its
+expiration) or IC 9-18.1 for the respective class of vehicle. The bureau
+may offer alternative designs or color scheme versions of a license
+plate issued under IC 9-18.1.
+(b) A personalized license plate message is limited to the:
+(1) numerals 0 through 9; or
+(2) letters A through Z;
+in a continuous combination of numbers and letters with at least two
+(2) positions.
+(c) A personalized license plate may not duplicate a regularly issued
+plate.
+(d) Only one (1) personalized plate, without regard to classification
+of registration, may be issued by the bureau with the same
+configuration of numbers and letters.
+(e) A person that selects both an alternative design or color
+scheme under subsection (a) and a personalized license plate
+message under subsection (b) shall pay a separate fee for each
+personalization under section 8(3) of this chapter.
+SECTION 9. IC 9-18.5-2-4, AS ADDED BY P.L.198-2016,
+SECTION 327, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 4. (a) A person that applies for:
+(1) a personalized license plate; or
+(2) the renewal of a personalized license plate in the subsequent
+period;
+must file an application in the manner the bureau requires. If a person
+is making an application for a personalized license plate message
+under section 2(b) of this chapter the person shall indicate
+indicating the combination of letters or numerals, or both, requested by
+HEA 1390 — CC 1
+
+
+--- Page 8 ---
+8
+the person.
+(b) The bureau may refuse to issue a combination of letters or
+numerals, or both, that:
+(1) carries a connotation offensive to good taste and decency;
+(2) would be misleading; or
+(3) the bureau otherwise considers improper for issuance.
+SECTION 10. IC 9-18.5-2-8, AS ADDED BY P.L.198-2016,
+SECTION 327, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 8. The bureau shall issue a
+personalized license plate under this chapter to a person that does the
+following:
+(1) Complies with IC 9-18 (before its expiration) or IC 9-18.1.
+(2) Pays any additional fee associated with a license plate
+described in section 1(b) of this chapter.
+(3) Pays a fee of forty-five dollars ($45) each for an alternative
+design or color scheme under section 2(a) of this chapter or a
+personalized license plate message under section 2(b) of this
+chapter. The fee shall be distributed as follows:
+(A) Four dollars ($4) to the crossroads 2000 fund.
+(B) Seven dollars ($7) to the motor vehicle highway account.
+(C) Thirty-four dollars ($34) to the commission fund.
+Upon the payment of the fee, the bureau shall issue a receipt.
+SECTION 11. IC 9-18.5-2-9, AS ADDED BY P.L.198-2016,
+SECTION 327, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 9. If a person that applies for a
+personalized license plate under this chapter with a given
+configuration of letters or numbers is not able to obtain the license
+plate requested or a satisfactory alternative configuration, the bureau
+shall refund the entire personalized license plate fee associated with
+the personalized license plate message under section 8(3) of this
+chapter to the person. However, a refund of a personalized license plate
+fee may not be made when the person that applies for the personalized
+license plate cancels the request.
+SECTION 12. IC 9-18.5-12-3, AS ADDED BY P.L.198- 2016,
+SECTION 327, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 3. (a) A special group that seeks
+initial participation in the special group recognition license plate
+program must submit a completed application to the bureau not later
+than April 1 for potential issuance in the following year. The
+application must contain the following:
+(1) The name and address of the resident agent of the special
+group.
+HEA 1390 — CC 1
+
+
+--- Page 9 ---
+9
+(2) Evidence of governance by a board of directors consisting of
+at least five (5) members, a majority of whom are outside
+directors, who meet at least semiannually to establish policy for
+the special group and review the accomplishments of the special
+group.
+(3) A copy of the:
+(A) ethics statement;
+(B) constitution and bylaws; and
+(C) articles of incorporation as an entity that is exempt from
+federal income taxation under Section 501(c) of the Internal
+Revenue Code;
+of the special group.
+(4) Copies of the last three (3) consecutive:
+(A) annual reports; and
+(B) annual generally accepted auditing standards or
+government auditing standards audits;
+of the special group.
+(5) Evidence of appropriate use of resources and compliance with
+federal and state laws, including evidence of appropriate
+management and internal controls in order to ensure:
+(A) compliance with law;
+(B) that finances are used in compliance with the purpose
+statement of the special group; and
+(C) maintenance as an entity that is exempt from taxation
+under Section 501(c) of the Internal Revenue Code.
+(6) Evidence of transparency of financial and operational
+activities to include availability of current financial statements at
+any time upon the request of the bureau or a donor to the special
+group.
+(7) Evidence of internal controls to prevent conflict of interest by
+board members and employees.
+(8) A petition with the dated signatures of at least five hundred
+(500) one thousand (1,000) residents of Indiana, obtained
+during a single calendar year, who pledge to purchase the
+special group recognition license plate.
+(9) A statement of the designated use of any annual fee to be
+collected by the bureau.
+(10) A copy of a certified motion passed by the board of directors
+of the special group requesting that the special group recognition
+license plate be issued by the bureau and stating the designated
+use of any annual fee to be collected by the bureau.
+(11) Evidence of statewide public benefit from the special group.
+HEA 1390 — CC 1
+
+
+--- Page 10 ---
+10
+(12) Evidence of statewide public benefit from the use of the
+annual fee collected by the bureau.
+(13) Evidence that the special group's use of the annual fee to be
+collected by the bureau and the organizational purpose statement
+of the special group conform with at least one (1) of the following
+categories:
+(A) Direct health care or medical research.
+(B) Fraternal or service organizations.
+(C) Government and quasi-government. For purposes of this
+clause, a special group that designates the use of the fees
+collected for deposit in the capital projects fund established by
+IC 9-18.5-28-5(a) is considered to have a quasi-government
+purpose.
+(D) Military and veterans' affairs.
+(E) Public and transportation safety.
+(F) A state educational institution (as defined in
+IC 21-7-13-32) or an approved postsecondary educational
+institution (as defined in IC 21-7-13-6) for scholarships for
+Indiana residents.
+(G) Agriculture, animals, and environment.
+(14) Evidence that the organization has prohibitions and internal
+controls prohibiting advocacy of the following:
+(A) Violation of federal or state law.
+(B) Violation of generally accepted ethical standards or
+societal behavioral standards.
+(C) Individual political candidates.
+(b) The bureau shall review the application for a special group
+recognition license plate that has been submitted to the bureau under
+subsection (a). Upon satisfaction to the bureau of the completeness of
+the information in the application, the bureau shall forward the
+application to the executive director of the legislative services agency
+in an electronic format under IC 5-14-6 for review by the committee.
+SECTION 13. IC 9-18.5-12-13, AS AMENDED BY P.L.118-2022,
+SECTION 8, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 13. (a) In order to continue participation in the
+special group recognition license plate program, a special group must:
+(1) sell at least:
+(A) for a special group recognition license plate issued
+before January 1, 2026, five hundred (500) special group
+recognition license plates of the special group; and
+(B) for a special group recognition license plate issued after
+December 31, 2025, one thousand (1,000) special group
+HEA 1390 — CC 1
+
+
+--- Page 11 ---
+11
+recognition license plates of the special group;
+in the first two (2) years in which the license plate is offered for
+sale; and
+(2) maintain the sale or renewal of at least:
+(A) for a special group recognition license plate issued
+before January 1, 2026, five hundred (500) special group
+recognition license plates; and
+(B) for a special group recognition license plate issued after
+December 31, 2025, one thousand (1,000) special group
+recognition license plates;
+during each subsequent year after the initial two (2) year period
+of sale.
+(b) If the special group fails to sell or renew special group
+recognition license plates in the manner provided in subsection (a), the
+bureau shall place the issuance of the special group recognition license
+plates for the special group on probation for the subsequent year. If, in
+that subsequent year on probation, the special group fails to sell or
+renew at least five hundred (500) the number of special group
+recognition license plates required under subsection (a), the bureau
+shall terminate the participation of the special group in the speci al
+group recognition license plate program. If the special group sells or
+renews at least five hundred (500) the number of speci al group
+recognition license plates required under subsection (a) in the year
+on probation, the participation of the special group in the special group
+recognition license plate program is continued. A special group shall
+be afforded only one (1) probationary period under this subsection.
+(c) The bureau may terminate the participation of a special group in
+the special group recognition license plate program if the special
+group:
+(1) ceases operations; or
+(2) fails to use the annual fee collected by the bureau in a manner
+consistent with the statement submitted by the special group
+under section 3(a)(9) of this chapter.
+(d) A special group that desires to participate in the special group
+recognition license plate program after termination by the bureau under
+this section:
+(1) must follow the procedure set forth in section 3 of this
+chapter; and
+(2) may not reapply to participate in the special group recognition
+license plate program for at least two (2) years after termination.
+(e) Upon termination under this section of a special group's
+participation in the special group recognition license plate program, the
+HEA 1390 — CC 1
+
+
+--- Page 12 ---
+12
+bureau shall distribute any money remaining in the trust fund
+established under section 14 of this chapter for the special group to the
+state general fund.
+SECTION 14. IC 9-20-9-1, AS AMENDED BY P.L.12-2013,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 1. (a) As used in this section, "drive away or tow
+away" means the delivery service performed by a transport operator by
+which motor vehicles in transit are delivered by driving singly or in
+combination by the towbar, saddlemount, or fullmount methods or any
+lawful combination of those methods, including coupling equipment or
+where a truck or tractor draws or tows a semitrailer or trailer in transit.
+(b) A combination of two (2) vehicles coupled together, including
+load, may not exceed a total length of sixty (60) feet, except for the
+following:
+(1) A combination of two (2) vehicles coupled together that are
+especially constructed to transport other vehicles or boats. This
+exception includes any combination of a truck, tractor,
+semitrailer, and trailer if the combination is used exclusively or
+primarily in connection with motorsports.
+(2) A combination of two (2) vehicles coupled together being
+transported in a drive away or tow away service.
+(3) A pole trailer owned by or operated for a public utility (as
+defined in IC 8-1-2-1), while the pole trailer is being used in
+connection with the utility services of the public utility.
+(4) Trailers used in transporting oil field equipment or pipe for the
+transmission of oil or gas.
+(5) Construction vehicles with a towbar connection used in
+connection with a trailer used to haul heavy equipment.
+SECTION 15. IC 9-21-9-2 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 2. Whenever a vehicle
+is moved, operated, or driven on a highway that is open for vehicular
+travel, the vehicle shall display a triangular slow moving vehicle
+emblem mounted as near as is practicable to the center of mass and at
+an approximate height of not less than three (3) two (2) and not more
+than five (5) ten (10) feet from level ground or pavement surface. The
+emblem shall be mounted so as to be entirely visible from the rear, day
+or night. The emblem and the emblem's position of mounting on the
+vehicle must meet the specifications established by rules adopted by
+the Indiana criminal justice institute. substantially adhere to the
+recommendations of the:
+(1) American Society of Agricultural and Biological
+Engineers;
+HEA 1390 — CC 1
+
+
+--- Page 13 ---
+13
+(2) American National Standards Institute; and
+(3) Society of Automotive Engineers.
+SECTION 16. IC 9-21-9-5 IS REPEALED [EFFECTIVE JULY 1,
+2025]. Sec. 5. (a) The Indiana criminal justice institute shall adopt rules
+under IC 4-22-2 establishing standards and specifications for the
+design, materials, and mounting of a standard slow moving vehicle
+emblem for the uniform identification of slow moving vehicles.
+(b) In adopting rules under subsection (a), the Indiana criminal
+justice institute shall subst antially adher e to the current
+recommendations of the American Society of Agricultural Engineers,
+the American National Standards Institute, and the Society of
+Automotive Engineers so that the slow moving vehicle emblem may be
+more universally recognizable and of adequate quality.
+(c) The Indiana criminal justice institute shall adopt revisions to the
+standards and specifications adopted as required under subsection (a)
+as amendments are made to the recommendations of the American
+Society of Agricultural Engineers, the American National Standards
+Institute, and the Society of Automotive Engineers regarding the slow
+moving vehicle emblem.
+SECTION 17. IC 9-22-1-8, AS AMENDED BY P.L.281-2019,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 8. (a) Subject to subsection (b), If the properly
+identified person who owns or holds a lien on a vehicle appears at the
+site of storage before disposal of the vehicle or parts and pays all costs
+relating to a tow, the storage of the vehicle, and all allowable fees, as
+applicable, the vehicle or parts shall be released.
+(b) A towing service or storage yard may not charge an inspection
+fee to an owner, a lienholder, or an insurance company representative
+to inspect a vehicle or retrieve items from the vehicle. A fee under this
+subsection must be refunded if the costs relating to a tow, the storage
+of the vehicle, and all allowable fees, as applicable, are paid under
+subsection (a).
+(c) A towing service or storage yard must accept payment made by
+any of the following means from a person seeking to release a vehicle
+under this section:
+(1) Cash.
+(2) Certified check.
+(3) Insurance check.
+(4) Money order.
+A towing service or storage facility may elect to accept payment by
+means of a credit card or debit card.
+(d) Upon receiving payment of all costs relating to a tow, the storage
+HEA 1390 — CC 1
+
+
+--- Page 14 ---
+14
+of a vehicle, and all allowable fees, as applicable, a towing service or
+storage yard shall provide to the person making payment an itemized
+receipt that includes the information set forth in IC 24-14-5, to the
+extent the information is known or available.
+(e) A towing service or storage yard must be open for business and
+accessible by telephone during regular office hours. A towing service
+or storage yard must provide a telephone number that is available on a
+twenty-four (24) hour basis to receive calls and messages from callers,
+including calls made outside of regular office hours. All calls made to
+a towing service or storage yard must be returned within twenty-four
+(24) hours from the time received. However, if adverse weather, an act
+of God, or an emergency situation over which the towing service or
+storage yard has no control prevents the towing service or storage yard
+from returning calls within twenty-four (24) hours, the towing service
+or storage yard shall return all calls received as quickly as possible.
+(f) A towing service or storage yard shall, if required, notify the
+appropriate public agency of all releases under this section. The
+notification must include:
+(1) the name and address of:
+(A) the person that owns or holds a lien on the vehicle; and
+(B) the insurance company that insures the vehicle, if the
+vehicle was released to a representative of the insurance
+company;
+(2) the signature of the individual to whom the vehicle was
+released;
+(3) a description of the vehicle or parts;
+(4) costs paid; and
+(5) the date of release.
+(g) A towing service or storage yard shall release property to a
+properly identified person who owns or holds a lien on the vehicle
+not later than twenty-four (24) hours after the towing service's or
+storage yard's receipt of:
+(1) payment of seventy-five percent (75%) of the amount of
+the invoice;
+(2) proof of a bond obtained by the owner for the remaining
+twenty-five percent (25%) of the amount of the invoice,
+payable in the event the owner does not comply with a court
+order under subsection (j); and
+(3) a copy of a complaint filed with the attorney general
+alleging a violation of IC 24-14 under IC 24-14-10-1.
+(h) The owner shall file a civil complaint in the appropriate
+jurisdiction not later than thirty (30) days after providing the items
+HEA 1390 — CC 1
+
+
+--- Page 15 ---
+15
+required to release the vehicle under subsection (g) if the disputed
+invoice amount has not been resolved. A towing service or storage
+yard may bring a civil complaint in an appropriate jurisdiction at
+any time within the same thirty (30) day period asking the court to
+resolve the disputed invoice amount.
+(i) A civil complaint filed under subsection (h) must include the
+amounts in the invoice that are disputed and the reason s those
+amounts are disputed. A copy of the invoice and any evidence of
+reaso nableness or unreasonableness must be filed with the
+complaint.
+(j) After a civil complaint is filed under subsection (h), the court
+shall make a determination as to whether the amount charged by
+the towing service or storage yard is reasonable. If the court
+determines that the amount is reasonable, the court shall order the
+owner to pay the amount of the invoice, minus the amount paid
+under subsection (g)(1). If the court determines that the amount
+charged was unreasonable, the court shall determine a reasonable
+amount and order the owner to pay that amount minus the amount
+paid under subsection (g)(1). If the reasonable amount determined
+by the court is less than the amount paid under subsection (g)(1),
+the court shall order the towing service or storage yard to pay the
+owner the difference in those amounts. The court may also require
+either party to pay or refund any additional amount and may
+impose any monetary penalties that the court determines to be
+appropriate.
+(k) Nothing in this section creates, implies, or otherwise grants
+insurance coverage for the amount billed by a towing service or
+storage facility that is not within the owner's automobile insurance
+policy or other policy of insurance.
+SECTION 18. IC 9-22-1-11, AS AMENDED BY P.L.54-2009 ,
+SECTION 6, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 11. (a) An officer who finds or is notified of a
+vehicle or parts believed to be abandoned shall attach in a prominent
+place a notice tag containing the following information:
+(1) The date, time, officer's name, public agency, and address and
+telephone number to contact for information.
+(2) That the vehicle or parts are considered abandoned.
+(3) That the vehicle or parts will be removed after:
+(A) twenty-four (24) hours, if the vehicle is located on or
+within the right-of-way of an interstate highway or any
+highway that is designated as part of the state highway system
+under IC 8-23-4; or
+HEA 1390 — CC 1
+
+
+--- Page 16 ---
+16
+(B) except as provided in subsection (b), seventy-two (72)
+hours, for any other vehicle.
+(4) That the person who owns the vehicle will be held responsible
+for all costs incidental to the removal, storage, and disposal of the
+vehicle.
+(5) That the person who owns the vehicle may avoid costs by
+removal of the vehicle or parts within:
+(A) twenty-four (24) hours, if the vehicle is located on or
+within the right-of-way of an interstate highway or any
+highway that is designated as part of the state highway system
+under IC 8-23-4; or
+(B) seventy-two (72) hours, for any other vehicle.
+(b) This subsection applies only to an abandoned vehicle as
+defined in IC 9-13-2-1(2). The legislative body of a consolidated
+city may adopt an ordinance that establishes a different waiting
+period for the removal of an abandoned vehicle, which must be at
+least seventy-two (72) hours but not more than fourteen (14) days,
+for the purpose of allowing a person  to park their vehicle that is
+registered to their residence on the street outside of that residence.
+SECTION 19. IC 9-22-1-14, AS AMENDED BY P.L.125-2012,
+SECTION 121, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 14. (a) If in the opinion of the
+officer the market value of the abandoned vehicle or parts is at least:
+(1) one thousand dollars ($1,000); or
+(2) in a municipality that has adopted an ordinance under section
+13(b) of this chapter, the amount established by the ordinance;
+the officer, before placing a notice tag on the vehicle or parts, shall
+make a reasonable effort to ascertain the person who owns the vehicle
+or parts or who may be in control of the vehicle or parts.
+(b) Except as provided in section 11(b) of this chapter, after
+seventy-two (72) hours, the officer shall require the vehicle or parts to
+be towed to a storage yard or towing service.
+SECTION 20. IC 9-22-1-27, AS AMENDED BY P.L.191-2007,
+SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 27. (a) This section applies to sales of abandoned
+vehicles or parts by a city, county, or town.
+(b) The proceeds from the sale of abando ned vehicles or parts,
+including:
+(1) charges for bills of sale; and
+(2) money received from persons who own or hold liens on
+vehicles for the cost of removal or storage of vehicles;
+shall be credited against the costs of removal, storage, and disposal
+HEA 1390 — CC 1
+
+
+--- Page 17 ---
+17
+of the vehicle. The remaining proceeds shall be deposited in the
+city's, county's, or town's abandoned vehicle fund by the fiscal officer
+of the city, county, or town.
+(c) The costs incurred by a public agency in administering this
+chapter shall be paid from the abandoned vehicle fund.
+(d) The fiscal body shall annually appropriate sufficient money to
+the fund to carry out this chapter. Money remaining in the fund at the
+end of a year remains in the fund and does not revert to the general
+fund.
+(e) Notwithstanding subsection (d), the fiscal body of a consolidated
+city may transfer money from the fund.
+SECTION 21. IC 9-22-3-4.1, AS ADDED BY P.L.198-2016,
+SECTION 385, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 4.1. (a) This section applies to a
+vehicle:
+(1) for which an insurance company has made and paid an agreed
+settlement; and
+(2) that meets at least one (1) of the criteria set forth in section 3
+of this chapter.
+(b) A person that owns or holds a lien upon a vehicle described in
+subsection (a) shall assign the certificate of title to the insurance
+company described in subsection (a) not more than thirty (30) days
+after the date of settlement. An assignment under this subsection
+does not require notarization and may be signed electronically.
+(c) The insurance company shall:
+(1) apply to the bureau within forty-five (45) days after receipt of
+the certificate of title for a certificate of salvage title for each
+vehicle subject to this chapter; and
+(2) if in the possess ion of the insurance company, surrender
+the:
+(A) certificate of title, signed or unsigned; or
+ (B) other proof of ownership;
+to the bureau; and or other proof of ownership to the bureau and
+pay a salvage title fee of four dollars ($4). The fee shall be
+deposited in the motor vehicle highway account.
+(3) pay a salvage title fee of four dollars ($4). The fee shall be
+deposited in the motor vehicle highway account.
+(d) After the bureau has received the items set forth in subsection
+(c)(2) and (c)(3), the bureau shall issue a certificate of salvage title for
+a vehicle to:
+(1) the owner, if the owner retains possession of the vehicle as
+part of an agreed settlement with an insurance company for the
+HEA 1390 — CC 1
+
+
+--- Page 18 ---
+18
+vehicle; or
+(2) the insurance company, if the owner does not retain
+possession.
+(e) Except as provided in section 4.4 of this chapter, a person that
+violates this section commits a Class D infraction.
+SECTION 22. IC 9-22-3-4.2, AS ADDED BY P.L.198-2016,
+SECTION 386, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 4.2. (a) A self-insured entity that
+owns a vehicle that meets at least one (1) of the criteria set forth in
+section 3 of this chapter shall apply to the bureau within forty-five (45)
+days after the date of loss for a certificate of salvage title in the name
+of the self-insured entity's name.
+(b) Any other person acquiring a wrecked or damaged vehicle that
+meets at least one (1) of the criteria set forth in section 3 of this
+chapter, which acquisition is not evidenced by a certificate of salvage
+title, shall apply to the bureau within forty-five (45) days after
+acquiring the vehicle for a certificate of salvage title.
+(c) The bureau shall issue a certificate of salvage title as proof of
+ownership for a salvage vehicle when the acquiring person does the
+following:
+(1) Makes a proper application in the manner and form prescribed
+by the bureau.
+(2) Pays a salvage title fee of four dollars ($4). The fee shall be
+deposited in the motor vehicle highway account.
+(3) If in the possession of the acquiring person, surrenders the
+vehicle's original certificate of title or other proof of ownership.
+as determined by the bureau.
+(d) Except as provided in section 4.4 of this chapter, a person that
+violates this section commits a Class D infraction.
+SECTION 23. IC 9-22-3-4.4, AS ADDED BY P.L.198-2016,
+SECTION 388, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 4.4. (a) For purposes of sections
+4.1, 4.2, and 4.3 of this chapter, "other proof of ownership" with respect
+to a vehicle includes the following items that contain the physical or
+electronic signature of the owner, with or without notarization:
+(1) A document granting an insurance company a limited power
+of attorney.
+(2) An affidavit transferring title to an insurance company.
+(3) Another document authorizing an insurance company to
+assign ownership of the motor vehicle.
+(b) A person that violates section 4.1, 4.2, or 4.3 of this chapter by
+knowingly or intentionally submitting a fraudulent document or
+HEA 1390 — CC 1
+
+
+--- Page 19 ---
+19
+affidavit described in subsection (a) commits a Class A infraction.
+(c) Other proof of ownership may accompany a signed or
+unsigned vehicle title. The bureau may accept a signed vehicle title
+as other proof of ownership.
+SECTION 24. IC 9-24-3-2.5, AS AMENDED BY P.L.111-2021,
+SECTION 38, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 2.5. (a) Except as provided in section 3 of this
+chapter, an individual must satisfy the requirements set forth in one (1)
+of the following subdivisions to receive a driver's license:
+(1) The individual meets the following conditions:
+(A) Is at least sixteen (16) years and ninety (90) days of age.
+(B) Has held a valid learner's permit for at least one hundred
+eighty (180) days.
+(C) Obtains an instructor's certification that the individual has
+satisfactorily completed an approved driver education course.
+(D) Passes the required examinations.
+(E) Completes at least fifty (50) hours of supervised driving
+practice, of which at least ten (10) hours are nighttime driving,
+as provided in subsection (b).
+(2) The individual meets the following conditions:
+(A) Is at least sixteen (16) years and two hundred seventy
+(270) days of age.
+(B) Has held a valid learner's permit for at least one hundred
+eighty (180) days.
+(C) Passes the required examinations.
+(D) Completes at least fifty (50) hours of supervised driving
+practice, of which at least ten (10) hours are nighttime driving,
+as provided in subsection (b).
+(3) The individual meets the following conditions:
+(A) Is at least sixteen (16) years and one hundred eighty (180)
+days of age but less than eighteen (18) years of age.
+(B) Has previously been a nonresident of Indiana, but, at the
+time of application, qualifies as an Indiana resident.
+(C) Has held for at least sixty (60) days a valid driver's license,
+excluding a learner's permit or the equivalent, in the state or a
+combination of states in which the individual formerly resided.
+(D) Passes the required examinations.
+(4) The individual meets the following conditions:
+(A) Is at least eighteen (18) years of age.
+(B) Has previously been a nonresident but, at the time of
+application, qualifies as an Indiana resident.
+(C) Held a valid driver's license, excluding a learner's permit
+HEA 1390 — CC 1
+
+
+--- Page 20 ---
+20
+or the equivalent, from the state or country of prior residence.
+(D) Passes the required examinations.
+(5) The individual meets the following conditions:
+(A) Is at least eighteen (18) years of age.
+(B) Is a person with a disability.
+(C) Holds an Indiana learner's permit.
+(D) Has successfully completed driver rehabilitation training
+by a certified driver rehabilitation specialist recognized by the
+bureau.
+(E) Passes the required examinations.
+(6) The individual meets the following conditions:
+(A) Is at least sixteen (16) years and ninety (90) days of age.
+(B) Is a person with a disability.
+(C) Has held a valid learner's permit for at least one
+hundred eighty (180) days.
+(D) Has successfully completed driver rehabilitation
+training by a certified driver rehabilitation specialist
+recognized by the bureau.
+(E) Passes the required examinations.
+(F) Completes at least fifty (50) hours of supervised driving
+practice, of which at least ten (10) hours are nighttime
+driving, as provided in subsection (b).
+(b) An applicant who is required to complete at least fifty (50) hours
+of supervised practice driving under subsection (a)(1)(E), or (a)(2)(D),
+or (a)(6)(F) must do the following:
+(1) If the applicant is less than eighteen (18) years of age,
+complete the practice driving with:
+(A) a licensed driver, with valid driving privileges, who is:
+(i) at least twenty-five (25) years of age; and
+(ii) related to the applicant by blood, marriage, or legal
+status;
+(B) the spouse of the applicant who is:
+(i) a licensed driver with valid driving privileges; and
+(ii) at least twenty-one (21) years of age; or
+(C) an individual with valid driving privileges who:
+(i) is licensed as a driver education instructor under
+IC 9-27-6-8 and is working under the direction of a driver
+training school described in IC 9-27-6-3(a)(2); or
+(ii) is a certified driver rehabilitation specialist recognized
+by the bureau who is employed through a driver
+rehabilitation program.
+(2) If the applicant is at least eighteen (18) years of age, complete
+HEA 1390 — CC 1
+
+
+--- Page 21 ---
+21
+the driving practice with:
+(A) a licensed driver, with valid driving privileges, who is at
+least twenty-five (25) years of age; or
+(B) the spouse of the applicant who is:
+(i) a licensed driver with valid driving privileges; and
+(ii) at least twenty-one (21) years of age.
+(3) If the applicant is less than eighteen (18) years of age and is
+under the care and supervision of the department of child
+services, complete the driving practice with:
+(A) a licensed driver with valid driving privileges who is:
+(i) at least twenty-five (25) years of age; and
+(ii) related to the applicant by blood, marriage, or legal
+status;
+(B) a licensed driver with valid driving privileges who is:
+(i) at least twenty-five (25) years of age; and
+(ii) approved by the department of child services; or
+(C) an individual with valid driving privileges who is:
+(i) licensed as a driver education instructor under
+IC 9-27-6-8 and is working under the direction of a driver
+training school described in IC 9-27-6-3(a)(2); or
+(ii) a certified driver rehabilitation specialist recognized by
+the bureau who is employed through a driver rehabilitation
+program.
+(4) Submit to the commission under IC 9-24-9-2(c) evidence of
+the time logged in practice driving.
+SECTION 25. IC 9-24-6.1-5, AS ADDED BY P.L.198-2016,
+SECTION 452, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 5. (a) The bureau may contract with
+public and private institutions, agencies, businesses, and organizations
+to conduct testing required to implement the program. A person that
+conducts testing under this section may impose, collect, and retain fees
+for conducting the testing.
+(b) Fees for testing under this section may be not more than the
+following:
+(1) One hundred fifty dollars ($150) per skills exam if:
+(A) the applicant is an employee of the Indiana department
+of transportation; or
+(B) the applicant is a school bus driver.
+(2) Two hundred dollars ($200) for an initial skills exam.
+(3) One hundred fifty dollars ($150) for a second skills exam.
+(4) One hundred dollars ($100) for a third skills exam and any
+subsequent skills exam.
+HEA 1390 — CC 1
+
+
+--- Page 22 ---
+22
+SECTION 26. IC 9-24-7-7, AS AMENDED BY P.L.85-2013,
+SECTION 33, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 7. The bureau shall publish the following:
+(1) An online driving guide that may be used by the holder of a
+learner's permit and the parent of the holder of a learner's permit,
+if applicable.
+(2) An online log that must be completed to show evidence of the
+completion of the hours of supervised practice driving required
+under IC 9-24-3-2.5(a)(1)(E), or IC 9-24-3-2.5(a)(2)(D), or
+IC 9-24-3-2.5(a)(6)(F).
+SECTION 27. IC 9-24-8.5-2, AS AMENDED BY P.L.141-2024,
+SECTION 21, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 2. (a) A driver's license issued under IC 9-24-3
+may include one (1) or more of the following:
+(1) A motorcycle endorsement under IC 9-24-8-4 (before its
+expiration) or section 3 of this chapter.
+(2) A for-hire endorsement under section 5 of this chapter.
+(b) A commercial driver's license may include one (1) or more of
+the following:
+(1) A motorcycle endorsement under IC 9-24-8-4 (before its
+expiration) or section 3 of this chapter.
+(2) Except for a hazardous materials endorsement and an
+intrastate passenger transport endorsement, an endorsement
+under IC 9-24-6.1, including under any rules adopted under
+IC 9-24-6.1, if the applicant is at least twenty-one (21) years of
+age.
+(3) A hazardous materials endorsem ent and an intrastate
+passenger transport endorsement under IC 9-24-6.1, including
+under any rules adopted under IC 9-24-6.1, if the applicant is at
+least eighteen (18) years of age.
+SECTION 28. IC 9-24-9-2, AS AMENDED BY P.L.141-2024,
+SECTION 22, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 2. (a) Except as provided in subsection (b), each
+application for a driver's license or permit under this chapter must
+require the following information:
+(1) The full legal name of the applicant.
+(2) The applicant's date of birth.
+(3) The gender of the applicant.
+(4) The applicant's height, weight, hair color, and eye color.
+(5) The address of the applicant.
+(6) A:
+(A) valid Social Security number; or
+HEA 1390 — CC 1
+
+
+--- Page 23 ---
+23
+(B) verification of an applicant's:
+(i) ineligibility to be issued a Social Security number;
+(ii) identity; and
+(iii) lawful status.
+(7) Whether the applicant has been subject to fainting spells or
+seizures.
+(8) Whether the applicant has been issued a driver's license or has
+been the holder of a permit, and if so, when and by what
+jurisdiction.
+(9) Whether the applicant's driver's license or permit has ever
+been suspended or revoked, and if so, the date of and the reason
+for the suspension or revocation.
+(10) Whether the applicant has been convicted of:
+(A) a crime punishable as a felony under Indiana motor
+vehicle law; or
+(B) any other felony in the commission of which a motor
+vehicle was used;
+that has not been expunged by a court.
+(11) Whether the applicant has a physical or mental disability,
+and if so, the nature of the disability.
+(12) The signature of the applicant showing the applicant's legal
+name as it appears or will appear on the driver's license or permit.
+(13) A digital photograph of the applicant.
+(14) Any other information the bureau requires.
+(b) For purposes of subsection (a), an individual certified as a
+program participant in the address confidentiality program under
+IC 5-26.5 is not required to provide the individual's address, but may
+provide an address designated by the office of the attorney general
+under IC 5-26.5 as the individual's address.
+(c) In addition to the information required by subsection (a), an
+applicant who is required to complete at least fifty (50) hours of
+supervised practice driving under IC 9-24-3-2.5(a)(1)(E), or
+IC 9-24-3-2.5(a)(2)(D), or IC 9-24-3-2.5(a)(6)(F) must submit to the
+bureau evidence of the time logged in practice driving.
+SECTION 29. IC 9-24-12-0.5, AS AMENDED BY P.L.211-2023,
+SECTION 43, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 0.5. (a) A learner's permit issued in the form of a
+physical credential expires two (2) years after the date of issuance. A
+learner's permit expires upon the bureau receiving notice of the
+death of the holder or upon issuance of a subsequent physical
+credential.
+(b) A motorcycle learner's permit expires one (1) year after the date
+HEA 1390 — CC 1
+
+
+--- Page 24 ---
+24
+of issuance. A motorcycle permit may be renewed one (1) time for a
+period of one (1) year. An individual who does not obtain a motorcycle
+endorsement under IC 9-24-8.5 before the expiration of the renewed
+motorcycle permit may not reapply for a new motorcycle permit for a
+period of one (1) year after the date of expiration of the renewed
+motorcycle permit. The bureau  may not issue more than three (3)
+motorcycle learner's permits to an individual within a five (5) year
+period. A motorcycle learner's permit expires upon the bureau
+receiving notice of the death of the holder.
+(c) A commercial learner's permit expires one hundred eighty (180)
+days after the date of issuance. The bureau may issue not more than
+three (3) commercial learner's permits to an individual within a
+twenty-four (24) month period. A commercial learner's permit
+expires upon the bureau receiving notice of the death of the holder.
+(d) The fee to renew a permit that expires under this section is the
+applicable fee to issue the permit under this article.
+SECTION 30. IC 9-24-12-11, AS AMENDED BY P.L.141-2024,
+SECTION 30, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 11. (a) This section applies to a driver's license
+other than a commercial driver's license.
+(b) If the birthday of a holder on which the holder's driver's license
+would otherwise expire falls on:
+(1) Sunday;
+(2) a legal holiday (as set forth in IC 1-1-9-1); or
+(3) a weekday when all license branches in the county of
+residence of the holder are closed;
+the driver's license of the holder does not expire until midnight of the
+first day after the birthday on which a license branch is open for
+business in the county of residence of the holder.
+(c) A driver's license issued to an applicant who complies with
+IC 9-24-9-2.5 expires:
+(1) at midnight one (1) year after issuance if there is no expiration
+date on the authorization granted to the individual to remain in the
+United States; or
+(2) if there is an expiration date on the authorization granted to
+the individual to remain in the United States, the earlier of the
+following:
+(A) At midnight of the date the authorization of the holder to
+have lawful status as a permanent resident or conditional
+resident alien of the United States expires.
+(B) At midnight of the birthday of the holder that occurs six
+(6) years after the date of issuance.
+HEA 1390 — CC 1
+
+
+--- Page 25 ---
+25
+(d) A driver's license expires upon the bureau receiving notice of the
+death of the holder or the issuance of a subsequent physical
+credential.
+SECTION 31. IC 9-24-16-4, AS AMENDED BY P.L.211-2023,
+SECTION 56, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 4. (a) Except as provided in subsection (b) and
+section 5(e) of this chapter, an identification card expires at midnight
+of the birthday of the holder that occurs six (6) years following the date
+of issuance.
+(b) An identification card issued under this article to an applicant
+who complies with section 3.5 of this chapter expires:
+(1) at midnight one (1) year after issuance, if there is no
+expiration date on the authorization granted to the individual to
+remain in the United States; or
+(2) if there is an expiration date on the authorization granted to
+the individual to remain in the United States, the earlier of the
+following:
+(A) At midnight of the date the authorization of the holder to
+have lawful status as a permanent resident or conditional
+resident alien of the United States expires.
+(B) At midnight of the birthday of the holder that occurs six
+(6) years after the date of issuance.
+SECTION 32. IC 9-24-16-5, AS AMENDED BY P.L.141-2024,
+SECTION 37, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 5. (a) An application for renewal of an
+identification card issued in the form of a physical credential may be
+made not more than twenty-four (24) months before the expiration date
+of the card issued in the form of a physical credential. However, when
+the applicant complies with section 3.5 of this chapter, an application
+for renewal of an identification card issued in the form of a physical
+credential may be filed not more than one (1) month before the
+expiration date of the identification card issued in the form of a
+physical credential held by the applicant.
+(b) Except as provided in subsection (d), a renewed card issued in
+the form of a physical credential is valid on the birth date of the holder
+and remains valid for six (6) years.
+(c) Renewal may not be granted if the cardholder was issued a
+driver's license issued in the form of a physical credential subsequent
+to the last issuance of an identification card issued in the form of a
+physical credential.
+(d) A renewed identification card issued under this article in the
+form of a physical credential to an applicant who complies with section
+HEA 1390 — CC 1
+
+
+--- Page 26 ---
+26
+3.5 of this chapter expires:
+(1) at midnight one (1) year after issuance, if there is no
+expiration date on the authorization granted to the individual to
+remain in the United States; or
+(2) if there is an expiration date on the authorization granted to
+the individual to remain in the United States, the earlier of the
+following:
+(A) At midnight of the date the authorization of the holder to
+have lawful status as a permanent resident or conditional
+resident alien of the United States expires.
+(B) At midnight of the birthday of the holder that occurs six
+(6) years after the date of issuance.
+(e) An identification card expires upon the bureau receiving notice
+of the death of the holder or upon issuance of a subsequent physical
+credential.
+SECTION 33. IC 9-24-16.5-5, AS AMENDED BY P.L.147-2018,
+SECTION 21, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 5. (a) Except as provided in subsection (f), a
+photo exempt identification card expires at midnight on the birth date
+of the holder that occurs six (6) years following the date of issuance.
+(b) An application for renewal of a photo exempt identification card
+may be made not more than twenty-four (24) months before the
+expiration date of the card.
+(c) A renewed photo exempt identification card is valid on the birth
+date of the holder and remains valid for six (6) years.
+(d) A photo exempt identification card may not be renewed if the
+holder was issued a driver's license or an identification card after the
+last issuance of a photo exempt identification card.
+(e) An application for the renewal of a photo exempt identification
+card may not be made by mail or by electronic service.
+(f) A photo exempt identification card expires upon the bureau
+receiving notice of the death of the holder or upon issuance of a
+subsequent physical credential.
+SECTION 34. IC 9-25-4-7, AS AMENDED BY P.L.59-2013,
+SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JANUARY 1, 2028]: Sec. 7. (a) Proof of financial responsibility as
+requested by the bureau:
+(1) must be in effect on the date of the request; and
+(2) may be given by any of the following methods:
+(A) Proof that a policy or policies of operator or motor vehicle
+liability insurance, as applicable, have been obtained and are
+in full force and effect, including through a secure online
+HEA 1390 — CC 1
+
+
+--- Page 27 ---
+27
+insurance verification system under IC 9-25-11.
+(B) Proof that a bond has been duly executed.
+(C) Proof that deposit has been made of money or securities.
+(b) Proof of financial responsibility as request ed by a law
+enforcement officer:
+(1) must be in effect on the date of the request; and
+(2) may be provided in a paper or electronic format or may be
+verified by the law enforcement officer through a secure
+online insurance verification system under IC 9-25-11. For
+purposes of this subdivision, electronic formats include the
+display of an electronic image on a telecommunications device.
+SECTION 35. IC 9-25-4-8, AS AMENDED BY P.L.59-2013,
+SECTION 10, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JANUARY 1, 2028]: Sec. 8. Proof of financial responsibility meeting
+the requirements set forth in this article must be filed in a manner
+prescribed by the bureau by an insurance carrier of the person for
+whom proof is required or through a secure online insurance
+verification system under IC 9-25-11.
+SECTION 36. IC 9-25-11 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+JANUARY 1, 2028]:
+Chapter 11. Real Time Insurance Verification
+Sec. 1. (a) The bureau shall maintain a secure online insurance
+verification system to access information in real time from a
+driver's insurer for the purpose of determining a driver's
+compliance with this article. The secure online insurance
+verification system must transmit requests to insurers for
+verification of motor vehicle liability insurance policies via web
+services established by the insurers in compliance with the
+specifications and standards of the Insurance Industry Committee
+on Motor Vehicle Administration.
+(b) In any circumstance in which the bureau or a law
+enforcement officer is required by law to determine a driver's
+compliance with this article, the bureau  or the law enforcement
+officer shall use the secure online insurance verification system.
+(c) If the bureau or a law enforcement officer is unable to
+determine a driver's compliance with this article through the
+secure online insurance verification system, the bureau shall
+determine the driver's compliance with this article using another
+method allowed under this article.
+Sec. 2. The bureau may contract with a third party to
+implement this chapter.
+HEA 1390 — CC 1
+
+
+--- Page 28 ---
+28
+Sec. 3. An insurer shall allow the bureau to access information
+regarding a driver's compliance with this article through a secure
+online insurance verification system.
+Sec. 4. The bureau may adopt rules under IC 4-22-2 to
+implement this chapter.
+SECTION 37. IC 9-25-11.5 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]:
+Chapter 11.5. Real Time Insurance Verification Advisory Board
+Sec. 1. As used in this chapter, "advisory board" refers to the
+real time insurance verification advisory board established by
+section 2 of this chapter.
+Sec. 2. The real time insurance verification advisory board is
+established under the executive branch of state government for the
+purpose of advising the bureau on the implementation of the real
+time insurance verification program.
+Sec. 3. The advisory board consists of the following eight (8)
+members:
+(1) The commissioner or the commissioner's designee.
+(2) The following seven (7) members, all appointed by the
+commissioner:
+(A) Two (2) members representing the bureau.
+(B) One (1) member representing the department of
+insurance.
+(C) Three (3) members representing insurance companies,
+recommended by the Insurance Industry Committee on
+Motor Vehicle Administration.
+(D) One (1) member representing an independent
+insurance agency.
+Sec. 4. (a) The members shall elect a chairperson of the advisory
+board at the advisory board's first meeting.
+(b) A majority of the members of the advisory board constitutes
+a quorum.
+(c) All members of the advisory board are nonvoting members.
+The advisory board may not take official action.
+(d) An appointed member of the advisory board serves a two (2)
+year term, beginning December 31, 2025, and ending December 31,
+2027.
+(e) An appointed member of the advisory board serves at the
+will of the commissioner. If a vacancy occurs on the advisory
+board, the commissioner shall appoint an individual to fill the
+vacancy.
+HEA 1390 — CC 1
+
+
+--- Page 29 ---
+29
+Sec. 5. (a) A member of the advisory board who is not a state
+employee is not entitled to the minimum salary per diem provided
+by IC 4-10-11-2.1(b). The member is, however, entitled to
+reimbursement for mileage and traveling expenses as provided
+under IC 4-13-1-4 and other expenses actually incurred in
+connection with the member's duties as provided in the state
+policies and procedures established by the Indiana department of
+administration and approved by the budget agency.
+(b) Each member of the advisory board who is a state employee,
+but who is not a member of the general assembly, is entitled to
+reimbursement for mileage and traveling expenses as provided
+under IC 4-13-1-4 and other expenses actually incurred in
+connection with the member's duties as provided in the state
+policies and procedures established by the Indiana department of
+administration and approved by the budget agency.
+Sec. 6. (a) The bureau shall staff the advisory board.
+(b) The expenses of the advisory board shall be paid from funds
+appropriated to the bureau.
+Sec. 7. This chapter expires December 31, 2028.
+SECTION 38. IC 9-26-2-2 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 2. (a) A law
+enforcement officer shall forward a written report of each accident
+investigated under section 1 of this chapter to the state police
+department within twenty-four (24) hours after completing the
+investigation. The report must contain, if possible, the following
+information:
+(1) The name and address of the owner and operator of each
+vehicle involved in the accident.
+(2) The license number and description of each vehicle involved
+in the accident.
+(3) The time and place the accident occurred.
+(4) The name and address of each person injured or killed in the
+accident.
+(5) The name and address of each witness to the accident.
+(6) Whether the law enforcement officer has a reasonable
+belief that a driver's medical impairment may have
+contributed to the accident.
+(b) A law enforcement officer and a law enforcement agency are
+not civilly or criminally liable for any damages related to whether
+a law enforcement officer identifies or fails to identify whether a
+driver's medical impairment may have contributed to an accident
+under subsection (a)(6).
+HEA 1390 — CC 1
+
+
+--- Page 30 ---
+30
+SECTION 39. IC 10-11-2-35.4 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 35.4. The state police department
+shall review its rate sheet for towing service not less than one (1)
+time per calendar year.
+SECTION 40. IC 10-11-2-35.6 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 35.6. The state police department
+may perform an audit of a towing company's truck and equipment
+inventory before adding the towing company to the state police
+department's towing rotation.
+SECTION 41. IC 24-4-26 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]:
+Chapter 26. Advertising of Illegal Products
+Sec. 1. This chapter does not apply to the advertisement of a:
+(1) product containing marijuana; or
+(2) controlled substance listed in schedule I of IC 35-48-2;
+pursuant to a contract that was entered into or renewed before the
+effective date of this chapter as enacted by the 2025 general
+assembly.
+Sec. 2. As used in this chapter, "marijuana" has the meaning set
+forth in IC 35-48-1-19.
+Sec. 3. As used in this chapter, "person" means:
+(1) an individual;
+(2) a proprietorship;
+(3) a partnership;
+(4) a firm;
+(5) an association;
+(6) a corporation;
+(7) a limited liability company; or
+(8) another legal entity.
+Sec. 4. A person may not advertise a:
+(1) product containing marijuana; or
+(2) controlled substance listed in schedule I of IC 35-48-2;
+by any medium.
+Sec. 5. (a) The attorney general may bring an action under this
+chapter to obtain any or all of the following against a person that
+violates this chapter:
+(1) An injunction to enjoin future violations of this chapter.
+(2) The following civil penalties:
+(A) Not more than five thousand dollars ($5,000) for the
+HEA 1390 — CC 1
+
+
+--- Page 31 ---
+31
+first violation.
+(B) Not more than ten thousand dollars ($10,000) for a
+second violation.
+(C) Not more than fifteen thousand dollars ($15,000) for
+each additional violation.
+(3) The attorney general's reasonable costs in:
+(A) the investigation of the violations under this chapter;
+and
+(B) maintaining the action.
+(b) All civil penalties collected under this chapter shall be
+deposited in the state general fund.
+SECTION 42. IC 24-5-0.5-2, AS AMENDED BY P.L.280-2019,
+SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 2. (a) As used in this chapter:
+(1) "Consumer transac tion" means a sale, lease, assignment,
+award by chance, or other disposition of an item of personal
+property, real property, a service, or an intangible, except
+securities and policies or contracts of insurance issued by
+corporations authorized to transact an insurance business under
+the laws of the state of Indiana, with or without an extension of
+credit, to a person for purposes that are primarily personal,
+familial, charitable, agricultural, or household, or a solicitation to
+supply any of these things. However, the term includes the
+following:
+(A) A transfer of structured settlement payment rights under
+IC 34-50-2.
+(B) An unsolicited advertisement sent to a person by telephone
+facsimile machine offering a sale, lease, assignment, award by
+chance, or other disposition of an item of personal property,
+real property, a service, or an intangible.
+(C) The collection of or attempt to collect a debt by a debt
+collector.
+(D) Conduct that arises from, occurs in connection with, or
+otherwise involves a transaction for emergency towing (as
+defined in IC 24-14-2-5) of a person al or commercial
+vehicle.
+(2) "Person" means an individual, corporation, the state of Indiana
+or its subdivisions or agencies, business trust, estate, trust,
+partnership, association, nonprofit corporation or organization, or
+cooperative or any other legal entity.
+(3) "Supplier" means the following:
+(A) A seller, lessor, assignor, or other person who regularly
+HEA 1390 — CC 1
+
+
+--- Page 32 ---
+32
+engages in or solicits consumer transactions, including
+soliciting a consumer transaction by using a telephone
+facsimile machine to transmit an unsolicited advertisement.
+The term includes a manufacturer, wholesaler, or retailer,
+whether or not the person deals directly with the consumer.
+(B) A debt collector.
+(4) "Subject of a consumer transaction" means the personal
+property, real property, services, or intangibles offered or
+furnished in a consumer transaction.
+(5) "Cure" as applied to a deceptive act, means either:
+(A) to offer in writing to adjust or modify the consumer
+transac tion to which the act relates to conform to the
+reasonable expectations of the consumer generated by such
+deceptive act and to perform such offer if accepted by the
+consumer; or
+(B) to offer in writing to rescind such consumer transaction
+and to perform such offer if accepted by the consumer.
+The term includes an offer in writing of one (1) or more items of
+value, including monetary compensation, that the supplier
+delivers to a consumer or a representative of the consumer if
+accepted by the consumer.
+(6) "Offer to cure" as applied to a deceptive act is a cure that:
+(A) is reasonably calculated to remedy a loss claimed by the
+consumer; and
+(B) includes a minimum additional amount that is the greater
+of:
+(i) ten percent (10%) of the value of the remedy under
+clause (A), but not more than four thousand dollars
+($4,000); or
+(ii) five hundred dollars ($500);
+as compensation for attorney's fees, expenses, and other costs
+that a consumer may incur in relation to the deceptive act.
+(7) "Uncured deceptive act" means a deceptive act:
+(A) with respect to which a consumer who has been damaged
+by such act has given notice to the supplier under section 5(a)
+of this chapter; and
+(B) either:
+(i) no offer to cure has been made to such consumer within
+thirty (30) days after such notice; or
+(ii) the act has not been cured as to such consumer within a
+reasonable time after the consumer's acceptance of the offer
+to cure.
+HEA 1390 — CC 1
+
+
+--- Page 33 ---
+33
+(8) "Incurable deceptive act" means a deceptive act done by a
+supplier as part of a scheme, artifice, or device with intent to
+defraud or mislead. The term includes a failure of a transferee of
+structured settlement payment rights to timely provide a true and
+complete disclosure statement to a payee as provided under
+IC 34-50-2 in connection with a direct or indirect transfer of
+structured settlement payment rights.
+(9) "Senior consumer" means an individual who is at least sixty
+(60) years of age.
+(10) "Telephone facsimile machine" means equipment that has
+the capacity to transcribe text or images, or both, from:
+(A) paper into an electronic signal and to transmit that signal
+over a regular telephone line; or
+(B) an electronic signal received over a regular telephone line
+onto paper.
+(11) "Unsolicited advertisement" means material advertising the
+commercial availability or quality of:
+(A) property;
+(B) goods; or
+(C) services;
+that is transmitted to a person without the person's prior express
+invitation or permission, in writing or otherwise.
+(12) "Debt" has the meaning set forth in 15 U.S.C. 1692(a)(5).
+(13) "Debt collector" has the meaning set forth in 15 U.S.C.
+1692(a)(6). The term does not include a person admitted to the
+practice of law in Indiana if the person is acting within the course
+and scope of the person's practice as an attorney. The term
+includes a debt buyer (as defined in IC 24-5-15.5).
+(b) As used in section 3(b)(15) and 3(b)(16) of this chapter:
+(1) "Directory assistance" means the disclosure of telephone
+number information in connection with an identified telephone
+service subscriber by means of a live operator or automated
+service.
+(2) "Local telepho ne directory" refers to a telephone classified
+advertising directory or the business section of a telephone
+directory that is distributed by a telephone company or directory
+publisher to subscribers located in the local exchanges contained
+in the directory. The term includes a directory that includes
+listings of more than one (1) telephone company.
+(3) "Local telephone number" refers to a telephone number that
+has the three (3) number prefix used by the provider of telephone
+service for telephones physically located within the area covered
+HEA 1390 — CC 1
+
+
+--- Page 34 ---
+34
+by the local telephone directory in which the number is listed. The
+term does not include long distance numbers or 800-, 888-, or
+900- exchange numbers listed in a local telephone directory.
+SECTION 43. IC 24-14-2-3.8 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 3.8. "Compensation" means any
+money, thing of value, or econ omic benefit conferred on, or
+received by, a person in return for servi ces rendered, or for
+services to be rendered, whether by that person or another person.
+SECTION 44. IC 24-14-2-5, AS ADDED BY P.L.281-2019,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 5. "Emergency towing" means the towing and
+storage of a motor vehicle, with or without the owner's consent,
+because of:
+(1) a motor vehicle accident on a public street, road, or highway;
+or
+(2) an incident:
+(A) related to an emergency; and
+(B) necessitating the removal of the motor vehicle from a
+location for public safety reasons.
+SECTION 45. IC 24-14-2-12.3 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 12.3. "Property", for purposes of
+IC 24-14-7, has the meaning set forth in IC 24-14-7-3.
+SECTION 46. IC 24-14-5-1, AS ADDED BY P.L.281-2019,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 1. (a) An itemized invoice of actual towing
+charges assessed by a towing company shall be made available to the
+owner of the motor vehicle or the owner's agent not later than one (1)
+business day after:
+(1) the tow is completed; or
+(2) the towing company has obtained all necessary information to
+be included on the invoice, including any charges submitted by
+subcontractors used by the towing company to complete the tow
+and recovery.
+(b) The itemized invoice required by this section must contain the
+following information:
+(1) The location from which the motor vehicle was towed.
+(2) The location to which the motor vehicle was towed.
+(3) The name, address, and telephone number of the towing
+company.
+(4) A description of the towed motor vehicle, including the:
+HEA 1390 — CC 1
+
+
+--- Page 35 ---
+35
+(A) make;
+(B) model;
+(C) year; and
+(D) vehicle identification number;
+of the motor vehicle.
+(5) The license plate number and state of registration for the
+towed motor vehicle.
+(6) The cost of the original towing service.
+(7) The cost of any vehicle storage fees, expressed as a daily rate.
+(8) Other fees, including documentation fees and motor vehicle
+search fees. Each fee must include a full description of the
+services that were provided.
+(9) The costs for services that were performed under a warranty
+or that were otherwise performed at no cost to the owner of the
+motor vehicle.
+(10) An attestation that all items invoiced were  used and
+necessary in the ordinary course of business.
+(11) A good faith estimate of the time that each invoiced item
+was used and the location.
+(12) The number of miles the vehicle was towed.
+(c) Any service or fee in addition to the services or fees described
+in subsection (b)(6), (b)(7), or (b)(8) must be set forth individually as
+a single line item on the invoice required by this section, with an
+explanation and the exact charge for the service or the exact amount of
+the fee.
+(d) A copy of each invoice and receipt submitted by a tow truck
+operator in accordance with this section shall:
+(1) be retained by the towing company for a period of two (2)
+years from the date of issuance; and
+(2) throughout the two (2) year period descr ibed in subdivision
+(1), be made available for inspection and copying not later than
+forty-eight (48) hours after receiving a written reques t for
+inspection from:
+(A) a law enforcement agency;
+(B) the attorney general;
+(C) the prosecuting attorney or city attorney having
+jurisdiction in the location of any of the towing company's
+Indiana business locations;
+(D) the disabled motor vehicle's owner; or
+(E) the agent of the disabled motor vehicle's owner.
+SECTION 47. IC 24-14-5-2 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+HEA 1390 — CC 1
+
+
+--- Page 36 ---
+36
+1, 2025]: Sec. 2. A towing company may charge fees for emergency
+towing and private property towing as follows:
+(1) If the towing service is an emergency towing requested by
+the state police department and the towing company has filed
+its rates to be part of the state police department's towing
+rotation, at the rate agreed to by the towing company and the
+state police department.
+(2) If the towing service is an emergency towing requested by
+a local law enforcement agency and the local law enforcement
+agency has set rates, at the rate of the local law enforcement
+agency or at the rate provided to the local law enforcement
+agency.
+(3) If the towing service is an emergency towing requested by
+a local law enforcement agency and the local law enforcement
+agency does not have set rates or rates provided to the local
+law enforcement agency, at the following rates:
+(A) The rate the towing company provides to the state
+police department district in which the tow occurs.
+(B) If the towing company does not have rates filed with
+the state police department district in which the tow
+occu rs, then a rate that is not more than the state police
+department district's towing and storage agreements.
+(4) If the towing service is a private property towing
+requested by a property owner that does not have a towing
+agreement with the towing company, at the rate applicable
+under subdivision (2) or (3).
+(5) If the towing service is a private property towing
+requested by a property owner that has a towing agreement
+with the towing company, at the rate applicable in the towing
+agreement.
+A towing company with a towing agreement that uses the services
+of another towing company to respond to an emergency towing
+may not charge a rate for the other towing company's services that
+is greater than the rate provided in the towing agreement.
+SECTION 48. IC 24-14-7-3 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2025]: Sec. 3. (a) As used in this section, "property" means any
+of the following:
+(1) A truck (as defined in IC 9-13-2-188).
+(2) A trailer (as defined in IC 9-13-2-184).
+(3) Cargo.
+(b) A person may file a complaint with the attorney general
+HEA 1390 — CC 1
+
+
+--- Page 37 ---
+37
+alleging a violation of this article under IC 24-14-10-1 if the
+person:
+(1) owns or holds a lien on property held at a towing company
+or storage facility; and
+(2) believes the charges relating to a tow or the storage of the
+property are unreasonable.
+(c) Not later than twenty-four (24) hours after receipt of:
+(1) seventy-five percent (75%) of the amount charged;
+(2) proof of a bond obtained by the owner for the remaining
+twenty-five percent (25%) of the amount of the invoice; and
+(3) a copy of a complaint filed with the attorney general
+alleging a violation of this article under IC 24-14-10-1;
+a towing company or storage facility shall release all property to
+a properly identified person who owns or holds a lien on the
+property.
+SECTION 49. IC 24-14-8-1, AS ADDED BY P.L.281-2019,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 1. A towing company or storage facility shall
+charge a fee for towing, clean-up services, or storage of a motor vehicle
+that is reasonable and may not exceed the storage rates allowed
+under IC 9-22-1-4.
+SECTION 50. IC 24-14-8-3, AS ADDED BY P.L.281-2019,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 3. Upon demand, a towing company or storage
+facility shall furnish a copy of the invoice described in IC 24-14-5 and
+all supporting documentation, including payroll records and copies
+of invoices from third parties that are included on the invoice, to a
+local law enforcement agency or the office of the attorney general.
+SECTION 51. IC 24-14-9-1, AS ADDED BY P.L.281-2019,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 1. A towing company shall not do any of the
+following:
+(1) Falsely represent, either expressly or by implication, that the
+towing company represents or is approved by any organization
+that provides emergency road service for disabled motor vehicles.
+(2) Require the owner or operator of a disabled motor vehicle to
+preauthorize:
+(A) repair work; or
+(B) more than twenty-four (24) hours of storage;
+as a condition for providing towing service for the disabled motor
+vehicle.
+(3) Charge more than one (1) towing fee when the owner or
+HEA 1390 — CC 1
+
+
+--- Page 38 ---
+38
+operator of a disabled motor vehicle requests that the disabled
+motor vehicle be towed to a repair facility owned or operated by
+the towing company.
+(4) Tow a motor vehicle to a repair facility unless:
+(A) either:
+(i) the owner of the motor vehicle; or
+(ii) the owner's designated representative;
+gives consent for the motor vehicle to be towed to the repair
+facility; and
+(B) the consent described in clause (A) is given before the
+motor vehicle is removed from the location from which it is to
+be towed.
+The prohibition set forth in this subdivision does not apply in any
+case in which a towing company tows a motor vehicle to a storage
+facility that includes a repair facility on the same site.
+(5) Offer or provide compensation to a person for a towing
+referral unless the person and towing company have a prior
+contract.
+SECTION 52. IC 24-14-9-2, AS ADDED BY P.L.281-2019,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 2. A towing company or a storage facility shall not
+do any of the following:
+(1) Upon payment of all costs relating to a tow, motor vehicle
+storage, and all allowable fees, as applicable, refuse to release the
+motor vehicle during regular office hours to a properly identified
+person who owns or holds a lien on the motor vehicle in
+accordance with the procedures and subject to the same
+requirements set forth in IC 9-22-1-8 with respect to abandoned
+motor vehicles. However, a towing company or storage facility
+shall not release a motor vehicle in any case in which a local law
+enforcement agency has ordered the motor vehicle not to be
+released, or in any case in which the motor vehicle cannot be
+released because of pending litigation.
+(2) Refuse to permit:
+(A) a properly identified person who owns or holds a lien on
+a motor vehicle; or
+(B) a representative of the insurance company that insures the
+motor vehicle, if the vehicle is covered by an active policy of
+insurance;
+to inspect the motor vehicle during regular office hours before all
+costs incurred against the motor vehicle are paid or the motor
+vehicle is released. An inspection fee may not be charged for an
+HEA 1390 — CC 1
+
+
+--- Page 39 ---
+39
+A retrieval fee may be charged if it complies with the
+requirements of IC 9-22-1-8. inspection that occurs during
+regular office hours.
+(3) Charge any storage fee for a stored motor vehicle with respect
+to any day on which:
+(A) release of the motor vehicle; or
+(B) inspection of the motor vehicle by the owner, lienholder,
+or insurance company;
+is not permitted during regular office hours by the towing
+company or storage facility.
+(4) Offer to provide compensation to a person for a referral
+unless the person and the towing company or storage facility
+have an executed contract in place.
+(5) Charge more than the fees that are included in a towing
+agreement or contract with the law enforcement agency that
+ordered the tow or the contract with the private property
+owner that ordered the tow under IC 9-22-1.
+SECTION 53. IC 34-30-2.1-103.8 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 103.8. IC 9-26-2-2 (Concerning
+reporting whether a driver's medical impairment may have
+contributed to an accident).
+SECTION 54. IC 36-9-4-29.4, AS AMENDED BY P.L.210-2023,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 29.4. (a) This section does not apply to a public
+transportation corporation located in a county having a consolidated
+city.
+(b) A public transportation corporation may provide regularly
+scheduled passenger service to specifically designated locations outside
+the system's operational boundaries as described in IC 36-9-1-9 if all
+of the following conditions are met:
+(1) The legislative body of the municipality approves any
+expansion of the service outside the municipality's corporate
+boundaries.
+(2) The expanded service is reasonably required to do any of the
+following:
+(A) Enhance employment opportunities in the new service area
+or the existing service area.
+(B) Serve persons who are elderly, persons with a disability, or
+other persons who are in need of public transportation.
+(3) Except as provided in subsections (e) and (f), the expanded
+service does not extend beyond the boundary of the county in
+HEA 1390 — CC 1
+
+
+--- Page 40 ---
+40
+which the corporation is located.
+(c) Notwithstanding section 39 of this chapter, a public
+transportation corporation may provide demand responsive service
+outside of the system's operational boundaries as described in
+IC 36-9-1-9 if the conditions listed in subsection (b) are met.
+(d) The board may contract with a private operator for the operation
+of an expanded service under this section.
+(e) Subsection (b)(3) does not apply to a special purpose bus (as
+defined in IC 20-27-2-10) or a school bus (as defined in IC 20-27-2-8)
+that provides expanded service for a purpose permitted under
+IC 20-27-9.
+(f) A county having a population of more than one hundred
+eighty-five thousand (185,000) and less than two hundred thousand
+(200,000) may enter into an interlocal cooperation agreement with an
+adjacent county unde r IC 36-1-7 to allow a public transportation
+corporation to provide expanded service beyond the boundary of the
+county in which the corporation is located.
+SECTION 55. IC 36-9-44.7 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]:
+Chapter 44.7. State Right-of-Way
+Sec. 1. (a) A county may mow or maintain any grass or
+vegetation in a right-of-way that is:
+(1) owned by the state; and
+(2) located in the county;
+if the county obtains a permit from the office of the Indiana
+department of transportation district in which the county is
+located.
+(b) A county may not seek reimbursement from the state for the
+costs of any mowing or maintenance by the county under
+subsection (a).
+SECTION 56. An emergency is declared for this act.
+HEA 1390 — CC 1
+
+
+--- Page 41 ---
+Speaker of the House of Representatives
+President of the Senate
+President Pro Tempore
+Governor of the State of Indiana
+Date: Time: 
+HEA 1390 — CC 1

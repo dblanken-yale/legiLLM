@@ -1,0 +1,282 @@
+--- Page 1 ---
+ 
+Introduced Version
+HOUSE BILL No. 1106
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 12-15-41.
+Synopsis:  Medicaid buy-in. Amends the definition of "countable
+resources" for purposes of the Medicaid buy-in program (program).
+Removes consideration of income in determining an individual's
+eligibility for participation in the program. Requires the office of the
+secretary of family and social services (office of the secretary) to apply
+for a state plan amendment or waiver to implement this provision.
+Increases the maximum age to be eligible for participation in the
+program from 64 years of age to 67 years of age. Allows a recipient's
+participation in an employment network recognized by the federal
+Social Security Administration to qualify as participating with an
+approved provider of employment services. Changes the monthly
+maximum premium that a recipient must pay. Requires that the
+premium scale be promulgated by administrative rule. Allows the
+office of the secretary to annually review the premium amount that a
+recipient must pay in the program. (Current law requires annual review
+of the premium amount.) Specifies changes in circumstances that must
+result in an adjustment of the premium. Specifies that a recipient in the
+program is eligible for the same services as offered in the Medicaid
+program. States that an individual's participation in the program does
+not preclude the individual from participating in a Medicaid waiver
+program. Specifies that a recipient of the program may simultaneously
+participate in a Medicaid waiver program and requires the office of the
+secretary to individually determine eligibility for both programs based
+on the individual's medical need requirements.
+Effective:  July 1, 2025.
+Clere,  Greene,  Campbell
+January 8, 2025, read first time and referred to Commi ttee on Public Health.
+2025 IN 1106—LS 7078/DI 147
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE BILL No. 1106
+A BILL FOR AN ACT to amend the Indiana Code concerning
+human services.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 12-15-41-2, AS AMENDED BY P.L.197-2011,
+2 SECTION 42, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2025]: Sec. 2. As used in this chapter, "countable resources"
+4 means all cash, other liquid assets, real property, and personal property
+5 owned by an applicant for or a recipient of Medicaid under this
+6 chapter, or the spouse of an applicant or a recipient, that could be
+7 converted to cash to be used for support or maintenance, except the
+8 following:
+9 (1) All resources disregarded by the office under this article for
+10 the purpose of determining eligibility for Medicaid.
+11 (2) Any resource eligible for exclusion under 42 U.S.C.
+12 1396a(r)(2), including a retirement account established under 26
+13 U.S.C. 220 and held by either the applicant or recipient or the
+14 applicant's or recipient's spouse.
+15 (3) Subject to approval by the office, Not more than twenty
+16 thousand dollars ($20,000) in independence and self-sufficiency
+17 accounts held by the applicant or recipient for the sole purpose of
+2025 IN 1106—LS 7078/DI 147
+
+
+--- Page 3 ---
+2
+1 purchasing goods or services, including assistive technology and
+2 personal assistance, that
+3 (A) will can be used to increase the employability,
+4 self-sufficiency, or independence of the applicant or recipient.
+5 and
+6 (B) are not services to which the recipient is entitled under
+7 Medicaid or any other publicly funded program.
+8 SECTION 2. IC 12-15-41-4 IS AMENDED TO READ AS
+9 FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 4. To participate in the
+10 buy-in program, beginning July 1, 2002, an individual must meet the
+11 following eligibility requirements: under IC 12-15-2-6, except as
+12 follows:
+13 (1) The individual has a severe medically determinable
+14 impairment without regard to the individual's employment status.
+15 (2) The individual must be at least sixteen (16) years of age but
+16 not more than sixty-four (64) sixty-seven (67) years of age.
+17 (3) The individual must be engaged in a substantial and
+18 reasonable work effort as determined by the office and as
+19 permitted by federal law.
+20 (4) The individual does not have countable resources that exceed
+21 the resource limits for the federal Supplemental Security Income
+22 program (42 U.S.C. 1382).
+23 (5) The individual's annual gross income does not exceed three
+24 hundred fifty percent (350%) of the federal income poverty level
+25 for an individual. In determining an individual's income under this
+26 subdivision, the office may not consider the following:
+27 (A) The income of the individual's spouse.
+28 (B) Income disregarded under the state Medicaid plan's
+29 financial methodology, including income disregarded under
+30 the federal Supplemental Security Income program (42 U.S.C.
+31 1382) as impairment related work expenses (IRWE).
+32 SECTION 3. IC 12-15-41-5 IS AMENDED TO READ AS
+33 FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 5. An individual who
+34 is enrolled in the buy-in program and who no longer meets the
+35 eligibility requirements set forth in section 4 of this chapter due to an
+36 improvement in the individual's medical condition continues to be
+37 eligible for Medicaid coverage under the buy-in program if the
+38 individual meets the following requirements:
+39 (1) The individual continues to have a severe medically
+40 determinable impairment, as determined by the office and as
+41 allowed by federal law.
+42 (2) The individual is employed and earning a monthly wage that
+2025 IN 1106—LS 7078/DI 147
+
+
+--- Page 4 ---
+3
+1 is not less than the federal minimum hourly wage times forty (40).
+2 (3) The individual does not have income or countable resources
+3 in excess of the limits established under section 4 of this chapter.
+4 (4) The individual is at least sixteen (16) years of age and less
+5 than sixty-five (65) sixty-seven (67) years of age.
+6 (5) The individual pays any premiums or other cost sharing
+7 required under this chapter.
+8 (6) The individual meets all other eligibility requirements under
+9 this chapter.
+10 SECTION 4. IC 12-15-41-6 IS AMENDED TO READ AS
+11 FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 6. (a) An individual
+12 who is enrolled in the buy-in program and who is unable to maintain
+13 employment for involuntary reasons, including temporary leave due to
+14 a health problem or involuntary termination, continues to be eligible for
+15 Medicaid coverage under the buy-in program if the individual meets
+16 the following requirements:
+17 (1) Within sixty (60) days after the date on which the individual
+18 becomes unemployed, the individual, or an authorized
+19 representative of the individual, submits a written request to the
+20 office that the individual's Medicaid coverage be continued.
+21 (2) The individual maintains a connection to the workforce during
+22 the individual's continued eligibility period by participating in at
+23 least one (1) of the following activities:
+24 (A) Enrollment in a state or federal vocational rehabilitation
+25 program.
+26 (B) Enrollment or registration with the office of workforce
+27 development.
+28 (C) Participation in a transition from school to work program.
+29 (D) Participation with an approved provider of employment
+30 services, including an employment network recognized by
+31 the federal Social Security Administration.
+32 (E) Provision of documentation from the individual's employer
+33 that the individual is on temporary involuntary leave.
+34 (3) The individual does not have income or countable resources
+35 in excess of the limits established under section 4 of this chapter.
+36 (4) The individual is at least sixteen (16) years of age and less
+37 than sixty-five (65) sixty-seven (67) years of age.
+38 (5) The individual pays any premiums or other cost sharing
+39 required under this chapter.
+40 (6) The individual meets all other eligibility requirements under
+41 this chapter.
+42 (b) The office shall continue Medicaid coverage under the buy-in
+2025 IN 1106—LS 7078/DI 147
+
+
+--- Page 5 ---
+4
+1 program for an individual described in subsection (a) for up to twelve
+2 (12) months from the date of the individual's involuntary loss of
+3 employment.
+4 (c) If an individual is ineligible for continued coverage under the
+5 buy-in program because the individual:
+6 (1) fails to meet the requirements of subsection (a); or
+7 (2) has already met twelve (12) months of continuing eligibility
+8 under this section;
+9 the individual must meet the applicable eligibility requirements of
+10 IC 12-15-2-6 this article to continue to be eligible for Medicaid.
+11 SECTION 5. IC 12-15-41-7 IS AMENDED TO READ AS
+12 FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 7. (a) The office shall
+13 develop a sliding scale of premiums for individuals participating in the
+14 buy-in program.
+15 (b) The sliding scale of premiums required under subsection (a)
+16 must:
+17 (1) be based on the annual gross income of the individual and, if
+18 married, the individual's spouse; and
+19 (2) provide for a minimum monthly premium of twenty-five
+20 dollars ($25) and a maximum monthly premium of two hundred
+21 seventy-five dollars ($275). five hundred dollars ($500).
+22 (c) Subject to the minimum and maximum amounts described in
+23 subsection (b), the office may annually adjust the scale of premiums
+24 adopted under this section only by administrative rule under
+25 IC 4-22-2.
+26 SECTION 6. IC 12-15-41-8 IS AMENDED TO READ AS
+27 FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 8. (a) An individual
+28 whose gross annual income, including the gross annual income of the
+29 individual's spouse, if married, is less than one hundred fifty percent
+30 (150%) of the federal income poverty level for the size of the
+31 individual's or couple's family may not be required to pay a premium
+32 to participate in the buy-in program.
+33 (b) An individual whose gross annual income, including the gross
+34 annual income of the individual's spouse, if married, is at least one
+35 hundred fifty percent (150%) but not more than three hundred fifty
+36 percent (350%) of the federal income poverty level for the size of the
+37 individual's or couple's family, must pay a monthly premium in an
+38 amount equal to:
+39 (1) the lesser of:
+40 (A) the amount prescribed by the sliding scale developed by
+41 the office under section 7 of this chapter; or
+42 (B) seven and one-half percent (7 1/2%) of the individual's or
+2025 IN 1106—LS 7078/DI 147
+
+
+--- Page 6 ---
+5
+1 couple's gross annual income divided by twelve (12); minus
+2 (2) the monthly amount of any premium paid by the individual,
+3 the individual's spouse, or the individual's parent for health
+4 insurance that covers the individual.
+5 SECTION 7. IC 12-15-41-9 IS AMENDED TO READ AS
+6 FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 9. (a) The office shall
+7 may annually review the amount of the premium that an individual is
+8 required to pay under section 8 of this chapter.
+9 (b) In addition to the annual review required under subsection (a),
+10 the office shall adjust the premium that an individual is required to pay
+11 under section 8 of this chapter if:
+12 (1) a change in the individual's income or family size is verified;
+13 and
+14 (2) there is a verified change in the amount of any premiums
+15 paid by the individual, the individual's spouse, or the
+16 individual's parent for health insurance that covers the
+17 individual;
+18 (2) (3) the sliding scale adopted under section 7 of this chapter
+19 applied to the individual's changed circumstances prescribes a
+20 premium for the individual that is different from the premium the
+21 individual is paying; or
+22 (4) the office determines that an error was made in calculating
+23 the individual's premium.
+24 SECTION 8. IC 12-15-41-10 IS AMENDED TO READ AS
+25 FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 10. To the greatest
+26 extent possible, the office shall use the same administrative procedures
+27 regarding premiums for the buy-in program as are used for the
+28 children's health insurance program established under IC 12-17.6,
+29 including
+30 (1) the effect of nonpayment of a premium. and
+31 (2) the collection of premiums.
+32 SECTION 9. IC 12-15-41-12 IS AMENDED TO READ AS
+33 FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 12. (a) Except as
+34 otherwise provided in this chapter, an individual participating in the
+35 buy-in program:
+36 (1) shall be eligible to receive the same benefits, including home
+37 health care services and other services set forth in IC 12-15-5-1,
+38 as a Medicaid recipient; and
+39 (2) is subject to the same requirements, including cost sharing;
+40 may not be precluded from also participating in a Medicaid
+41 waiver program.
+42 as an individual receiving Medicaid under IC 12-15-2-6.
+2025 IN 1106—LS 7078/DI 147
+
+
+--- Page 7 ---
+6
+1 (b) If an individual is participating in both the buy-in program
+2 and a Medicaid waiver program, the office of the secretary shall
+3 disregard the following concerning the Medicaid waiver program
+4 ensuring the individual's joint participation:
+5 (1) Income requirements.
+6 (2) Resource requirements.
+7 (3) Cost sharing requirements.
+8 The office of the secretary shall determine eligibility on an
+9 individual basis using medical need requirements of the individual
+10 for an individual seeking to simultaneously participate in the
+11 buy-in program and a Medicaid waiver program.
+12 SECTION 10. [EFFECTIVE JULY 1, 2025] (a) As used in this
+13 SECTION, "office" refers to the office of the secretary of family
+14 and social services established by IC 12-8-1.5-1.
+15 (b) The office shall apply to the United States Department of
+16 Health and Human Services for a state plan amendment or waiver
+17 necessary to implement IC 12-15-41-4, as amended by this act.
+18 (c) This SECTION expires December 31, 2027.
+2025 IN 1106—LS 7078/DI 147

@@ -1,0 +1,148 @@
+--- Page 1 ---
+ 
+Introduced Version
+HOUSE BILL No. 1062
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 5-10-8-18.5; IC 27-8-5-32; IC 27-13-7-29.
+Synopsis:  Coverage for certain cancer prescriptions. Prohibits a state
+employee health plan, a policy of accident and sickness insurance, and
+a health maintenance organization that provides coverage for advanced,
+metastatic cancer and associated conditions from requiring that, before
+providing coverage for a prescription drug, the insured fail to
+successfully respond to a different prescription drug or prove a history
+of failure of a different prescription drug.
+Effective:  July 1, 2025.
+Pryor
+January 8, 2025, read first time and referred to Commi ttee on Insurance.
+2025 IN 1062—LS 6455/DI 154
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE BILL No. 1062
+A BILL FOR AN ACT to amend the Indiana Code concerning
+insurance.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 5-10-8-18.5 IS ADDED TO THE INDIANA CODE
+2 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2025]: Sec. 18.5. (a) This section applies only to a prescription
+4 drug that is:
+5 (1) consistent with best practices for the treatment of
+6 advanced, metastatic cancer or an associated condition;
+7 (2) supported by peer reviewed, evidence based literature;
+8 and
+9 (3) approved by the federal Food and Drug Administration.
+10 (b) As used in this section, "advanced, metastatic cancer" means
+11 cancer that has spread from the primary or original site of the
+12 cancer to nearby tissues, lymph nodes, or other areas or parts of
+13 the body.
+14 (c) As used in this section, "associated conditions" means the
+15 symptoms or side effects associated with advanced, metastatic
+16 cancer or its treatment, which would, in the judgment of a health
+17 care practitioner, further jeopardize the health of the covered
+2025 IN 1062—LS 6455/DI 154
+
+
+--- Page 3 ---
+2
+1 individual if left untreated.
+2 (d) As used in this section, "covered individual" means an
+3 individual entitled to coverage under a state employee health plan.
+4 (e) As used in this section, "state employee health plan" refers
+5 to the following that provide coverage for prescription drugs:
+6 (1) A self-insurance program established under section 7(b) of
+7 this chapter.
+8 (2) A contract with a prepaid health care delivery plan that is
+9 entered into or renewed under section 7(c) of this chapter.
+10 (f) A state employee health plan that provides coverage for
+11 advanced, metastatic cancer and associated conditions may not
+12 require that, before the state employee health plan provides
+13 coverage for a prescription drug, the covered individual:
+14 (1) fail to successfully respond to a different prescription
+15 drug; or
+16 (2) prove a history of failure of a different prescription drug.
+17 SECTION 2. IC 27-8-5-32 IS ADDED TO THE INDIANA CODE
+18 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+19 1, 2025]: Sec. 32. (a) This section applies only to a prescription drug
+20 that is:
+21 (1) consistent with best practices for the treatment of
+22 advanced, metastatic cancer or an associated condition;
+23 (2) supported by peer reviewed, evidence based literature;
+24 and
+25 (3) approved by the federal Food and Drug Administration.
+26 (b) As used in this section, "advanced, metastatic cancer" means
+27 cancer that has spread from the primary or original site of the
+28 cancer to nearb y tissues, lymph nodes, or other areas or parts of
+29 the body.
+30 (c) As used in this section, "associated conditions" means the
+31 symptoms or side effects associated with advanced, metastatic
+32 cancer or its treatment, which would, in the judgment of a health
+33 care practitioner, further jeopardize the health of the insured if left
+34 untreated.
+35 (d) As used in this section, "insured" means an individual who
+36 is entitled to coverage under a policy of accident and sickness
+37 insurance.
+38 (e) As used in this section, "policy of accident and sickness
+39 insurance" means a policy of accident and sickness insurance that
+40 provides coverage for prescription drugs.
+41 (f) A policy of accident and sickness insurance that provides
+42 coverage for advanced, metastatic cancer and associated conditions
+2025 IN 1062—LS 6455/DI 154
+
+
+--- Page 4 ---
+3
+1 may not require that, before the policy of accident and sickness
+2 insurance provides coverage for a prescription drug, the insured:
+3 (1) fail to successfully respond to a different prescription
+4 drug; or
+5 (2) prove a history of failure of a different prescription drug.
+6 SECTION 3. IC 27-13-7-29 IS ADDED TO THE INDIANA CODE
+7 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+8 1, 2025]: Sec. 29. (a) This section applies only to a prescription drug
+9 that is:
+10 (1) consistent with best practices for the treatment of
+11 advanced, metastatic cancer or an associated condition;
+12 (2) supported by peer reviewed, evidence based literature;
+13 and
+14 (3) approved by the federal Food and Drug Administration.
+15 (b) As used in this section, "advanced, metastatic cancer" means
+16 cancer that has spread from the primary or original site of the
+17 cancer to nearby tissues, lymph nodes, or other areas or parts of
+18 the body.
+19 (c) As used in this section, "associated conditions" means the
+20 symptoms or side effects associated with advanced, metastatic
+21 cancer or its treatment, which would, in the judgment of a health
+22 care practitioner, further jeopardize the health of the enrollee if
+23 left untreated.
+24 (d) As used in this section, "group contract" refers to a group
+25 contract that provides coverage for prescription drugs.
+26 (e) As used in this section, "health maintenance organization"
+27 refers to a health maintenance organization that provides coverage
+28 for prescription drugs. The term includes the following:
+29 (1) A limited service health maintenance organization.
+30 (2) A person that administers prescription drug benefits on
+31 behalf of a health maintenance organization or a limited
+32 service health maintenance organization.
+33 (f) As used in this section, "individual contract" refers to an
+34 individual contract that provides coverage for prescription drugs.
+35 (g) A health maintenance organization that provides coverage
+36 under an individual contract or a group contract for advanced,
+37 metastatic cancer and associated conditions may not require that,
+38 before the health maintenance organization provides coverage for
+39 a prescription drug, the enrollee:
+40 (1) fail to successfully respond to a different prescription
+41 drug; or
+42 (2) prove a history of failure of a different prescription drug.
+2025 IN 1062—LS 6455/DI 154

@@ -13,7 +13,7 @@ __pycache__/
 # data/raw/*.json
 # data/filtered/*.json
 # data/analyzed/*.json
-data/cache/
+# data/cache/
 
 # Scripts directory data files (test data and downloaded bills)
 scripts/*.json

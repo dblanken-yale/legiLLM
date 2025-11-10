@@ -1,0 +1,213 @@
+{
+  "bill_id": 1897700,
+  "change_hash": "b90d16ec7afc4b3070920fd859748f49",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/HB1076/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/house/1076/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-08",
+  "progress": [
+    {
+      "date": "2025-01-08",
+      "event": 1
+    },
+    {
+      "date": "2025-01-08",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "HB1076",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "H",
+  "body_id": 37,
+  "current_body": "H",
+  "current_body_id": 37,
+  "title": "Alzheimer's disease and dementia education.",
+  "description": "Alzheimer's disease and dementia education. Requires the Indiana department of health (state department) to: (1) collaborate with a national Alzheimer's disease and dementia organization in educating the public about Alzheimer's disease and dementia; and (2) identify and collaborate with additional partners in the education. Requires the state department to partner for outreach in the education and publish certain educational materials on the state department's website. Allows the state department to accept grants, services, and property from public and private entities for the education.",
+  "pending_committee_id": 1300,
+  "committee": {
+    "committee_id": 1300,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Public Health"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-08",
+      "committee_id": 1300,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Public Health"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-08",
+      "action": "Coauthored by Representatives Barrett and Jackson",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-08",
+      "action": "Authored by Representative Porter",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-08",
+      "action": "First reading: referred to Committee on Public Health",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 5566,
+      "person_hash": "898lkzk5",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Gregory Porter",
+      "first_name": "Gregory",
+      "middle_name": "W.",
+      "last_name": "Porter",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-096",
+      "ftm_eid": 13000455,
+      "votesmart_id": 4704,
+      "opensecrets_id": "",
+      "knowwho_pid": 194548,
+      "ballotpedia": "Gregory_Porter",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    },
+    {
+      "people_id": 20010,
+      "person_hash": "5qplu60u",
+      "party_id": "2",
+      "state_id": 14,
+      "party": "R",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Bradford Barrett",
+      "first_name": "Bradford",
+      "middle_name": "J.",
+      "last_name": "Barrett",
+      "suffix": "",
+      "nickname": "Brad",
+      "district": "HD-056",
+      "ftm_eid": 44857917,
+      "votesmart_id": 178180,
+      "opensecrets_id": "",
+      "knowwho_pid": 655460,
+      "ballotpedia": "Bradford_Barrett",
+      "bioguide_id": "",
+      "sponsor_type_id": 2,
+      "sponsor_order": 2,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    },
+    {
+      "people_id": 20011,
+      "person_hash": "8t48vq76",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Carolyn Jackson",
+      "first_name": "Carolyn",
+      "middle_name": "B.",
+      "last_name": "Jackson",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-001",
+      "ftm_eid": 44858020,
+      "votesmart_id": 178082,
+      "opensecrets_id": "",
+      "knowwho_pid": 654975,
+      "ballotpedia": "Carolyn_Jackson",
+      "bioguide_id": "",
+      "sponsor_type_id": 2,
+      "sponsor_order": 3,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3034517,
+      "date": "2024-12-19",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/HB1076/id/3034517",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1076/HB1076.01.INTR.pdf",
+      "text_size": 87933,
+      "text_hash": "e878879eca7670e6b8077ea05362a350",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 485131,
+      "date": "2024-12-19",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/HB1076/id/485131",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1076/fiscal-notes/HB1076.01.INTR.FN001.pdf",
+      "supplement_size": 61195,
+      "supplement_hash": "57ce14bdad72bdf6d387c214f28998d9",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

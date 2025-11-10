@@ -1,0 +1,189 @@
+--- Page 1 ---
+ 
+Introduced Version
+SENATE BILL No. 117
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 35-31.5-2; IC 35-35-1-2; IC 35-38-1-17.5.
+Synopsis:  Compassionate release. Allows certain convicted persons
+who have a chronic medical condition or are terminally ill or gravely
+disabled to file a petition for sentence modification, without the
+consent of the prosecuting attorney. Defines "chronic medical
+condition" and "terminally ill or gravely disabled" for purposes of filing
+a petition for sentence modification. Specifies that a court may not,
+without the consent of the prosecuting attorney, reduce or suspend a
+convicted person's sentence: (1) that was not authorized by a plea
+agreement; or (2) that is below the sentence that the court was
+authorized to impose at the time of sentencing. Provides certain criteria
+that the court must consider when ruling on a petition for sentence
+modification. Allows the court to grant or deny a petitioner's request for
+sentence modification, summarily dismiss the petition, or hold a
+hearing. 
+Effective:  July 1, 2025.
+Pol Jr.
+January 8, 2025, read first time and referred to Commi ttee on Corrections and Criminal
+Law.
+2025 IN 117—LS 6091/DI 149
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+SENATE BILL No. 117
+A BILL FOR AN ACT to amend the Indiana Code concerning
+criminal law and procedure.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 35-31.5-2-40.6 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2025]: Sec. 40.6. "Chronic medical
+4 condition", for purposes of IC 35-38-1-17.5, has the meaning set
+5 forth in IC 35-38-1-17.5.
+6 SECTION 2. IC 35-31.5-2-328.5 IS ADDED TO THE INDIANA
+7 CODE AS A NEW SECTION TO READ AS FOLLOWS
+8 [EFFECTIVE JULY 1, 2025]: Sec. 328.5. "Terminally ill or gravely
+9 disabled", for purposes of IC 35-38-1-17.5, has the meaning set
+10 forth in IC 35-38-1-17.5.
+11 SECTION 3. IC 35-35-1-2, AS AMENDED BY P.L.45-2018,
+12 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 JULY 1, 2025]: Sec. 2. (a) The court shall not accept a plea of guilty or
+14 guilty but mentally ill at the time of the crime without first determining
+15 that the defendant:
+16 (1) understands the nature of the charge against the defendant;
+17 (2) has been informed that by the defendant's plea the defendant
+2025 IN 117—LS 6091/DI 149
+
+
+--- Page 3 ---
+2
+1 waives the defendant's rights to:
+2 (A) a public and speedy trial by jury;
+3 (B) confront and cross-examine the witnesses against the
+4 defendant;
+5 (C) have compulsory process for obtaining witnesses in the
+6 defendant's favor; and
+7 (D) require the state to prove the defendant's guilt beyond a
+8 reasonable doubt at a trial at which the defendant may not be
+9 compelled to testify against himself or herself;
+10 (3) has been informed of the maximum possible sentence and
+11 minimum sentence for the crime charged and any possible
+12 increased sentence by reason of the fact of a prior conviction or
+13 convictions, and any possibility of the imposition of consecutive
+14 sentences;
+15 (4) has been informed that the person will lose the right to possess
+16 a firearm if the person is convicted of a crime of domestic
+17 violence (IC 35-31.5-2-78); and
+18 (5) has been informed that if:
+19 (A) there is a plea agreement as defined by IC 35-31.5-2-236;
+20 and
+21 (B) the court accepts the plea;
+22 the court is bound by the terms of the plea agreement at the time
+23 of sentencing and with respect to sentence modification unde r
+24 IC 35-38-1-17 or IC 35-38-1-17.5.
+25 (b) A defendant in a misdemeanor case may waive the rights under
+26 subsection (a) by signing a written waiver.
+27 (c) Any variance from the requirements of this section that does not
+28 violate a constitutional right of the defendant is not a basis for setting
+29 aside a plea of guilty.
+30 SECTION 4. IC 35-38-1-17.5 IS ADDED TO THE INDIANA
+31 CODE AS A NEW SECTION TO READ AS FOLLOWS
+32 [EFFECTIVE JULY 1, 2025]: Sec. 17.5. (a) This section does not
+33 apply to a credit restricted felon.
+34 (b) The following definitions apply throughout this section:
+35 (1) "Chronic medical condition" means a person:
+36 (A) has received a medical diagnosis that is related to the
+37 aging process;
+38 (B) has deteriorating mental or physical health that has
+39 substantially diminished the person's ability to function in
+40 a correctional facility; and
+41 (C) cannot receive medical treatment within the
+42 correctional facility that would substantially improve the
+2025 IN 117—LS 6091/DI 149
+
+
+--- Page 4 ---
+3
+1 person's condition.
+2 (2) "Terminally ill or gravely disabled" means:
+3 (A) a physician has diagnosed the person with a terminal
+4 illness with a life expectancy of eighteen (18) months or
+5 less;
+6 (B) the person has a disease or condition with an end of life
+7 trajectory, including but not limited to:
+8 (i) metastatic solid tumor cancer;
+9 (ii) amyotrophic lateral sclerosis (ALS);
+10 (iii) end stage organ disease; and
+11 (iv) advanced end stage dementia with an end of life
+12 trajectory; or
+13 (C) the person is unable to complete basic activities of daily
+14 living, has limited ability for self-care, and is confined to a
+15 bed or chair for more than fifty percent (50%) of the
+16 person's waking hours.
+17 (c) Notwithstanding section 17 of this chapter, a convicted
+18 person may file a petition for sentence modification, without the
+19 consent of the prosecuting attorney, under this section if one (1) of
+20 the following applies:
+21 (1) The person is terminally ill or gravely disabled.
+22 (2) The person is at least sixty-five (65) years of age, is serving
+23 a sentence for an offense committed before the person was
+24 sixty (60) years of age, and the person has served:
+25 (A) at least:
+26 (i) ten (10) years in the custody of the department of
+27 correction for the current sentence; or
+28 (ii) fifty percent (50%) of the sentence imposed;
+29 whichever is less, if the person has a chronic medical
+30 condition; or
+31 (B) at least:
+32 (i) ten (10) years in the custody of the department of
+33 correction; or
+34 (ii) seventy-five percent (75%) of the sentence imposed;
+35 whichever is less.
+36 The time periods described in this subsection are computed on the
+37 basis of time actually served and do not include any reduction
+38 applied for good time credit or educational credit time.
+39 (d) A convicted person may file a petition under this section
+40 even if the person has previously filed a petition for sentence
+41 modification under section 17 of this chapter.
+42 (e) A convicted person may petition for a modification only one
+2025 IN 117—LS 6091/DI 149
+
+
+--- Page 5 ---
+4
+1 (1) time under this section without the consent of the prosecuting
+2 attorney, unless the person presents medical evidence in the
+3 petition that the person's medical condition has substantially
+4 deteriorated since the person's previous petition was filed.
+5 (f) A court may not, without the consent of the prosecuting
+6 attorney, reduce or suspend the convicted person's sentence below
+7 the sentence that the court was authorized to impose at the time of
+8 sentencing.
+9 (g) If the convicted person was sentenced under the terms of a
+10 plea agreement, the court may not, without the consent of the
+11 prosecuting attorney, reduce or suspend the sentence and impose
+12 a sentence not authorized by the plea agreement. In making this
+13 determination, the court must:
+14 (1) consider the person's reentry plans, including evidence
+15 that the person will:
+16 (A) have suitable living quarters; and
+17 (B) receive necessary medical care or treatment; and
+18 (2) incorporate its reasons in the record.
+19 (h) The court:
+20 (1) may grant the request to reduce or suspend the convicted
+21 person's sentence;
+22 (2) may summarily dismiss the petition if it does not meet the
+23 requirements of this section; or
+24 (3) shall hold a hearing.
+25 However, if the petitioner and the prosecuting attorney file an
+26 agreement concerning a reduction or suspension of the petitioner's
+27 sentence, the court may issue a court order approving the
+28 agreement without a hearing.
+2025 IN 117—LS 6091/DI 149

@@ -1,0 +1,275 @@
+--- Page 1 ---
+ 
+Introduced Version
+SENATE BILL No. 446
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 27-8-5-15.8; IC 27-13-7-14.2.
+Synopsis:  Mental health and substance abuse coverage. Sets forth
+certain standards regarding reimbursement rates for providers of
+mental illness or substance abuse services. Provides that if a provider
+of health care services that provides both medical or surgical services
+and mental illness or substance abuse services is credentialed with an
+insurer or health maintenance organization for purposes of providing
+medical or surgical services, the provider must be considered
+automatically credentialed for purposes of providing mental illness or
+substance abuse services in instances under which the insurer provides
+coverage of mental illness or substance abuse services through a third
+party vendor. 
+Effective:  Upon passage.
+Crider
+January 13, 2025, read first time and referred to Commi ttee on Health and Provi der
+Services.
+2025 IN 446—LS 7255/DI 141
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+SENATE BILL No. 446
+A BILL FOR AN ACT to amend the Indiana Code concerning
+insurance.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 27-8-5-15.8, AS ADDED BY P.L.103-2020,
+2 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 UPON PASSAGE]: Sec. 15.8. (a) As used in this section, "treatment
+4 of a mental illness or substance abuse" means:
+5 (1) treatment for a mental illness, as defined in IC 12-7-2-130(1);
+6 and
+7 (2) treatment for drug abuse or alcohol abuse.
+8 (b) As used in this section, "act" refers to the Paul Wellstone and
+9 Pete Domenici Mental Health Parity and Addiction Act of 2008 and
+10 any amendments thereto, plus any federal guidance or regulations
+11 relevant to that act, including 45 CFR 146.136, 45 CFR 147.136, 45
+12 CFR 147.160, and 45 CFR 156.115(a)(3).
+13 (c) As used in this section, "classifications of benefits" refers to
+14 the classifications described in 45 CFR 146.136(c)(2)(ii).
+15 (c) (d) As used in this section, "nonquantitative treatment
+16 limitations" refers to those limitations described in 26 CFR 54.9812-1,
+17 29 CFR 2590.712, and 45 CFR 146.136.
+2025 IN 446—LS 7255/DI 141
+
+
+--- Page 3 ---
+2
+1 (d) (e) An insurer that issues a policy of accident and sickness
+2 insurance that provides coverage of services for treatment of a mental
+3 illness or substance abuse shall submit a report to the department not
+4 later than December 31 of each year that contains the following
+5 information:
+6 (1) A description of the processes:
+7 (A) used to develop or select the medical necessity criteria for
+8 coverage of services for treatment of a mental illness or
+9 substance abuse; and
+10 (B) used to develop or select the medical necessity criteria for
+11 coverage of services for treatment of other medical or surgical
+12 conditions.
+13 (2) Identification of all nonquantitative treatment limitations that
+14 are applied to:
+15 (A) coverage of services for treatment of a mental illness or
+16 substance abuse; and
+17 (B) coverage of services for treatment of other medical or
+18 surgical conditions;
+19 within each classification of benefits.
+20 (e) (f) There may be no separate nonquantitative treatment
+21 limitations that apply to coverage of services for treatment of a mental
+22 illness or substance abuse that do not apply to coverage of services for
+23 treatment of other medical or surgical conditions within any
+24 classification of benefits.
+25 (f) (g) An insurer that issues a policy of accident and sickness
+26 insurance that provides coverage of services for treatment of a mental
+27 illness or substance abuse shall also submit an analysis showing the
+28 insurer's compliance with this section and the act to the department not
+29 later than December 31 of each year. The analysis must do the
+30 following:
+31 (1) Identify the factors used to determine that a nonquantitative
+32 treatment limitation will apply to a benefit, including factors that
+33 were considered but rejected.
+34 (2) Identify and define the specific evidentiary standards used to
+35 define the factors and any other evidence relied upon in designing
+36 each nonquantitative treatment limitation.
+37 (3) Provide the comparative analyses, including the results of the
+38 analyses, performed to determine the following:
+39 (A) That the processes and strategies used to design each
+40 nonquantitative treatment limitation for coverage of services
+41 for treatment of a mental illness or substance abuse are
+42 comparable to, and applied no more stringently than, the
+2025 IN 446—LS 7255/DI 141
+
+
+--- Page 4 ---
+3
+1 processes and strategies used to design each nonquantitative
+2 treatment limitation for coverage of services for treatment of
+3 other medical or surgical conditions.
+4 (B) That the processes and strategies used to apply each
+5 nonquantitative treatment limitation for treatment of a mental
+6 illness or substance abuse are comparable to, and applied no
+7 more stringently than, the processes and strategies used to
+8 apply each nonquantitative limitation for treatment of other
+9 medical or surgical conditions.
+10 (4) Provide the information on reimbursement rates described
+11 in subsections (h), (i), and (k).
+12 (h) The department shall deem an insurer that issues a policy of
+13 accident and sickness insurance that provides coverage of services
+14 for treatment of a mental illness or substance abuse in compliance
+15 with the act in terms of reimbursement rates in a classification of
+16 benefits if reimbursement rates for providers of mental illness or
+17 substance abuse services are at least as favorable relative to
+18 Medicare rates as reimbursement rates are for providers of
+19 medical or surgical services relative to Medicare rates in the
+20 respective classification of benefits.
+21 (i) The department shall perform a deeper examination of an
+22 insurer that issues a policy of accident and sickness insurance that
+23 provides coverage of services for treatment of a mental illness or
+24 substance abuse for possible noncompliance with the act under
+25 circumstances in which reimbursement rates for providers of
+26 mental illness or substance abuse services in a classification of
+27 benefits are at least ten percent (10%) lower relative to Medicare
+28 rates than reimbursement rates for providers of medical or
+29 surgical benefits relative to Medicare rates in the respective
+30 classification of benefits.
+31 (j) If a provider of health care services that provides both
+32 medical or surgical services and mental illness or substance abuse
+33 services is cred entialed with an insurer that issues a policy of
+34 accident and sickness insurance for purposes of providing medical
+35 or surgical services, the provider must be considered automatically
+36 credentialed for purposes of providing mental illness or substance
+37 abuse services in instances under which the insurer provides
+38 coverage of mental illness or substance abuse servi ces through a
+39 third party vendor.
+40 (g) (k) The department shall adopt rules:
+41 (1) for purposes of determining the value of reimbursement
+42 rates relative to Medicare rates, as described in subsections
+2025 IN 446—LS 7255/DI 141
+
+
+--- Page 5 ---
+4
+1 (h) and (i); and
+2 (2) to ensure compliance with this section and the applicable
+3 provisions of the act.
+4 SECTION 2. IC 27-13-7-14.2, AS ADDED BY P.L.103-2020,
+5 SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+6 UPON PASSAGE]: Sec. 14.2. (a) As used in this section, "treatment
+7 of a mental illness or substance abuse" means:
+8 (1) treatment for a mental illness, as defined in IC 12-7-2-130(1);
+9 and
+10 (2) treatment for drug abuse or alcohol abuse.
+11 (b) As used in this section, "act" refers to the Paul Wellstone and
+12 Pete Domenici Mental Health Parity and Addiction Act of 2008 and
+13 any amendments thereto, plus any federal guidance or regulations
+14 relevant to that act, including 45 CFR 146.136, 45 CFR 147.136, 45
+15 CFR 147.160, and 45 CFR 156.115(a)(3).
+16 (c) As used in this section, "classifications of benefits" refers to
+17 the classifications described in 45 CFR 146.136(c)(2)(ii).
+18 (c) (d) As used in this section, "nonquantitative treatment
+19 limitations" refers to those limitations described in 26 CFR 54.9812-1,
+20 29 CFR 2590.712, and 45 CFR 146.136.
+21 (d) (e) An individual contract or a group contract that provides
+22 coverage of services for treatment of a mental illness or substance
+23 abuse shall submit a report to the department not later than December
+24 31 of each year that contains the following information:
+25 (1) A description of the processes:
+26 (A) used to develop or select the medical necessity criteria for
+27 coverage of services for treatment of a mental illness or
+28 substance abuse; and
+29 (B) used to develop or select the medical necessity criteria for
+30 coverage of services for treatment of other medical or surgical
+31 conditions.
+32 (2) Identification of all nonquantitative treatment limitations that
+33 are applied to:
+34 (A) coverage of services for treatment of a mental illness or
+35 substance abuse; and
+36 (B) coverage of services for treatment of other medical or
+37 surgical conditions;
+38 within each classification of benefits.
+39 (e) (f) There may be no separate nonquantitative treatment
+40 limitations that apply to coverage of services for treatment of a mental
+41 illness or substance abuse that do not apply to coverage of services for
+42 treatment of other medical or surgical conditions within any
+2025 IN 446—LS 7255/DI 141
+
+
+--- Page 6 ---
+5
+1 classification of benefits.
+2 (f) (g) An individual contract or a group contract that provides
+3 coverage of services for treatment of a mental illness or substance
+4 abuse shall also submit an analysis showing the insurer's compliance
+5 with this section and the act to the department not later than December
+6 31 of each year. The analysis must do the following:
+7 (1) Identify the factors used to determine that a nonquantitative
+8 treatment limitation will apply to a benefit, including factors that
+9 were considered but rejected.
+10 (2) Identify and define the specific evidentiary standards used to
+11 define the factors and any other evidence relied upon in designing
+12 each nonquantitative treatment limitation.
+13 (3) Provide the comparative analyses, including the results of the
+14 analyses, performed to determine the following:
+15 (A) That the processes and strategies used to design each
+16 nonquantitative treatment limitation for coverage of services
+17 for treatment of a mental illness or substance abuse are
+18 comparable to, and applied no more stringently than, the
+19 processes and strategies used to design each nonquantitative
+20 treatment limitation for coverage of services for treatment of
+21 other medical or surgical conditions.
+22 (B) That the processes and strategies used to apply each
+23 nonquantitative treatment limitation for treatment of a mental
+24 illness or substance abuse are comparable to, and applied no
+25 more stringently than, the processes and strategies used to
+26 apply each nonquantitative limitation for treatment of other
+27 medical or surgical conditions.
+28 (4) Provide the information on reimbursement rates described
+29 in subsections (h), (i), and (k).
+30 (h) The department shall deem a health maintenance
+31 organization that enters into an individual contract or a group
+32 contract that provides coverage of services for treatment of a
+33 mental illness or substance abuse in compliance with the act in
+34 terms of reimbursement rates in a classification of benefits if
+35 reimbursement rates for providers of mental illness or substance
+36 abuse services are at least as favorable relative to Medicare rates
+37 as reimbursement rates are for providers of medical or surgical
+38 services relative to Medicare rates in the respective classification
+39 of benefits.
+40 (i) The department shall perform a deeper examination of a
+41 health maintenance organization that enters into an individual
+42 contract or a group contract that provides coverage of services for
+2025 IN 446—LS 7255/DI 141
+
+
+--- Page 7 ---
+6
+1 treatment of a mental illness or substance abuse for possible
+2 noncompliance with the act under circumstances in which
+3 reimbursement rates for providers of mental illness or substance
+4 abuse services in a classification of benefits are at least ten percent
+5 (10%) lower relative to Medicare rates than reimbursement rates
+6 for providers of medical or surgical benefits relative to Medicare
+7 rates in the respective classification of benefits.
+8 (j) If a provider of health care services that provides both
+9 medical or surgical services and mental illness or substance abuse
+10 services is credentialed with a health maintenance organization for
+11 purposes of providing medical or surgical services, the provider
+12 must be considered automatically credentialed for purposes of
+13 providing mental illness or substance abuse services in instances
+14 under which the health maintenance organization provides
+15 coverage of mental illness or substance abuse services through a
+16 third party vendor.
+17 (g) (k) The department shall adopt rules:
+18 (1) for purposes of determining the value of reimbursement
+19 rates relative to Medicare rates, as described in subsections
+20 (h) and (i); and
+21 (2) to ensure compliance with this section and the applicable
+22 provisions of the act.
+23 SECTION 3. An emergency is declared for this act.
+2025 IN 446—LS 7255/DI 141

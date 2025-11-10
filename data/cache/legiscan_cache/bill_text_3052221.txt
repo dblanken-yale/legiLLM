@@ -1,0 +1,228 @@
+--- Page 1 ---
+ 
+Introduced Version
+HOUSE BILL No. 1426
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 16-18-2; IC 16-42-29.
+Synopsis:  Liability shield products. Defines a "liability shield product"
+as a certain type of product that has been designated as immune from
+liability under federal law. Requires a liability shield product to
+undergo a placebo controlled study before it is distributed,
+manufactured, marketed, or administered. Requires: (1) the Indiana
+department of health to monitor and publish certain information; and
+(2) certain entities to submit documentation and compliance reports;
+concerning liability shield products. Allows the attorney general or a
+private individual to bring an action if the requirements concerning
+liability shield products are not met. 
+Effective:  Upon passage.
+Borders
+January 13, 2025, read first time and referred to Commi ttee on Public Health.
+2025 IN 1426—LS 7594/DI 149
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE BILL No. 1426
+A BILL FOR AN ACT to amend the Indiana Code concerning
+health.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 16-18-2-12.5 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE UPON PASSAGE]: Sec. 12.5. "Allergen icity", for
+4 purposes of IC 16-42-29, has the meaning set forth in
+5 IC 16-42-29-1.
+6 SECTION 2. IC 16-18-2-48.4 IS ADDED TO THE INDIANA
+7 CODE AS A NEW SECTION TO READ AS FOLLOWS
+8 [EFFECTIVE UPON PASSAGE]: Sec. 48.4. "Carcinogenicity", for
+9 purposes of IC 16-42-29, has the meaning set forth in
+10 IC 16-42-29-2.
+11 SECTION 3. IC 16-18-2-128.2 IS ADDED TO THE INDIANA
+12 CODE AS A NEW SECTION TO READ AS FOLLOWS
+13 [EFFECTIVE UPON PASSAGE]: Sec. 128.2. "Fertility impact", for
+14 purposes of IC 16-42-29, has the meaning set forth in
+15 IC 16-42-29-3. 
+16 SECTION 4. IC 16-18-2-186.6 IS ADDED TO THE INDIANA
+17 CODE AS A NEW SECTION TO READ AS FOLLOWS
+2025 IN 1426—LS 7594/DI 149
+
+
+--- Page 3 ---
+2
+1 [EFFECTIVE UPON PASSAGE]: Sec. 186.6. "Immunogenicity", for
+2 purposes of IC 16-42-29, has the meaning set forth in
+3 IC 16-42-29-4.
+4 SECTION 5. IC 16-18-2-201.7 IS ADDED TO THE INDIANA
+5 CODE AS A NEW SECTION TO READ AS FOLLOWS
+6 [EFFECTIVE UPON PASSAGE]: Sec. 201.7. "Liability shield
+7 product", for purposes of IC 16-42-29, has the meaning set forth in
+8 IC 16-42-29-5.
+9 SECTION 6. IC 16-18-2-243.5 IS ADDED TO THE INDIANA
+10 CODE AS A NEW SECTION TO READ AS FOLLOWS
+11 [EFFECTIVE UPON PASSAGE]: Sec. 243.5. "Mutagenicity", for
+12 purposes of IC 16-42-29, has the meaning set forth in
+13 IC 16-42-29-6.
+14 SECTION 7. IC 16-18-2-284.5 IS ADDED TO THE INDIANA
+15 CODE AS A NEW SECTION TO READ AS FOLLOWS
+16 [EFFECTIVE UPON PASSAGE]: Sec. 284.5. "Placebo", for
+17 purposes of IC 16-42-29, has the meaning set forth in
+18 IC 16-42-29-7.
+19 SECTION 8. IC 16-18-2-284.6 IS ADDED TO THE INDIANA
+20 CODE AS A NEW SECTION TO READ AS FOLLOWS
+21 [EFFECTIVE UPON PASSAGE]: Sec. 284.6. "Placebo controlled
+22 study", for purposes of IC 16-42-29, has the meaning set forth in
+23 IC 16-42-29-8.
+24 SECTION 9. IC 16-18-2-307.7 IS ADDED TO THE INDIANA
+25 CODE AS A NEW SECTION TO READ AS FOLLOWS
+26 [EFFECTIVE UPON PASSAGE]: Sec. 307.7. "Reactogenicity", for
+27 purposes of IC 16-42-29, has the meaning set forth in
+28 IC 16-42-29-9.
+29 SECTION 10. IC 16-18-2-320.8 IS ADDED TO THE INDIANA
+30 CODE AS A NEW SECTION TO READ AS FOLLOWS
+31 [EFFECTIVE UPON PASSAGE]: Sec. 320.8. "Safety outcome
+32 metrics", for purposes of IC 16-42-29, has the meaning set forth in
+33 IC 16-42-29-10.
+34 SECTION 11. IC 16-42-29 IS ADDED TO THE INDIANA CODE
+35 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+36 UPON PASSAGE]:
+37 Chapter 29. Liability Shield Products
+38 Sec. 1. As used in this chapter, "allergenicity" means the ability
+39 to provoke an allergic reaction in an individual.
+40 Sec. 2. As used in this chapter, "carcinogenicity" means the
+41 ability to cause cancer in an individual.
+42 Sec. 3. As used in this chapter, "fertility impact" means the
+2025 IN 1426—LS 7594/DI 149
+
+
+--- Page 4 ---
+3
+1 ability to adversely affect the reproductive health or fertility of an
+2 individual.
+3 Sec. 4. As used in this chapter, "immunogenicity" means the
+4 ability to cause an immune response in an individual.
+5 Sec. 5. As used in this chapter, "liability shield product"
+6 includes a:
+7 (1) medical;
+8 (2) pharmaceutical;
+9 (3) biological; or
+10 (4) technological;
+11 product that has been designated as immune from liability under
+12 federal law.
+13 Sec. 6. As used in this chapter, "mutagenicity" means the ability
+14 to cause a genetic mutation in an individual.
+15 Sec. 7. As used in this chapter, "placebo" means a substance
+16 used as a control in a placebo controlled study that:
+17 (1) is administered to a participant; and
+18 (2) should not have a pharmacological effect on the
+19 participant.
+20 Sec. 8. As used in this chapter, "placebo controlled study"
+21 means a scientific study that randomly assigns a participant to
+22 receive either a product that is being studied or a placebo to
+23 measure:
+24 (1) health effects; and
+25 (2) the safety outcome metrics;
+26 of the product being studied over a period of time.
+27 Sec. 9. As used in this chapter, "reactogenicity" means the
+28 symptoms or the outcome of a vaccine that is administered to an
+29 individual.
+30 Sec. 10. As used in this chapter, "safety outcome metrics" means
+31 data that is collected and analyzed on a product concerning the
+32 following aspects of the product:
+33 (1) Allergenicity.
+34 (2) Carcinogenicity.
+35 (3) Fertility impact.
+36 (4) Immunogenicity.
+37 (5) Mutagenicity.
+38 (6) Reactogenicity.
+39 Sec. 11. (a) A manufacturer of a liability shield product must
+40 ensure that the liability shield product is subject to a placebo
+41 controlled study before it is:
+42 (1) distributed;
+2025 IN 1426—LS 7594/DI 149
+
+
+--- Page 5 ---
+4
+1 (2) manufactured;
+2 (3) marketed; or
+3 (4) administered;
+4 within Indiana.
+5 (b) A placebo controlled study described in subsection (a) must
+6 continue for at least five (5) years and continuously collect safety
+7 outcome metrics during this period of time.
+8 (c) The results of a placebo controlled study and the safety
+9 outcome metrics collected under this section must be made publicly
+10 available and accessible to:
+11 (1) patients;
+12 (2) health care providers (as described in IC 16-18-2-163(a));
+13 and
+14 (3) state agencies.
+15 Sec. 12. (a) The state department shall do the following:
+16 (1) Monitor and track adverse outcomes of liability shield
+17 products using the:
+18 (A) Indiana health information exchange; and
+19 (B) electronic support for public health - Vaccine Adverse
+20 Event Reporting System.
+21 (2) Publish any post-market surveillance data that reports an
+22 adverse consequence of a liability shield product.
+23 (b) The state department shall issue an alert and bulletin with
+24 information about any adverse consequences of a liability shield
+25 product identified through the required activities described in
+26 subsection (a).
+27 (c) Not later than January 1, 2026, the state department shall
+28 establish a policy to monitor and publish data collection required
+29 under this section. The policy must be made publicly available. 
+30 Sec. 13. (a) All manufacturers of liability shield products that
+31 are distributed, manufactured, marketed, or administered within
+32 Indiana must, not later than July 1, 2028, submit documentation to
+33 the state department confirming that a placebo controlled study
+34 has been initiated on the liability shield product.
+35 (b) Not later than Decem ber 31, 2030, all manufacturers of
+36 liability shield products that are distributed, manufactured,
+37 marketed, or administered within Indiana must submit a
+38 compliance report to the state department confirming that a
+39 placebo controlled study has been completed as required under
+40 section 11 of this chapter.
+41 (c) The documentation required under subsection (a) and the
+42 compliance reports required under subsection (b) must describe
+2025 IN 1426—LS 7594/DI 149
+
+
+--- Page 6 ---
+5
+1 the safety outcome metrics collected and the compliance report
+2 must describe all final results of the placebo controlled study.
+3 Sec. 14. An individual has the right to refuse a liability shield
+4 product and may not be subject to coercion or threat to use a
+5 liability shield product.
+6 Sec. 15. (a) If an entity violates section 13 or 14 of this chapter,
+7 the attorney general may bring an action to obtain any of the
+8 following:
+9 (1) Injunctive relief.
+10 (2) A civil penalty of not more than one hundred thousand
+11 dollars ($100,000) for each violation of the chapter.
+12 (3) Reasonable attorney's fees and costs.
+13 (b) This subsection is effective January 1, 2031. If a
+14 manufacturer of a liability shield product violates section 11 of this
+15 chapter, the attorney general may bring an action to obtain the
+16 relief described in subsection (a).
+17 Sec. 16. (a) An individual who suffers an injury due to a
+18 violation of this chapter may bring an action to obtain the
+19 following:
+20 (1) Injunctive relief.
+21 (2) Compensatory damages.
+22 (3) Reasonable attorney's fees and costs.
+23 (b) A suit brought under this section may be filed by the
+24 individual or a personal representative on behalf of the individual.
+25 SECTION 12. An emergency is declared for this act.
+2025 IN 1426—LS 7594/DI 149

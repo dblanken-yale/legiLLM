@@ -1,0 +1,208 @@
+--- Page 1 ---
+*SB0350.1*
+February 7, 2025
+SENATE BILL No. 350
+_____
+DIGEST OF  SB 350 (Updated February 5, 2025 12:24 pm - DI 1 04)
+Citations Affected:  IC 16-46; IC 20-34; noncode.
+Synopsis:  Automated external defibrillator requirements. Provides that
+certain funding provided to a local board of health may be used to
+provide automated external defibrillators (AEDs) to school
+corporations, charter schools, and state accredited nonpublic schools.
+Revises the definition of "venue specific emergency action plan for
+sudden cardiac arrest" (plan) and revises the requirements of a plan.
+Requires the department of education to develop a plan for certain
+schools and provide support for the plan, if requested by the school.
+Requires the department of education to conduct a statewide survey of
+school corporations, charter schools, and state accredited nonpublic
+schools concerning: (1) plans developed prior to July 1, 2025; and (2)
+AEDs. 
+Effective:  July 1, 2025.
+Rogers , Donato,  Charbonneau,  
+Ford J.D., Doriot,  Alting,  Yoder,
+Qaddoura,  Jackson L, Becker,
+Bohacek
+January 13, 2025, read first time and referred to Commi ttee on Health and Provi der
+Services.
+February 6, 2025, amended, reported favorably — Do Pass; reassigned to Commi ttee on
+Appropriations.
+SB 350—LS 7350/DI 152
+
+
+--- Page 3 ---
+February 7, 2025
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provi sion is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+SENATE BILL No. 350
+A BILL FOR AN ACT to amend the Indiana Code concerning
+education.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 16-46-10-3, AS AMENDED BY P.L.164-2023,
+2 SECTION 47, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2025]: Sec. 3. (a) Funding provided a local board of health
+4 under section 2.2 or 2.3 of this chapter may be used by the local board
+5 to provide any of the following services:
+6 (1) Core public health services.
+7 (2) Any statutorily required actions for a local health department.
+8 (3) Evidence based programs to prevent or reduce the prevalence
+9 of health issues or improve the health and behavioral health of
+10 Indiana residents as outlined in the plan described in
+11 IC 16-30-3-2.
+12 (4) The provision of automated external defibrillators (AEDs)
+13 to school corporations, charter schools, and state accredited
+14 nonpublic schools pursuant to each  school corporation's,
+15 charter school's, and state accredited nonpublic school's
+16 venue specific emergency action plan for sudden cardiac
+17 arrest (as defined in IC 20-34-8-3.5) developed by the
+SB 350—LS 7350/DI 152
+
+
+--- Page 4 ---
+2
+1 department of education, in collaboration with a local health
+2 department under IC 20-34-8-4.5.
+3 (b) Money granted a local board of health from the local public
+4 health fund may not be used for any purpose other than for the services
+5 listed in this section.
+6 (c) A county may not use more than ten percent (10%) of the funds
+7 received under section 2.2 or 2.3 of this chapter during a fiscal year for
+8 capital expenditures, including:
+9 (1) the purchase, construction, or renovation of buildings or other
+10 structures;
+11 (2) land acquisition; and
+12 (3) the purchase of vehicles and other transportation equipment.
+13 (d) Funds used for capital expenditures under subsection (c) must
+14 be included on the annual financial report required under section 2.2(f)
+15 or 2.3(c) of this chapter and posted on the local health department's
+16 website.
+17 (e) Before funds may be used to hire or contract for the provision or
+18 administration of core public health services, the local health
+19 department shall post the position or contract to the public for at least
+20 thirty (30) days.
+21 SECTION 2. IC 20-34-8-3.5, AS ADDED BY P.L.187-2023,
+22 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+23 JULY 1, 2025]: Sec. 3.5. As used in this chapter, "venue specific
+24 emergency action plan for sudden cardiac arrest" means a plan
+25 developed used by a school corporation, charter school, or state
+26 accredited nonpublic school that
+27 (1) includes detailed written instructions regarding how to
+28 respond to sudden cardiac arrest; and
+29 (2) indicates the location of the nearest automated external
+30 defibrillator (AED) at the venue.
+31 establishing steps to reduce death from cardiac arrest in any
+32 setting.
+33 SECTION 3. IC 20-34-8-4.5 IS ADDED TO THE INDIANA CODE
+34 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+35 1, 2025]: Sec. 4.5. (a) For the 2025-2026 school year, the
+36 department, in collaboration with a local health department
+37 (established under IC 16-20) located within a district in which a
+38 school corporation, charter school, or state accredited nonpublic
+39 school is located, shall do the following:
+40 (1) Develop a venue specific emergency action plan for sudden
+41 cardiac arrest in collaboration with the school corporation,
+42 charter school, or state accredited nonpublic school.
+SB 350—LS 7350/DI 152
+
+
+--- Page 5 ---
+3
+1 (2) Provide ongoing support to the school corporation, charter
+2 school, or state accredited nonpublic school for the venue
+3 specific emergency action plan for sudden cardiac arrest
+4 described in subdivision (1), if support is requested by the
+5 school.
+6 (b) A venue specific emergency action plan for sudden cardiac
+7 arrest developed under this section must include the following:
+8 (1) A cardiac emergency response plan (CERP) that includes
+9 the core elements set forth by either the American Heart
+10 Association or other nationally recognized recommendations,
+11 including recommendations set by the National Athletic
+12 Trainers Association.
+13 (2) A requirement that the CERP be widely distributed and
+14 posted throughout the school, rehearsed frequently, and
+15 updated annually.
+16 (3) A requirement that automated external defibrillators
+17 (AEDs) must be clearly marked and easily accessible at each
+18 venue where an athletic activity may occur, or within one (1)
+19 to three (3) minutes of where each athletic activity is held.
+20 AEDs must be placed in accordance with guidelines set by the
+21 American Heart Association, or other nationally recognized
+22 guidelines focused on emergency cardiovascular care.
+23 (4) A requirement that the governing authority of a school
+24 corporation or the equivalent authority of a charter school or
+25 state accredited nonpublic school work directly with local
+26 providers of emergency medical services (as defined in
+27 IC 16-18-2-110) to integrate the CERP into the community's
+28 local provider protocols.
+29 (5) A requirement that AEDs must be made available for use
+30 by all individuals, regardless of an individual's training.
+31 (6) A requirement that appropriate school staff and
+32 volunteers are trained in first aid, cardiopulmonary
+33 resuscitation, and AED use in a manner that follows evidence
+34 based guidelines set forth by the American Heart Association,
+35 or other nationally recognized guidelines focused on
+36 emergency cardiovascular care.
+37 (c) The principal of a school maintained by a school
+38 corporation, charter school, or state accredited nonpublic school
+39 shall manage the venue specific emergency action plan for sudden
+40 cardiac arrest.
+41 SECTION 4. [EFFECTIVE JULY 1, 2025] (a) The department of
+42 education shall conduct a statewide survey of school corporations,
+SB 350—LS 7350/DI 152
+
+
+--- Page 6 ---
+4
+1 charter schools, and state accredited nonpublic schools to
+2 determine:
+3 (1) the number of automated external defibrillators (AEDs)
+4 owned before July 1, 2025, by the schools;
+5 (2) the location of each AED in the schools;
+6 (3) whether, as of July 1, 2025, the schools have a venue
+7 specific emergency action plan for sudden cardiac arrest (as
+8 defined in IC 20-34-8-3.5, before its amendment by this act);
+9 and
+10 (4) the specific school events at which AEDs are present as of
+11 July 1, 2025.
+12 (b) Each school corporation, charter school, and state
+13 accredited nonpublic school shall respond to the statewide survey
+14 described in subsection (a) not later than July 31, 2025.
+15 (c) The department of education shall compile the results of the
+16 survey described in subsection (a) in a report. The department of
+17 education shall:
+18 (1) publish the report on the department's website; and
+19 (2) submit the report to the legislative council in an electronic
+20 format under IC 5-14-6;
+21 not later than October 31, 2025.
+22  (d) This SECTION expires January 1, 2027.
+SB 350—LS 7350/DI 152
+
+
+--- Page 7 ---
+5
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Health and Provider
+Services, to which was referred Senate Bill No. 350, has had the same
+under consideration and begs leave to report the same back to the
+Senate with the recommendation that said bill be AMENDED as
+follows:
+Page 1, line 12, delete "Providing" and insert "The provision of".
+Page 1, line 17, after "by" insert "the department of education, in
+collaboration with".
+Page 2, line 34, after "year," insert "the department, in
+collaboration with".
+Page 2, line 37, after "located" insert ",".
+and when so amended that said bill do pass and be reassigned to the
+Senate Committee on Appropriations.
+(Reference is to SB 350 as introduced.)
+CHARBONNEAU, Chairperson
+Committee Vote: Yeas 12, Nays 0.
+SB 350—LS 7350/DI 152

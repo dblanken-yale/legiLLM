@@ -1,0 +1,330 @@
+--- Page 1 ---
+ 
+Introduced Version
+HOUSE BILL No. 1617
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 31-9-2; IC 31-42.
+Synopsis:  Parent's bill of rights. Provides that a governmental entity
+may not substantially burden certain parental rights unless the burden
+is in furtherance of a compelling governmental interest and is the least
+restrictive means of furthering the governmental interest. Prohibits a
+governmental entity from: (1) advising, directing, or coercing a child
+to withhold certain information from the child's parent; or (2) denying
+a child's parent access to certain information. Allows a parent to bring
+an action against a person for certain violations and provides for certain
+relief. Specifies that the parent of a child does not have a right to access
+certain medical care on behalf of the child if the child does not have an
+affirmative right of access to the medical care. Provides that a person
+must obtain parental consent and comply with all other medical consent
+requirements before providing health care to a child. Requires a
+licensing authority to conduct an immediate investigation and take
+appropriate disciplinary action if the licensing authority receives
+information that a person did not obtain appropriate consent. Requires
+a court to notify the appropriate regulatory authority and the attorney
+general if the court finds that a person has knowingly provided health
+care to a minor without first obtaining the appropriate consent.
+Effective:  July 1, 2025.
+Lindauer
+January 21, 2025, read first time and referred to Commi ttee on Family, Children and
+Human Affairs.
+2025 IN 1617—LS 6806/DI 148
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE BILL No. 1617
+A BILL FOR AN ACT to amend the Indiana Code concerning
+family law and juvenile law.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 31-9-2-13, AS AMENDED BY P.L.109-2024,
+2 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2025]: Sec. 13. (a) "Child", for purposes of IC 31-15, IC 31-16
+4 (excluding IC 31-16-12.5), and IC 31-17, means a child or children of
+5 both parties to the marriage. The term includes the following:
+6 (1) Children born out of wedlock to the parties.
+7 (2) Children born or adopted during the marriage of the parties.
+8 (b) "Child", for purposes of the Uniform Interstate Family Support
+9 Act under IC 31-18.5, has the meaning set forth in IC 31-18.5-1-2.
+10 (c) "Child", for purposes of IC 31-19-5, includes an unborn child.
+11 (d) Except as otherwise provided in this section, "child", for
+12 purposes of the juvenile law and IC 31-27, means:
+13 (1) a person who is less than eighteen (18) years of age;
+14 (2) a person:
+15 (A) who is eighteen (18), nineteen (19), or twenty (20) years
+16 of age; and
+17 (B) who either:
+2025 IN 1617—LS 6806/DI 148
+
+
+--- Page 3 ---
+2
+1 (i) is charged with a delinquent act committed before the
+2 person's eighteenth birthday; or
+3 (ii) has been adjudicated a child in need of services before
+4 the person's eighteenth birthday; or
+5 (3) a person:
+6 (A) who is alleged to have committed an act that would have
+7 been murder if committed by an adult;
+8 (B) who was less than eighteen (18) years of age at the time of
+9 the alleged act; and
+10 (C) who is less than twenty-one (21) years of age.
+11 (e) "Child", for purposes of IC 31-36-3, means a person who is less
+12 than eighteen (18) years of age.
+13 (f) "Child", for purposes of the Interstate Compact on Juveniles
+14 under IC 31-37-23-1, has the meaning set forth in IC 31-37-23-1.
+15 (g) "Child", for purposes of IC 31-16-12.5, means an individual to
+16 whom child support is owed under:
+17 (1) a child support order issued under IC 31-14-10 or IC 31-16-6;
+18 or
+19 (2) any other child support order that is enforceable under
+20 IC 31-16-12.5.
+21 (h) "Child", for purposes of IC 31-32-5, means an individual who is
+22 less than eighteen (18) years of age.
+23 (i) "Child", for purposes of the Uniform Child Custody Jurisdiction
+24 Act under IC 31-21, has the meaning set forth in IC 31-21-2-3.
+25 (j) "Child", for purposes of IC 31-35-2-4.5, means an individual who
+26 is:
+27 (1) less than eighteen (18) years of age; and
+28 (2) a delinquent child or a child in need of services.
+29 (k) "Child", for purposes of IC 31-33, includes an individual who:
+30 (1) is at least eighteen (18) years of age but less than twenty-one
+31 (21) years of age; and
+32 (2) resides, or has previously resided, at a residential facility
+33 licensed by the department.
+34 (l) "Child", for purposes of IC 31-42, means an unemancipated
+35 individual who is less than eighteen (18) years of age.
+36 SECTION 2. IC 31-9-2-14, AS AMENDED BY P.L.109-2024,
+37 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+38 JULY 1, 2025]: Sec. 14. (a) "Child abuse or neglect", for purposes of
+39 IC 31-32-11-1, IC 31-33, IC 31-34-7-4, and IC 31-39-8-4, refers to:
+40 (1) a child described in IC 31-34-1-1 through IC 31-34-1-5 and
+41 IC 31-34-1-8 through IC 31-34-1-11, regardless of whether the
+42 child needs care, treatment, rehabilitation, or the coercive
+2025 IN 1617—LS 6806/DI 148
+
+
+--- Page 4 ---
+3
+1 intervention of a court; or
+2 (2) an individual who:
+3 (A) is at least eighteen (18) years of age but less than
+4 twenty-one (21) years of age;
+5 (B) resides, or has previously resided, at a residential facility
+6 licensed by the department; and
+7 (C) is harmed or threatened with harm as a result of:
+8 (i) a battery offense included in IC 35-42-2; or
+9 (ii) sexual activity (as defined in IC 35-42-4-13(b));
+10 committed by a member of the staff at the residential facility.
+11 (b) For purposes of subsection (a), the term under subsection (a)
+12 does not refer to a child who is alleged to be a victim of a sexual
+13 offense under IC 35-42-4-3 unless the alleged offense under
+14 IC 35-42-4-3 involves the fondling or touching of the buttocks,
+15 genitals, or female breasts, regardless of whether the child needs care,
+16 treatment, rehabilitation, or the coercive intervention of a court.
+17 (c) "Child abuse or neglect", for purposes of IC 31-34-2.3 and
+18 IC 31-42, refers to acts or omissions by a person against a child as
+19 described in IC 31-34-1-1 through IC 31-34-1-11, regardless of
+20 whether the child needs care, treatment, rehabilitation, or the coercive
+21 intervention of a court.
+22 SECTION 3. IC 31-9-2-47.9 IS ADDED TO THE INDIANA CODE
+23 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+24 1, 2025]: Sec. 47.9. "Governmental entity", for purposes of
+25 IC 31-42, means:
+26 (1) any branch, department, agency, commission, or
+27 instrumentality of state government;
+28 (2) any official or other person acting under color of state law;
+29 or
+30 (3) any political subdivision of the state.
+31 SECTION 4. IC 31-9-2-51.9 IS ADDED TO THE INDIANA CODE
+32 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+33 1, 2025]: Sec. 51.9. "Health care", for purposes of IC 31-42, has the
+34 meaning set forth in IC 16-36-1-1.
+35 SECTION 5. IC 31-9-2-52, AS AMENDED BY P.L.1-2010,
+36 SECTION 116, IS AMENDED TO READ AS FOLLOWS
+37 [EFFECTIVE JULY 1, 2025]: Sec. 52. "Health care provider", for
+38 purposes of IC 31-32-6-4, IC 31-32-11-1, and IC 31-33, and
+39 IC 31-42-2, means any of the following:
+40 (1) A licensed physician, intern, or resident.
+41 (2) An osteopath.
+42 (3) A chiropractor.
+2025 IN 1617—LS 6806/DI 148
+
+
+--- Page 5 ---
+4
+1 (4) A dentist.
+2 (5) A podiatrist.
+3 (6) A registered nurse or other licensed nurse.
+4 (7) A mental health professional.
+5 (8) A paramedic or an emergency medical technician.
+6 (9) A social worker, an x-ray technician, or a laboratory
+7 technician employed by a hospital.
+8 (10) A pharmacist.
+9 (11) A person working under the direction of any of the
+10 practitioners listed in subdivisions (1) through (10).
+11 SECTION 6. IC 31-9-2-88, AS AMENDED BY P.L.172-2022,
+12 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 JULY 1, 2025]: Sec. 88. (a) "Parent", for purposes of the juvenile law,
+14 means a biological or an adoptive parent. Unless otherwise specified,
+15 the term includes both parents, regardless of their marital status.
+16 (b) "Parent", for purposes of IC 31-34-1, IC 31-34-8, IC 31-34-19,
+17 IC 31-34-20 and IC 31-35-2, includes an alleged father.
+18 (c) "Parent", for purposes of IC 31-42, means a child's:
+19 (1) biological:
+20 (A) father; or
+21 (B) mother;
+22 (2) adopting:
+23 (A) father; or
+24 (B) mother; or
+25 (3) court appointed:
+26 (A) guardian; or
+27 (B) custodian.
+28 SECTION 7. IC 31-9-2-89, AS AMENDED BY P.L.3-2016,
+29 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+30 JULY 1, 2025]: Sec. 89. (a) "Person", for purposes of IC 31-19-19,
+31 IC 31-19-25, IC 31-42, and the juvenile law, means:
+32 (1) a human being;
+33 (2) a corporation;
+34 (3) a limited liability company;
+35 (4) a partnership;
+36 (5) an unincorporated association; or
+37 (6) a governmental entity.
+38 (b) "Person", for purposes of section 44.5 of this chapter, means an
+39 adult or a minor.
+40 (c) "Person", for purposes of IC 31-27, means an individual who is
+41 at least twenty-one (21) years of age, a corporation, a partnership, a
+42 voluntary association, or other entity.
+2025 IN 1617—LS 6806/DI 148
+
+
+--- Page 6 ---
+5
+1 (d) "Person", for purposes of the Uniform Child Custody
+2 Jurisdiction Act under IC 31-21, has the meaning set forth in
+3 IC 31-21-2-13.
+4 (e) "Person", for purposes of the Uniform Interstate Family Support
+5 Act under IC 31-18.5, has the meaning set forth in IC 31-18.5-1-2.
+6 SECTION 8. IC 31-42 IS ADDED TO THE INDIANA CODE AS
+7 A NEW ARTICLE TO READ AS FOLLOWS [EFFECTIVE JULY 1,
+8 2025]:
+9 ARTICLE 42. PARENTAL RIGHTS AND
+10 RESPONSIBILITIES
+11 Chapter 1. A Parent's Rights
+12 Sec. 1. This chapter applies to all statutes enacted by the general
+13 assembly unless a statute is exempted by reference to a specific
+14 statute within this chapter.
+15 Sec. 2. (a) It is a parent's fundamental right to direct the:
+16 (1) upbringing;
+17 (2) religious instruction;
+18 (3) education; or
+19 (4) health care;
+20 of the parent's child.
+21 (b) A governmental entity may not substantially burden a
+22 parent's fundamental right under subsection (a) unless the burden:
+23 (1) is in furtherance of a compelling governmental interest;
+24 and
+25 (2) is the least restrictive means of furthering the
+26 governmental interest.
+27 Sec. 3. (a) Except as provided in subsection (b)(2), a
+28 governmental entity may not:
+29 (1) advise, direct, or coerce a child to withhold information
+30 from the child's parent; or
+31 (2) deny a child's parent access to information that:
+32 (A) is in the control of the governmental entity;
+33 (B) is requested by the child's parent; and
+34 (C) relates to the child's health care or social, emotional,
+35 and behavioral well-being.
+36 (b) This section does not apply if:
+37 (1) the parent's access to the requested information is
+38 prohibited by a court order; or
+39 (2) a law enforcement officer requests that the information
+40 not be released because the parent is subject to an
+41 investigation related to the child.
+42 Sec. 4. (a) Notwithstanding IC 34-13-3-3(a)(8), a parent may
+2025 IN 1617—LS 6806/DI 148
+
+
+--- Page 7 ---
+6
+1 bring a cause of action against a governmental entity for a
+2 violation of this chapter.
+3 (b) A parent may raise this chapter as a defense in:
+4 (1) a judicial; or
+5 (2) an administrative;
+6 proceeding brought against the parent.
+7 Sec. 5. A parent may seek any of the following relief in a cause
+8 of action brought under this chapter:
+9 (1) Declaratory relief.
+10 (2) Injunctive relief.
+11 (3) Compensatory damages.
+12 (4) Court costs and expenses associated with the cause of
+13 action, including reasonable attorney's fees.
+14 Sec. 6. This chapter does not do any of the following:
+15 (1) Authorize a parent to:
+16 (A) commit child abuse or neglect as defined in
+17 IC 31-9-2-14(c); or
+18 (B) sue a judicial officer unless the judicial officer lacks
+19 jurisdiction.
+20 (2) Prohibit a court from issuing an order that is otherwise
+21 permitted by law.
+22 (3) Prevent a person from asserting a defense or claim of
+23 immunity available by statute or at common law, including
+24 judicial immunity.
+25 (4) Apply to an act or omission by a parent to end the life of
+26 a child.
+27 Sec. 7. If a child does not have an affirmative right of access to
+28 a specific medical treatment, service, or procedure, then this
+29 chapter does not grant the child's parent a right to access that
+30 medical treatment, service, or procedure on behalf of the parent's
+31 child.
+32 Chapter 2. Parental Consent for Health Care
+33 Sec. 1. (a) This section does not apply to emergency medical care
+34 for a child.
+35 (b) A person shall obtain consent from a child's parent and
+36 comply with all other requirements in IC 16-36 to provide health
+37 care to a minor.
+38 (c) If the licensing authority of a health care provider receives
+39 information of a violation of this section, the licensing authority
+40 shall conduct an immediate investigation and take appropriate
+41 disciplinary action.
+42 Sec. 2. (a) A parent may bring a cause of action against a person
+2025 IN 1617—LS 6806/DI 148
+
+
+--- Page 8 ---
+7
+1 for a violation of section 1 of this chapter.
+2 (b) In a cause of action brought under this section, a parent may
+3 seek the following relief:
+4 (1) Compensatory damages.
+5 (2) Punitive damages.
+6 (3) Court costs and expenses associated with the cause of
+7 action, including reasonable attorney's fees.
+8 (4) Any other relief that the court determines is appropriate.
+9 (c) A parent may bring a cause of action under this section not
+10 more than one (1) year after the date on which the parent
+11 discovered the violation.
+12 Sec. 3. If a court determines that a person knowingly violated
+13 section 1 of this chapter, the court shall notify by mailing a
+14 certified copy of the court's order to:
+15 (1) the appropriate regulatory authority; and
+16 (2) the attorney general.
+17 The notice under this section must be made when the court's order
+18 becomes final.
+19 Sec. 4. It is a defense that a person:
+20 (1) reasonably relied in good faith on an individual's
+21 representation that the individual is the parent of a child; and
+22 (2) exercised due care to confirm the individual's
+23 representation.
+2025 IN 1617—LS 6806/DI 148

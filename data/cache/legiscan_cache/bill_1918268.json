@@ -1,0 +1,186 @@
+{
+  "bill_id": 1918268,
+  "change_hash": "fb9484aff054e62b4f61a6401558dbd6",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/HB1438/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/house/1438/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-21",
+  "progress": [
+    {
+      "date": "2025-01-21",
+      "event": 1
+    },
+    {
+      "date": "2025-01-21",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "HB1438",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "H",
+  "body_id": 37,
+  "current_body": "H",
+  "current_body_id": 37,
+  "title": "Medical record fees.",
+  "description": "Medical record fees. Requires a provider to provide a patient's medical record in the form and format requested by the patient or the patient's legal representative, if readily producible. Provides that a third party may not charge more than $2.50 for producing a patient's medical record. Prohibits a provider from charging more than $6.50 for producing a patient's medical record in electronic form. Specifies that certain provisions in current law governing medical record fees apply to a medical record in paper form. Amends the factors the department of insurance may consider in adopting rules governing medical record fees. Limits supply costs for paper copies to $.05 per page. Prohibits the department from adopting a rule permitting a retrieval fee. Requires a provider to provide one free copy of a patient's medical record to the patient or the patient's legal representative if requesting the medical record to apply for or appeal a denial of Social Security insurance disability benefits or Supplemental Security Insurance. Provides that a certification fee may not exceed $5. Prohibits a provider from charging a fee for a billing statement.",
+  "pending_committee_id": 1300,
+  "committee": {
+    "committee_id": 1300,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Public Health"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-21",
+      "committee_id": 1300,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Public Health"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-21",
+      "action": "Authored by Representative Campbell",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-21",
+      "action": "First reading: referred to Committee on Public Health",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 1
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Representative Harris added as coauthor",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 20205,
+      "person_hash": "snqizhwh",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Chris Campbell",
+      "first_name": "Chris",
+      "middle_name": "",
+      "last_name": "Campbell",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-026",
+      "ftm_eid": 45685940,
+      "votesmart_id": 185833,
+      "opensecrets_id": "",
+      "knowwho_pid": 678197,
+      "ballotpedia": "Chris_Campbell",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    },
+    {
+      "people_id": 21667,
+      "person_hash": "5kc1n8kw",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Earl Harris",
+      "first_name": "Earl",
+      "middle_name": "L.",
+      "last_name": "Harris",
+      "suffix": "Jr.",
+      "nickname": "",
+      "district": "HD-002",
+      "ftm_eid": 47805167,
+      "votesmart_id": 171122,
+      "opensecrets_id": "",
+      "knowwho_pid": 604274,
+      "ballotpedia": "Earl_Harris,_Jr.",
+      "bioguide_id": "",
+      "sponsor_type_id": 2,
+      "sponsor_order": 2,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3055256,
+      "date": "2025-01-14",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/HB1438/id/3055256",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1438/HB1438.01.INTR.pdf",
+      "text_size": 104812,
+      "text_hash": "30893753dd6366bd058c66dfd4a30bfb",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 488163,
+      "date": "2025-01-14",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/HB1438/id/488163",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1438/fiscal-notes/HB1438.01.INTR.FN001.pdf",
+      "supplement_size": 61031,
+      "supplement_hash": "8bd4ccf8c2d74ec36da44255f58adba2",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

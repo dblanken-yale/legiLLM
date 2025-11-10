@@ -1,0 +1,828 @@
+--- Page 1 ---
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE ENROLLED ACT No. 1088
+AN ACT to amend the Indiana Code concerning probate.
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1. IC 29-1-7-7, AS AMENDED BY P.L.162-2022,
+SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025 ]: Sec. 7. (a) As soon as letters testamentary or of
+administration, general or special, supervised or unsupervised, have
+been issued, notice of the estate administration shall be published.
+(b) The notice required under subsection (a) shall be published in
+a newspaper of general circulation, printed in the English language and
+published in the county where the court is located, once each week for
+two (2) consecutive weeks. A copy of the notice, with proof of
+publication, shall be filed with the clerk of the court as a part of the
+administration of the estate within thirty (30) days after the publication.
+If no newspaper is published in the county, the notice shall be
+published in a newspaper published in an adjacent county.
+(c) The notice required under subsection (a) shall be served through
+the E-filing System of the Indiana Courts or by first class postage
+prepaid mail on each heir, devisee, legatee, and known creditor whose
+name and address is set forth in the petition for probate or letters,
+except as otherwise ordered by the court.
+(d) The personal representative or the personal representative's
+agent shall, within one (1) month after the first publication of notice
+under subsection (a) or as soon as possible after the elapse of one
+(1) month, serve a written or electronic copy of the notice on each
+creditor of the decedent:
+HEA 1088 — Concur
+
+
+--- Page 2 ---
+2
+(1) whose name is not set forth in the petition for probate or
+letters under subsection (c);
+(2) who is known or reasonably ascertainable within one (1)
+month after the first publication of notice under subsection (a);
+and
+(3) whose claim has not been paid or settled by the personal
+representative.
+The notice may be served by mail or any other means reasonably
+calculated to ensure actual receipt of the notice by a creditor. The unit
+is a reasonably ascertainable creditor under this section if the decedent
+was at least fifty-five (55) years of age at the time of death and dies on
+or after June 30, 2018. Notice served under this section by mail to the
+unit at the unit's address is reasonably calculated to ensure receipt of
+the notice by the unit.
+(e) Notice under subsection (d) shall be served within one (1) month
+after the first publication of notice under subsection (a) or as soon as
+possible after the elapse of one (1) month. If the personal representative
+or the personal representative's agent fails to give notice to a known or
+reasonably ascertainable creditor of the decedent under subsection (d)
+within one (1) month after the first publication of notice unde r
+subsection (a), the period during which the creditor may submit a claim
+against the estate includes an additional period ending two (2) months
+after the date notice is given to the creditor under subsection (d).
+However, a
+If a creditor described in subsection (d) is served within one (1)
+month after the first publication of notice, the personal
+representative or the personal representative's agent shall serve a
+copy of the notice issued by the clerk under subsection (a). A
+creditor that is served notice described in this subsection must file
+a claim against the estate within three (3) months after the date of
+the first published notice to creditors under IC 29-1-14-1.
+(f) If a creditor described in subsection (d) is not served within
+one (1) month after the first publication of notice, the personal
+representative or the personal representative's agent shall
+electronically file a new proposed notice with the clerk of the court.
+Once the clerk of the court has issued the new notice, the personal
+representative or the personal representative's agent shall serve a
+written or electronic copy of the notice by mail or any other means
+reasonably calculated to ensure actual receipt of the notice by a
+creditor. A creditor that is served notice under this subsection must
+submit a claim against the estate within two (2) months from the
+date of service of the notice.
+HEA 1088 — Concur
+
+
+--- Page 3 ---
+3
+(g) Any claim filed under IC 29-1-14-1(a) more than nine (9)
+months after the death of the decedent is barred.
+(f) (h) A schedule of creditors that received notice under subsection
+subsections (d) and (f) shall be delivered to the clerk of the court as
+soon as possible after notice is given.
+(g) (i) The giving of notice to a creditor or the listing of a creditor
+on the schedule delivered to the clerk of the court does not constitute
+an admission by the personal representative that the creditor has an
+allowable claim against the estate.
+(h) (j) If any person entitled to receive notice under this section is
+under a legal disability, the notice may be served upon or waived by the
+person's natural or legal guardian or by the person who has care and
+custody of the person.
+(i) (k) The Notice filed under subsection (a) or served under
+subsection (e) shall read substantially as follows:
+NOTICE OF ADMINISTRATION
+In the _____________ Court of ______________ County, Indiana.
+Notice is hereby given that _________ was, on the ____ day of
+______, 20 __, appointed personal representative of the estate of
+_________, deceased, who died on the ___ day of ________, 20 __.
+All persons who have claims against this estate, whether or not now
+due, must file the claim in the office of the clerk of this court within
+three (3) months from the date of the first publication of this notice, or
+within nine (9) months after the decedent's death, whichever is earlier,
+or the claims will be forever barred.
+Dated at ________, Indiana, this ___ day of ______, 20 __.
+_______________________________
+CLERK OF THE _________ COURT
+FOR _______ COUNTY, INDIANA
+(l) Notice filed and served under subsection (f) shall read
+substantially as follows:
+NOTICE OF ADMINISTRATION
+In the _____________ Court of ______________ County,
+Indiana.
+Notice is hereby given that _________ was, on the ____ day of
+______, 20 __, appointed personal representative of the estate of
+_________, deceased, who died on the ___ day of ________, 20 __.
+All persons who have claims against this estate, whether or not
+now due, must file the claim in the office of the clerk of this court
+within two (2) months from the date of service of this notice, or
+within nine (9) months after the decedent's death, whichever is
+earlier, or the claims will be forever barred.
+HEA 1088 — Concur
+
+
+--- Page 4 ---
+4
+Dated at ________, Indiana, this ___ day of ______, 20 __.
+_______________________________
+CLERK OF THE _________ COURT
+FOR _______ COUNTY, INDIANA
+SECTION 2. IC 29-1-7.5-1, AS AMENDED BY P.L.38-2023,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 1. (a) Upon the filing of a petition under
+IC 29-1-7-5, the following persons may at any time petition the court
+for authority to have a decedent's estate administered without court
+supervision:
+(1) The decedent's heirs at law if the decedent dies intestate.
+(2) The legatees and devisees under the decedent's will.
+(3) The personal representative.
+(b) The clerk of the court shall sign and issue a notice of the filing
+of a petition for unsupervised administration.
+(c) The petitioner or the petitioner's agent shall serve the notice
+described in subsection (b) upon the known creditors of the decedent
+as provided in IC 29-1-7-7(c), and IC 29-1-7-7(d), and IC 29-1-7-7(f).
+SECTION 3. IC 29-1-7.5-3, AS AMENDED BY P.L.231-2019,
+SECTION 12, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 3. (a) Subject to section 2(d) of this chapter, a
+personal representative who administers an estate under this chapter
+may do the following without order of the court:
+(1) Retain assets owned by the decedent pending distribution or
+liquidation including those in which the representative is
+personally interested or which are otherwise improper for trust
+investment.
+(2) Receive assets from fiduciaries or other sources.
+(3) Perform, compromise, or refuse performance of the decedent's
+contracts that continue as obligations of the estate, as the personal
+representative may determine under the circumstances. In
+performing enforceable contracts by the decedent to convey or
+lease land, the personal representative, among other possible
+courses of action, may:
+(A) execute and deliver a deed of conveyance for cash
+payment of all sums remaining due or the purchaser's note for
+the sum remaining due secured by a mortgage or deed of trust
+on the land; or
+(B) deliver a deed in escrow with directions that the proceeds,
+when paid in accordance with the escrow agreement, be paid
+to the successors of the decedent, as designated in the escrow
+agreement.
+HEA 1088 — Concur
+
+
+--- Page 5 ---
+5
+(4) Satisfy written charitable pledges of the decedent irrespective
+of whether the pledges constituted binding obligations of the
+decedent or were properly presented as claims, if in the judgment
+of the personal representative the decedent would have wanted
+the pledges completed under the circumstances.
+(5) If funds are not needed to meet debts and expenses currently
+payable and are not immediately distributable, deposit or invest
+liquid assets of the estate, including moneys received from the
+sale of other assets, in federally insured interest-bearing accounts,
+readily marketable secur ed loan arrangements, or other prudent
+investments which would be reasonable for use by trustees
+generally.
+(6) Acquire or dispose of an asset, including land in this or
+another state, for cash or on credit, at public or private sale; and
+manage, develop, improve, exchange, partition, change the
+character of, or abandon an estate asset.
+(7) Make ordinary or extraordinary repairs or alterations in
+buildings or other structures, demolish any improvements, raze
+existing or erect new party walls or buildings.
+(8) Subdivide, develop, or dedicate land to public use; make or
+obtain the vacation of plats and adjust boundaries; or adjust
+differences in valuation on exchange or partition by giving or
+receiving considerations; or dedicate easements to public use
+without consideration.
+(9) Enter for any purpose into a lease as lessor or lessee, with or
+without option to purchase or renew, for a term within or
+extending beyond the period of administration.
+(10) Enter into a lease or arrangement for exploration and
+removal of minerals or other natural resources or enter into a
+pooling or unitization agreement.
+(11) Abandon property when, in the opinion of the personal
+representatives, it is valueless, or is so encumbered, or is in
+condition that it is of no benefit to the estate.
+(12) Vote stocks or other securities in person or by general or
+limited proxy.
+(13) Pay calls, assessments, and other sums chargeable or
+accruing against or on account of securities, unless barred by the
+provisions relating to claims.
+(14) Hold a security in the name of a nominee or in other form
+without disclosure of the interest of the estate but the personal
+representative is liable for any act of the nominee in connection
+with the security so held.
+HEA 1088 — Concur
+
+
+--- Page 6 ---
+6
+(15) Hold, manage, safeguard, and control the estate's real and
+personal property, insure the assets of the estate against damage,
+loss, and liability, and insure the personal representative
+personally against liability as to third persons.
+(16) Borrow money with or without security to be repaid from the
+estate assets or otherwise and advance money for the protection
+of the estate.
+(17) Effect a fair and reasonable compromise with any debtor or
+obligor, or extend, renew, or in any manne r modify the terms of
+any obligation owing to the estate. If the personal representative
+holds a mortgage, pledge, or other lien upon property of another
+person, the personal representative may, in lieu of foreclosure,
+accept a conveyance or transfer of encumbered assets from the
+owner thereof in satisfaction of the indebtedness secured by lien.
+(18) Pay taxes, assessments, compensation of the personal
+representative, and other expenses incident to the administration
+of the estate.
+(19) Hold an interest in a proprietorship, partnership, limited
+liability company, business trust, corporation, or another domestic
+or foreign form of business or enterprise.
+(20) Continue a business.
+(21) Take any action that may be taken by shareholders, partners,
+members, or property owners, including contributing additional
+capital to or merging, consolidating, reorganizing, recapitalizing,
+dissolving, or otherwise changing the form of the business
+organization.
+(22) Allocate items of income or expense to either estate income
+or principal, as permitted or provided by IC 30-2-14.
+(23) Employ persons, including attorneys, auditors, investment
+advisors, or agents, even if they are associated with the personal
+representative, to advise or assist the personal representative in
+the performance of the personal representative's administrative
+duties; act without independent investigation upon their
+recommendations; and instead of acting personally, employ one
+(1) or more agents to perform any act of administration, whether
+or not discretionary.
+(24) Do any of the following concerning a claim or demand made
+in favor of or against the estate for the protection of the estate and
+of the personal representative in the performance of the personal
+representative's duties:
+(A) Release, assign, settle, compromise, or contest the claim
+or demand.
+HEA 1088 — Concur
+
+
+--- Page 7 ---
+7
+(B) Participate in mediation or submit to arbitration to resolve
+any dispute concerning the claim or demand.
+(C) Extend the time for payment of the claim or demand.
+(D) Abandon the claim or demand.
+(25) Sell, mortgage, or lease any real or personal property of the
+estate or any interest therein for cash, credit, or for part cash and
+part credit, and with or without security for unpaid balances.
+(26) Select a settlement option under any qualified or
+nonqualified benefit or retirement plan, annuity, or life insurance
+payable to the estate, and take appropriate action to collect the
+proceeds.
+(27) Inspect and investigate property held, directly or indirectly,
+by the personal representative for the purpose of:
+(A) determining the application of environmental law with
+respect to the property; and
+(B) doing the following:
+(i) Take action to prevent, abate, or remedy an actual or a
+potential violation of an environmental law affecting the
+property, whether taken before or after the assertion of a
+claim or the initiation of governmental enforcement by
+federal, state, or local authorities.
+(ii) Compromise claims against the estate that may be
+asserted for an alleged violation of environmental law.
+(iii) Pay the expense of inspection, review, abatement, or
+remedial action to comply with the environmental law.
+(28) Distribute assets of the estate upon such terms as the
+personal representative may impose. To the extent practicable,
+taking into account the decedent's probable intention, the power
+to distribute assets includes the power to:
+(A) pay an amount to a distributee who is under a legal
+disability or whom the personal representative reasonably
+believes to be incapacitated by:
+(i) paying the amount directly to the distributee or applying
+the amount for the distributee's use and benefit;
+(ii) paying the amount to the guardian appointed for the
+distributee;
+(iii) paying the amount to a custodian under the Indiana
+Uniform Transfers to Minors Act (IC 30-2-8.5) or a
+custodial trustee under the Uniform Custodial Trust Act
+(IC 30-2-8.6); or
+(iv) paying the amount to the trustee of a trust established by
+the decedent or by the personal representative under
+HEA 1088 — Concur
+
+
+--- Page 8 ---
+8
+subsection (b); and
+(B) make distributions of estate income and principal in kind,
+in cash, or partly in each, in shares of differing composition.
+(29) Distribute in kind all or part of the decedent's interest in
+a retirement plan or retirement account that the estate:
+(A) is a beneficiary of; or
+(B) has an interest in;
+to a distributee.
+(29) (30) Perform any other act necessary or appropriate to
+administer the estate.
+(b) A personal representative who administers an estate under this
+chapter may, without court order, establish a trust to make distributions
+to a distributee who is under a legal disability or whom the personal
+representative reasonably believes is incapacitated. In establishing a
+trust under this subsection, a personal representative may exercise:
+(1) the authority given to custodians under the Indiana Uniform
+Transfers to Minors Act (IC 30-2-8.5) to create a trust that
+satisfies the requirements of Section 2503(c) of the Internal
+Revenue Code and the regulations adopted under that Section; or
+(2) the authority given to an attorney in fact under
+IC 30-5-5-15(a)(3) to establish a revocable trust for the benefit of
+a principal.
+(c) Unless the court revokes unsupervised administration and
+converts the estate to supervised administration, the issuance of an
+order on any matter in an unsupervised estate does not revoke the
+personal representative's authority to continue to administer an estate
+according to unsupervised administration.
+SECTION 4. IC 29-1-7.5-4, AS AMENDED BY P.L.194-2017,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 4. (a) Unless prohibited by order of the court and
+except for estates being administered in supervised administration
+proceedings, a personal representative may close an estate by filing
+with the court no earlier than three (3) months after the date of the first
+published notice to creditors under IC 29-1-7-7(b), a verified statement
+stating that the personal representative, or a prior personal
+representative, has done the following:
+(1) Published notice to creditors as provided in IC 29-1-7-7(b),
+and that the first publication occurred more than three (3) months
+prior to the date of the statement.
+(2) Provided notice to creditors as required under IC 29-1-7-7(c),
+and IC 29-1-7-7(d), and IC 29-1-7-7(f).
+(3) Fully administered the estate of the decedent by making
+HEA 1088 — Concur
+
+
+--- Page 9 ---
+9
+payment, settlement, or other disposition of all claims which were
+presented, expenses of administration and estate, inheritance, and
+other death taxes, except as specified in the statement. If any
+claims remain undischarged, the statement shall:
+(A) state whether the personal representative has distributed
+the estate, subject to possible liability, with the agreement of
+the distributees; or
+(B) detail other arrangements which have been made to
+accommodate outstanding liabilities.
+(4) Executed and recorded a personal representative's deed for
+any real estate owned by the decedent.
+(5) Distributed all the assets of the estate to the persons entitled
+to receive the assets.
+(6) Sent a copy of the statement to:
+(A) all distributees of the estate; and
+(B) all creditors or other claimants of whom the personal
+representative has actual knowledge whose claims are neither
+paid nor barred and has furnished a full account in writing of
+the personal representative's administration to the distributees
+whose interests are affected, unless waived in writing.
+(7) Provided the court with the names and addresses of all
+distributees, creditors, and claimants to whom the personal
+representative has sent a copy of the statement under subdivision
+(6).
+(b) If no proceedings involving the personal representative are
+pending in the court three (3) months after the closing statement is
+filed, the appointment of the personal representative terminates and the
+estate is closed by operation of law.
+SECTION 5. IC 29-1-8-10, AS ADDED BY P.L.81-2015,
+SECTION 16, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 10. (a) This section applies only to a nonprobate
+transfer (as defined in IC 32-17-13-1) by a transferee that is As used in
+this section, "direct postmortem transfer" means a transfer of an
+asset to a testamentary trust established in a will that is admitted to
+probate under this article if any of the following apply:
+(1) The asset transferred to the testamentary trust is a
+distribution of death proceeds under a life insurance policy or
+annuity.
+(2) The testamentary trust is a designated beneficiary of an:
+(A) individual retirement account; or
+(B) employee benefit plan that is governed by the federal
+Employee Retirement Income Security Act of 1974 (29
+HEA 1088 — Concur
+
+
+--- Page 10 ---
+10
+U.S.C. 1001 et seq.).
+(3) The transfer to the testamentary trust is:
+(A) a distribution from another trust;
+(B) the result of a disclaimer;
+(C) a transfer on death transfer under IC 32-17-14; or
+(D) a decanting distribution.
+(b) All of the following apply to a nonprobate direct postmortem
+transfer described in subsection (a):
+(1) The nonprobate direct postmortem transfer is considered
+effective upon the decedent's death, if the decedent's will is
+admitted to probate, regardless of when the will is admitted to
+probate subject to IC 29-1-7-15.1(g).
+(2) The nonprobate direct postmortem transfer:
+(A) does not constitute part of the estate (as defined in
+IC 29-1-1-3); and
+(B) is not subject to claims other than as provided in
+IC 32-17-13.
+(3) The nonprobate direct postmortem transfer is not considered
+the decedent's transfer to the testamentary trust by the decedent's
+will for all other purposes of the Indiana Code. is a transfer of an
+asset or property to a trust established in a will for all
+purposes of the Social Security Act (42 U.S.C. 301 et seq.).
+(c) After the will is admitted to probate, the effective date of the
+testamentary trust is the date of the decedent's death.
+SECTION 6. IC 29-1-17-2, AS AMENDED BY P.L.211-2019,
+SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 2. (a) After the expiration of the time limit for the
+filing of claims, and after all claims against the estate, including state
+and federal inheritance and estate taxes, have been determined, paid,
+or provision made therefor, except contingent and unmatured claims
+which cannot then be paid, the personal representative shall, if the
+estate is in a condition to be closed, render a final account and at the
+same time petition the court to decree the final distribution of the
+estate.
+(b) The final account must include a verified statement that the clerk
+of the court, the personal representative, or a previous personal
+representative, has done the following:
+(1) Published notice to creditors as provided in IC 29-1-7-7(b),
+with the first publication occurring more than three (3) months
+before the date of the final account.
+(2) Provided notice to creditors as required under IC 29-1-7-7(c),
+and IC 29-1-7-7(d), and IC 29-1-7-7(f).
+HEA 1088 — Concur
+
+
+--- Page 11 ---
+11
+(c) Notice of the hearing of the petition shall be provided under
+IC 29-1-16-6.
+(d) In its decree of final distribution, the court shall designate the
+persons to whom distribution is to be made, and the proportions or
+parts of the estate, or the amounts, to which each is entitled under the
+will and the provisions of this probate code, including the p rovisions
+regarding advancements, election by the surviving spouse, lapse,
+renunciation, adjudicated compromise of controversies, and retainer.
+Every tract of real property so distributed shall be specifically
+described therein. The decree shall find that all state and federal
+inheritance and estate taxes are paid, and if all claims have been paid,
+it shall so state; otherwise, the decree shall state that all claims except
+those therein specified are paid and shall describe the claims for the
+payment of which a special fund is set aside, and the amount of such
+fund. If any contingent claims which have been duly allowed are still
+unpaid and have not become absolute, such claims shall be described
+in the decree, which shall state whether the distributees take subject to
+them. If a fund is set aside for the payment of contingent claims, the
+decree shall provide for the distribution of such fund in the event that
+all or a part of it is not needed to satisfy such contingent claims. If a
+decree of partial distribution has been previously made, the decree of
+final distribution shall expressly confirm it, or, for good cause, shall
+modify said decree and state specifically what modifications are made.
+(e) If a distributee dies before distribution to the distributee of the
+distributee's share of the estate, the distributee's share may be
+distributed to the personal representative of the distributee's estate, if
+there is one; or if no administration on the deceased distributee's estate
+is had and none is necessary according to IC 29-1-8, the share of the
+deceased distributee shall be distributed in accordance with IC 29-1-8.
+(f) The decree of final distribution shall be a conclusive
+determination of the persons who are the successors in interest to the
+estate of the decedent and of the extent and character of their interest
+therein, subject only to the right of appeal and the right to reopen the
+decree. It shall operate as the final adjudication of the transfer of the
+right, title, and interest of the decedent to the distributees therein
+designated; but no transfer before or after the decedent's death by an
+heir or devisee shall affect the decree, nor shall the decree affect any
+rights so acquired by grantees from the heirs or devisees.
+(g) Whenever the decree of final distribution includes real property,
+a certified copy thereof shall be recorded by the personal representative
+in every county of this state in which any real property distributed by
+the decree is located except the county in which the estate is
+HEA 1088 — Concur
+
+
+--- Page 12 ---
+12
+administered. The cost of recording such decree shall be charged to the
+estate.
+SECTION 7. IC 30-4-3-3, AS AMENDED BY P.L.99-2024,
+SECTION 14, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 3. (a) Except as provided in the terms of the trust
+and subject to subsection (c), a trustee has the power to perform
+without court authorization, except as provided in sections 4(b) and
+5(a) of this chapter, every act necessary or appropriate for the purposes
+of the trust including, by way of illustration and not of limitation, the
+following powers:
+(1) The power to:
+(A) deal with the trust estate;
+(B) buy, sell, or exchange and convey or transfer all property
+(real, personal, or mixed) for cash or on credit and at public or
+private sale with or without notice; and
+(C) invest and reinvest the trust estate.
+(2) The power to receive additions to the assets of the trust.
+(3) The power to acquire an undivided interest in a trust asset in
+which the trustee, in any trust capacity, holds an undivided
+interest.
+(4) The power to manage real property in every way, including:
+(A) the adjusting of boundaries;
+(B) erecting, altering, or demolishing buildings;
+(C) dedicating of streets, alleys, or other public uses;
+(D) subdividing;
+(E) developing;
+(F) obtaining vacation of plats;
+(G) granting of easements and rights-of-way;
+(H) partitioning;
+(I) entering into party wall agreements; and
+(J) obtaining title insurance for trust property.
+(5) The power to:
+(A) grant options concerning disposition of trust property,
+including the sale of covered security options; and
+(B) take options for acquisition of trust property, including the
+purchase back of previously sold covered security options.
+(6) The power to enter into a lease as lessor or lessee, with or
+without option to renew.
+(7) The power to enter into arrangements for exploration and
+removal of minerals or other natural resources and enter into a
+pooling or unitization agreement.
+(8) The power to continue the operation or management of any
+HEA 1088 — Concur
+
+
+--- Page 13 ---
+13
+business or other enterprise placed in trust.
+(9) The power to:
+(A) borrow money, to be repaid from trust property or
+otherwise; and
+(B) encumber, mortgage, pledge, or grant a security interest in
+trust property in connection with the exercise of any power.
+(10) The power to:
+(A) advance money for the benefit of the trust estate and for all
+expenses or losses sustained in the administration of the trust;
+and
+(B) collect any money advanced, without interest or with
+interest, at no more than the lowest rate prevailing when
+advanced.
+(11) The power to prosecute or defend actions, claims, or
+proceedings for the protection of:
+(A) trust property; and
+(B) the trustee in the performance of the trustee's duties.
+(12) The power to:
+(A) pay or contest any claim;
+(B) settle a claim by or against the trust by compromise or
+arbitration; and
+(C) abandon or release, totally or partially, any claim
+belonging to the trust.
+(13) The power to insure the:
+(A) trust estate against damage or loss; and
+(B) trustee against liability with respect to third persons.
+(14) The power to pay taxes, assessments, and other expenses
+incurred in the:
+(A) acquisition, retention, and maintenance of the trust
+property; and
+(B) administration of the trust.
+(15) The power to:
+(A) vote securities, in person or by a general or special proxy;
+(B) hold the securities in the name of a nominee if the trustee
+is a corporate trustee; and
+(C) effect or approve, and deposit securities in connection
+with, any change in the form of the corporation, including:
+(i) dissolution;
+(ii) liquidation;
+(iii) reorganization;
+(iv) acquisition; and
+(v) merger.
+HEA 1088 — Concur
+
+
+--- Page 14 ---
+14
+(16) The power to employ persons, including:
+(A) attorneys;
+(B) accountants;
+(C) investment advisors; and
+(D) agents;
+to advise and assist the trustee in the performance of the trustee's
+duties.
+(17) The power to effect distribution of property in cash, in kind,
+or partly in cash and partly in kind, in divided or undivided
+interests.
+(18) The power to execute and deliver all instruments necessary
+or appropriate to accomplishing or facilitating the exercise of the
+trustee's powers.
+(19) With respect to an interest in a proprietorship, partnership,
+limited liability company, business trust, corporation, or another
+form of business or enterprise, the power to:
+(A) continue the business or enterprise; and
+(B) take any action that may be taken by shareholders,
+members, or property owners, including:
+(i) merging;
+(ii) dissolving; or
+(iii) changing the form of business organization or
+contributing additional capital.
+(20) With respect to possible liability for violation of
+environmental law, the power to:
+(A) inspect or investigate property:
+(i) the trustee holds or has been asked to hold; or
+(ii) owned or operated by an organization in which the
+trustee holds an interest or has been asked to hold an
+interest;
+to determine the application of environmental law with respect
+to the property;
+(B) take action to prevent, abate, or remedy an actual or
+potential violation of an environmental law affecting property
+held directly or indirectly by the trustee before or after the
+assertion of a claim or the initiation of governmental
+enforcement;
+(C) decline to accept property into the trust or disclaim any
+power with respect to property that is or may be burdened with
+liability for violation of environmental law;
+(D) compromise claims against the trust that may be asserted
+for an alleged violation of environmental law; and
+HEA 1088 — Concur
+
+
+--- Page 15 ---
+15
+(E) pay the expense of any inspect ion, review, abatement, or
+remedial action to comply with environmental law.
+(21) The power to exercise elections with respect to federal, state,
+and local taxes.
+(22) The power to select a mode of payment under any employee
+benefit plan or retirement plan, annuity, or life insurance payable
+to the trustee and exercise rights under the plan, annuity, or
+insurance, including the right to:
+(A) indemnification:
+(i) for expenses; and
+(ii) against liabilities; and
+(B) take appropriate action to collect the proceeds.
+(23) The power to make loans out of trust property, including
+loans to a beneficiary on terms and conditions the trustee
+determines fair and reasonable under the circumstances. The
+trustee has a lien on future distributions for repayment of the
+loans.
+(24) The power to pledge trust property to guarantee loans made
+by others to the beneficiary on terms and conditions the trustee
+considers to be fair and reasonable under the circumstances. The
+trustee has a lien on future distributions for repayment of the
+loans.
+(25) The power to:
+(A) appoint a trustee to act in another jurisdiction with respect
+to trust property located in the other jurisdiction;
+(B) confer on the appointed trustee all the appointing trustee's
+powers and duties;
+(C) require the appointed trustee to furnish security; and
+(D) remove the appointed trustee.
+(26) With regard to a beneficiary who is under a legal disability
+or whom the trustee reasonably believes is incapacitated, the
+power to pay an amount distributable to the beneficiary by:
+(A) paying the amount directly to the beneficiary;
+(B) applying the amount for the beneficiary's benefit;
+(C) paying the amount to the beneficiary's guardian;
+(D) paying the amount to the beneficiary's custodian under
+IC 30-2-8.5 to create a custodianship or custodial trust;
+(E) paying the amount to an adult relative or another person
+having legal or physical care or custody of the beneficiary to
+be expended on the beneficiary's behalf, if the trustee does not
+know of a guardian, custodian, or custodial trustee; or
+(F) managing the amount as a separate fund on the
+HEA 1088 — Concur
+
+
+--- Page 16 ---
+16
+beneficiary's behalf, subject to the beneficiary's continuing
+right to withdraw the distribution.
+(27) The power to:
+(A) combine at least two (2) trusts into one (1) trust; or
+(B) divide one (1) trust into at least two (2) trusts;
+after notice to the qualified beneficiaries, if the result does not
+impair the rights of any beneficiary or adversely affect
+achievement of the purposes of the trust.
+(28) Distribute in kind, to a beneficiary, all or part of an
+interest in a retirement plan or retirement account that is
+payable to the trust.
+(b) Any act under subsection (a)(4), an option under subsection
+(a)(5), a lease under subsection (a)(6), an arrangement under
+subsection (a)(7), and an encumbrance, mortgage, pledge, or security
+interest under subsection (a)(9) may be for a term either within or
+extending beyond the term of the trust.
+(c) In acquiring, investing, reinvesting, exchanging, retaining,
+selling, and managing property for any trust, the trustee thereof shall
+exercise the judgment and care required by IC 30-4-3.5. Within the
+limitations of the foregoing standard, the trustee is authorized to
+acquire and retain every kind of property, real, personal, or mixed, and
+every kind of investment, including specifically, but without in any way
+limiting the generality of the foregoing, bonds, debentures, and other
+corporate obligations, stocks, preferred or common, and real estate
+mortgages, which persons of prudence, discretion, and intelligence
+acquire or retain for their own account, and within the limitations of the
+foregoing standard, the trustee is authorized to retain property properly
+acquired, without limitation as to time and without regard to its
+suitability for original purchase. Within the limitations of the foregoing
+standard, the trustee is authorized to sell covered security options and
+to purchase back previously sold covered security options.
+(d) If a distribution of particular trust assets is to be made to two (2)
+or more beneficiaries entitled to receive fractional shares in those
+assets, the trustee:
+(1) may distribute the particular assets without distributing to
+each beneficiary a pro rata share of each asset;
+(2) shall distribute to each beneficiary a pro rata share of the total
+fair market value of all of the particular assets as of the date of
+distribution; and
+(3) is not required to allocate and distribute particular assets
+based upon the potential gain or loss that the beneficiaries would
+realize if the particular assets were sold.
+HEA 1088 — Concur
+
+
+--- Page 17 ---
+17
+(e) If the trust is terminated or partially terminated, the trustee may
+send to the beneficiaries a proposal for distribution. If the proposal for
+distribution informs the beneficiary that the beneficiary:
+(1) has a right to object to the proposed distribution; and
+(2) must object not later than thirty (30) days after the proposal
+for distribution was sent;
+the right of the beneficiary to object to the proposed distribution
+terminates if the beneficiary fails to notify the trustee of an objection
+within the time limit set forth in subdivision (2).
+(f) When any real or personal property subject to a lien (as defined
+by IC 29-1-17-9(a)) is specifically distributable, the distributee shall
+take the property subject to the lien unless the terms of the trust provide
+expressly or by necessary implication that the lien be otherwise paid.
+If:
+(1) an event occurs that makes the property distributable; and
+(2) the holder of a lien on the property receives payment on a
+claim based upon the obligation secured by the lien;
+the property subject to the lien shall be charged with the reimbursement
+to the trust of the amount of the payment for the benefit of the
+beneficiaries entitled to the distribution, unless the terms of the trust
+provide expressly or by neces sary implication that the payment be
+charged against the residue of the trust estate.
+(g) For purposes of subsection (f), a general directive or authority
+in the trust for payment of debts does not imply an intent that the
+distribution of property subject to a lien be made free from the lien.
+(h) IC 32-39-2-8, IC 32-39-2-9, and IC 32-39-2-10 apply to the right
+of a trustee acting under a trust to access:
+(1) the content of an electronic communication (as defined in
+IC 32-39-1-6);
+(2) a catalogue of electronic communications (as defined in
+IC 32-39-1-5); or
+(3) any other digital asset (as defined in IC 32-39-1-10).
+SECTION 8. IC 30-5-10-4, AS AMENDED BY P.L.238-2005,
+SECTION 53, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 4. (a) Except as provided in subsections (b) and
+(c), a power of attorney terminates on the death of the principal.
+(b) The death of a principal who has executed a written power of
+attorney does not revoke or terminate the power of attorney as to the
+attorney in fact or other person who, without actual knowledge of the
+death of the principal, acts in good faith under the power. Unless
+otherwise invalid or unenforceable, an action taken under this
+subsection binds the principal and the principal's successors in interest.
+HEA 1088 — Concur
+
+
+--- Page 18 ---
+18
+(c) The death of a principal who executes a written power of
+attorney does not revoke or terminate the power of attorney as to
+authority granted under one (1) or more of the following:
+(1) IC 30-5-5-14(a)(2).
+(2) IC 30-5-5-14(a)(3).
+(3) IC 30-5-5-14(a)(5).
+(4) IC 30-5-5-14(a)(7).
+(5) IC 30-5-5-16(b)(5). through
+(6) IC 30-5-5-16(b)(6).
+(7) IC 30-5-5-16(b)(7).
+An action taken under this subsection binds the principal and the
+principal's successors in interest, unless the action is inconsistent with
+a written directive executed by the principal before the principal's
+death. The authority of the attorney in fact under subdivisions (1)
+through (4) is limited to the tax periods prior to and including the
+date of the principal's death and terminates upon the appointment
+of a personal representative under IC 29-1.
+(d) Notice from the United States Department of Defense of the
+death of a principal who has given a power of attorney is official notice
+of the death of the principal. A report or listing of the principal's being
+missing or missing in action does not do any of the following:
+(1) Constitute and may not be interpreted as actual notice of the
+death of the principal.
+(2) Terminate the power of attorney.
+HEA 1088 — Concur
+
+
+--- Page 19 ---
+Speaker of the House of Representatives
+President of the Senate
+President Pro Tempore
+Governor of the State of Indiana
+Date: Time: 
+HEA 1088 — Concur

@@ -1,0 +1,886 @@
+--- Page 1 ---
+ 
+Introduced Version
+SENATE BILL No. 234
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 2-5-54-7; IC 6-8.1-7-1; IC 12-15;
+IC 16-19-3-19; IC 22-4-19-6.
+Synopsis:  Medicaid matters. Requires the office of the secretary of
+family and social services (office) to report specified Medicaid data to
+the Medicaid oversight committee. Requires the office to receive and
+review data from specified federal and state agencies concerning
+Medicaid recipients to determine whether circumstances have changed
+that affect Medicaid eligibility for recipients. Prohibits the office from
+accepting self-attestations of certain information in the administration
+of the Medicaid program. Requires the office to apply for a Medicaid
+state plan amendment to remove references to coverage under the
+Medicaid plan of a certain population. Requires the office to establish:
+(1) performance standards for hospitals that make presumptive
+eligibility determinations and sets out action for when hospitals do not
+comply with the standards; and (2) an appeals procedure for hospitals
+that dispute the violation determination. Modifies eligibility categories
+and requirements for the healthy Indiana plan (plan). Specifies
+limitations for enrollment in the plan. 
+Effective:  Upon passage; July 1, 2025.
+Johns on T, Charbonneau
+January 13, 2025, read first time and referred to Commi ttee on Health and Provi der
+Services.
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+SENATE BILL No. 234
+A BILL FOR AN ACT to amend the Indiana Code concerning
+Medicaid.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 2-5-54-7 IS ADDED TO THE INDIANA CODE
+2 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2025]: Sec. 7. Before October 1 of each year, the office of the
+4 secretary of family and social services shall report the following
+5 aggregate, nonconfidential, and nonperson ally identifying
+6 information to the oversight committee concerning the Medicaid
+7 program for the previous calendar year:
+8 (1) Improper Medicaid payments and expenditures.
+9 (2) Federal and state recovered funds.
+10 (3) Aggregate data concerning improper payments and
+11 ineligible Medicaid recipients who received Medicaid services
+12 as a percentage of those investigated or reviewed.
+13 The report must be in an electronic format under IC 5-14-6.
+14 SECTION 2. IC 6-8.1-7-1, AS AMENDED BY P.L.118-2024,
+15 SECTION 21, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+16 JULY 1, 2025]: Sec. 1. (a) This subsection does not apply to the
+17 disclosure of information concerning a conviction on a tax evasion
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 3 ---
+2
+1 charge. Unless in accordance with a judicial order or as otherwise
+2 provided in this chapter, the department, its employees, former
+3 employees, counsel, agents, or any other person may not divulge the
+4 amount of tax paid by any taxpayer, terms of a settlement agreement
+5 executed between a taxpayer and the department, investigation records,
+6 investigation reports, or any other information disclosed by the reports
+7 filed under the provisions of the law relating to any of the listed taxes,
+8 including required information derived from a federal return, except to
+9 any of the following when it is agreed that the information is to be
+10 confidential and to be used solely for official purposes:
+11 (1) Members and employees of the department.
+12 (2) The governor.
+13 (3) A member of the general assembly or an employee of the
+14 house of representatives or the senate when acting on behalf of a
+15 taxpayer located in the member's legislative district who has
+16 provided sufficient information to the member or employee for
+17 the department to determine that the member or employee is
+18 acting on behalf of the taxpayer.
+19 (4) An employee of the legislative services agency to carry out the
+20 responsibilities of the legislative services agency under
+21 IC 2-5-1.1-7 or another law.
+22 (5) The attorney general or any other legal representative of the
+23 state in any action in respect to the amount of tax due under  the
+24 provisions of the law relating to any of the listed taxes.
+25 (6) Any authorized officers of the United States.
+26 (b) The information described in subsection (a) may be revealed
+27 upon the receipt of a certified request of any designated officer of the
+28 state tax department of any other state, district, territory, or possession
+29 of the United States when:
+30 (1) the state, district, territory, or possession permits the exchange
+31 of like information with the taxing officials of the state; and
+32 (2) it is agreed that the information is to be confidential and to be
+33 used solely for tax collection purposes.
+34 (c) The information described in subsection (a) relating to a person
+35 on public welfare or a person who has made application for public
+36 welfare may be revealed to the office of the secretary of family and
+37 social services for purposes of IC 12-15-1-24, the director of the
+38 division of family resources, and to any director of a county office of
+39 the division of family resources located in Indiana, upon receipt of a
+40 written request from either director for the information. The
+41 information shall be treated as confidential by the office and the
+42 directors. In addition, the information described in subsection (a)
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 4 ---
+3
+1 relating to a person who has been designated as an absent parent by the
+2 state Title IV-D agency shall be made available to the state Title IV-D
+3 agency upon request. The information shall be subject to the
+4 information safeguarding provisions of the state and federal Title IV-D
+5 programs.
+6 (d) The name, address, Social Security number, and place of
+7 employment relating to any individual who is delinquent in paying
+8 educational loans owed to a postsecondary educational institution may
+9 be revealed to that institution if it provides proof to the department that
+10 the individual is delinquent in paying for educational loans. This
+11 information shall be provided free of charge to approved postsecondary
+12 educational institutions (as defined by IC 21-7-13-6(a)). The
+13 department shall establish fees that all other institutions must pay to the
+14 department to obtain information under this subsection. However, these
+15 fees may not exceed the department's administrative costs in providing
+16 the information to the institution.
+17 (e) The information described in subsection (a) relating to reports
+18 submitted under IC 6-6-1.1-502 concerning the number of gallons of
+19 gasoline sold by a distributor and IC 6-6-2.5 concerning the number of
+20 gallons of special fuel sold by a supplier and the number of gallons of
+21 special fuel exported by a licensed exporter or imported by a licensed
+22 transporter may be released by the commissioner upon receipt of a
+23 written request for the information.
+24 (f) The information described in subsection (a) may be revealed
+25 upon the receipt of a written request from the administrative head of a
+26 state agency of Indiana when:
+27 (1) the state agency shows an official need for the information;
+28 and
+29 (2) the administrative head of the state agency agrees that any
+30 information released will be kept confidential and will be used
+31 solely for official purposes.
+32 (g) The information described in subsection (a) may be revealed
+33 upon the receipt of a written request from the chief law enforcement
+34 officer of a state or local law enforcement agency in Indiana when it is
+35 agreed that the information is to be confidential and to be used solely
+36 for official purposes.
+37 (h) The name and address of retail merchants, including township,
+38 as specified in IC 6-2.5-8-1(k) may be released solely for tax collection
+39 purposes to township assessors and county assessors.
+40 (i) The department shall notify the appropriate innkeeper's tax
+41 board, bureau, or commission that a taxpayer is delinquent in remitting
+42 innkeepers' taxes under IC 6-9.
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 5 ---
+4
+1 (j) All information relating to the delinquency or evasion of the
+2 vehicle excise tax may be disclosed to the bureau of motor vehicles in
+3 Indiana and may be disclosed to another state, if the information is
+4 disclosed for the purpose of the enforcement and collection of the taxes
+5 imposed by IC 6-6-5.
+6 (k) All information relating to the delinquency or evasion of
+7 commercial vehicle excise taxes payable to the bureau of motor
+8 vehicles in Indiana may be disclosed to the bureau and may be
+9 disclosed to another state, if the information is disclosed for the
+10 purpose of the enforcement and collection of the taxes imposed by
+11 IC 6-6-5.5.
+12 (l) All information relating to the delinquency or evasion of
+13 commercial vehicle excise taxes payable under the International
+14 Registration Plan may be disclosed to another state, if the information
+15 is disclosed for the purpose of the enforcement and collection of the
+16 taxes imposed by IC 6-6-5.5.
+17 (m) All information relating to the delinquency or evasion of the
+18 excise taxes imposed on recreational vehicles and truck campers that
+19 are payable to the bureau of motor vehicles in Indiana may be disclosed
+20 to the bureau and may be disclosed to another state if the information
+21 is disclosed for the purpose of the enforcement and collection of the
+22 taxes imposed by IC 6-6-5.1.
+23 (n) This section does not apply to:
+24 (1) the beer excise tax, including brand and packaged type (IC
+25 7.1-4-2);
+26 (2) the liquor excise tax (IC 7.1-4-3);
+27 (3) the wine excise tax (IC 7.1-4-4);
+28 (4) the hard cider excise tax (IC 7.1-4-4.5);
+29 (5) the vehicle excise tax (IC 6-6-5);
+30 (6) the commercial vehicle excise tax (IC 6-6-5.5); and
+31 (7) the fees under IC 13-23.
+32 (o) The name and business address of retail merchants within each
+33 county that sell tobacco products may be released to the division of
+34 mental health and addiction and the alcohol and tobacco commission
+35 solely for the purpose of the list prepared under IC 6-2.5-6-14.2.
+36 (p) The name and business address of a person licensed by the
+37 department under IC 6-6 or IC 6-7, or issued a registered retail
+38 merchant's certificate under IC 6-2.5, may be released for the purpose
+39 of reporting the status of the person's license or certificate.
+40 (q) The department may release information concerning total
+41 incremental tax amounts under:
+42 (1) IC 5-28-26;
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 6 ---
+5
+1 (2) IC 36-7-13;
+2 (3) IC 36-7-26;
+3 (4) IC 36-7-27;
+4 (5) IC 36-7-31;
+5 (6) IC 36-7-31.3; or
+6 (7) any other statute providing for the calculation of incremental
+7 state taxes that will be distributed to or retained by a political
+8 subdivision or other entity;
+9 to the fiscal officer of the political subdivision or other entity that
+10 established the district or area from which the incremental taxes were
+11 received if that fiscal officer enters into an agreement with the
+12 department specifying that the political subdivision or other entity will
+13 use the information solely for official purposes.
+14 (r) The department may release the information as required in
+15 IC 6-8.1-3-7.1 concerning:
+16 (1) an innkeeper's tax, a food and beverage tax, or an admissions
+17 tax under IC 6-9;
+18 (2) the supplemental auto rental excise tax under IC 6-6-9.7; and
+19 (3) the covered taxes allocated to a professional sports
+20 development area fund, sports and convention facilities operating
+21 fund, or other fund under IC 36-7-31 and IC 36-7-31.3.
+22 (s) Information concerning state gross retail tax exemption
+23 certificates that relate to a person who is exempt from the state gross
+24 retail tax under IC 6-2.5-4-5 may be disclosed to a power subsidiary (as
+25 defined in IC 6-2.5-1-22.5) or a person selling the services or
+26 commodities listed in IC 6-2.5-4-5 for the purpose of enforcing and
+27 collecting the state gross retail and use taxes under IC 6-2.5.
+28 (t) The department may release a statement of tax withholding or
+29 other tax information statement provided on behalf of a taxpayer to the
+30 department to:
+31 (1) the taxpayer on whose behalf the tax withholding or other tax
+32 information statement was provided to the department;
+33 (2) the taxpayer's spouse, if:
+34 (A) the taxpayer is deceased or incapacitated; and
+35 (B) the taxpayer's spouse is filing a joint income tax return
+36 with the taxpayer; or
+37 (3) an administrator, executor, trustee, or other fiduciary acting on
+38 behalf of the taxpayer if the taxpayer is deceased.
+39 (u) Information related to a listed tax regarding a taxpayer may be
+40 disclosed to an individual without a power of attorney under
+41 IC 6-8.1-3-8(a)(2) if:
+42 (1) the individual is authorized to file returns and remit payments
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 7 ---
+6
+1 for one (1) or more listed taxes on behalf of the taxpayer through
+2 the department's online tax system before September 8, 2020;
+3 (2) the information relates to a listed tax described in subdivision
+4 (1) for which the individual is authorized to file returns and remit
+5 payments;
+6 (3) the taxpayer has been notified by the department of the
+7 individual's ability to access the taxpayer's information for the
+8 listed taxes described in subdivision (1) and the taxpayer has not
+9 objected to the individual's access;
+10 (4) the individual's authorization or right to access the taxpayer's
+11 information for a listed tax described in subdivision (1) has not
+12 been withdrawn by the taxpayer; and
+13 (5) disclosure of the information to the individual is not
+14 prohibited by federal law.
+15 Except as otherwise provided by this article, this subsection does not
+16 authorize the disclosure of any correspondence from the department
+17 that is mailed or otherwise delivered to the taxpayer relating to the
+18 specified listed taxes for which the individual was given authorization
+19 by the taxpayer. The department shall establish a date, which may be
+20 earlier but not later than September 1, 2023, after which a taxpayer's
+21 information concerning returns and remittances for a listed tax may not
+22 be disclosed to an individual without a power of attorney under
+23 IC 6-8.1-3-8(a)(2) by providing notice to the affected taxpayers and
+24 previously authorized individuals, including notification published on
+25 the department's website. After the earlier of the date established by the
+26 department or September 1, 2023, the department may not disclose a
+27 taxpayer's information concerning returns and remittances for a listed
+28 tax to an individual unless the individual has a power of attorney under
+29 IC 6-8.1-3-8(a)(2) or the disclosure is otherwise allowed under this
+30 article.
+31 (v) The department may publish a list of persons, corporations, or
+32 other entities that qualify or have qualified for an exemption for sales
+33 tax under IC 6-2.5-5-16, IC 6-2.5-5-25, or IC 6-2.5-5-26, or otherwise
+34 provide information regarding a person's, corporation's, or entity's
+35 exemption status under IC 6-2.5-5-16, IC 6-2.5-5-25, or IC 6-2.5-5-26.
+36 For purposes of this subsection, information that may be disclosed
+37 includes:
+38 (1) any federal identification number or other identification
+39 number for the entity assigned by the department;
+40 (2) any expiration date of an exemption under IC 6-2.5-5-25;
+41 (3) whether any sales tax exemption has expired or has been
+42 revoked by the department; and
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 8 ---
+7
+1 (4) any other information reasonably necessary for a recipient of
+2 an exemption certificate to determine if an exemption certificate
+3 is valid.
+4 (w) The department may share a taxpayer's name and other personal
+5 identification information with a tax preparer or tax preparation
+6 software provider in cases where the department suspects that a
+7 fraudulent return has been filed on behalf of a taxpayer and the
+8 department suspects that the system of a taxpayer's previous year tax
+9 preparer or tax preparation software provider has been breached.
+10 SECTION 3. IC 12-15-1-24 IS ADDED TO THE INDIANA CODE
+11 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+12 1, 2025]: Sec. 24. (a) Except as required under federal law, the
+13 office of the secretary may not accept self-attestation of any of the
+14 following in the administration of the Medicaid program:
+15 (1) Income.
+16 (2) Residency.
+17 (3) Age.
+18 (4) Household composition.
+19 (5) Caretaker or relative status.
+20 (6) Receipt of other coverage without verification before
+21 enrollment.
+22 (b) The office of the secretary shall enter into a data matching
+23 agreement with:
+24 (1) the state lottery commission; and
+25 (2) the Indiana gaming commission;
+26 to, on at least a monthly basis, identify individuals receiving
+27 Medicaid assistance with lottery and gambling winnings of at least
+28 three thousand dollars ($3,000). Upon verification of any winnings
+29 resulting in the individual no longer being eligible for Medicaid,
+30 the office of the secretary shall terminate the individual's
+31 enrollment.
+32 (c) On at least a monthly basis, the office of the secretary shall
+33 review vital statistics information provided by the Indiana
+34 department of health under IC 16-19-3-19 to determine removal of
+35 deceased individuals from Medicaid enrollment.
+36 (d) On at least a quarterly basis, the office of the secretary shall
+37 receive and review information from the department of state
+38 revenue and the department of workforce development concerning
+39 Medicaid recipients that indicates a change in circumstances that
+40 may affect eligibility, including changes to employment or wages.
+41 (e) On at least an annual basis, the office of the secretary shall
+42 receive and review information from the department of state
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 9 ---
+8
+1 revenue concerning Medicaid recipients that indicates a change in
+2 circumstances that may affect Medicaid eligibility.
+3 (f) On at least a monthly basis, the office of the secretary shall
+4 review information concerning Medicaid recipients who also
+5 receive SNAP to determine whether there has been any change in
+6 circumstances that may affect Medicaid eligibility, including a
+7 change in residency as may be identified through electronic benefit
+8 transfer program transactions.
+9 (g) On at least a monthly basis, the office of the secretary shall
+10 receive and review information from the department of correction
+11 concerning Medicaid recipients that may indicate a change in
+12 circumstances that may affect Medicaid eligibility.
+13 SECTION 4. IC 12-15-1-25 IS ADDED TO THE INDIANA CODE
+14 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+15 1, 2025]: Sec. 25. (a) Unless prohibited by federal law and on at
+16 least a monthly basis, the office of the secretary shall review the
+17 following to assess continuous eligibility of Medicaid recipients:
+18 (1) The following information maintained by the United States
+19 Social Security Administration:
+20 (A) Earned income information.
+21 (B) Death register information.
+22 (C) Incarceration records.
+23 (D) Supplemental security income information.
+24 (E) Beneficiary records.
+25 (F) Earnings information.
+26 (G) Pension information.
+27 (2) The following information maintained by the United States
+28 Department of Health and Human Services:
+29 (A) Income and employment information maintained in the
+30 national directory of new hires data base.
+31 (B) Child support enforcement data.
+32 (3) Change of address information maintained by the United
+33 States Postal Service.
+34 (4) Payment and earnings information maintained by the
+35 United States Department of Housing and Urban
+36 Development.
+37 (5) National fleeing felon information maintained by the
+38 United States Federal Bureau of Investigation.
+39 (6) Tax filing information maintained by the United States
+40 Department of the Treasury.
+41 (b) The office of the secretary may contract with an independent
+42 third party for additional data base searches that may contain
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 10 ---
+9
+1 information that indicates a change in circumstances that may
+2 affect Medicaid applicant or recipient eligibility.
+3 SECTION 5. IC 12-15-1.3-4.3 IS ADDED TO THE INDIANA
+4 CODE AS A NEW SECTION TO READ AS FOLLOWS
+5 [EFFECTIVE UPON PASSAGE]: Sec. 4.3. (a) Before July 1, 2025,
+6 the office of the secretary shall apply to the United States
+7 Department of Health and Human Services for an amendment to
+8 the state Medicaid plan that removes references to coverage under
+9 the state Medicaid plan of the population described in 42 CFR
+10 435.119.
+11 (b) The office of the secretary may delay the effective date of a
+12 state plan amendment described in subsection (a) during the time
+13 that the office of the secretary is negotiating with the United States
+14 Department of Health and Human Services for a state Medicaid
+15 waiver covering the population described in subsection (a).
+16 However, the office of the secretary may not delay later than June
+17 30, 2026, the implementation of a state plan amendment requested
+18 under this section and authorized by the United States Department
+19 of Health and Human Services.
+20 SECTION 6. IC 12-15-4-1.5 IS ADDED TO THE INDIANA CODE
+21 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+22 1, 2025]: Sec. 1.5. (a) The office of the secretary shall establish the
+23 following:
+24 (1) Performance standards for hospitals to use in making
+25 presumptive eligibility determinations.
+26 (2) An appeals process for a hospital that disputes a
+27 determination that a presumptive eligibility was violated
+28 beginning after the second finding of a presumptive eligibility
+29 violation by the office of the secretary for the hospital within
+30 a twelve (12) month period.
+31 (b) A hospital shall do the following when making a presumptive
+32 eligibility determination:
+33 (1) Notify the office of the secretary of each  presumptive
+34 eligibility determination not later than five (5) business days
+35 after the date of the determination.
+36 (2) Assist individuals whom the hospital determines are
+37 presumptively eligible with completing and submitting a full
+38 Medicaid application.
+39 (3) Notify the applicant in writing and on all relevant forms
+40 with plain language and large print that if the applicant:
+41 (A) does not file a full Medicaid application with the office
+42 of the secretary before the last day of the following month,
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 11 ---
+10
+1 presumptive eligibility will end on that last day; and
+2 (B) files a full Medicaid application with the office of the
+3 secretary before the last day of the following month,
+4 presumptive eligibility will continue until an eligibility
+5 determination is made concerning the application.
+6 (c) The office of the secretary shall use the following
+7 performance standards to establish and ensure accurate
+8 presumptive eligibility determinations by a qualified hospital:
+9 (1) Determine whether the presumptive eligibility received
+10 from the hospital complied with the time requirement set
+11 forth in subsection (b)(1).
+12 (2) Determine whether the office of the secre tary received
+13 before the expiration of the presumptive eligibility period the
+14 full application from the individual determined by the
+15 hospital to be presumptively eligible.
+16 (3) Determine whether the applicant who was determined by
+17 the hospital to be presumptively eligible by the hospital was
+18 determined to be eligible for Medicaid after the full
+19 application was received.
+20 (d) If a hospital fails for the first time to meet any of the
+21 presumptive eligibility standards under this section for a
+22 presumptive eligibility determination in a calendar year, the office
+23 of the secretary shall notify the hospital in writing not later than
+24 five (5) days after the determination of a violation is made. The
+25 notice must include the following:
+26 (1) A description of the standard that was not met and an
+27 explanation of why the hospital did not meet the standard.
+28 (2) Notice that a second finding on noncompliance with a
+29 standard will result in a requirement that the hospital's
+30 applicable staff participate in mandatory training on hospital
+31 presumptive eligibility rules and standards that is performed
+32 by the office of the secretary.
+33 (e) If the office of the secretary determines that a hospital has
+34 failed to meet any of the presumptive eligibility standards under
+35 this section in any presumptive eligibility determination by the
+36 hospital for a second time within a twelve (12) month period of a
+37 first violation, the office of the secretary shall notify the hospital in
+38 writing not later than five (5) days after the determination that a
+39 second violation has occurred. The written notice must include the
+40 following:
+41 (1) A description of the standard that was not met and an
+42 explanation of why the hospital did not meet the standard.
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 12 ---
+11
+1 (2) Notice that the hospital's applicable staff must participate
+2 in mandatory training on hospital presumptive eligibility
+3 rules and standards that is performed by the office of the
+4 secretary, and information concerning the date, time, and
+5 location of the training by the office.
+6 (3) A description of the available appeal procedures that the
+7 hospital may use to dispute the finding of a violation of
+8 presumptive eligibility standards.
+9 (4) Notice that a third violation by the hospital of a
+10 presumptive eligibility standard within a twelve (12) month
+11 period from the second violation will result in the hospital no
+12 longer being qualified to make presumptive eligibility
+13 determinations.
+14 If a hospital appeals a finding of a violation of presumptive
+15 eligibility standards described in this subsection, the hospital must
+16 provide clear and convincing evidence during the appeals process
+17 that the standard was met by the hospital.
+18 (f) If the office of the secretary determines that a hospital has
+19 failed to meet any of the presumptive eligibility standards under
+20 this section in any presumptive eligibility determination by the
+21 hospital for a third time within a twelve (12) month period of the
+22 second violation by the hospital, the office of the secretary shall
+23 notify the hospital in writing not later than five (5) days from a
+24 determination that a presumptive eligibility standard was violated
+25 by the hospital for the third time. The written notice must include
+26 the following:
+27 (1) A description of the standard that was not met and an
+28 explanation of why the hospital did not meet the standard.
+29 (2) A description of the available appeal procedures that the
+30 hospital may use to dispute the finding of a violation of
+31 presumptive eligibility standards.
+32 (3) Notice that, effective immediately from receipt of the
+33 notice, the hospital is no longer qualified to make presumptive
+34 eligibility determinations for the Medicaid program.
+35 If a hospital appeals a finding of a violation of presumptive
+36 eligibility standards described in this subsection, the hospital must
+37 provide clear and convincing evidence during the appeals process
+38 that the standard was met by the hospital.
+39 SECTION 7. IC 12-15-44.5-3, AS AMENDED BY P.L.241-2023,
+40 SECTION 16, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+41 JULY 1, 2025]: Sec. 3. (a) The healthy Indiana plan is established.
+42 (b) The office shall administer the plan.
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 13 ---
+12
+1 (c) Subject to section 4 of this chapter, the following individuals
+2 are may be eligible for the plan:
+3 (1) The adult group described in 42 CFR 435.119
+4 (2) Parents and caretaker relatives eligible under 42 CFR 435.110.
+5 (3) Low income individuals who are:
+6 (A) at least nineteen (19) years of age; and
+7 (B) less than twenty-one (21) years of age;
+8 and eligible under 42 CFR 435.222.
+9 (4) Individuals, for purposes of receiving transitional medical
+10 assistance.
+11 if an individual meets the following requirements:
+12 (A) Meets at least one (1) of the following:
+13 (i) Is working at least twenty (20) hours per week on a
+14 monthly average.
+15 (ii) Is participating in and complying with the
+16 requirements of a work program for at least twenty (20)
+17 hours per week, as determined by the office.
+18 (iii) Is volunteering at least twenty (20) hours per week,
+19 as determined by the office.
+20 (iv) Undertakes the activities described in items (i) and
+21 (ii) for a combined total of at least twenty (20) hours per
+22 week, as determined by the office.
+23 (v) Participates in and complies with the requirements of
+24 a workfare program, as determined by the office.
+25 (vi) Receives unemployment compensation and complies
+26 with federal and state work requirements under the
+27 unemployment compensation system.
+28 (vii) Participates in a substance use treatment and
+29 rehabilitation program.
+30 (viii) Is medically certified as physically or mentally unfit
+31 for employment.
+32 (ix) Is a parent or caretaker responsible for the care of a
+33 dependent child less than six (6) years of age.
+34 (x) Is a parent or caretaker personally providing the care
+35 for a dependent child with a serious medical condition or
+36 disability.
+37 (B) Has received not more than thirty-six (36) months of
+38 coverage under the plan.
+39 (C) Was eligible for and enrolled in the plan on the date
+40 the plan becomes effective after approval by the United
+41 States Department of Health and Human Services.
+42 (2) Is either less than nineteen (19) years of age or more than
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 14 ---
+13
+1 sixty-four (64) years of age and meets the following:
+2 (A) Has received not more than thirty-six (36) months of
+3 coverage under the plan.
+4 (B) Was eligible for and enrolled in the plan on the date the
+5 plan becomes effective after approval by the United States
+6 Department of Health and Human Services.
+7 (3) Is pregnant and meets the following:
+8 (A) Has received not more than thirty-six (36) months of
+9 coverage under the plan.
+10 (B) Was eligible for and enrolled in the plan on the date the
+11 plan becomes effective after approval by the United States
+12 Department of Health and Human Services.
+13 An individual must meet the Medicaid residency requirements under
+14 IC 12-15-4-4 and this article to be eligible for the plan.
+15 (d) The following individuals are not eligible for the plan:
+16 (1) An individual who participates in the federal Medicare
+17 program (42 U.S.C. 1395 et seq.).
+18 (2) An individual who is otherwise eligible and enrolled for
+19 medical assistance.
+20 (e) The department of insurance and the office of the secretary shall
+21 provide oversight of the marketing practices of the plan.
+22 (f) The office shall promote the plan and provide information to
+23 potential eligible individuals who live in medically underserved rural
+24 areas of Indiana.
+25 (g) The office shall, to the extent possible, ensure that enrollment in
+26 the plan is distributed throughout Indiana in proportion to the number
+27 of individuals throughout Indiana who are eligible for participation in
+28 the plan.
+29 (h) The office shall establish standards for consumer protection,
+30 including the following:
+31 (1) Quality of care standards.
+32 (2) A uniform process for participant grievances and appeals.
+33 (3) Standardized reporting concerning provider performance,
+34 consumer experience, and cost.
+35 (i) A health care provider that provides care to an individual who
+36 receives health coverage under the plan shall also participate in the
+37 Medicaid program under this article.
+38 (j) The following do not apply to the plan:
+39 (1) IC 12-15-12.
+40 (2) IC 12-15-13.
+41 (3) IC 12-15-14.
+42 (4) IC 12-15-15.
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 15 ---
+14
+1 (5) IC 12-15-21.
+2 (6) IC 12-15-26.
+3 (7) IC 12-15-31.1.
+4 (8) IC 12-15-34.
+5 (9) IC 12-15-35.
+6 (10) IC 16-42-22-10.
+7 SECTION 8. IC 12-15-44.5-4, AS AMENDED BY P.L.30-2016,
+8 SECTION 29, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+9 JULY 1, 2025]: Sec. 4. (a) The plan:
+10 (1) is not an entitlement program; and
+11 (2) serves as an alternative to health care coverage under Title
+12 XIX of the federal Social Security Act (42 U.S.C. 1396 et seq.);
+13 (3) may not grant eligibility under the state Medicaid plan for
+14 medical assistance under 42 U.S.C. 1396a; and
+15 (4) must grant eligibility for the plan through an approved
+16 demonstration project under 42 U.S.C. 1315.
+17 (b) If either any of the following occurs, the office shall terminate
+18 the plan in accordance with section 6(b) of this chapter:
+19 (1) The:
+20 (A) percentages of federal medical assistance available to the
+21 plan for coverage of plan participants described in Section
+22 1902(a)(10)(A)(i)(VIII) of the federal Social Security Act are
+23 less than the percentages provided for in Section
+24 2001(a)(3)(B) of the federal Patient Protection and Affordable
+25 Care Act; and
+26 (B) hospital assessment committee (IC 16-21-10), after
+27 considering the modification and the reduction in available
+28 funding, does not alter the formula established under
+29 IC 16-21-10-13.3(b)(1) to cover the amount of the reduction
+30 in federal medical assistance.
+31 For purposes of this subdivision, "coverage of plan participants"
+32 includes payments, contributions, and amounts referred to in
+33 IC 16-21-10-13.3(b)(1)(A), IC 16-21-10-13.3(b)(1)(C), and
+34 IC 16-21-10-13.3(b)(1)(D), including payments, contributions,
+35 and amounts incurred during a phase out period of the plan.
+36 (2) The:
+37 (A) methodology of calculating the incremental fee set forth in
+38 IC 16-21-10-13.3 is modified in any way that resul ts in a
+39 reduction in available funding;
+40 (B) hospital assessment fee committee (IC 16-21-10), after
+41 considering the modification and reduction in available
+42 funding, does not alter the formula established under
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 16 ---
+15
+1 IC 16-21-10-13.3(b)(1) to cover the amount of the reduction
+2 in fees; and
+3 (C) office does not use alternative financial suppo rt to cover
+4 the amount of the reduction in fees.
+5 (3) The Medicaid waiver approving the plan is revoked,
+6 rescinded, vacated, or otherwise altered in a manner such that
+7 the state cannot comply with the requirements of this chapter.
+8 (c) If the plan is terminated under subsection (b), the secretary may
+9 implement a plan for coverage of the affected population in a manner
+10 consistent with the healthy Indiana plan (IC 12-15-44.2 (before its
+11 repeal)) in effect on January 1, 2014:
+12 (1) subject to prior approval of the United States Department of
+13 Health and Human Services; and
+14 (2) without funding from the incremental fee set forth in
+15 IC 16-21-10-13.3.
+16 (d) The office may not operate the plan in a manner that would
+17 obligate the state to financi al participation beyond the level of state
+18 appropriations or funding otherwise authorized for the plan.
+19 (e) The office of the secretary shall submit annually to the budget
+20 committee an actuarial analysis of the plan that reflects a determination
+21 that sufficient funding is reasonably estimated to be available to
+22 operate the plan.
+23 SECTION 9. IC 12-15-44.5-10, AS AMENDED BY P.L.30-2016,
+24 SECTION 35, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+25 JULY 1, 2025]: Sec. 10. (a) The secretary has the authority to provide
+26 benefits to individuals eligible under the adult group described in 42
+27 CFR 435.119 only in accordance with this chapter.
+28 (b) The secretary shall limit enrollment in the plan to the lesser
+29 of:
+30 (1) the number individuals that ensures that financial
+31 participation does not exceed the level of state appropriations
+32 or other funding for the plan; or
+33 (2) five hundred thousand (500,000) individuals.
+34 (b) (c) The secretary may negotiate and make changes to the plan,
+35 except that the secretary may not negotiate or change the plan in a way
+36 that would do the following:
+37 (1) Reduce the following:
+38 (A) Contribution amounts below the minimum levels set forth
+39 in section 4.7 of this chapter.
+40 (B) Deductible amounts below the minimum amount
+41 established in section 4.5(c) of this chapter.
+42 (C) The number of hours required to satisfy the work
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 17 ---
+16
+1 requirements specified in section 3(c)(1)(A) of this chapter.
+2 (2) Remove or reduce the penalties for nonpayment set forth in
+3 section 4.7 of this chapter.
+4 (3) Revise the use of the health care account requirement set forth
+5 in section 4.5 of this chapter.
+6 (4) Include noncommercial benefits or add additional plan
+7 benefits in a manner inconsistent with section 3.5 of this chapter.
+8 (5) Allow services to begin:
+9 (A) without the payment established or required by; or
+10 (B) earlier than the time frames otherwise established by;
+11 section 4.7 of this chapter.
+12 (6) Reduce financial penalties for the inappropriate use of the
+13 emergency room below the minimum levels set forth in section
+14 5.7 of this chapter.
+15 (7) Permit members to change health plans without cause in a
+16 manner inconsistent with section 4.7(g) of this chapter.
+17 (8) Operate the plan in a manner that would obligate the state to
+18 financial participation beyond the level of state appropriations or
+19 funding otherwise authorized for the plan.
+20 (9) Increase the maximum duration of benefits beyond the
+21 limitations specified in section 3(c)(1)(B) of this chapter.
+22 (10) Extend eligibility to individuals beyond those specified in
+23 section 3(c) of this chapter.
+24 (c) (d) The secretary may make changes to the plan under this
+25 chapter if the changes are required by federal law or regulation.
+26 SECTION 10. IC 16-19-3-19, AS AMENDED BY P.L.128-2015,
+27 SECTION 237, IS AMENDED TO READ AS FOLLOWS
+28 [EFFECTIVE JULY 1, 2025]: Sec. 19. (a) The state department shall
+29 study the vital statistics and endeavor to make intelligent and profitable
+30 use of the collected records of death and sickness among the people.
+31 (b) As required under 52 U.S.C. 21083, after January 1, 2006, the
+32 department shall provide information to the following:
+33 (1) The election division to coordinate the computerized list of
+34 voters maintained under IC 3-7-26.3 with the department records
+35 concerning individuals identified as deceased under IC 3-7-45.
+36 (2) The office of the secretary of family and social services to
+37 determine whether a Medicaid recipient is identified as
+38 deceased for purposes of IC 12-15-1-24(c).
+39 SECTION 11. IC 22-4-19-6, AS AMENDED BY P.L.122-2019,
+40 SECTION 32, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+41 JULY 1, 2025]: Sec. 6. (a) Each employing unit shall keep true and
+42 accur ate records containing information the department considers
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 18 ---
+17
+1 necessary. These records are:
+2 (1) open to inspection; and
+3 (2) subject to being copied;
+4 by an authorized representative of the department at any reasonable
+5 time and as often as may be necessary. The department, the review
+6 board, or an administrative law judge may require from any employing
+7 unit any verified or unverified report, with respect to persons employed
+8 by it, which is considered necessary for the effective administration of
+9 this article.
+10 (b) Except as provided in this section, information obtained or
+11 obtained from any person in the administration of this article and the
+12 records of the department relating to the unemployment tax or the
+13 payment of benefits is confidential and may not be published or be
+14 open to public inspect ion in any manner revealing the individual's or
+15 the employing unit's identity, except in obedience to an order of a court
+16 or as provided in this section.
+17 (c) A claimant or an employer at a hearing before an administrative
+18 law judge or the review board shall be supplied with information from
+19 the records referred to in this section to the extent necessary for the
+20 proper presentation of the subject matter of the appearance.
+21 (d) The department may release the following information:
+22 (1) Summary statistical data may be released to the public.
+23 (2) Employer specific information known as Quarterly Census of
+24 Employment and Wages data and data resulting from
+25 enhancements made through the business establishment list
+26 improvement project may be released to the Indiana economic
+27 development corporation only for the following purposes:
+28 (A) The purpose of conducting a survey.
+29 (B) The purpose of aiding the officers or employees of the
+30 Indiana economic development corporation in providing
+31 economic development assistance through program
+32 development, research, or other methods.
+33 (C) Other purposes consistent with the goals of the Indiana
+34 economic development corporation and not inconsistent with
+35 those of the department, including the purposes of IC 5-28-6-7.
+36 (3) Employer specific information known as Quarterly Census of
+37 Employment and Wages data and data resulting from
+38 enhancements made through the business establishment list
+39 improvement project may be released to:
+40 (A) the budget agency and the legislative services agency only
+41 for aiding the employees of the budget agency or the
+42 legislative services agency in forecasting tax revenues; and
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 19 ---
+18
+1 (B) the Indiana department of labor for the purpose of
+2 conducting a survey and reporting to the United States
+3 Department of Labor or the federal Bureau of Labor Statistics.
+4 (4) Wages data to the office of the secretary of family and
+5 social services for the purposes specified in IC 12-15-1-24(d).
+6 (e) The department may make information available under
+7 subsection (d) only:
+8 (1) if:
+9 (A) under subsection (d)(1), data provided in summary form
+10 canno t be used to identify information relating to a specific
+11 employer or specific employee; or
+12 (B) under subsection (d)(2) and (d)(3), there is an agreement
+13 that the employer specific information released will be treated
+14 as confidential and will be released only in summary form that
+15 cannot be used to identify information relating to a specific
+16 employer or a specific employee; and
+17 (2) after the cost of making the information available to the
+18 person requesting the information is paid under IC 5-14-3.
+19 (f) The department may disclose confidential information:
+20 (1) to an individual or employer as provided in 20 CFR 603.5(c),
+21 upon request and proper identification of the individual or
+22 employer;
+23 (2) through informed consent of a party as provided in 20 CFR
+24 603.5(d);
+25 (3) to a public official as provided in 20 CFR 603.5(e);
+26 (4) to an agent or contractor of a public official as provided in 20
+27 CFR 603.5(f); or
+28 (5) to the Bureau of Labor Statistics as provided in 20 CFR
+29 603.5(g);
+30 after the cost of making the information available to the party
+31 requesting the information is paid under IC 5-14-3.
+32 (g) In addition to the confidentiality provisions of subsection (b), the
+33 fact that a claim has been made under IC 22-4-15-1(c)(8) and any
+34 information furnished by the claimant or an agent to the department to
+35 verify a claim of domestic or family violence are confidential.
+36 Information concerning the claimant's current address or physical
+37 location shall not be disclosed to the employer or any other person.
+38 Disclosure is subject to the following additional restrictions:
+39 (1) The claimant must be notified before any release of
+40 information.
+41 (2) Any disclosure is subject to redaction of unnecessary
+42 identifying information, including the claimant's address.
+2025 IN 234—LS 6908/DI 104
+
+
+--- Page 20 ---
+19
+1 (h) An employee:
+2 (1) of the department who recklessly violates subsection (a), (c),
+3 (d), (e), (f), or (g); or
+4 (2) of any governmental entity listed in subsection (f) who
+5 recklessly violates subsection (f);
+6 commits a Class B misdemeanor.
+7 (i) An employee of the Indiana economic development corporation,
+8 the budget agency, or the legislative services agency who violates
+9 subsection (d), (e), or (f) commits a Class B misdemeanor.
+10 (j) An employer or agent of an employer that becomes aware that a
+11 claim has been made under IC 22-4-15-1(c)(8) shall maintain that
+12 information as confidential.
+13 (k) The department may charge a reasonable processing fee not to
+14 exceed two dollars ($2) for each record that provides information about
+15 an individual's last known employer released in compliance with a
+16 court order under subsection (b).
+17 SECTION 12. An emergency is declared for this act.
+2025 IN 234—LS 6908/DI 104

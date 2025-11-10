@@ -1,0 +1,743 @@
+--- Page 1 ---
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE ENROLLED ACT No. 1587
+AN ACT to amend the Indiana Code concerning insurance.
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1. IC 5-10-8-23, AS AMENDED BY P.L.93-2024,
+SECTION 42, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 23. (a) As used in this section, "covered
+individual" means an individual who is entitled to coverage under a
+state employee health plan.
+(b) As used in this section, "emergency medical services provider
+organization" means a provider of emergency medical services that is
+certified by the Indiana emergency medical services commission as an
+advanced life support provider organization under rules adopted under
+IC 16-31-3.
+(c) As used in this section, "state employee health plan" means
+either of the following that provides coverage for emergency medical
+services:
+(1) A self-insurance program established under section 7(b) of
+this chapter to provide group health coverage.
+(2) A contract with a prepaid health care delivery plan that is
+entered into or renewed under section 7(c) of this chapter.
+(d) A state employee health plan that provides coverage for
+emergency medical services must at least provide reimbursement,
+subject to applicable deductible and coinsurance, for a covered
+individual for emergency medical services that are:
+(1) rendered by an emergency medical services provider
+organization;
+HEA 1587 — CC 1
+
+
+--- Page 2 ---
+2
+(2) within the emergency medical services provider organization's
+scope of practice;
+(3) performed or provided as advanced life support services; and
+(4) performed or provided during a response initiated through the
+911 system, regardless of whether the patient was transported.
+(e) The director of the state personnel department may make a
+determination to provide coverage for emergency medical services
+as part of a mobile integrated healthcare progra m described in
+IC 16-31-12.
+(e) (f) If multiple emergency medical services provider
+organizations qualify and submit a claim for reimbursement under this
+section for an encounter, the state employee health plan:
+(1) may only reimburse, subject to applicable deductible and
+coinsurance, under this section for one (1) claim per patient
+encounter; and
+(2) shall reimburse, subject to applicable deductible and
+coinsurance, the claim submitted by the emergency medical
+services provider organization that performed or provided the
+majority of advanced life support services for the patient.
+(f) (g) The state personnel department may adopt rules under
+IC 4-22-2 to implement this section.
+(g) (h) This section does not restrict the state employee health plan
+from providing coverage beyond the requirements in this section.
+SECTION 2. IC 5-20-1-27, AS AMENDED BY P.L.72-2016,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 27. (a) The home ownership education account
+within the state general fund is established to support:
+(1) home ownership education programs established under section
+4(d) of this chapter;
+(2) mortgage foreclosure counseling and education programs
+established under IC 5-20-6-2; and
+(3) programs conducted by one (1) or a combination of the
+following to facilitate settlement conferences in residential
+foreclosure actions under IC 32-30-10.5:
+(A) The judiciary.
+(B) Pro bono legal services agencies.
+(C) Mortgage foreclosure counselors (as defined in
+IC 32-30-10.5-6).
+(D) Other nonprofit entities certified by the authority under
+section 4(d) of this chapter.
+The account is administered by the authority.
+(b) The home ownership education account consists of:
+HEA 1587 — CC 1
+
+
+--- Page 3 ---
+3
+(1) court fees collected under IC 33-37-5-33 (before its expiration
+on July 1, 2017); and
+(2) civil penalties imposed and collected under:
+(A) IC 6-1.1-12-43(g)(2)(B); or
+(B) IC 27-7-3-15.5(f); and
+(3) (2) any civil penalties imposed and collected by a court for a
+violation of a court order in a foreclosure action under
+IC 32-30-10.5.
+(c) The expenses of administering the home ownership education
+account shall be paid from money in the account.
+(d) The treasurer of state shall invest the money in the home
+ownership education account not currently needed to meet the
+obligations of the account in the same manner as other public money
+may be invested.
+SECTION 3. IC 5-20-6-3, AS AMENDED BY P.L.72-2016,
+SECTION 6, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 3. In addition to using money provided for the
+program from:
+(1) court fees under IC 33-37-5-33 (before its expiration on July
+1, 2017); and
+(2) civil penalties imposed and collected under:
+(A) IC 6-1.1-12-43(g)(2)(B); or
+(B) IC 27-7-3-15.5(f); and
+(3) (2) any civil penalties imposed and collected by a court for a
+violation of a court order in a foreclosure action under
+IC 32-30-10.5;
+the authority may solicit contributions and grants from the private
+sector, nonprofit entities, and the federal government to assist in
+carrying out the purposes of this chapter.
+SECTION 4. IC 6-1.1-12-43, AS AMENDED BY P.L.174-2022,
+SECTION 23, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 43. (a) For purposes of this section:
+(1) "benefit" refers to a deduction under section 9, 11, 13, 14, 16,
+17.4 (before its expiration), 26, 29, 33, 34, 37, or 37.5 of this
+chapter;
+(2) "closing agent" means a person that closes a transaction;
+(3) "customer" means an individual who obtains a loan in a
+transaction; and
+(4) "transaction" means a single family residential:
+(A) first lien purchase money mortgage transaction; or
+(B) refinancing transaction.
+(b) Before closing a transaction after December 31, 2004, a closing
+HEA 1587 — CC 1
+
+
+--- Page 4 ---
+4
+agent must provide to the customer the form referred to in subsection
+(c).
+(c) Before June 1, 2004, the department of local government finance
+shall prescribe the form to be provided by closing agents to customers
+under subsection (b). The department shall make the form available to
+closing agents, county assessors, county auditors, and county treasurers
+in hard copy and electronic form. County asses sors, county auditors,
+and county treasurers shall make the form available to the general
+public. The form must:
+(1) on one (1) side:
+(A) list each benefit; and
+(B) list the eligibility criteria for each benefit;
+(2) on the other side indicate:
+(A) each action by and each type of documentation from the
+customer required to file for each benefit; and
+(B) sufficient instructions and information to permit a party to
+terminate a standard deduction under section 37 of this chapter
+on any property on which the party or the spouse of the party
+will no longer be eligible for the standard deduction under
+section 37 of this chapter after the party or the party's spouse
+begins to reside at the property that is the subject of the
+closing, including an explanation of the tax consequences and
+applicable penalties, if a party unlawfully claims a standard
+deduction under section 37 of this chapter; and
+(3) be printed in one (1) of two (2) or more colors prescribed by
+the department of local government finance that distinguish the
+form from other documents typically used in a closing referred to
+in subsection (b).
+(d) A closing agent:
+(1) may reproduce the form referred to in subsection (c);
+(2) in reproducing the form, must use a print color prescribed by
+the department of local government finance; and
+(3) is not responsible for the content of the form referred to in
+subsection (c) and shall be held harmless by the department of
+local government finance from any liability for the content of the
+form.
+(e) This subsection applies to a transaction that is closed after
+December 31, 2009. In addition to providing the customer the form
+described in subsection (c) before closing the transaction, a closing
+agent shall do the following as soon as possible after the closing, and
+within the time prescribed by the department of insurance under
+IC 27-7-3-15.5:
+HEA 1587 — CC 1
+
+
+--- Page 5 ---
+5
+(1) To the extent determinable, input the information described in
+IC 27-7-3-15.5(c)(2) into the system maintained by the
+department of insurance under IC 27-7-3-15.5.
+(2) Submit the form described in IC 27-7-3-15.5(c) to the data
+base described in IC 27-7-3-15.5(c)(2)(D).
+(f) A closing agent to which this section applies shall document the
+closing agent's compliance with this section with respect to each
+transaction in the form of verification of compliance signed by the
+customer.
+(g) Subject to IC 27-7-3-15.5(d), a closing agent is subject to a civil
+penalty of twenty-five dollars ($25) for each instance in which the
+closing agent fails to comply with this section with respect to a
+customer. The penalty:
+(1) may be enforced by the state agency that has administrative
+jurisdiction over the closing agent in the same manner that the
+agency enforces the payment of fees or other penalties payable to
+the agency; and
+(2) shall be paid into:
+(A) the state general fund, if the closing agent fails to comply
+with subsection (b); or
+(B) the home ownership education account established by
+IC 5-20-1-27, if the closing agent fails to comply with
+subsection (e) in a transaction that is closed after December
+31, 2009.
+(h) A closing agent is not liable for any other damages claimed by
+a customer because of:
+(1) the closing agent's mere failure to provide the appropriate
+document to the customer under subsection (b); or
+(2) with respect to a transaction that is closed after December 31,
+2009, the closing agent's failure to input the information or submit
+the form described in subsection (e).
+(i) The state agency that has administrative jurisdiction over a
+closing agent shall:
+(1) examine the closing agent to determine compliance with this
+section; and
+(2) impose and collect penalties under subsection (g).
+SECTION 5. IC 24-15-1-1, AS ADDED BY P.L.94-2023,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JANUARY 1, 2026]: Sec. 1. (a) This article applies to a person that
+conducts business in Indiana or produces products or services that are
+targeted to residents of Indiana and that during a calendar year:
+(1) controls or processes personal data of at least one hundred
+HEA 1587 — CC 1
+
+
+--- Page 6 ---
+6
+thousand (100,000) consumers who are Indiana residents; or
+(2) controls or processes personal data of at least twenty-five
+thousand (25,000) consumers who are Indiana residents and
+derives more than fifty percent (50%) of gross revenue from the
+sale of personal data.
+(b) This article does not apply to any of the following:
+(1) Either of the following:
+(A) The state, a state agency, or a body, authority, board,
+bureau, commission, district, or agency of any political
+subdivision of the state.
+(B) A third party under contract with an entity described in
+clause (A), when acting on behalf of the entity. This clause
+does not exempt data held or created by third parties outside
+of the scope of the contract with the entity.
+(2) Any financial institutions and affiliates, or data subject to Title
+V of the federal Gramm-Leach-Bliley Act (15 U.S.C. 6801 et
+seq.).
+(3) Any covered entity or business associate governed by the
+privacy, security, and breach notification rules issued by the
+United States Department of Health and Human Services (45 CFR
+Parts 160 and 164) pursuant to HIPAA.
+(4) Any nonprofit organization.
+(5) Any institution of higher education.
+(6) Any public utility (as defined in IC 8-1-2-1(a)) or service
+company affiliated with a public utility (as defined in
+IC 8-1-2-1(a)). For purposes of this subdivision, "service
+company" means an associate company within a holding company
+system organized specifically for the purpose of providing goods
+or services to a public utility (as defined in IC 8-1-2-1(a)) in the
+same holding company system.
+(7) Any organization exempt from taxation under Section
+501(c)(4) of the Internal Revenue Code that is:
+(A) established to detect or preven t insurance related
+crime or fraud; and
+(B) subject to a memorandum of understanding with a
+statewide law enforcement agency.
+SECTION 6. IC 27-1-45.5-3, AS AMENDED BY P.L.226-2023,
+SECTION 17, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 3. (a) Before December 31, 2026, 2030, IPEP
+shall apply to the insurance commissioner for a certificate of authority
+to transact  the business of insurance in Indiana as a domestic tax
+exempt reciprocal insurance company.
+HEA 1587 — CC 1
+
+
+--- Page 7 ---
+7
+(b) The bylaws or articles of incorporation prepared by IPEP for
+purposes of IPEP's conversion to a domestic tax exempt reciprocal
+insurance company must require that the board of the domestic tax
+exempt reciprocal insurance company be made up of at least seven (7)
+individuals.
+(c) IPEP, in converting to a domestic tax exempt reciprocal
+insurance company, must meet the requirements and conditions for the
+formation of a domestic tax exempt reciprocal insurance company set
+forth in IC 27-1-6, including an examination under IC 27-1-6-17.
+SECTION 7. IC 27-2-26 IS REPEALED [EFFECTIVE JULY 1,
+2025]. (Public Forums by Health Carriers).
+SECTION 8. IC 27-2-28-1, AS AMENDED BY P.L.158-2024,
+SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JUNE 30, 2025]: Sec. 1. (a) This chapter applies to a personal
+automobile or homeowner's policy that is issued, delivered, amended,
+or renewed after June 30, 2025. 2026.
+(b) This chapter does not apply to notices required by the federal
+Fair Credit Reporting Act (15 U.S.C. 1681 et seq.).
+SECTION 9. IC 27-7-3-15.5 IS REPEALED [EFFECTIVE JULY
+1, 2025]. Sec. 15.5. (a) This section applies to the following
+transactions:
+(1) A mortgage transaction (as defined in IC 24-9-3-7(a)) that:
+(A) is:
+(i) a first lien purchase money mortgage transaction; or
+(ii) a refinancing transaction; and
+(B) is closed by a closing agent after December 31, 2009.
+(2) A real estate transaction (as defined in IC 24-9-3-7(b)) that:
+(A) does not involve a mortgage transaction described in
+subdivision (1); and
+(B) is closed by a closing agent (as defined in
+IC 6-1.1-12-43(a)(2)) after December 31, 2011.
+(b) For purposes of this subsection, a person described in this
+subsection is involved in a transaction to which this section applies if
+the person participates in or assists with, or will participate in or assist
+with, a transaction to which this section applies. The department shall
+establish and maintain an electronic system for the collection and
+storage of the following information, to the extent applicable,
+concerning a transaction to which this section applies:
+(1) In the case of a transaction described in subsection (a)(1), the
+name and license number (under IC 23-2.5) of each loan broker
+involved in the transaction.
+(2) In the case of a transaction described in subsection (a)(1), the
+HEA 1587 — CC 1
+
+
+--- Page 8 ---
+8
+name and license or registration number of any mortgage loan
+originator who is:
+(A) either licensed or registered under state or federal law as
+a mortgage loan originator consistent with the Secure and Fair
+Enforcement for Mortgage Licensing Act of 2008 (12 U.S.C.
+5101 et seq.); and
+(B) involved in the transaction.
+(3) The name and license number (under IC 25-34.1) of each:
+(A) broker company; and
+(B) broker if any;
+involved in the transaction.
+(4) The following information:
+(A) The:
+(i) name of; and
+(ii) code assigned by the NAIC to;
+each title insurance underwriter involved in the transaction.
+(B) The type of title insurance policy issued in connection with
+the transaction.
+(5) The name and license number (under IC 27-1-15.6) of each
+title insurance agency and agent involved in the transaction as a
+closing agent (as defined in IC 6-1.1-12-43(a)(2)).
+(6) The following information:
+(A) The name and:
+(i) license or certificate number (under IC 25-34.1-3-8) of
+each licensed or certified real estate appraiser; or
+(ii) license number (under IC 25-34.1) of each broker;
+who appraises the property that is the subject of the
+transaction.
+(B) The name and registration number (under
+IC 25-34.1-11-10) of any appraisal management company that
+performs appraisal management services (as defined in
+IC 25-34.1-11-3) in connection with the transaction.
+(7) In the case of a transaction described in subsection (a)(1), the
+name of the creditor and, if the creditor is required to be licensed
+under IC 24-4.4, the license number of the creditor.
+(8) In the case of a transaction described in subsection
+(a)(1)(A)(i) or (a)(2), the name of the seller of the property that is
+the subject of the transaction.
+(9) In the case of a transaction described in subsection
+(a)(1)(A)(i), the following information:
+(A) The name of the buyer of the property that is the subject of
+the transaction.
+HEA 1587 — CC 1
+
+
+--- Page 9 ---
+9
+(B) The purchase price of the property that is the subject of the
+transaction.
+(C) The loan amount of the mortgage transaction.
+(10) In the case of a transaction described in subsection (a)(2), the
+following information:
+(A) The name of the buyer of the property that is the subject of
+the transaction.
+(B) The purchase price of the property that is the subject of the
+transaction.
+(11) In the case of a transaction described in subsection
+(a)(1)(A)(ii), the following information:
+(A) The name of the borrower in the mortgage transaction.
+(B) The loan amount of the refinancing.
+(12) The:
+(A) name; and
+(B) license number, certificate number, registration number,
+or other code, as appropriate;
+of any other person that is involved in a transaction to which this
+section applies, as the department may prescribe.
+(c) The system established by the department under this section
+must include a form that:
+(1) is uniformly accessible in an electronic format to the closing
+agent (as defined in IC 6-1.1-12-43(a)(2)) in the transaction; and
+(2) allows the closing agent to do the following:
+(A) Input information identifying the property that is the
+subject of the transaction by lot or parcel number, street
+address, or some other means of identification that the
+department determines:
+(i) is sufficient to identify the property; and
+(ii) is determinable by the closing agent.
+(B) Subject to subsection (d) and to the extent determinable,
+input the applicable information described in subsection (b).
+(C) Respond to the following questions, if applicable:
+(i) "On what date did you receive the closing instructions
+from the creditor in the transaction?".
+(ii) "On what date did the transaction close?".
+(D) Submit the form electronically to a data base maintained
+by the department.
+(d) Not later than the time of the closing or the date of disbursement,
+whichever is later, each person described in subsection (b), other than
+a person described in subsection (b)(8), (b)(9), (b)(10), or (b)(11), shall
+provide to the closing agent in the transaction the person's:
+HEA 1587 — CC 1
+
+
+--- Page 10 ---
+10
+(1) legal name; and
+(2) license number, certificate number, registration number, or
+NAIC code, as appropriate;
+to allow the closing agent to comply with subsection (c)(2)(B). In the
+case of a transaction described in subsection (a)(1), the person
+described in subsection (b)(7) shall, with the cooperation of any person
+involved in the transaction and described in subsection (b)(6)(A) or
+(b)(6)(B), provide the information described in subsection (b)(6). In the
+case of a transaction described in subsection (a)(1)(A)(ii), the person
+described in subsection (b)(7) shall also provide the information
+described in subsection (b)(11). A person described in subsection
+(b)(3)(B) who is involved in the transaction may provide the
+information required by this subsection for a person described in
+subsection (b)(3)(A) that serves as the broker company for the person
+described in subsection (b)(3)(B). The closing agent shall determine
+the information described in subsection (b)(8), (b)(9), and (b)(10) from
+the HUD-1 settlement statement, or in the case of a transaction
+described in subsection (a)(2), from the contract or any other document
+executed by the parties in connection with the transaction.
+(e) The closing agent in a transaction to which this section applies
+shall submit the information described in subsection (d) to the data
+base described in subsection (c)(2)(D) not later than twenty (20)
+business days after the date of closing or the date of disbursement,
+whichever is later.
+(f) Except for a person described in subsection (b)(8), (b)(9),
+(b)(10), or (b)(11), a person described in subsection (b) who fails to
+comply with subsection (d) or (e) is subject to a civil penalty of one
+hundred dollars ($100) for each closing with respect to which the
+person fails to comply with subsection (d) or (e). The penalty:
+(1) may be enforced by the state agency that has administrative
+jurisdiction over the person in the same manner that the agency
+enforces the payment of fees or other penalties payable to the
+agency; and
+(2) shall be paid into the home ownership education account
+established by IC 5-20-1-27.
+(g) Subject to subsection (h), the department shall make the
+information stored in the data base described in subsection (c)(2)(D)
+accessible to:
+(1) each entity described in IC 4-6-12-4; and
+(2) the homeowner protection unit established under IC 4-6-12-2.
+(h) The department, a closing agent who submits a form under
+subsection (c), each entity described in IC 4-6-12-4, and the
+HEA 1587 — CC 1
+
+
+--- Page 11 ---
+11
+homeowner protection unit established under IC 4-6-12-2 shall exercise
+all necessary caution to avoid disclosure of any information:
+(1) concerning a person described in subsection (b), including the
+person's license, registration, or certificate number; and
+(2) contained in the data base described in subsection (c)(2)(D);
+except to the extent required or authorized by state or federal law.
+(i) The department may adopt rules under IC 4-22-2 to implement
+this section. Rules adopted by the department under this subsection
+may establish procedures for the department to:
+(1) establish;
+(2) collect; and
+(3) change as necessary;
+an administrative fee to cover the department's expenses in establishing
+and maintaining the electronic system required by this section.
+(j) If the department adopts a rule under IC 4-22-2 to establish an
+administrative fee to cover the department's expenses in establishing
+and maintaining the electronic system required by this section, as
+allowed under subsection (i), the department may:
+(1) require the fee to be paid:
+(A) to the closing agent responsible for inputting the
+information and submitting the form described in subsection
+(c)(2); and
+(B) by the borrower, the seller, or the buyer in the transaction;
+(2) allow the closing agent described in subdivision (1)(A) to
+retain a part of the fee collected to cover the closing agent's costs
+in inputting the information and submitting the form described in
+subsection (c)(2); and
+(3) require the closing agent to pay the remainder of the fee
+collected to the department for deposit in the title insurance
+enforcement fund established by IC 27-7-3.6-1, for the
+department's use in establishing and maintaining the electronic
+system required by this section.
+SECTION 10. IC 27-7-3-22, AS ADDED BY P.L.80-2013,
+SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 22. (a) In a residential real estate transaction
+described in section 15.5(a) and 15.5(b) of this chapter subsection (f)
+in which:
+(1) a title policy is issued by a company or title insurance
+producer on behalf of a company; and
+(2) the company or title insurance producer will also act as a
+settlement or closing agent;
+the company or title insurance producer shall issue a closing protection
+HEA 1587 — CC 1
+
+
+--- Page 12 ---
+12
+letter to the lender, borrower, buyer, and seller of the property. A
+company authorized to do business under section 3 of this chapter shall
+charge a fee approved under subsection (e) to each party receiving the
+benefit of a closing protection letter.
+(b) In a nonresidential real estate transaction in which:
+(1) a title policy is issued by a company or title insurance
+producer on behalf of a company; and
+(2) the company or title insurance producer will also act as a
+settlement or closing agent;
+the company or title insurance producer may issue a closing protection
+letter to the lender, borrower, buyer, and seller of the property on
+request.
+(c) A closing protection letter issued under this section must
+indem nify the party to which the closing protection letter is issued
+against any loss of settlement funds (under the terms and conditions of
+the closing protection letter) that results from the following acts of the
+company or title insurance producer that issues the closing protection
+letter:
+(1) Theft or misappropriation of settlement funds in connection
+with a transaction in which the title policy is issued, only to the
+extent that the theft or misappropriation relates to the:
+(A) status of title to; or
+(B) validity, enforceability, and priority of the lien of the
+mortgage on;
+the party's interest in land.
+(2) Failure to comply with the written closing instructions agreed
+to by the company or title insurance producer acting as the
+settlement agent, only to the extent that the failure relates to the:
+(A) status of title to; or
+(B) validity, enforceability, and priority of the lien of the
+mortgage on;
+the party's interest in land.
+(d) The issuance of a closing protection letter under this section in
+contemplation of or in conjunction with the issuance of a title insurance
+policy is part of the business of title insurance for purposes of section
+3 of this chapter.
+(e) The amount of the fee that a company authorized to do business
+under section 3 of this chapter charges to each party receiving the
+benefits of a closing protection letter:
+(1) must be submitted to and approved by the commissioner under
+IC 27-1-22-28; and
+(2) is not subject to an agreement requiring a division of fees or
+HEA 1587 — CC 1
+
+
+--- Page 13 ---
+13
+premiums collected on behalf of the company.
+(f) Subsection (a) applies to the following transactions:
+(1) A mortgage transaction (as defined in IC 24-9-3-7(a)) that:
+(A) is:
+(i) a first lien purchase money mortgage transaction; or
+(ii) a refinancing transaction; and
+(B) is closed by a closing agent after December 31, 2009.
+(2) A real estate transaction (as defined in IC 24-9-3-7(b))
+that:
+(A) does not involve a mortgage transaction described in
+subdivision (1); and
+(B) is closed  by a closing agent (as defined in
+IC 6-1.1-12-43(a)(2)) after December 31, 2011.
+SECTION 11. IC 27-8-6-8, AS AMENDED BY P.L.93-2024,
+SECTION 198, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 8. (a) As used in this section,
+"emergency medical services" has the meaning set forth in
+IC 16-18-2-110.
+(b) As used in this section, "emergency medical services provider
+organization" means a provider of emergency medical services that is
+certified by the Indiana emergency medical services commission as an
+advanced life support provider organization under rules adopted under
+IC 16-31-3.
+(c) As used in this section, "policy of accident and sickness
+insurance" has the meaning set forth in IC 27-8-5-1. However, for
+purposes of this section, the term does not include the following:
+(1) Accident only, credit, dental, vision, Medicare supplement,
+long term care, or disability income insurance.
+(2) Coverage issued as a supplement to liability insurance.
+(3) Automobile medical payment insurance.
+(4) A specified disease policy.
+(5) A policy that provides a stipulated daily, weekly, or monthly
+payment to an insured without regard to the actual expense of the
+confinement.
+(6) A short term insurance plan (as defined in IC 27-8-5.9-3).
+(d) A policy of accident and sickness insurance that provides
+coverage for emergency medical services must provide reimbursement
+for emergency medical services that are:
+(1) rendered by an emergency medical services provider
+organization;
+(2) within the emergency medical services provider organization's
+scope of practice;
+HEA 1587 — CC 1
+
+
+--- Page 14 ---
+14
+(3) performed or provided as advanced life support services; and
+(4) performed or provided:
+(A) during a response initiated through the 911 system; or
+(B) as part of a mobile integrated healthcare program
+described in IC 16-31-12;
+regardless of whether the patient is transported.
+(e) Reimbursement for basic and advanced life support services
+through a policy to which this section applies must be provided on an
+equal basis regardless of whether the services involve transportation of
+the patient by ambulance.
+(f) If multiple emergency medical services provider organizations
+qualify and submit a claim for reimbursement under this section for an
+encounter, the insurer:
+(1) may reimburse under this section only for one (1) claim per
+patient encounter; and
+(2) shall reimburse the claim submitted by the emergency medical
+services provider organization that performed or provided the
+majority of advanced life support services for the patient.
+(g) The department may adopt rules under IC 4-22-2 to implement
+this section.
+(h) This section does not require a policy of accident and sickness
+insurance to provide coverage for emergency medical services.
+SECTION 12. IC 27-8-15-14, AS AMENDED BY P.L.86-2018,
+SECTION 208, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 14. (a) This subsection applies only
+with respect to grandfathered health plan coverage described in 45
+CFR 147.1 40. As used in this chapter, "small employer" means any
+person, firm, corporation, limited liability company, partnership, or
+association actively engaged in business who, on at least fifty percent
+(50%) of the working days of the employer during the preceding
+calendar year, employed at least two (2) but not more than fifty (50)
+eligible employees, the majority of whom work in Indiana. In
+determining the number of eligible employees, companies that are
+affiliated companies or that are eligible to file a combined tax return for
+purposes of state taxation are considered one (1) employer.
+(b) This subsection applies only with respect to a health insurance
+plan that does not provide grandfathered health plan coverage
+described in 45 CFR 147.140. As used in this chapter, "small
+employer" means any person, firm, corporation, limited liability
+company, partnership, or association actively engaged in business who:
+(1) on at least fifty percent (50%) of the working days of the
+employer during the preceding calendar year, employed at least
+HEA 1587 — CC 1
+
+
+--- Page 15 ---
+15
+one (1) but not more than fifty (50) employees; or
+(2) employed at least one (1) but not more than fifty (50)
+employees during the preceding calendar year, as calculated
+under STEP FIVE of the following formula:
+STEP ONE: Determine the average number of employees
+who were employed to work an average of at least thirty
+(30) hours per week during the preceding calendar year.
+STEP TWO: Determine the aggregate number of hours
+worked by employees who were employed to work an
+average of less than thirty (30) hours per week during the
+preceding calendar year.
+STEP THREE: Divide the number determined in STEP
+TWO by twelve (12).
+STEP FOUR: Divide the quotient determined in STEP
+THREE by one hundred twenty (120).
+STEP FIVE: Add the number determined in STEP ONE
+and the quotient determined in STEP FOUR to determine
+the number of employees employed by an employer for
+purposes of this subdivision.
+In determining the number of employees, companies that are treated as
+a single employer under Section 414(b), 414(c), 414(m), or 414(o) of
+the Internal Revenue Code are treated as one (1) employer.
+(c) With respect to a health insurance plan subject to subsection
+(b), a small employer insurer shall:
+(1) use either the definition under subsection (b)(1) or (b)(2);
+and
+(2) apply the definition under subsection (b)(1) or (b)(2) in a
+consistent manner without regard to the claims experience,
+health status, duration of coverage, or case characteristics of
+the employees of a small employer.
+SECTION 13. IC 27-13-7-27, AS AMENDED BY P.L.93-2024,
+SECTION 200, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 27. (a) This section applies to each
+of the following:
+(1) An individual contract.
+(2) A group contract.
+(b) As used in this section, "emergency medical services" has the
+meaning set forth in IC 16-18-2-110.
+(c) As used in this section, "emergency medical services provider
+organization" means a provider of emergency medical services that is
+certified by the Indiana emergency medical services commission as an
+advanced life support provider organization under rules adopted under
+HEA 1587 — CC 1
+
+
+--- Page 16 ---
+16
+IC 16-31-3.
+(d) An individual contract and a group contract that provide
+coverage for emergency medical services must provide reimbursement
+for emergency medical services that are:
+(1) rendered by an emergency medical services provider
+organization;
+(2) within the emergency medical services provider organization's
+scope of practice;
+(3) performed or provided as advanced life support services; and
+(4) performed or provided:
+(A) during a response initiated through the 911 system; or
+(B) as part of a mobile integrated healthcare program
+described in IC 16-31-12;
+regardless of whether the patient is transported.
+(e) Reimbursement for basic and advanced life support services
+through a contract to which this section applies must be provided on an
+equal basis regardless of whether the services involve transportation of
+the patient by ambulance.
+(f) If multiple emergency medical services provider organizations
+qualify and submit a claim for reimbursement under this section, the
+health maintenance organization:
+(1) may reimburse under this section only for one (1) claim per
+patient encounter; and
+(2) shall reimburse the claim submitted by the emergency medical
+services provider organization that performed or provided the
+majority of advanced life support services.
+(g) The department may adopt rules under IC 4-22-2 to implement
+this section.
+(h) This section does not require an individual contract or a group
+contract to provide coverage for emergency medical services.
+SECTION 14. IC 34-30-2.1-54 IS REPEALED [EFFECTIVE JULY
+1, 2025]. Sec. 54. IC 6-1.1-12-43 (Concerning a closing agent's failure
+to provide a form concerning property tax benefits).
+HEA 1587 — CC 1
+
+
+--- Page 17 ---
+Speaker of the House of Representatives
+President of the Senate
+President Pro Tempore
+Governor of the State of Indiana
+Date: Time: 
+HEA 1587 — CC 1

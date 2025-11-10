@@ -1,0 +1,537 @@
+--- Page 1 ---
+*SB0317.1*
+February 14, 2025
+SENATE BILL No. 317
+_____
+DIGEST OF  SB 317 (Updated February 12, 2025 11:52 am - DI 1 04)
+Citations Affected:  IC 16-18; IC 16-21; IC 24-4.5; IC 32-28;
+IC 34-55.
+Synopsis:  Health care debt and costs. Requires hospitals to do the
+following: (1) Offer the person who has received health services the
+opportunity to pay the charges through a payment plan that satisfies
+certain requirements. (2) Develop a written notice about a charity care
+program operated by the hospital, provide the notice to patients, and
+post the notice. (3) Include certain information concerning financi al
+assistance on a billing statement. (4) Requires a hospital that reports an
+annual gross patient revenue of at least $20,000,000 to provide written
+notice and information to a person who has requested an eligibility
+determination concerning a payment plan or charity care. Provides that
+the unpaid earnings of a consumer who meets specified income
+eligibility requirements may not be attached by garnishment in
+satisfaction of: (1) any amount of health care debt owed or alleged to
+be owed by the consumer; or (2) any amount of the judgment that 
+(Continued next page)
+Effective:  Upon passage; July 1, 2025.
+Qaddoura,  Charbonneau,  Yoder,
+Ford J.D., Jackson L, Becker,  Deery
+January 13, 2025, read first time and referred to Commi ttee on Health and Provi der
+Services.
+February 13, 2025, amended, reported favorably — Do Pa ss.
+SB 317—LS 7017/DI 101
+
+
+--- Page 2 ---
+Digest Continued
+represents health care debt determined to be owed by the consumer.
+Provides that: (1) any amount of health care debt owed or alleged to be
+owed by a consumer; or (2) in an action against a consumer in which
+a judgment has been entered, any amount of the judgment that
+represents health care debt determined to be owed by the consumer;
+does not constitute a lien against the consumer's principal residence for
+a consumer that meets specified income requirements. Provides that in
+any action filed in Indiana for the recovery of health care debt owed or
+alleged to be owed by a consumer, the principal residence of the
+consumer is not liable to judgment or attachment or to be sold on
+execution against the consumer.
+SB 317—LS 7017/DI 101
+ SB 317—LS 7017/DI 101
+
+
+--- Page 3 ---
+February 14, 2025
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+SENATE BILL No. 317
+A BILL FOR AN ACT to amend the Indiana Code concerning trade
+regulation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 16-18-2-52.5 IS AMENDED TO READ AS
+2 FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 52.5. (a) "Charity care",
+3 for purposes of IC 16-21-6, IC 16-21-6.1, and IC 16-21-9, means the
+4 unreimbursed cost to a hospital of providing, funding, or otherwise
+5 financially supporting health care services:
+6 (1) to a person classified by the hospital as financially indigent or
+7 medically indigent on an inpatient or outpatient basis; and
+8 (2) to financially indigent patients through other nonprofit or
+9 public outpatient clinics, hospitals, or health care organizations.
+10 (b) As used in this section, "financially indigent" means an
+11 uninsured or underinsured person who is accepted for care with no
+12 obligation or a discounted obligation to pay for the services rendered
+13 based on the hospital's financial criteria and procedure used to
+14 determine if a patient is eligible for charity care. The criteria and
+15 procedure must include income levels and means testing indexed to the 
+SB 317—LS 7017/DI 101
+
+
+--- Page 4 ---
+2
+1 federal poverty guidelines. A hospital may determine that a person is
+2 financially or medically indigent under the hospital's eligibility system
+3 after health care services are provided.
+4 (c) As used in this section, "medically indigent" means a person
+5 whose medical or hospital bills after payment by third party payors
+6 exceed a specified percentage of the patient's annual gross income as
+7 determined in accordance with the hospital's eligibility system, and
+8 who is financially unable to pay the remaining bill.
+9 SECTION 2. IC 16-21-6.1 IS ADDED TO THE INDIANA CODE
+10 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+11 JULY 1, 2025]:
+12 Chapter 6.1. Hospitals' Billing Practices and Financial
+13 Disclosures to Patients
+14 Sec. 1. (a) This section applies to health care services provided
+15 to a person by a hospital after June 30, 2025.
+16 (b) With respect to any bill that:
+17 (1) includes charges for health care services provided to a
+18 person by a hospital; and
+19 (2) is submitted to that person for payment;
+20 a hospital shall offer the person the opportunity to pay the listed
+21 charges through a payment plan that satisfies the requirements set
+22 forth in this section.
+23 (c) A hospital's offer under subsection (b) must:
+24 (1) be in writing and communicated in plain language;
+25 (2) include instructions for how the person  may enter into a
+26 payment plan; and
+27 (3) if the offer is included in the bill for the charges to which
+28 the offer pertains, be printed in prominent type on the front
+29 of the first page of the bill.
+30 (d) A hospital may provide a person the offer required by
+31 subsection (b):
+32 (1) in a writing delivered to the person;
+33 (2) by electronic mail; or
+34 (3) through a mobile application or another Internet based
+35 method, if available;
+36 according to the person's expressed preference for
+37 communications.
+38 (e) If a person accepts a hospital's offer to enter into a payment
+39 plan under this section, the hospital shall provide, in the manner
+40 described in subsection (d), a written copy of the payment plan to
+41 the person not later than five (5) business days after the payment
+42 plan is executed by both parties. The plan must prominently
+SB 317—LS 7017/DI 101
+
+
+--- Page 5 ---
+3
+1 disclose:
+2 (1) the rate of any interest that will be applied to unpaid
+3 balances under the plan; and
+4 (2) the date by which the account will be paid in full, assuming
+5 that all scheduled payments will be made when due.
+6 A person is not required to make a payment under the payment
+7 plan until a written copy of the payment plan has been provided to
+8 the person under this section in the manner described in subsection
+9 (d).
+10 (f) A hospital's payment plan under this section must satisfy the
+11 following:
+12 (1) The payment plan must allow payments to be made over
+13 a period of at least twenty-four (24) months.
+14 (2) The amount of any one (1) monthly payment may not
+15 exceed ten percent (10%) of the person's gross monthly
+16 household income.
+17 (3) The first payment under the plan may not be due before
+18 thirty (30) days have elapsed from the latest date of service
+19 for the health care services to which the payment plan
+20 pertains.
+21 (4) Payments under the plan must be suspended without
+22 penalty during the pendency of any appeal by the person for
+23 the denial of insurance or other third party coverage for the
+24 health care services to which the payment plan pertains if the
+25 patient provides the hospital with documentation of the
+26 appeal. Payments under the plan may resume after thirty (30)
+27 days from the date the hospital receives documentation of the
+28 appeal unless the patient provides additional documentation
+29 concerning the pending appeal.
+30 Sec. 2. (a) A hospital shall develop a written notice about any
+31 charity care program operated by the hospital and about the
+32 procedures by which a person may apply for any such charity care
+33 program. The notice must be in English and, to the extent
+34 practicable, in any other prevalent language used in the
+35 communities served by the hospital. The notice must be:
+36 (1) provided to a person at the time of intake or discharge of
+37 the person; and
+38 (2) conspicuously posted in the waiting area of the emergency
+39 room, if any, and the admissions intake area of the hospital.
+40 (b) The hospital must include on a patient's billing statement the
+41 following information:
+42 (1) A statement that financial assistance is available.
+SB 317—LS 7017/DI 101
+
+
+--- Page 6 ---
+4
+1 (2) The telephone number to call to obtain information
+2 concerning financial assistance.
+3 (3) An Internet link to a web page that includes information
+4 and any documentation concerning obtaining financial
+5 assistance.
+6 Sec. 3. (a) This section applies to:
+7 (1) a hospital that had gross patient revenue of at least twenty
+8 million dollars ($20,000,000)  during the hospital's
+9 immediately preceding fiscal year, as reported to the state
+10 department under IC 16-21-6-3; and
+11 (2) emergency or medically necessary health care services
+12 provided to a person by the hospital after June 30, 2025.
+13 (b) As used in this section, "gross patient revenue" has the
+14 meaning set forth in IC 16-21-6-1.
+15 (c) If a person requests a determination of eligibility for a
+16 payment plan or charity care program administered by the
+17 hospital, the hospital shall provide written notice as provided in
+18 subsection (d) not later than fourteen (14) days from the person's
+19 request.
+20 (d) The written notice under subsection (c) must include the
+21 following:
+22 (1) A statement notifying the person as to whether the person
+23 is eligible for the hospital's payment plan or charity care
+24 program.
+25 (2) If the hospital has determined that the person is eligible
+26 for the hospital's payment plan or charity care program, an
+27 offer to enroll the person in the payment plan or charity care
+28 program to the extent the hospital is able to do so under any:
+29 (A) funding limits;
+30 (B) enrollment limits; or
+31 (C) other limits, caps, or restrictions;
+32 applicable to the payment plan or charity care program at the
+33 time of the person's enrollment.
+34 (3) Instructions for how the person may enroll in the payment
+35 plan or charity care program.
+36 (e) A hospital may provide notice to a person under subsection
+37 (d):
+38 (1) in a writing delivered to the person;
+39 (2) by electronic mail; or
+40 (3) through a mobile application or another Internet based
+41 method, if available;
+42 according to the preference expressed by the person to whom
+SB 317—LS 7017/DI 101
+
+
+--- Page 7 ---
+5
+1 emergency or medically necessary health care services have been
+2 provided.
+3 SECTION 3. IC 16-21-9-7, AS AMENDED BY P.L.6-2012,
+4 SECTION 115, IS AMENDED TO READ AS FOLLOWS
+5 [EFFECTIVE JULY 1, 2025]: Sec. 7. (a) Each nonprofit hospital shall
+6 prepare an annual report of the community benefits plan. The report
+7 must include, in addition to the community benefits plan itself, the
+8 following background information:
+9 (1) The hospital's mission statement.
+10 (2) A disclosure of the health care needs of the community that
+11 were considered in developing the hospital's community benefits
+12 plan.
+13 (3) A disclosure of the amount and types of community benefits
+14 actually provided, including charity care. Charity care must be
+15 reported as a separate item from other community benefits.
+16 (b) Each nonprofit hospital shall annually file a report of the
+17 community benefits plan with the state department. For a hospital's
+18 fiscal year that ends before July 1, 2011, the report must be filed not
+19 later than one hundred twenty (120) days after the close of the
+20 hospital's fiscal year. For a hospital's fiscal year that ends after June 30,
+21 2011, the report must be filed at the same time the nonprofit hospital
+22 files its annual return described under Section 6033 of the Internal
+23 Revenue Code that is timely filed under Section 6072(e) of the Internal
+24 Revenue Code, including any applicable extension authorized under
+25 Section 6081 of the Internal Revenue Code.
+26 (c) Each nonprofit hospital shall prepare a statement that notifies the
+27 public that the annual report of the community benefits plan is:
+28 (1) public information;
+29 (2) filed with the state department; and
+30 (3) available to the public on request from the state department.
+31 This statement shall be posted in prominent places throughout the
+32 hospital, including the emergency room waiting area and the
+33 admissions office waiting area. The statement shall also be printed in
+34 the hospital patient guide or other material that provides the patient
+35 with information about the admissions criteria of the hospital.
+36 (d) Each nonprofit hospital shall develop, provide, and post a
+37 written notice about any charity care program operated by the hospital
+38 and how to apply for charity care. The notice must be in appropriate
+39 languages if possible. The notice must also be conspicuously posted in
+40 the following areas:
+41 (1) The general waiting area.
+42 (2) The waiting area for emergency services.
+SB 317—LS 7017/DI 101
+
+
+--- Page 8 ---
+6
+1 (3) The business office.
+2 (4) Any other area that the hospital considers an appropriate area
+3 in which to provide notice of a charity care program. in
+4 accordance with IC 16-21-6.1-2.
+5 SECTION 4. IC 24-4.5-5-104 IS AMENDED TO READ AS
+6 FOLLOWS [EFFECTIVE UPON PASSAGE]: Sec. 104. No
+7 Garnishment Before Judgment — (1) As used in this section,
+8 "consumer" means an individual whose household income is not
+9 more than two hundred fifty percent (250%) of the federal poverty
+10 level and whose principal residence is in Indiana. The term
+11 includes the following:
+12 (a) A protected consumer (as defined in IC 24-5-24.5-4).
+13 (b) A representative acting on behalf of a protected consumer
+14 (as defined in IC 24-5-24.5-4).
+15 (2) As used in this section, "health care debt" means an
+16 obligation or an alleged obligation of a consumer to pay an amount
+17 related to the receipt of health care services, products, or devices
+18 provided to a person by a health care provider. The term does not
+19 include debt charged to a credit card unless the credit card is
+20 issued under:
+21 (a) an open-end plan; or
+22 (b) a closed-end plan;
+23 offered specifically for the payment of health care services,
+24 products, or devices provided to a person.
+25 (3) As used in this section, "health care provider" means:
+26 (a) a hospital or facility listed in IC 16-39-7-1(a)(13); or
+27 (b) a provider of ambulance services (as defined in
+28 IC 16-18-2-13.4).
+29 The term includes an affiliate, officer, agent, or employee of a
+30 person described in subdivision (a) or (b).
+31 (4) Notwithstanding any other law, the unpaid earnings of a
+32 consumer may not, at any time, be attached by garnishment or like
+33 proceedings in satisfaction of:
+34 (a) any amount of health care debt owed or alleged to be owed
+35 by the consumer; or
+36 (b) in an action against the consumer in which a judgment has
+37 been entered, any amount of the judgment that represents
+38 health care debt determined to be owed by the consumer.
+39 (5) Prior to entry of judgment in an action against the debtor, no a
+40 creditor may not attach unpaid earnings of the debtor by garnishment
+41 or like proceedings.
+42 SECTION 5. IC 32-28-16 IS ADDED TO THE INDIANA CODE
+SB 317—LS 7017/DI 101
+
+
+--- Page 9 ---
+7
+1 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+2 UPON PASSAGE]:
+3 Chapter 16. Prohibition Against Lien on Principal Residence of
+4 a Consumer for Health Care Debt
+5 Sec. 1. (a) As used in this chapter, "consumer" means an
+6 individual whose household income is not more than two hundred
+7 fifty percent (250%) of the federal poverty level and whose
+8 principal residence is in Indiana.
+9 (b) The term includes the following:
+10 (1) A protected consumer (as defined in IC 24-5-24.5-4).
+11 (2) A representative acting on behalf of a protected consumer
+12 (as defined in IC 24-5-24.5-4).
+13 Sec. 2. (a) As used in this chapter, "health care debt" means an
+14 obligation or an alleged obligation of a consumer to pay an amount
+15 related to the receipt of health care services, products, or devices
+16 provided to a person by a health care provider.
+17 (b) The term does not include debt charged to a credit card
+18 unless the credit card is issued under:
+19 (1) an open-end plan; or
+20 (2) a closed-end plan;
+21 offered specifically for the payment of health care services,
+22 products, or devices provided to a person.
+23 Sec. 3. As used in this chapter, "health care provider" means:
+24 (1) a hospital or facility listed in IC 16-39-7-1(a)(13); or
+25 (2) a provider of ambulance services (as defined in
+26 IC 16-18-2-13.4).
+27 The term includes an affiliate, officer, agent, or employee of a
+28 person described in subdivision (1) or (2).
+29 Sec. 4. As used in this chapter, "principal residence", with
+30 respect to a consumer, means real or personal property that:
+31 (1) is located in Indiana;
+32 (2) the consumer:
+33 (A) owns; or
+34 (B) is buying under contract;
+35 whether solely or jointly with another person; and
+36 (3) constitutes the principal place of residence of:
+37 (A) the consumer; or
+38 (B) a dependent of the consumer.
+39 Sec. 5. (a) Notwithstanding any other law:
+40 (1) any amount of health care debt owed or alleged to be owed
+41 by a consumer; or
+42 (2) in an action against a consumer in which a judgment has
+SB 317—LS 7017/DI 101
+
+
+--- Page 10 ---
+8
+1 been entered, any amount of the judgment that represents
+2 health care debt determined to be owed by the consumer;
+3 does not constitute a lien against the consumer's principal
+4 residence.
+5 (b) A person having any ownership or other interest in an
+6 amount described in subsection (a)(1) or (a)(2) may not assert,
+7 claim, enter, or enforce a lien against the consumer's principal
+8 residence.
+9 SECTION 6. IC 34-55-9-0.5 IS ADDED TO THE INDIANA CODE
+10 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE
+11 UPON PASSAGE]: Sec. 0.5. As used in this chapter, the following
+12 terms have the following meanings:
+13 (1) "Consumer" means an individual whose household income
+14 is not more than two hundred fifty percent (250%) of the
+15 federal poverty level and whose principal residence is in
+16 Indiana. The term includes the following:
+17 (A) A protected consumer (as defined in IC 24-5-24.5-4).
+18 (B) A representative acting on behalf of a protected
+19 consumer (as defined in IC 24-5-24.5-4).
+20 (2) "Health care debt" means an obligation or an alleged
+21 obligation of a consumer to pay an amount related to the
+22 receipt of health care services, products, or devices provided
+23 to a person by a health care provider. The term does not
+24 include debt charged to a credit card unless the credit card is
+25 issued under:
+26 (A) an open-end plan; or
+27 (B) a closed-end plan;
+28 offered specifically for the payment of health care services,
+29 products, or devices provided to a person.
+30 (3) "Health care provider" means:
+31 (A) a hospital or facility listed in IC 16-39-7-1(a)(13); or
+32 (B) a provider of ambulance services (as defined in
+33 IC 16-18-2-13.4).
+34 The term includes an affiliate, officer, agent, or employee of
+35 a person described in clause (A) or (B).
+36 (4) "Principal residence", with respect to a consumer, means
+37 real or personal property that:
+38 (A) is located in Indiana;
+39 (B) the consumer:
+40 (i) owns; or
+41 (ii) is buying under contract;
+42 whether solely or jointly with another person; and
+SB 317—LS 7017/DI 101
+
+
+--- Page 11 ---
+9
+1 (C) constitutes the principal place of residence of:
+2 (i) the consumer; or
+3 (ii) a dependent of the consumer.
+4 SECTION 7. IC 34-55-9-1 IS AMENDED TO READ AS
+5 FOLLOWS [EFFECTIVE UPON PASSAGE]: Sec. 1. (a) Except as
+6 provided in subsection (b), the following real estate is liable to all
+7 judgments and attachments and to be sold on execution against the
+8 debtor owing owning the real estate or for whose use the real estate is
+9 held:
+10 (1) All lands of the judgment debtor, whether in possession,
+11 remainder, or reversion.
+12 (2) All rights of redeeming mortgaged lands and all lands held by
+13 virtue of any land office certificate.
+14 (3) Lands or any estate or interest in land held by anyone in trust
+15 for or to the use of another.
+16 (4) All chattels real of the judgment debtor.
+17 (b) In any action filed, in a court of competent jurisdiction in
+18 Indiana, for the recovery of health care debt owed or alleged to be
+19 owed by a consumer, the principal residence of the consumer is not
+20 liable to judgment or attachment or to be sold on execution against
+21 the consumer.
+22 SECTION 8. IC 34-55-9-2 IS AMENDED TO READ AS
+23 FOLLOWS [EFFECTIVE UPON PASSAGE]: Sec. 2. (a) Except as
+24 provided in subsection (b), all final judgments for the recovery of
+25 money or costs in the circuit court and other courts of record of general
+26 original jurisdiction in Indiana, whether state or federal, constitute a
+27 lien upon real estate and chattels real liable to execution in the county
+28 where the judgment has been duly entered and indexed in the judgment
+29 docket as provided by law:
+30 (1) after the time the judgment was entered and indexed; and
+31 (2) until the expiration of ten (10) years after the rendition of the
+32 judgment;
+33 exclusive of any time during which the party was restrained from
+34 proceeding on the lien by an appeal, an injunction, the death of the
+35 defendant, or the agreement of the parties entered of record.
+36 (b) A final judgment for the recovery of money or costs in any
+37 action filed, in a court of competent jurisdiction in Indiana, for the
+38 recovery of health care debt owed or alleged to be owed  by a
+39 consumer does not constitute a lien upon the principal residence of
+40 the consumer.
+41 SECTION 9. An emergency is declared for this act.
+SB 317—LS 7017/DI 101
+
+
+--- Page 12 ---
+10
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Health and Provider
+Services, to which was referred Senate Bill No. 317, has had the same
+under consideration and begs leave to report the same back to the
+Senate with the recommendation that said bill be AMENDED as
+follows:
+Page 3, line 2, delete "subject to IC 24-5-24.8-12(b)(1),".
+Page 3, line 15, delete "five" and insert "ten".
+Page 3, line 15, delete "(5%)" and insert "(10%)".
+Page 3, line 18, delete "ninety (90)" and insert "thirty (30)".
+Page 3, line 24, delete "pertains." and insert "pertains if the patient
+provides the hospital with documentation of the appeal. Payments
+under the plan may resume after thirty (30) days from the date the
+hospital receives documentation of the appeal unless the patient
+provides additional documentation concerning the pending
+appeal.".
+Page 3, line 25, after "2." insert "(a)".
+Page 3, line 31, after "time" insert "of intake or discharge of".
+Page 3, line 31, delete "person receives health" and insert "person;
+and".
+Page 3, delete line 32.
+Page 3, line 33, delete "following areas:" and insert "waiting area
+of the emergency room, if any, and the admissions intake area of
+the hospital.
+(b) The hospital must include on a patient's billing statement the
+following information:
+(1) A statement that financial assistance is available.
+(2) The telephone number to call to obtain information
+concerning financial assistance.
+(3) An Internet link to a web page that includes information
+and any documentation concerning obtaining financial
+assistance.".
+Page 3, delete lines 34 through 39.
+Page 4, delete lines 7 through 25, begin a new paragraph and insert:
+"(c) If a person requests a determination of eligibility for a
+payment plan or charity care progr am administered by the
+hospital, the hospital shall provide written notice as provided in
+subsection (d) not later than fourteen (14) days from the person's
+request.
+(d) The written notice under subsection (c) must include the
+following:".
+SB 317—LS 7017/DI 101
+
+
+--- Page 13 ---
+11
+Page 4, line 27, after "hospital's" insert "payment plan or".
+Page 4, line 29, after "hospital's" insert "payment plan or".
+Page 4, line 30, delete "program" and insert "payment plan or
+charity care program".
+Page 4, line 35, delete "program" and insert "payment plan or
+charity care program".
+Page 4, line 38, delete "program." and insert "payment plan or
+charity care program.".
+Page 5, delete lines 6 through 42.
+Page 6, delete lines 1 through 4.
+Page 7, line 10, after "whose" insert "household income is not
+more than two hundred fifty percent (250%) of the federal poverty
+level and whose".
+Page 7, delete line 42.
+Delete pages 8 through 15.
+Page 16, delete lines 1 through 28.
+Page 16, line 35, after "whose" insert "household income is not
+more than two hundred fifty percent (250%) of the federal poverty
+level and whose".
+Page 17, delete lines 36 through 42.
+Delete pages 18 through 19.
+Page 20, delete lines 1 through 2.
+Page 20, line 7, after "whose" insert "household income is not
+more than two hundred fifty percent (250%) of the federal poverty
+level and whose".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to SB 317 as introduced.)
+CHARBONNEAU, Chairperson
+Committee Vote: Yeas 11, Nays 0.
+SB 317—LS 7017/DI 101

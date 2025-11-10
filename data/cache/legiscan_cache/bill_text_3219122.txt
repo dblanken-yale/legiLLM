@@ -1,0 +1,435 @@
+--- Page 1 ---
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE ENROLLED ACT No. 1604
+AN ACT to amend the Indiana Code concerning insurance.
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1. IC 27-1-24.5-0.8 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JANUARY 1, 2026]: Sec. 0.8. As used in this chapter,
+"cost sharing" means any copayment, coinsurance, deductible, or
+other similar charge that is:
+(1) required of a covered individual for a health care service
+covered by a health plan, including a prescription drug; and
+(2) paid:
+(A) by; or
+(B) on behalf of;
+the covered individual.
+SECTION 2. IC 27-1-24.5-4.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JANUARY 1, 2026]: Sec. 4.5. As used in this chapter,
+"health care service" means a service or good  furnished for the
+purpose of preventing, alleviating, curing, or healing:
+(1) human illness;
+(2) physical disability; or
+(3) injury.
+SECTION 3. IC 27-1-24.5-5, AS AMENDED BY P.L.207-2021,
+SECTION 52, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JANUARY 1, 2026]: Sec. 5. As used in this chapter, "health plan"
+HEA 1604 — CC 1
+
+
+--- Page 2 ---
+2
+means a plan through which coverage is provided for health care
+services through insurance, prepayment, reimbursement, or
+otherwise. The term includes the following:
+(1) A state employee health plan (as defined in IC 5-10-8-6.7).
+(2) A policy of accident and sickness insurance (as defined in
+IC 27-8-5-1). However, the term does not include the coverages
+described in IC 27-8-5-2.5(a).
+(3) An individual contract (as defined in IC 27-13-1-21) or a
+group contract (as defined in IC 27-13-1-16) that provides
+coverage for basic health care services (as defined in
+IC 27-13-1-4).
+(4) Any other plan or program that provides payment,
+reimbursement, or indemnification to a covered individual for the
+cost of prescription drugs.
+SECTION 4. IC 27-1-24.5-6.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JANUARY 1, 2026]: Sec. 6.5. As used in this chapter,
+"insurer" means an insurer subject to state law and rules
+regulating insurance or subject to the jurisdiction of the
+department that contracts, or offers to contract, to:
+(1) provide;
+(2) deliver;
+(3) arrange for;
+(4) pay for; or
+(5) reimburse;
+any of the costs of health care services to a covered individual
+under a health plan.
+SECTION 5. IC 27-1-24.5-11.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JANUARY 1, 2026]: Sec. 11.5. As used in this chapter,
+"pharmacy benefit management services" means:
+(1) negotiating the price of prescription drugs, including
+negotiating and contracting for direct or indirect rebates,
+discounts, or other price concessions;
+(2) managing any aspect of a prescription drug benefit,
+including:
+(A) the processing and payment of claims for prescription
+drugs;
+(B) arranging alternative access to or funding for
+prescription drugs;
+(C) the performance of drug utilization review;
+(D) the processing of drug prior authorization requests;
+HEA 1604 — CC 1
+
+
+--- Page 3 ---
+3
+(E) the adjudication of appeals or grievances related to the
+prescription drug benefit;
+(F) contracting with network pharmacies;
+(G) controlling the cost of covered prescription drugs;
+(H) managing or providing data relating to the
+prescription drug benefit;
+(I) the provision of services related to the prescription drug
+benefit; or
+(J) creating or updating prescription drug formularies;
+(3) the performance of any administrative, managerial,
+clinical, pricing, financial, reimbursement, data
+administration or reporting, or billing service; and
+(4) any other services specified in a rule adopted by the
+department.
+SECTION 6. IC 27-1-24.5-12, AS AMENDED BY P.L.32-2021,
+SECTION 77, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JANUARY 1, 2026]: Sec. 12. (a) As used in this chapter, "pharmacy
+benefit manager" means: an entity that, on behalf of a health plan, state
+agency, insurer, managed care organization, or other third party payor:
+(1) a person who, under a written agreement with an insurer,
+health plan, state agency, managed care organization, or other
+third party payor, directly or indirectly provides one (1) or
+more pharmacy benefit management services on behalf of the
+insurer, health plan, state agency, managed care organization,
+or other third party payor; and
+(2) an agent, a contractor, an intermediary, an affiliate, a
+subsidiary, or a related entity of a person descri bed in
+subdivision (1) who facilitates, provides, directs, or oversees
+the provision of the pharmacy benefit management services.
+(1) contracts directly or indirectly with pharmacies to provide
+prescription drugs to individuals;
+(2) administers a prescription drug benefit;
+(3) processes or pays pharmacy claims;
+(4) creates or updates prescription drug formularies;
+(5) makes or assists in making prior authorization determinations
+on prescription drugs;
+(6) administers rebates on prescription drugs; or
+(7) establishes a pharmacy network.
+(b) The term does not include the following:
+(1) A person licensed under IC 16.
+(2) A health provider who is:
+(A) described in IC 25-0.5-1; and
+HEA 1604 — CC 1
+
+
+--- Page 4 ---
+4
+(B) licensed or registered under IC 25.
+(3) A consultant who only provides advice concerning the
+selection or performance of a pharmacy benefit manager.
+SECTION 7. IC 27-1-24.5-20, AS AMENDED BY P.L.158-2024,
+SECTION 8, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JANUARY 1, 2026]: Sec. 20. (a) The commissioner shall do the
+following:
+(1) Prescribe an application for use in applying for a license to
+operate as a pharmacy benefit manager.
+(2) Adopt rules under IC 4-22-2 to establish the following:
+(A) Pharmacy benefit manager licensing requirements.
+(B) Licensing fees.
+(C) A license application.
+(D) Financial standards for pharmacy benefit managers.
+(E) Reporting requirements described in sections 21 and 29 of
+this chapter.
+(F) The time frame for the resolution of an appeal under
+section 22 of this chapter.
+(b) The commissioner may do the following:
+(1) Charge a license application fee and renewal fees established
+under subsection (a)(2) in an amount not to exceed five hundred
+dollars ($500) to be deposited in the department of insurance fund
+established by IC 27-1-3-28.
+(2) Examine or audit the books and records of a pharmacy benefit
+manager one (1) time per year to determine if the pharmacy
+benefit manager is in compliance with this chapter.
+(3) Adopt rules under IC 4-22-2 to:
+(A) implement this chapter; and
+(B) specify requirements for the following:
+(i) Prohibited market conduct practices.
+(ii) Data reporting in connection with violations of state law.
+(iii) Maximum allowable cost list compliance and
+enforcement requirements, including the requirements of
+sections 22 and 23 of this chapter.
+(iv) Prohibitions and limits on pharmacy benefit manager
+practices that require licensure under IC 25-22.5.
+(v) Pharmacy benefit manager affiliate information sharing.
+(vi) Lists of health plans administered by a pharmacy benefit
+manager in Indiana.
+(vii) Pharmacy benefit management services included
+under section 11.5(4) of this chapter.
+(c) Financial information and proprietary information submitted by
+HEA 1604 — CC 1
+
+
+--- Page 5 ---
+5
+a pharmacy benefit manager to the department is confidential.
+SECTION 8. IC 27-1-24.5-27.7 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JANUARY 1, 2026]: Sec. 27.7. (a) This section applies
+to a health plan that is issued, delivered, amended, or renewed
+after December 31, 2025.
+(b) A pharmacy benefit manager shall apply the annual
+limitation on cost sharing set forth in the federal Patient Protection
+and Affordable Care Act under 42 U.S.C. 18022(c)(1) to
+prescription drugs that:
+(1) are covere d under a health plan administered by the
+pharmacy benefit manager;
+(2) are life-saving or intended to manage chronic pain; and
+(3) do not have an approved generic version.
+(c) Except as provided in subsection (d), when calculating a
+covered individual's contribution to an applicable cost sharing
+requirement, a pharmacy benefit manager must include any cost
+sharing amounts paid:
+(1) by the covered individual; or
+(2) on behalf of the covered individual by another person.
+(d) If application of subsection (c) would result in a covered
+individual becoming ineligible for a health savings account under
+Section 223 of the Internal Revenue Code, the requirement under
+subsection (c) applies with respect to the deductible of a high
+deductible health plan after the covered individual satisfies the
+minimum deductible under Section 223 of the Internal Revenue
+Code. However, subsection (c) applies to items or services that are
+preventative care under Section 223(c)(2)(C) of the Internal
+Revenue Code regardless of whether the minimum deductible
+under Section 223 of the Internal Revenue Code is satisfied.
+(e) A pharmacy benefit manager may not directly or indirectly:
+(1) set;
+(2) alter;
+(3) implement; or
+(4) condition;
+the terms of health plan coverage, including the benefit design,
+based in part or entirely on information about the availability or
+amount of financial or product assistance available for a
+prescription drug.
+SECTION 9. IC 27-1-48.5 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]:
+HEA 1604 — CC 1
+
+
+--- Page 6 ---
+6
+Chapter 48.5. Out-of-Pocket Expense Credit
+Sec. 1. This chapter applies to a health plan entered into or
+renewed after June 30, 2025.
+Sec. 2. As used in this chapter, "covered individual" means an
+individual entitled to coverage under a health plan.
+Sec. 3. As used in this chapter, "health care provider" means an
+individual or entity that is licensed, certified, registered, or
+regulated by an entity described in IC 25-0.5-11.
+Sec. 4. As used in this chapter, "health care services" means any
+services or products rendered by a health care provider within the
+scope of the provider's license or legal authorization.
+Sec. 5. (a) As used in this chapter, "health plan" means any of
+the following:
+(1) A self-insurance program established under IC 5-10-8-7(b)
+to provide group coverage.
+(2) A prepaid health care delivery plan through which health
+services are provided under IC 5-10-8-7(c).
+(3) A policy of accident and sickness insurance as defined in
+IC 27-8-5-1, but not including any insurance, plan, or policy
+set forth in IC 27-8-5-2.5(a).
+(4) An individual contract (as defined in IC 27-13-1-21) or a
+group contract (as defined in IC 27-13-1-16) with a health
+maintenance organization that provides coverage for basic
+health care services (as defined in IC 27-13-1-4).
+(b) The term includes a person that administers any of the
+following:
+(1) A self-insurance program established under IC 5-10-8-7(b)
+to provide group coverage.
+(2) A prepaid health care delivery plan through which health
+services are provided under IC 5-10-8-7(c).
+(3) A policy of accident and sickness insurance as defined in
+IC 27-8-5-1, but not including any insurance, plan, or policy
+set forth in IC 27-8-5-2.5(a).
+(4) An individual contract (as defined in IC 27-13-1-21) or a
+group contract (as defined in IC 27-13-1-16) with a health
+maintenance organization that provides coverage for basic
+health care services (as defined in IC 27-13-1-4).
+(c) The term includes hospital, medical, surgical, and
+pharmaceutical services or products.
+Sec. 6. As used in this chapter, "network" means a grou p of
+health care providers that:
+(1) provide health care services to covered individuals; and
+HEA 1604 — CC 1
+
+
+--- Page 7 ---
+7
+(2) have agreed to, or are otherwise subject to, maximum
+limits on the prices for the health care services to be provided
+to the covered individuals.
+Sec. 7. A health plan shall credit toward a covered individual's
+deductible and annual maximum out-of-pocket expenses any
+amount the covered individual pays directly to any health care
+provider for a medically necessary covered health care service if a
+claim for the health care service is not submitted to the health plan
+and the amount paid by the covered individual to the health care
+provider is less than the average discounted rate for the health care
+service paid to a health care provider in the health plan's network.
+Sec. 8. (a) A health plan shall:
+(1) establish a procedure by which a covered individual may
+claim a credit under section 7 of this chapter; and
+(2) identify documentation necessary to support a claim for a
+credit under section 7 of this chapter.
+(b) A health plan may either:
+(1) publish average discounted rates that the health plan has
+negotiated to pay health care providers for health care
+services; or
+(2) refer to average or typical rates on the all payer claims
+data base established under IC 27-1-44.5;
+for purposes of a covered individual claiming a cred it under
+section 7 of this chapter.
+(c) A covered individual may use the data on average or typical
+rates reported on the all payer claims data base established under
+IC 27-1-44.5 to determine the average discounted rate for a health
+care service under section 7 of this chapter.
+Sec. 9. A health plan shall display information about the
+procedure and documentation described in section 8 of this chapter
+on the health plan's website, including a link to the website for the
+all payer claims data base established under IC 27-1-44.5.
+Sec. 10. The department shall adopt rules under IC 4-22-2 to
+effectuate the provisions of this chapter.
+SECTION 10. IC 27-1-51 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+JANUARY 1, 2026]:
+Chapter 51. Cost Sharing for Health Insurance Coverage
+Sec. 1. This chapter applies to a policy of health insurance
+coverage that is issued, delivered, amended, or renewed after
+December 31, 2025.
+Sec. 2. As used in this chapter, "administrator" means a person
+HEA 1604 — CC 1
+
+
+--- Page 8 ---
+8
+who, directly or indirectly and on behalf of an insurer:
+(1) underwrites; or
+(2) collects charges or premiums from or adjusts or settles
+claims on:
+(A) residents of Indiana; or
+(B) residents of another state from offices in Indiana;
+in connection with health insurance coverage offered or provided
+by an insurer.
+Sec. 3. As used in this chapter, "cost sharing" means any
+copayment, coinsurance, deductible, or other similar charge that
+is:
+(1) required of a covered individual for a health care service
+covered by a policy of health insurance coverage, including a
+prescription drug; and
+(2) paid:
+(A) by; or
+(B) on behalf of;
+the covered individual.
+Sec. 4. As used in this chapter, "covered individual" means an
+individual who is entitled to health insurance coverage.
+Sec. 5. As used in this chapter, "health care service" means a
+service or good furnished for the purpose of preventing,
+alleviating, curing, or healing:
+(1) human illness;
+(2) physical disability; or
+(3) injury.
+Sec. 6. (a) As used in this chapter, "health insurance coverage"
+means:
+(1) an individual or group policy of accident and sickness
+insurance (as defined in IC 27-8-5-1);
+(2) an individual contract (as defined in IC 27-13-1-21) or a
+group contract (as defined in IC 27-13-1-16) that provides
+coverage for basic health care services (as defined in
+IC 27-13-1-4); and
+(3) any other health plan that is issued on an individual or
+group basis;
+that is subject to state law and rules regulating insurance or
+subject to the jurisdiction of the department. The term includes
+coverage of a dependent of the covered individual under a policy
+or contract described in subdivisions (1) through (3).
+(b) The term does not include a self-funded health benefit plan
+that complies with the federal Employee Retirement Income
+HEA 1604 — CC 1
+
+
+--- Page 9 ---
+9
+Security Act (ERISA) of 1974 (29 U.S.C. 1001 et seq.).
+Sec. 7. As used in this chapter, "insurer" means an insurer that
+provides health insurance coverage to a covered individual.
+Sec. 8. As used in this chapter, "person" means a natural
+person, corporation, mutual company, unincorporated association,
+partnership, joint venture, limited liability company, trust, estate,
+foundation, not-for-profit corporation, unincorporated
+organization, government, or governmental subdivision or agency.
+Sec. 9. An insurer and an administrator shall apply the annual
+limitation on cost sharing set forth in the federal Patient Protection
+and Affordable Care Act under 42 U.S.C. 18022(c)(1) to
+prescription drugs that:
+(1) are covered under a policy or contract of health insurance
+coverage offered or issued by the insurer;
+(2) are life-saving or intended to manage chronic pain; and
+(3) do not have an approved generic version.
+Sec. 10. (a) Except as provided in subsection (b), when
+calculating a covered individual's contribution to an applicable
+cost sharing requirement, an insurer and administrator must
+include any cost sharing amounts paid:
+(1) by the covered individual; and
+(2) on behalf of the covered individual by another person.
+(b) If application of subsection (a) would result in a covered
+individual becoming ineligible for a health savings account under
+Section 223 of the Internal Revenue Code, the requirement under
+subsection (a) applies with respect to the deductible of a high
+deductible health plan after the covered individual satisfies the
+minimum deductible under Section 223 of the Internal Revenue
+Code. However, subsection (a) applies to items or services that are
+preventative care under Section 223(c)(2)(C) of the Internal
+Revenue Code regardless of whether the minimum deductible
+under Section 223 of the Internal Revenue Code is satisfied.
+Sec. 11. An insurer and an administrator may not directly or
+indirectly:
+(1) set;
+(2) alter;
+(3) implement; or
+(4) condition;
+the terms of health insurance coverage, including the benefit
+design, based in part or entirely on information about the
+availability or amount of financial or product assistance available
+for a prescription drug.
+HEA 1604 — CC 1
+
+
+--- Page 10 ---
+10
+Sec. 12. Before December 31 of each year, each insurer and
+administrator shall certify to the commissioner that the insurer or
+administrator has fully and completely complied with the
+requirements of this chapter during the previous calendar year.
+The certification must be signed by the chief executive officer or
+chief financial officer of the insurer or administrator.
+Sec. 13. The commissioner may adopt rules under IC 4-22-2 to
+implement this chapter.
+HEA 1604 — CC 1
+
+
+--- Page 11 ---
+Speaker of the House of Representatives
+President of the Senate
+President Pro Tempore
+Governor of the State of Indiana
+Date: Time: 
+HEA 1604 — CC 1

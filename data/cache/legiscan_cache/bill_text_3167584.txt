@@ -1,0 +1,177 @@
+--- Page 1 ---
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE ENROLLED ACT No. 1213
+AN ACT to amend the Indiana Code concerning property.
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1. IC 27-1-13-18, AS AMENDED BY P.L.161-2024,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 18. (a) This section applies to a loss or damages
+incurred after June 30, 2025, for a policy of insurance that is described
+in:
+(1) Class 3 3(a) of IC 27-1-5-1; or
+(2) Class 2 2(h) of IC 27-1-5-1. except for a policy of insurance
+that is described in Class 2(j) of IC 27-1-5-1.
+However, this section does not apply to a commercial lines
+property insurance policy.
+(b) This section applies regardless of whether the policy of
+insurance was created before, on, or after July 1, 2025, unless the
+application of this section to the policy of insurance would:
+(1) for a policy issued before July 1, 2025, give a right to a
+beneficiary that the beneficiary was not reasonably intended to
+have, other than the beneficiary's right to insurance coverage until
+the time limitation described in subsection (e); or
+(2) for a policy issued at any time, relieve a beneficiary from a
+duty or liability imposed on the insured by the terms of the policy.
+(c) The following definitions apply throughout this section:
+(1) "Beneficiary" has the meaning set forth in IC 32-17-14-3(1).
+(2) "Insurable interest" means an insured's interest in real or
+HEA 1213
+
+
+--- Page 2 ---
+2
+personal property, concerning which the insured is entitled to the
+benefits of insurance coverage under a property and casualty
+insurance policy or liability insurance policy.
+(3) "Insured" means a person who is entitled to the benefits of
+insurance coverage under a property and casualty insurance
+policy or liability insurance policy.
+(4) "Named insured" means a person identified by name as an
+insured under a property and casualty insurance policy or liability
+insurance policy.
+(5) "Property and casualty insurance policy or liability insurance
+policy" means a policy of insurance that is described in Class 2
+2(h) or Class 3 3(a) of IC 27-1-5-1. The term does not include
+a commercial lines property insurance policy.
+(6) "Transfer" means an ownership change in a named insured's
+insurable interest in real or personal property to a beneficiary of
+a transfer on death transfer deed that occurs as a consequence of
+the named insured's death.
+(7) "Transferee" means a person who has acquired or received a
+named insured's insurable interest in real or personal property
+through a transfer.
+(8) "Transfer on death transfer" deed" has the meaning set forth
+in IC 32-17-14-3(17). IC 32-17-14-3(16).
+(d) Subject to subsection (e), each transferee of a named insured's
+insurable interest in real or personal property is also an insured to the
+extent of the named insured's insurable interest in real or personal
+property that the transferee has acquired or received through a transfer.
+(e) Except as provided in subsections (f) and (g) and IC 32-38-3-1,
+for a period of sixty (60) days immediately following the death of the
+insured, each transferee is an insured under  a property and casualty
+insurance policy or liability insurance policy insuring the real or
+personal property the transferee acquired or received through a
+transfer. At the time of the insured's death, the transferee succeeds to
+the rights and obligations of the insured under the property and
+casualty insurance policy or liability insurance policy, to the extent of
+the insured's insurable interest in real or personal property that the
+transferee has acquired or received through a transfer, for the sixty (60)
+day period.
+(f) If a property and casualty insurance policy or liability insurance
+policy has a policy expiration date that is less than sixty (60) days after
+the death of the insured, insurance coverage continues for either:
+(1) thirty (30) days; or
+(2) the policy expiration date;
+HEA 1213
+
+
+--- Page 3 ---
+3
+whichever is later.
+(g) If a transferee obtains a property and casualty insurance policy
+or liability insurance policy insuring the real or personal property the
+transferee acquired or received through a transfer, the transferee is not
+an insured on the insurance policy described in subsection (e) once the
+transferee's property and casualty insurance policy or liability insurance
+policy becomes effective.
+SECTION 2. IC 32-17-14-11, AS AMENDED BY P.L.99-2024,
+SECTION 19, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 11. (a) A transfer on death deed transfers the
+interest provided to the beneficiary if the transfer on death deed is:
+(1) executed by the owner or owner's legal representative; and
+(2) recorded with the recorder of deeds in the county in which the
+real property is situated before the death of the owner.
+(b) A transfer on death deed is void if it is not recorded with the
+recorder of deeds in the county in which the real property is situated
+before the death of the owner.
+(c) A transfer on death deed is not required to be supported by
+consideration or delivered to the grantee beneficiary.
+(d) A transfer on death deed may be used to transfer an interest in
+real property to either a revocable or an irrevocable trust.
+(e) If the owner records a transfer on death deed, the effect of the
+recording the transfer on death deed is determined as follows:
+(1) If the owner's interest in the real property is as a tenant by the
+entirety, the conveyance is inoperable and void unless the other
+spouse joins in the conveyance.
+(2) If the owner's interest in the real property is as a joint tenant
+with rights of survivorship, the conveyance severs the joint
+tenancy and the cotenancy becomes a tenancy in common.
+(3) If the owner's interest in the real property is as a joint tenant
+with rights of survivorship and the property is subject to a
+beneficiary designation, a conveyance of any joint owner's interest
+has no effect on the original beneficiary designation for the
+nonsevering joint tenant.
+(4) If the owner's interest is as a tenant  in common, the owner's
+interest passes to the beneficiary as a transfer on death transfer.
+(5) If the owner's interest is a life estate determined by the owner's
+life, the conveyance is inoperable and void.
+(6) If the owner's interest is any other interest, the interest passes
+in accordance with this chapter and the terms and conditions of
+the conveyance establishing the interest. If a conflict exists
+between the conveyance establishing the interest and this chapter,
+HEA 1213
+
+
+--- Page 4 ---
+4
+the terms and conditions of the conveyance establishing the
+interest prevail.
+(f) A beneficiary designation in a transfer on death deed may be
+worded in substance as "(insert owner's name) conveys and warrants
+(or quitclaims) to (insert owner's name), TOD to (insert beneficiary's
+name)". This example is not intended to be exhaustive.
+(g) A transfer on death deed using the phrase "pay on death to" or
+the abbreviation "POD" may not be construed to require the liquidation
+of the real property being transferred.
+(h) This section does not preclude other methods of conveying real
+property that are permitted by law and have the effect of postponing
+enjoyment of an interest in real property until after the death of the
+owner. This section applies only to transfer on death deeds and does
+not invalidate any deed that is otherwise effective by law to convey title
+to the interest and estates provided in the deed.
+(i) The endorsement of the county auditor under IC 36-2-11-14 and
+IC 36-2-9-18 is necessary to record a transfer on death deed under this
+section.
+(j) For a transfer on death deed executed after December 31, 2024,
+June 30, 2025, the transfer on death deed may include the following
+warning:
+"WARNING: After the death of the owner, the owner's insurance
+policy is required by IC 27-1-13-18 to cover the real property
+transferred for a period of time as set forth in IC 27-1-13-18(e)
+and IC 27-1-13-18(f). Once the period of time as set forth in
+IC 27-1-13-18(e) and IC 27-1-13-18(f) expires, the insurance
+policy may no longer cover the real property and the beneficiary
+of a transfer on death deed and the real property may become
+uninsured.".
+A transfer on death deed is not invalid due to the failure to include the
+warning described in this subsection, or due to a defect in the wording
+of the warning described in this subsection.
+HEA 1213
+
+
+--- Page 5 ---
+Speaker of the House of Representatives
+President of the Senate
+President Pro Tempore
+Governor of the State of Indiana
+Date: Time: 
+HEA 1213

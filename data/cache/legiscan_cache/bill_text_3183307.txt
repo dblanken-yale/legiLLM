@@ -1,0 +1,1031 @@
+--- Page 1 ---
+*ES0250.1*
+March 20, 2025
+ENGROSSED
+SENATE BILL No. 250
+_____
+DIGEST OF  SB 250 (Updated March  19, 2025 3:19 pm - DI 1 41)
+Citations Affected:  IC 5-1; IC 5-10.2; IC 5-10.3; IC 5-10.4; IC 5-11;
+IC 36-8.
+Synopsis:  Pension matters. Modifies the definition of "average of the
+annual compensation" for a member of the public employees'
+retirement fund (PERF) who retires after December 31, 2026. Specifies
+that compensation received in contemplation of retirement is excluded
+from the average of the annual compensation for particular members
+of PERF and the Indiana state teachers' retirement fund (TRF). Repeals
+a provision requiring the board of trustees of the Indiana public 
+(Continued next page)
+Effective:  Upon passage; July 1, 2025.
+Buchanan,  Rogers , Niezgods ki(HOUSE SP ONSORS — CA RBA UGH, G ARCIA  WILBURN)
+January 13, 2025, read first time and referred to Commi ttee on Pensions and Labor.
+January 29, 2025, amended, reported favorably — Do Pass; reassigned to Commi ttee on
+Appropriations.
+February 13, 2025, amended, reported favorably — Do Pa ss.
+February 18, 2025, read second time, ordered engrosse d. En grosse d.
+February 20, 2025, read third time, passed. Ye as 49, nays 0.
+HOUSE A CTION
+March 3, 2025, read first time and referred to Commi ttee on Emp loyment, Labor and
+Pensions.
+March 20, 2025, amended, reported — Do Pass. Referred to Commi ttee on Ways and
+Means pursuant to Rule 126.3.
+ES 250—LS 6769/DI 144
+
+
+--- Page 2 ---
+Digest Continued
+retirement system (board) to maintain separate accounts for each unit
+of local government. Provides that amounts forfeited under the public
+employees defined contribution plan must be used as determined by the
+board. (Current law requires these amounts to be used to reduce the
+unfunded accrued liability of PERF.) Specifies a process by which a
+fully vested member of the public employees' defined contribution plan
+or the teachers' defined contribution plan may irrevocably elect to
+participate in PERF or TRF, as applicabl e. Modifies the information
+that must be included in a delinquency notice to a delinquent political
+subdivision. Specifies the circumstances under which an employer
+under the 1977 police officers' and firefighters' pension and disability
+fund is required to pay for certain mental health care and treatment.
+Makes conforming amendments. (The introduced version of this bill
+was prepared by the interim study committee on pension management
+oversight.)
+ES 250—LS 6769/DI 144
+ ES 250—LS 6769/DI 144
+
+
+--- Page 3 ---
+March 20, 2025
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provi sion is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+ENGROSSED
+SENATE BILL No. 250
+A BILL FOR AN ACT to amend the Indiana Code concerning
+pensions.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 5-1-14-15, AS AMENDED BY P.L.146-2008,
+2 SECTION 30, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2025]: Sec. 15. (a) Before July 1, 2008, a county or
+4 municipality may issue bonds, notes, or other obligations for the
+5 purpose of providing funds to pay pension benefits under IC 36-8-6,
+6 IC 36-8-7, or IC 36-8-7.5.
+7 (b) Notwithstanding any other law:
+8 (1) bonds, notes, or other obligations issued for the purpose
+9 described in this section may have a final maturity date up to, but
+10 not exceeding, forty (40) years from the date of original issuance;
+11 and
+12 (2) the amount of bonds, notes, or other obligations that may be
+13 issued for the purpose described in this section may not exceed
+14 two percent (2%) of the true tax value of property located within
+15 the county or municipality. and
+16 (3) the proceeds of bonds, notes, or other obligations issued for
+17 the purpose described in this section may be deposited to the
+ES 250—LS 6769/DI 144
+
+
+--- Page 4 ---
+2
+1 issuing county's or municipality's separate account described in
+2 IC 5-10.3-11-6.
+3 (c) This section is supplemental to all other laws but does not
+4 relieve a county or municipality from complying with other procedural
+5 requirements for the issuance of bonds, notes, or other obligations.
+6 SECTION 2. IC 5-10.2-4-3, AS AMENDED BY P.L.2-2007,
+7 SECTION 93, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+8 JULY 1, 2025]: Sec. 3. (a) This subsection applies to a member who
+9 retires before January 1, 2027. Except as provided in subsection (f),
+10 (h), in computing the retirement benefit for a nonteacher member,
+11 "average of the annual compensation" means the average annual
+12 compensation calculated using the twenty (20) calendar quarters of
+13 service in a position covered by the retirement fund before retirement
+14 in which the member's annual compensation was the highest. However,
+15 in order for a quarter to be included in the twenty (20) calendar
+16 quarters, the nonteacher member must have performed service
+17 throughout the calendar quarter. All twenty (20) calendar quarters do
+18 need not have to be continuous but they must be in groups of four (4)
+19 consecutive calendar quarters. The same calendar quarter may not be
+20 included in two (2) different groups.
+21 (b) This subsection applies to a member who retires after
+22 December 31, 2026. This subsection does not apply to a teacher
+23 member described in subsection (d) or (e). Except as provided in
+24 subsection (h), in computing the retirement benefit for a
+25 nonteacher member, "average of the annual compensation" means
+26 average annual compensation calculated using the greater of the
+27 following:
+28 (1) The five (5) calendar years of service before retirement in
+29 which the member's annual compensation for the calendar
+30 year was the highest.
+31 (2) The five (5) fiscal years of service before retirement in
+32 which the member's annual compensation for the fiscal year
+33 was the highest.
+34 (c) The following apply to the calculation under subsection (b):
+35 (1) A year does not qualify for inclusion in the calculation
+36 unless:
+37 (A) the year is equal to twelve (12) months; and
+38 (B) the member received creditable service for at least six
+39 (6) months throughout the year.
+40 (2) A calendar year begins on January 1.
+41 (3) A fiscal year begins on July 1.
+42 (4) The five (5) years need not be continuous.
+ES 250—LS 6769/DI 144
+
+
+--- Page 5 ---
+3
+1 (b) (d) This subsection does not apply to a teacher member
+2 described in subsection (c). (e). In computing the retirement benefit for
+3 a teacher member, "average of the annu al compensation" means the
+4 average annual compensation for the five (5) years of service before
+5 retirement in which the member's annual compensation was highest. In
+6 order for a year to be included in the five (5) years, the teacher member
+7 must have received for the year credit under IC 5-10.4-4-2 for at least
+8 one-half (1/2) year of service. The five (5) years do need not have to be
+9 continuous.
+10 (c) (e) This subsection applies to a member of the Indiana state
+11 teachers' retirement fund who serves in an elected position for which
+12 the member takes an unpaid leave of absence. In computing the
+13 retirement benefit for a teacher member described in this subsection for
+14 years of service to which IC 5-10.4-5-7 does not apply, "average of the
+15 annual compensation" means the annual compensation for the one (1)
+16 year of service before retirement in which the member's annual
+17 compensation was highest. In order for a year to be used, the teacher
+18 member must have received for the year credit under IC 5-10.4-4-2 for
+19 at least one-half (1/2) year of service.
+20 (d) (f) Subject to IC 5-10.2-2-1.5, "annual compensation" means:
+21 (1) the basic salary earned by and paid to the member plus the
+22 amount that would have been part of that salary but for:
+23 (A) the state's, a school corporation's, a participating political
+24 subdivision's, or a state educational institution's paying the
+25 member's contribution to the fund for the member; or
+26 (B) the member's salary reduction agreement established under
+27 Section 125, 403(b), or 457 of the Internal Revenue Code; and
+28 (2) in the case of a member described in subsection (c) (e) and for
+29 years of service to which IC 5-10.4-5-7 does not apply, the basic
+30 salary that was not paid during the year but would have been paid
+31 to the member during the year under the member's employment
+32 contracts, if the member had not taken any unpaid leave of
+33 absence to serve in an elected position.
+34 The portion of a back pay award or a similar award that the board
+35 determines is compensation under an agreement or under a judicial or
+36 an administrative proceeding shall be allocated by the board among the
+37 years the member earned or should have earned the compensation.
+38 Only that portion of the award allocated to the year the award is made
+39 is considered to have been earned during the year the award was made.
+40 Interest on an award is not considered annual compensation for any
+41 year.
+42 (e) (g) This subsection applies to a member who retires before
+ES 250—LS 6769/DI 144
+
+
+--- Page 6 ---
+4
+1 January 1, 2027. Compensation of not more than two thousand dollars
+2 ($2,000) received from the employer in contemplation of the member's
+3 retirement, including severance pay, termination pay, retirement bonus,
+4 or commutation of unused sick leave or personal leave, may be
+5 included in the total annual compensation from which the average of
+6 the annual compensation is determined, if it is received:
+7 (1) before the member ceases service; or
+8 (2) within twelve (12) months after the member ceases service.
+9 (f) (h) This subsection applies to a member of the general assembly:
+10 (1) who is a participant in the legislators' retirement system
+11 established under IC 2-3.5;
+12 (2) who is also a member of the public employees' retirement fund
+13 or the Indiana state teachers' retirement fund; and
+14 (3) whose years of service in the general assembly may not be
+15 considered in determining the average of the annual
+16 compensation under this section, as provided in
+17 IC 2-3.5-1-2(b)(2) or IC 2-3.5-3-1(c).
+18 The board shall use the board's actuarial salary increase assumption to
+19 project the salary for any previous year needed to determine the
+20 average of the annual compensation.
+21 SECTION 3. IC 5-10.2-4-3.2 IS ADDED TO THE INDIANA
+22 CODE AS A NEW SECTION TO READ AS FOLLOWS
+23 [EFFECTIVE JULY 1, 2025]: Sec. 3.2. (a) This section applies to the
+24 calculation of the average of the annual compensation under
+25 section 3 of this chapter.
+26 (b) For purposes of this section, "compensation received in
+27 contemplation of retirement" means compensation that:
+28 (1) a member received:
+29 (A) during the member's last year of service; and
+30 (B) after the member's last year of service; and
+31 (2) is greater than one hundred twenty percent (120%) of the
+32 compensation the member received during the year before the
+33 member's last year of service.
+34 (c) For a member who:
+35 (1) retires after December 31, 2026; and
+36 (2) served in a covered position during the entire year before
+37 the member's last year of service;
+38 compensation received in contemplation of retirement is excluded
+39 from the average of the annual compensation.
+40 (d) For purposes of this section, a year must begin on January
+41 1 or July 1.
+42 SECTION 4. IC 5-10.3-7-1, AS AMENDED BY P.L.92-2019,
+ES 250—LS 6769/DI 144
+
+
+--- Page 7 ---
+5
+1 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+2 JULY 1, 2025]: Sec. 1. (a) This section does not apply to:
+3 (1) members of the general assembly; or
+4 (2) employees covered by section 3 of this chapter.
+5 (b) As used in this section, "employees of the state" includes:
+6 (1) employees of the judicial circuits whose compensation is paid
+7 from state funds;
+8 (2) elected and appointed state officers;
+9 (3) prosecuting attorneys and deputy prosecuting attorneys of the
+10 judicial circuits, whose compensation is paid in whole or in part
+11 from state funds, including participants in the prosecuting
+12 attorneys retirement fund established under IC 33-39-7;
+13 (4) employees in the classified service;
+14 (5) employees of any state department, institution, board,
+15 commission, office, agency, court, or division of state government
+16 receiving state appropriations and having the authority to certify
+17 payrolls from appropriations or from a trust fund held by the
+18 treasurer of state or by any department;
+19 (6) employees of any state agency that is a body politic and
+20 corporate;
+21 (7) except as provided under IC 5-10.5-7-4, employees of the
+22 board of trustees of the Indiana public retirement system;
+23 (8) persons who:
+24 (A) are employed by the state;
+25 (B) have been classified as federal employees by the United
+26 States Secretary of Agriculture; and
+27 (C) are excluded from coverage as federal employees by the
+28 federal Social Security program under 42 U.S.C. 410;
+29 (9) the directors and employees of county offices of family and
+30 children; and
+31 (10) members and employees of the state lottery commission.
+32 (c) An employee of the state or of a participating political
+33 subdivision who:
+34 (1) became a full-time employee of the state or of a participating
+35 political subdivision in a covered position; and
+36 (2) had not become a member of the fund;
+37 before April 1, 1988, shall on April 1, 1988, become a member of the
+38 fund unless the employee is excluded from membership under section
+39 2 of this chapter.
+40 (d) Except as otherwise provided, any individual who becomes a
+41 full-time employee of the state or of a participating political
+42 subdivision in a covered position after March 31, 1988, becomes a
+ES 250—LS 6769/DI 144
+
+
+--- Page 8 ---
+6
+1 member of the fund on the date the individual's employment begins
+2 unless the individual is excluded from membership under section 2 of
+3 this chapter.
+4 (e) An individual:
+5 (1) who becomes a full-time employee of a political subdivision
+6 in a covered position after June 30, 2015;
+7 (2) who is employed by a political subdivision that has elected in
+8 an ordinance or resolution adopted under IC 5-10.3-6-1 and
+9 approved by the board to require an employee in the covered
+10 position to become a member of the fund; and
+11 (3) who is not excluded from membership under section 2 of this
+12 chapter;
+13 becomes a member of the fund on the date the individual's employment
+14 begins.
+15 (f) An individual:
+16 (1) who becomes a full-time employee of a political subdivision
+17 in a covered position after an ordinance or resolution described in
+18 subdivision (2) that is adopted by the political subdivision has
+19 been approved by the board;
+20 (2) who is employed by a political subdivision that has elected in
+21 an ordinance or resolution adopted under IC 5-10.3-6-1 and
+22 approved by the board:
+23 (A) to allow an employee in the covered position to become a
+24 member of the fund or a member of the public employees'
+25 defined contribution plan at the discretion of the employee;
+26 and
+27 (B) to require an employee in a covered position to make an
+28 election under IC 5-10.3-12-20.5 in order to become a member
+29 of the plan;
+30 (3) who does not make an election under IC 5-10.3-12-20.5 to
+31 become a member of the public employees' defined contribution
+32 plan; and
+33 (4) who is not excluded from membership under section 2 of this
+34 chapter;
+35 becomes a member of the fund on the date the individual's employment
+36 begins.
+37 (g) An individual:
+38 (1) who becomes a full-time employee of a political subdivision
+39 in a covered position after an ordinance or resolution described in
+40 subdivision (2) that is adopted by the political subdivision has
+41 been approved by the board;
+42 (2) who is employed by a political subdivision that has elected in
+ES 250—LS 6769/DI 144
+
+
+--- Page 9 ---
+7
+1 an ordinance or resolution adopted under IC 5-10.3-6-1 and
+2 approved by the board:
+3 (A) to allow an employee in the covered position to become a
+4 member of the fund or the public employees' defined
+5 contribution plan at the discretion of the employee; and
+6 (B) to require an employee to make an election under section
+7 1.1 of this chapter in order to become a member of the fund;
+8 (3) who does make an election under section 1.1 of this chapter to
+9 become a member of the fund; and
+10 (4) who is not excluded from membership under section 2 of this
+11 chapter;
+12 becomes a member of the fund on the date the individual's employment
+13 begins.
+14 (h) An individual who makes an election to participate in the
+15 fund under IC 5-10.3-12-33 becomes a member of the fund on the
+16 date the board receives the election.
+17 SECTION 5. IC 5-10.3-7-4.3, AS ADDED BY P.L.209-2016,
+18 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+19 JULY 1, 2025]: Sec. 4.3. (a) A member of the fund who is also a
+20 member of the public employees' defined contribution plan may
+21 purchase and claim years of service credit in the fund subject to the
+22 following requirements:
+23 (1) The member has at least one (1) year of credited service in the
+24 fund.
+25 (2) The member has at least ten (10) years of combined in:
+26 (A) credited service in a covered position in the fund; and
+27 (B) years of participation in a covered position in the plan;
+28 before the member may claim the years of service credit.
+29 (3) After acquiring one (1) year of credited service in the fund and
+30 before the member retires, the member must make the following
+31 contributions to the fund:
+32 (A) Contributions that are equal  to the product of the
+33 following:
+34 (i) The member's salary at the time the member makes a
+35 contribution for the service credit.
+36 (ii) A percentage rate, as determined by the actuary of the
+37 fund, based on the age of the member at the time the
+38 member makes a contribution for service credit and
+39 computed to result in a contribution amount that
+40 approximates the actuarial present value of the benefit
+41 attributable to the service credit purchased.
+42 (iii) The number of years of service credit that the member
+ES 250—LS 6769/DI 144
+
+
+--- Page 10 ---
+8
+1 intends to purchase.
+2 (B) Contributions for any accrued interest, at a rate determined
+3 by the actuary of the fund, for the period from the member's
+4 initial membership in the fund to the date payment is made by
+5 the member.
+6 (b) A member:
+7 (1) who terminates employment before becoming eligible to
+8 receive a monthly allowance; or
+9 (2) who receives a monthly allowance for the same service from
+10 another tax supported public employee retirement plan other than
+11 under the federal Social Security Act;
+12 may withdraw the personal contributions made under this section plus
+13 accumulated interest after submitting an application for a refund to the
+14 fund in the manner prescribed by the board.
+15 (c) The following apply to the purchase of service credit under this
+16 section:
+17 (1) The board may allow a member to make periodic payments of
+18 the contributions required for the purchase of service credit in the
+19 fund.
+20 (2) A member may elect to make a transfer of the vested portion
+21 of the member's annuity savings account balance attributable to
+22 participation in the public employees' defined contribution plan
+23 to purchase service credit in the fund.
+24 (3) The board may deny an application for the purchase of service
+25 credit in the fund if the purchase would exceed the limitations
+26 under Section 415 of the Internal Revenue Code.
+27 (4) A member may not claim the service credit for the purpose of
+28 determining eligibility or computing benefits unless the member
+29 has made all the payments required for the purchase of the service
+30 credit.
+31 SECTION 6. IC 5-10.3-11-3, AS AMENDED BY P.L.27-2019,
+32 SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+33 JULY 1, 2025]: Sec. 3. The pension relief fund may be used only for
+34 making payments to cities, counties, towns, and townships, referred to
+35 as "units of local government" in this chapter, having pension funds
+36 established under IC 18-1-12, IC 19-1-18, IC 19-1-24, IC 19-1-25-4,
+37 IC 19-1-30, IC 19-1-37, or IC 19-1-44 (all before their repeal), and
+38 paying reasonable administrative expenses approved by the state board.
+39 Payments received by the units may be used only for
+40 (1) pension payments from a pension fund listed in this section.
+41 or
+42 (2) withdrawals under section 6 of this chapter.
+ES 250—LS 6769/DI 144
+
+
+--- Page 11 ---
+9
+1 SECTION 7. IC 5-10.3-11-6 IS REPEALED [EFFECTIVE JULY
+2 1, 2025]. Sec. 6. (a) The state board shall maintain separate accounts
+3 for each unit of local government for purposes of this section. The
+4 accounts are separate and distinct accounts within the public
+5 employees' retirement fund and the pension relief fund.
+6 (b) A unit of local government may do the following:
+7 (1) Make deposits at any time to the separate account established
+8 for the unit under this section.
+9 (2) Withdraw once each year from the unit's separate account all
+10 or a part of the balance in the account to pay pension benefits
+11 under IC 36-8-6, IC 36-8-7, or IC 36-8-7.5.
+12 (3) Direct the state board at any time to pay from the unit's
+13 separate account all or a part of either or both of the following:
+14 (A) The unit's employer contributions under IC 36-8-8-6.
+15 (B) The contributions paid by the unit for a member under
+16 IC 36-8-8-8(a).
+17 SECTION 8. IC 5-10.3-12-25, AS AMENDED BY P.L.241-2015,
+18 SECTION 35, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+19 UPON PASSAGE]: Sec. 25. (a) Member contributions and net
+20 earnings on the member contributions in the member contribution
+21 subaccount belong to the member at all times and do not belong to any
+22 employer.
+23 (b) A member is vested in the employer contribution subaccount in
+24 accordance with the following schedule:
+25 Years of participation in the Vested percentage of
+26 plan employer contributions
+27 and earnings
+28 1 20%
+29 2 40%
+30 3 60%
+31 4 80%
+32 5 100%
+33 For purposes of vesting in the employer contribution subaccount, only
+34 a member's full years of participation in the plan may be counted.
+35 (c) The amount that a member may withdraw from the member's
+36 account is limited to the vested portion of the account.
+37 (d) A member who attains normal retirement age is fully vested in
+38 all amounts in the member's account.
+39 (e) If a member separates from service with the member's employer
+40 before the member is fully vested in the employer contribution
+41 subaccount, the amount in the employer contribution subaccount that
+42 is not vested is forfeited as of the date the member separates from
+ES 250—LS 6769/DI 144
+
+
+--- Page 12 ---
+10
+1 service.
+2 (f) Amounts forfeited under subsection (e) must be used to reduce
+3 the unfunded accrued liability of the fund as determined under
+4 IC 5-10.2-2-11(a)(3) and IC 5-10.2-2-11(a)(4). as determined by the
+5 board.
+6 (g) A member may not earn creditable service (as defined in
+7 IC 5-10.2-3-1(a)) under the plan.
+8 SECTION 9. IC 5-10.3-12-27, AS AMENDED BY P.L.86-2018,
+9 SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+10 JULY 1, 2025]: Sec. 27. (a) For purposes of this section, "member"
+11 includes an individual who makes an election to participate in the
+12 fund under section 33 of this chapter.
+13 (a) (b) If a member dies:
+14 (1) while in service in a position covered by the plan but not in
+15 the line of duty; or
+16 (2) after terminating service in a position covered by the plan but
+17 before withdrawing the member's account;
+18 to the extent that the member is vested, the member's account shall be
+19 paid to the beneficiary or beneficiaries designated by the member on
+20 a form prescribed by the board. The amount paid shall be valued as
+21 provided in IC 5-10.2-2-3 and IC 5-10.2-2-4 (expired). The board shall
+22 invest the total amount in the member's account in the stable value fund
+23 not later than thirty (30) days after receiving notification of a member's
+24 death.
+25 (b) (c) If there is no properly designated beneficiary, or if no
+26 beneficiary survives the member, the member's account shall be paid
+27 to:
+28 (1) the surviving spouse of the member;
+29 (2) if there is not a surviving spouse, the surviving dependent or
+30 dependents of the member in equal shares; or
+31 (3) if there is not a surviving spouse or dependent, the member's
+32 estate.
+33 (c) (d) The beneficiary or beneficiaries designated under subsection
+34 (a) (b) or a survivor determined under subsection (b) (c) may elect to
+35 have the member's account paid as:
+36 (1) a lump sum;
+37 (2) a direct rollover to another eligible retirement plan; or
+38 (3) a monthly annuity in accordance with rules of the board.
+39 A monthly annuity is an option only on or after the beneficiary or
+40 survivor attains sixty-two (62) years of age. The board shall establish
+41 the forms of annuity by rule, in consultation with the board's actuary.
+42 Further, the board may establish a minimum account balance or a
+ES 250—LS 6769/DI 144
+
+
+--- Page 13 ---
+11
+1 minimum monthly payment amount that is required in order for a
+2 beneficiary or survivor to select the monthly annuity option.
+3 (d) (e) If a member dies in the line of duty while in service in a
+4 covered position, the designated beneficiary or bene ficiaries or the
+5 surviving spouse or dependents, as applicable, are entitled to payment
+6 of the member's account as provided in this section. In addition, if the
+7 member was not fully vested in the employer contribution subaccount,
+8 the account is deemed to be fully vested for purposes of withdrawal
+9 under this section.
+10 SECTION 10. IC 5-10.3-12-33 IS ADDED TO THE INDIANA
+11 CODE AS A NEW SECTION TO READ AS FOLLOWS
+12 [EFFECTIVE JULY 1, 2025]: Sec. 33. (a) This section applies
+13 notwithstanding sections 20, 20.3, 20.5, and 31 of this chapter.
+14 (b) An employer that participates in the fund may allow a
+15 member who is fully vested in the employer contribution
+16 subaccount under section 25(b) of this chapter to make an election
+17 to participate in the fund.
+18 (c) The following apply to an election made under subsection
+19 (b):
+20 (1) The election must be made:
+21 (A) within a time; and
+22 (B) in a form and manner;
+23 approved by the board.
+24 (2) An employee who makes an election:
+25 (A) becomes a member of the fund; and
+26 (B) is no longer a member of the plan;
+27 on the date described in IC 5-10.3-7-1(h).
+28 (3) The election is irrevocable.
+29 (d) A member who does not make an election under subsection
+30 (b) remains a member of the plan. The failure to make an election
+31 under subsection (b) is irrevocable.
+32 SECTION 11. IC 5-10.4-4-1, AS AMENDED BY P.L.104-2022,
+33 SECTION 16, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+34 JULY 1, 2025]: Sec. 1. (a) The members of the fund include:
+35 (1) legally qualified and regularly employed teachers in the public
+36 schools;
+37 (2) persons employed by a governing body, who were qualified
+38 before their election or appointment;
+39 (3) legally qualified and regularly employed teachers at Ball State
+40 University, Indiana State University, University of Southern
+41 Indiana, and Vincennes University;
+42 (4) legally qualified and regularly employed teachers in a state
+ES 250—LS 6769/DI 144
+
+
+--- Page 14 ---
+12
+1 educational institution whose teachers devote their entire time to
+2 teaching;
+3 (5) legally qualified and regularly employed teachers in state
+4 benevolent, charitable, or correctional institutions;
+5 (6) legally qualified and regularly employed teachers in an
+6 experimental school in a state university who teach elementary or
+7 high school students;
+8 (7) as determined by the board, certain instructors serving in a
+9 state educational institution extension division not covered by a
+10 state retirement law;
+11 (8) employees and officers of the department of education and of
+12 the fund who were qualified before their election or appointment;
+13 (9) a person who:
+14 (A) is employed as a nurse appointed under IC 20-34-3-6 by a
+15 school corporation located in a city having a population of more
+16 than sixty-nine thousand (69,000) and less than sixty-nine
+17 thousand five hundred (69,500); and
+18 (B) participated in the fund before December 31, 1991, in the
+19 position described in clause (A); and
+20 (10) persons who are employed by the fund.
+21 (b) Teachers in any state institution who accept the benefits of a
+22 state supported retirement benefit system comparable to the fund's
+23 benefits may not come under the fund unless permitted by law or the
+24 rules of the board.
+25 (c) The members of the fund do not include substitute teachers who
+26 have not obtained an associate degree or a baccalaureate degree.
+27 (d) Except as provided in IC 5-10.4-8-18, the members of the fund
+28 do not include individuals who participate in the teachers' defined
+29 contribution plan under IC 5-10.4-8.
+30 (e) An individual who makes an election to participate in the
+31 fund under IC 5-10.4-8-18 becom es a member of the fund on the
+32 date the board receives the election.
+33 SECTION 12. IC 5-10.4-4-2.3 IS ADDED TO THE INDIANA
+34 CODE AS A NEW SECTION TO READ AS FOLLOWS
+35 [EFFECTIVE JULY 1, 2025]: Sec. 2.3. (a) A member of the fund
+36 who is also a member of the teachers' defined contribution plan
+37 may purchase and claim years of service credit in the fund subject
+38 to the following requirements:
+39 (1) The member has at least one (1) year of credited service in
+40 the fund.
+41 (2) The member has at least ten (10) years combined in:
+42 (A) credited service in a covered position in the fund; and
+ES 250—LS 6769/DI 144
+
+
+--- Page 15 ---
+13
+1 (B) years of participation in a covered position in the plan;
+2 before the member may claim the years of service credit.
+3 (3) Before the member retires, the member must make the
+4 following contributions to the fund:
+5 (A) Contributions that are equal to the product of the
+6 following:
+7 (i) The member's salary at the time the member makes a
+8 contribution for the service credit.
+9 (ii) A percentage rate, as determined by the actuary of the
+10 fund, based  on the age of the member at the time the
+11 member makes a contribution for service credit and
+12 computed to result in a contribution amount that
+13 approximates the actuarial present value of the benefit
+14 attributable to the service credit purchased.
+15 (iii) The number of years of service credit that the
+16 member intends to purchase.
+17 (B) Contributions for any accrued interest, at a rate
+18 determined by the actuary of the fund, for the period from
+19 the member's initial membership in the fund to the date
+20 payment is made by the member.
+21 (b) A member:
+22 (1) who terminates employment before becoming eligible to
+23 receive a monthly allowance; or
+24 (2) who receives a monthly allowance for the same service
+25 from another tax supported public employee retirement plan
+26 other than under the federal Social Security Act;
+27 may withdraw the personal contributions made under this section
+28 plus accumulated interest after submitting an application for a
+29 refund to the fund in the manner prescribed by the board.
+30 (c) The following apply to the purchase of service credit under
+31 this section:
+32 (1) The board may allow a member to make periodic
+33 payments to the contributions required for the purchase of
+34 service credit in the fund.
+35 (2) A member may elect to make a transfer of the vested
+36 portion of the member's annuity savings account balance
+37 attributable to participation in the public employees' defined
+38 contribution plan to purchase service credit in the fund.
+39 (3) The board may deny an application for the purchase of
+40 service credit in the fund if the purchase would exceed the
+41 limitations under Section 415 of the Internal Revenue Code.
+42 (4) A member may not claim the service credit for the purpose
+ES 250—LS 6769/DI 144
+
+
+--- Page 16 ---
+14
+1 of determining eligibility or computing benefits unless the
+2 member has made all the payments required for the purchase
+3 of the service credit.
+4 SECTION 13. IC 5-10.4-8-13, AS ADDED BY P.L.217-2017,
+5 SECTION 58, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+6 JULY 1, 2025]: Sec. 13. (a) For purposes of this section, "member"
+7 includes an individual who makes an election to participate in the
+8 fund under section 18 of this chapter.
+9 (a) (b) If a member dies:
+10 (1) while in service in a position covered by the plan; or
+11 (2) after terminating service in a position covered by the plan but
+12 before withdrawing the member's account;
+13 to the extent that the member is vested, the member's account shall be
+14 paid to the beneficiary or beneficiaries designated by the member on
+15 a form prescribed by the board. The amount paid must be valued as
+16 provided in IC 5-10.2-2-3. The board shall invest the total amount in
+17 the member's account in the stable value fund not later than thirty (30)
+18 days after receiving notification of a member's death.
+19 (b) (c) If there is no properly designated beneficiary, or if no
+20 beneficiary survives the member, the member's account shall be paid
+21 to:
+22 (1) the surviving spouse of the member;
+23 (2) if there is not a surviving spouse, the surviving dependent or
+24 dependents of the member in equal shares; or
+25 (3) if there is not a surviving spouse or dependent, the member's
+26 estate.
+27 (c) (d) The beneficiary or beneficiaries designated under subsection
+28 (a) (b) or a survivor determined under subsection (b) (c) may elect to
+29 have the member's account paid as:
+30 (1) a lump sum;
+31 (2) a direct rollover to another eligible retirement plan; or
+32 (3) a monthly annuity in accordance with rules of the board.
+33 A monthly annuity is an option only on or after the date the beneficiary
+34 or survivor becomes sixty-two (62) years of age. The board shall
+35 establish the forms of annuity by rule, in consultation with the board's
+36 actuary. Further, The board may establish a minimum account balance
+37 or a minimum monthly payment amount that is required in order for a
+38 beneficiary or survivor to select the monthly annuity option.
+39 SECTION 14. IC 5-10.4-8-18 IS ADDED TO THE INDIANA
+40 CODE AS A NEW SECTION TO READ AS FOLLOWS
+41 [EFFECTIVE JULY 1, 2025]: Sec. 18. (a) This section applies
+42 notwithstanding sections 6 and 17 of this chapter.
+ES 250—LS 6769/DI 144
+
+
+--- Page 17 ---
+15
+1 (b) A member who is fully vested in the employer contribution
+2 subaccount under section 11 of this chapter may make an election
+3 to participate in the fund.
+4 (c) The following apply to an election made under subsection
+5 (b):
+6 (1) The election must be made:
+7 (A) within a time; and
+8 (B) in a form and manner;
+9 approved by the board.
+10 (2) An employee who makes an election under subsection (b):
+11 (A) becomes a member of the fund; and
+12 (B) is no longer a member of the plan;
+13 on the date described in IC 5-10.4-4-1(e).
+14 (3) The election is irrevocable.
+15 (d) A member who does not make an election under subsection
+16 (b) remains a member of the plan. The failure to make an election
+17 under subsection (b) is irrevocable.
+18 SECTION 15. IC 5-11-20-6, AS ADDED BY P.L.129-2024,
+19 SECTION 8 AND P.L.136-2024, SECTION 5, IS AMENDED TO
+20 READ AS FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 6. (a) On or
+21 before June 15 of each year, the system shall send a delinquency notice
+22 to a delinquent political subdivision. The delinquency notice must
+23 inform the delinquent political subdivision that: of the following:
+24 (1) An employee retirement plan offered by the delinquent
+25 political subdivision:
+26 (A) received less than ninety-five percent (95%) of the
+27 actuarially determined contribution for at least three (3) out of
+28 the last five (5) immediately precedi ng fiscal year, years, as
+29 determined by the system or its agent; or
+30 (B) was less than fifty percent (50%) funded at any time during
+31 the immediately preceding fiscal year, as determined by the
+32 system or its agent. and
+33 (2) That the delinquent political subdivision must take the steps
+34 described in comply with subsection (b).
+35 (b) After receiving the notice described in subsection (a), a political
+36 subdivision shall make a presentation that includes a remediation plan
+37 to the interim study committee on pension management oversight
+38 (established by IC 2-5-1.3-4) regarding the delinquent employee
+39 retirement plan described in subsection (a).
+40 SECTION 16. IC 36-8-8.3-5, AS ADDED BY P.L.54-2020,
+41 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+42 JULY 1, 2025]: Sec. 5. (a) The final determination of an impairment
+ES 250—LS 6769/DI 144
+
+
+--- Page 18 ---
+16
+1 for a mental illness is provisional for two (2) years:
+2 (1) for a final determination made after June 30, 2 020, from the
+3 date of the final determination by the system board under
+4 IC 36-8-8-13.1; or
+5 (2) for a final determination made after December 31, 2012, and
+6 before July 1, 2020, beginning July 1, 2020.
+7 (b) During the initial two (2) year provisional period, the fund
+8 member shall be subject to and responsible for active participation in
+9 a mental health treatment plan as determined by the fund member's
+10 treating physician.
+11 (c) This subsection applies to a final determination made under
+12 IC 36-8-8-13.1 before July 1, 2025. The employer shall pay for the
+13 fund member's mental health care and treatment relating to the
+14 disability during the initial two (2) year provisional period.
+15 (d) This subsection applies to a final determination made under
+16 IC 36-8-8-13.1 after June 30, 2025. If the fund member receives a
+17 final determination under IC 36-8-8-13.1 that the fund member has
+18 a Class 1 impairment described in IC 36-8-8-12.5(b)(1), the
+19 employer shall pay for the fund member's mental health care and
+20 treatment relating to the disability during the initial two (2) year
+21 provisional period.
+22 SECTION 17. IC 36-8-8.3-7, AS ADDED BY P.L.54-2020,
+23 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+24 JULY 1, 2025]: Sec. 7. (a) If the review panel determines the fund
+25 member is no longer impaired, the review panel shall notify the system
+26 board and the local board, and the fund member shall be returned to
+27 duty.
+28 (b) If the review panel determines the fund member remains
+29 impaired consistent with the final disability determination, the fund
+30 member shall begin an additional two (2) year provisional period from
+31 the date of the review panel's determination. The fund member shall
+32 continue to be subject to and responsible for active participation in a
+33 mental health treatment plan as determined by the fund member's
+34 treating physician.
+35 (c) This subsection applies to a review panel determination
+36 made before July 1, 2025. The employer shall continue to pay for the
+37 fund member's mental health care and treatment relating to the
+38 disability during the second two (2) year provisional period.
+39 (d) This subsection applies to a review panel determination
+40 made after June 30, 2025. If the review panel determines that the
+41 fund member remains impaired consistent with a final disability
+42 determination under IC 36-8-8-13.1 that the fund member has a
+ES 250—LS 6769/DI 144
+
+
+--- Page 19 ---
+17
+1 Class 1 impairment described in IC 36-8-8-12.5(b)(1), the employer
+2 shall continue to pay for the fund member's mental health care and
+3 treatment relating to the disability during the second two (2) year
+4 provisional period.
+5 SECTION 18. An emergency is declared for this act.
+ES 250—LS 6769/DI 144
+
+
+--- Page 20 ---
+18
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Pensions and Labor, to
+which was referred Senate Bill No. 250, has had the same under
+consideration and begs leave to report the same back to the Senate with
+the recommendation that said bill be AMENDED as follows:
+Page 14, line 1, delete "However, a delinquent".
+Page 14, delete lines 2 through 4.
+and when so amended that said bill do pass and be reassigned to the
+Senate Committee on Appropriations.
+(Reference is to SB 250 as introduced.)
+ROGERS, Chairperson
+Committee Vote: Yeas 11, Nays 0.
+_____
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Appropriations, to which
+was referred Senate Bill No. 250, has had the same under consideration
+and begs leave to report the same back to the Senate with the
+recommendation that said bill be AMENDED as follows:
+Page 4, delete line 42.
+Page 5, delete lines 1 through 30.
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to SB 250 as printed January 30, 2025.)
+MISHLER, Chairperson
+Committee Vote: Yeas 10, Nays 1.
+ES 250—LS 6769/DI 144
+
+
+--- Page 21 ---
+19
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Employment, Labor and Pensions,
+to which was referred Senate Bill 250, has had the same under
+consideration and begs leave to report the same back to the House with
+the recommendation that said bill be amended as follows:
+Page 7, between lines 16 and 17, begin a new paragraph and insert:
+"SECTION 5. IC 5-10.3-7-4.3, AS ADDED BY P.L.209-2016,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 4.3. (a) A member of the fund who is also a
+member of the public employees' defined contribution plan may
+purchase and claim years of service credit in the fund subject to the
+following requirements:
+(1) The member has at least one (1) year of credited service in the
+fund.
+(2) The member has at least ten (10) years of combined in:
+(A) credited service in a covered position in the fund; and
+(B) years of participation in a covered position in the plan;
+before the member may claim the years of service credit.
+(3) After acquiring one (1) year of credited service in the fund and
+before the member retires, the member must make the following
+contributions to the fund:
+(A) Contributions that are equal to the product of the following:
+(i) The member's salary at the time the member makes a
+contribution for the service credit.
+(ii) A percentage rate, as determined by the actuary of the
+fund, based on the age of the member at the time the member
+makes a contribution for service credit and computed to result
+in a contribution amount that approximates the actuarial
+present value of the benefit attributable to the service credit
+purchased.
+(iii) The number of years of service credit that the member
+intends to purchase.
+(B) Contributions for any accrued interest, at a rate determined
+by the actuary of the fund, for the period from the member's
+initial membership in the fund to the date payment is made by
+the member.
+(b) A member:
+(1) who terminates employment before becoming eligible to
+receive a monthly allowance; or
+(2) who receives a monthly allowance for the same service from
+another tax supported public employee retirement plan other than
+ES 250—LS 6769/DI 144
+
+
+--- Page 22 ---
+20
+under the federal Social Security Act;
+may withdraw the personal contributions made under this section plus
+accumulated interest after submitting an application for a refund to the
+fund in the manner prescribed by the board.
+(c) The following apply to the purchase of service credit under this
+section:
+(1) The board may allow a member to make periodic payments of
+the contributions required for the purchase of service credit in the
+fund.
+(2) A member may elect to make a transfer of the vested portion
+of the member's annuity savings account balance attributable to
+participation in the public employees' defined contribution plan
+to purchase service credit in the fund.
+(3) The board may deny an application for the purchase of service
+credit in the fund if the purchase would exceed the limitations
+under Section 415 of the Internal Revenue Code.
+(4) A member may not claim the service credit for the purpose of
+determining eligibility or computing benefits unless the member
+has made all the payments required for the purchase of the service
+credit.".
+Page 11, between lines 18 and 19, begin a new paragraph and insert:
+"SECTION 12. IC 5-10.4-4-2.3 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 2.3. (a) A member of the fund
+who is also a member of the teachers' defined contribution plan
+may purchase and claim years of service credit in the fund subject
+to the following requirements:
+(1) The member has at least one (1) year of credited service in
+the fund.
+(2) The member has at least ten (10) years combined in:
+(A) credited service in a covered position in the fund; and
+(B) years of participation in a covered position in the plan;
+before the member may claim the years of service credit.
+(3) Before the member retires, the member must make the
+following contributions to the fund:
+(A) Contributions that are equal to the product of the
+following:
+(i) The member's salary at the time the member makes a
+contribution for the service credit.
+(ii) A percentage rate, as determined by the actuary of the
+fund, based  on the age of the member at the time the
+member makes a contribution for service credit and
+ES 250—LS 6769/DI 144
+
+
+--- Page 23 ---
+21
+computed to result in a contribution amount that
+approximates the actuarial present value of the benefit
+attributable to the service credit purchased.
+(iii) The number of years of service credit that the
+member intends to purchase.
+(B) Contributions for any accrued interest, at a rate
+determined by the actuary of the fund, for the period from
+the member's initial membership in the fund to the date
+payment is made by the member.
+(b) A member:
+(1) who terminates employment before becoming eligible to
+receive a monthly allowance; or
+(2) who receives a monthly allowance for the same service
+from another tax supported public employee retirement plan
+other than under the federal Social Security Act;
+may withdraw the personal contributions made under this section
+plus accumulated interest after submitting an application for a
+refund to the fund in the manner prescribed by the board.
+(c) The following apply to the purchase of service credit under
+this section:
+(1) The board may allow a member to make periodic
+payments to the contributions required for the purchase of
+service credit in the fund.
+(2) A member may elect to make a transfer of the vested
+portion of the member's annuity savings account balance
+attributable to participation in the public employees' defined
+contribution plan to purchase service credit in the fund.
+(3) The board may deny an application for the purchase of
+service credit in the fund if the purchase would exceed the
+limitations under Section 415 of the Internal Revenue Code.
+(4) A member may not claim the service credit for the purpose
+of determining eligibility or computing benefits unless the
+member has made all the payments required for the purchase
+of the service credit.".
+Page 13, between lines 12 and 13, begin a new paragraph and insert:
+"SECTION 14. IC 36-8-8.3-5, AS ADDED BY P.L.54-2020,
+SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 5. (a) The final determination of an impairment
+for a mental illness is provisional for two (2) years:
+(1) for a final determination made after June 30, 2020, from the
+date of the final determination by the system board under
+IC 36-8-8-13.1; or
+ES 250—LS 6769/DI 144
+
+
+--- Page 24 ---
+22
+(2) for a final determination made after December 31, 2012, and
+before July 1, 2020, beginning July 1, 2020.
+(b) During the initial two (2) year provisional period, the fund
+member shall be subject to and responsible for active participation in
+a mental health treatment plan as determined by the fund member's
+treating physician.
+(c) This subsection applies to a final determination made under
+IC 36-8-8-13.1 before July 1, 2025. The employer shall pay for the
+fund member's mental health care and treatment relating to the
+disability during the initial two (2) year provisional period.
+(d) This subsection applies to a final determination made under
+IC 36-8-8-13.1 after June 30, 2025. If the fund member receives a
+final determination under IC 36-8-8-13.1 that the fund member has
+a Class 1 impairment described in IC 36-8-8-12.5(b)(1), the
+employer shall pay for the fund member's mental health care and
+treatment relating to the disability during the initial two (2) year
+provisional period.
+SECTION 15. IC 36-8-8.3-7, AS ADDED BY P.L.54-2020,
+SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 7. (a) If the review panel determines the fund
+member is no longer impaired, the review panel shall notify the system
+board and the local board, and the fund member shall be returned to
+duty.
+(b) If the review panel determines the fund member remains
+impaired consistent with the final disability determination, the fund
+member shall begin an additional two (2) year provisional period from
+the date of the review panel 's determination. The fund member shall
+continue to be subject to and responsible for active participation in a
+mental health treatment plan as determined by the fund member's
+treating physician.
+(c) This subsection applies to a review panel determination
+made before July 1, 2025. The employer shall continue to pay for the
+fund member's mental health care and treatment relating to the
+disability during the second two (2) year provisional period.
+(d) This subsection applies to a review panel determination
+made after June 30, 2025. If the review panel determines that the
+fund member remains impaired consistent with a final disability
+determination under IC 36-8-8-13.1 that the fund member has a
+Class 1 impairment described in IC 36-8-8-12.5(b)(1), the employer
+shall continue to pay for the fund member's mental health care and
+treatment relating to the disability during the second two (2) year
+provisional period.".
+ES 250—LS 6769/DI 144
+
+
+--- Page 25 ---
+23
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to SB 250 as printed February 14, 2025.)
+VANNATTER
+Committee Vote: yeas 12, nays 0.
+ES 250—LS 6769/DI 144

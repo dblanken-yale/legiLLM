@@ -1,0 +1,2899 @@
+--- Page 1 ---
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+SENATE ENROLLED ACT No. 473
+AN ACT to amend the Indiana Code concerning health.
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1. IC 12-15-12-9.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 9.5. (a) If a managed care
+organization:
+(1) contracts with the office to provide home modification
+services under a risk based managed care program; and
+(2) receives a request for a home modification from a patient
+care coordinator;
+the managed care organization shall submit a request for project
+specifications for the home modification to a certified project
+specification writer not later than fifteen (15) days from receipt of
+the request.
+(b) Not later than fifteen (15) days from receipt of the completed
+project specifications, the managed care organization shall:
+(1) approve; or
+(2) deny with explanation;
+the home modification.
+(c) If the managed care organization approves the home
+modification, the managed care organization shall request bids and
+notify any willing provider of the bid request not later than five (5)
+days from the approval for the home modification.
+SEA 473 — Concur
+
+
+--- Page 2 ---
+2
+(d) Not later than thirty (30) days from the request for bid
+notification and receipt of bids, the managed care organization
+shall notify:
+(1) the winning bid provider of the award for the home
+modification service; and
+(2) each unsuccessful bid provider that the provider was not
+awarded the bid and an explanation for not awarding the bid
+to the provider.
+SECTION 2. IC 12-23-18-2.5, AS AMENDED BY P.L.131-2014,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 2.5. (a) An opioid treatment program must
+periodically and randomly test, including before receiving treatment,
+a patient for the following during the patient's treatment by the
+program:
+(1) Methadone.
+(2) Cocaine.
+(3) Opiates.
+(4) Amphetamines.
+(5) Barbiturates.
+(6) Tetrahydrocannabinol.
+(7) Benzodiazepines.
+(8) Any other suspected or known drug that may have been
+abused by the patient.
+(b) If a patient tests positive under a test described in subsection (a)
+for:
+(1) a controlled substance other than a drug for which the patient
+has a prescription or that is part of the patient's treatment plan at
+the opioid treatment program; or
+(2) an illegal drug other than the drug that is part of the patient's
+treatment plan at the opioid treatment program;
+the opioid treatment program and the patient must comply with the
+requirements under subsection (c).
+(c) If a patient tests positive under a test for a controlled substance
+or illegal drug that is not allowed under subsection (a), the following
+conditions must be met:
+(1) The opioid treatment program must refer the patient to:
+(A) the onsite physician; or
+(B) another health care provider authorized to conduct the
+clinical evaluation under section 5(g) of this chapter;
+for a clinical evaluation that must be conducted not more than ten
+(10) days after the date of the patient's positive test. The physician
+or health care provider shall consult with medical and
+SEA 473 — Concur
+
+
+--- Page 3 ---
+3
+behavioral staff to conduct the evaluation. The clinical evaluation
+must recommend a remedial action for the patient that may
+include discharge from the opioid treatment program or amending
+the treatment plan to require a higher level of supervision.
+(2) The opioid treatment program may not, unless otherwise
+authorized by the division, allow the patient to take any opioid
+treatment medications from the treatment facility until the patient
+has completed a clinical assessment under subdivision (1) and has
+passed a random test. The patient must report to the treatment
+facility daily, except when the facility is closed, until the onsite
+physician or other authorized health care provider who
+conducts the clinical evaluation under subdivision (1), after
+consultation with the medical and behavioral staff, determines
+that daily treatment is no longer necessary.
+(3) The patient must take a weekly monthly random test until the
+patient passes a test under subsection (a).
+(d) An opioid treatment program must conduct all tests required
+under this section in an observed manner to assure that a false sample
+is not provided by the patient.
+SECTION 3. IC 12-23-18-5, AS AMENDED BY P.L.181-2021,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 5. (a) The division shall adopt rules under
+IC 4-22-2 to establish the following:
+(1) Standards for operation of an opioid treatment program in
+Indiana, including the following requirements:
+(A) Except as otherwise prescribed by the division, an opioid
+treatment program shall obtain prior authorization from the
+division for any patient receiving more than fourteen (14) days
+of opioid maintenance treatment medications at one (1) time
+and the division may approve the authorization only under the
+following circumstances:
+(i) A physician licensed under IC 25-22.5 has issued an
+order for the opioid treatment medication.
+(ii) The patient has not tested positive under a drug test for
+a drug for which the patient does not have a prescription for
+a period of time set forth by the division.
+(iii) The opioid treatment program has determined that the
+benefit to the patient in receiving the take home opioid
+treatment medication outweighs the potential risk of
+diversion of the take home opioid treatment medication.
+(B) Minimum requirements for a licensed physician's regular:
+(i) physical presence in the opioid treatment facility; and
+SEA 473 — Concur
+
+
+--- Page 4 ---
+4
+(ii) physical evaluation and progress evaluation of each
+opioid treatment program patient.
+(C) Minimum staffing requirements by licensed and
+unlicensed personnel.
+(D) Clinical standards for the appropriate tapering of a patient
+on and off of an opioid treatment medication.
+(2) A requirement that, not later than February 28 of each year, a
+current diversion control plan that meets the requirements of 21
+CFR Part 290 and 42 CFR Part 8 be submitted for each opioid
+treatment facility.
+(3) Fees to be paid by an opioid treatment program for deposit in
+the fund for annual certification under this chapter as described
+in section 3 of this chapter.
+The fees established under this subsection must be sufficient to pay the
+cost of implementing this chapter.
+(b) The division shall conduct an annual onsite visit of each opioid
+treatment program facility to assess compliance with this chapter.
+(c) Not later than April 1 of each year, the division shall report to
+the general assembly in electronic format under IC 5-14-6 the
+following information:
+(1) The number of prior authorizations that were approved under
+subsection (a)(1)(A) in the previous year and the:
+(A) time frame for each approval; and
+(B) duration of each approved treatment.
+(2) The number of authorizations under subdivision (1) that were,
+in the previous year, revoked due to a patient's violation of an
+applicable term or condition.
+(3) The number of each of the actions taken under section 5.8(a)
+of this chapter in the previous year.
+(4) The number and type of violations assessed for each action
+specified in section 5.8(a) of this chapter in the previous year.
+(d) A facility shall report, in a manner prescribed by the division, all
+information required by the division to complete the report described
+in subsection (c).
+(e) An opioid treatment program may close on Sundays and a
+national legal holiday recognized by the federal government.
+(f) The division may not require the medical director of an
+opioid treatment program to obtain admitting privileges at a
+hospital.
+(g) Any of the following health care providers may conduct an
+initial assessment, examination, or evaluation of a patient,
+including documenting the information in the patient's medical
+SEA 473 — Concur
+
+
+--- Page 5 ---
+5
+record, that is within the health care provider's scope of practice
+and upon the patient's admission to an opioid treatment program:
+(1) A physician licensed under IC 25-22.5.
+(2) An advanced practice registered nurse who:
+(A) is licensed under and meets the requirements of
+IC 25-23; and
+(B) maintains a collaborative agreement under
+IC 25-23-1-19.4 with a physician who works onsite at the
+opioid treatment program.
+(3) A physician assistant who:
+(A) is licensed under IC 25-27.5; and
+(B) maintains a collaborative agreement with a physician
+who works onsite at the opioid treatment program.
+(h) The division may not establish rules or guidelines that are
+more stringent than the regulations set forth in 42 CFR 8.12
+concerning the following:
+(1) Criteria for patient admission to an opioid treatment
+program.
+(2) Clinical standards concerning the administering or
+dispensing of an initial dose of opioid treatment medication.
+SECTION 4. IC 16-18-2-41.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 41.5. "Business associate", for
+purposes of IC 16-41-8, has the meaning set forth in IC 16-41-8-0.2.
+SECTION 5. IC 16-18-2-62, AS AMENDED BY P.L.143-2022,
+SECTION 12, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+SEPTEMBER 1, 2025]: Sec. 62. (a) "Commission", for purposes of
+IC 16-27.5, refers to the certified health care professions
+commission established by IC 16-27.5-2-1.
+(a) (b) "Commission", for purposes of IC 16-31, refers to the Indiana
+emergency medical services commission.
+(b) (c) "Commission", for purposes of IC 16-46-11.1, has the
+meaning set forth in IC 16-46-11.1-1.
+SECTION 6. IC 16-18-2-88.2, AS ADDED BY P.L.2-2019 ,
+SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 88.2. (a) "Covered entity", for purposes of
+IC 16-32-5, has the meaning set forth in IC 16-32-5-1.
+(b) "Covered entity", for purposes of IC 16-41-8, has the
+meaning set forth in IC 16-41-8-0.5.
+SECTION 7. IC 16-18-2-162, AS AMENDED BY P.L.212-2005,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+SEPTEMBER 1, 2025]: Sec. 162. (a) "Health care professional", for
+SEA 473 — Concur
+
+
+--- Page 6 ---
+6
+purposes of IC 16-27-1 and IC 16-27-4, has the meaning set forth in
+IC 16-27-1-1.
+(b) "Health care professional", for purposes of IC 16-27-2, has the
+meaning set forth in IC 16-27-2-1.
+(c) "Health care professional", for purposes of IC 16-27.5-5, has
+the meaning set forth in IC 16-27.5-5-1.
+SECTION 8. IC 16-18-2-174, AS AMENDED BY P.L.149-2023,
+SECTION 13, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+SEPTEMBER 1, 2025]: Sec. 174. (a) "Home health aide", for purposes
+of IC 16-27-1, IC 16-27.5, and IC 16-52, means an individual who
+provides home health aide services.
+(b) The term does not include the following:
+(1) A health care professional.
+(2) A volunteer who provides home health aide services without
+compensation.
+(3) An immediate member of the patient's family.
+SECTION 9. IC 16-18-2-175 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE SEPTEMBER 1, 2025]: Sec. 175. (a) "Home
+health aide services", for purposes of IC 16-27-1, has the meaning set
+forth in IC 16-27-1-4.
+(b) "Home health aide services", for purposes of IC 16-27.5-5,
+has the meaning set forth in IC 16-27.5-5-1.
+SECTION 10. IC 16-18-2-202.1 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE SEPTEMBER 1, 2025]: Sec. 202.1. "Licensed practical
+nurse", for purposes of IC 16-27.5, has the meaning set forth in
+IC 25-23-1-1.2.
+SECTION 11. IC 16-18-2-237.2 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE SEPTEMBER 1, 2025]: Sec. 237.2. "Misconduct", for
+purposes of IC 16-27.5, means any of the following acts performed
+by a qualified medication aide:
+(1) Stealing, diverting, or otherwise misusing medication.
+(2) Administering medication in a manner that does not
+comply with IC 16-27.5-4.
+(3) Improperly storing medication.
+(4) Performing duties outside the qualified medication aide's
+scope of practice.
+(5) Performing duties within a qualified medication aide's
+scope of practice without adequate training or competency.
+(6) Fraudulently procuring or attempting to procure or
+maintain a qualified medication aide certification, including
+SEA 473 — Concur
+
+
+--- Page 7 ---
+7
+the following:
+(A) Falsely representing facts on an individual's
+application for certification or renewal of certification
+under IC 16-27.5-4.
+(B) Impersonating another:
+(i) individual certified or registered under IC 16-27.5; or
+(ii) licensed health care provider.
+(C) Allowing another individual to utilize the qualified
+medication aide's certification.
+(D) Providing or receiving prohibited assistance during the
+state examination.
+(7) Obtaining supplies, equipment, or medication from the
+qualified medication aide's employer for the qualified
+medication aide's personal use.
+(8) Except for payment for services or a nominal token of
+appreciation or recognition, providing to or accepting from a
+patient money or property.
+(9) Using a patient's personal funds, including entering the
+patient's financial accou nt information into a device that is
+not owned by the patient, without:
+(A) express knowledge of the qualified medication aide's
+employer; and
+(B) documenting purchases in the patient's chart.
+(10) Engaging in a sexual relationship with a patient.
+(11) Cohabitating with a patient unless the qualified
+medication aide:
+(A) is a family member of the patient; or
+(B) cohabitated with the patient before the qualified
+medication aide became certified under IC 16-27.5.
+(12) Demonstrating actual or potential inability to
+competently practice as a qualified medication aide due to
+illness, including a mental or physical condition, or the use of
+drugs, alcohol, or any other substance.
+(13) Possessing an illegal substance in a facility where the
+qualified medication aide provides services.
+(14) Engaging in conduct with a third party that results in
+abuse, neglect, or misappropriation of patient property.
+(15) Engaging in a patient's estate planning activities,
+including being a power of attorney, guardian, executor, or
+beneficiary of a patient's estate, unless the qualified
+medication aide:
+(A) is a family member of the patient; or
+SEA 473 — Concur
+
+
+--- Page 8 ---
+8
+(B) engaged in the estate planning activities before the
+qualified medication aide became certified under
+IC 16-27.5.
+(16) Knowingly providing false information to the state
+department or state surveyor  during an investigation or
+proceeding.
+SECTION 12. IC 16-18-2-253.1 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE SEPTEMBER 1, 2025]: Sec. 253.1. "Nurse aide", for
+purposes of IC 16-27.5, has the meaning set forth in IC 16-28-13-1.
+SECTION 13. IC 16-18-2-253.3 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE SEPTEMBER 1, 2025 ]: Sec. 253.3. "Nurse aide
+training program", for purposes of IC 16-27.5, means a training
+program that:
+(1) is authorized by the certified health care professions
+commission established by IC 16-27.5-2-1;
+(2) complies with 42 CFR 483.152 and 42 CFR 483.154; and
+(3) is completed by an individual seeking to become a nurse
+aide.
+SECTION 14. IC 16-18-2-301.9 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE SEPTEMBER 1, 2025]: Sec. 301.9. "Qualified
+medication aide", for purposes of IC 16-27.5, means a nurse aide,
+health care practitioner, or individual who has satisfactorily
+completed the requirements of IC 16-27.5-4.
+SECTION 15. IC 16-18-2-313.3 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE SEPTEMBER 1, 2025]: Sec. 313.3. "Registered
+nurse", for purposes of IC 16-27.5, has the meaning set forth in
+IC 25-23-1-1.1.
+SECTION 16. IC 16-18-2-344.1 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE SEPTEMBER 1, 2025]: Sec. 344.1. "Supervised
+practical training", for purposes of IC 16-27.5, means training in
+a laboratory or other setting in which the trainee demonstrates
+knowledge while performing tasks on an individual under the
+direct supervision of a registered nurse or a licensed practical
+nurse and in compliance with 42 CFR 483.152.
+SECTION 17. IC 16-18-2-344.2 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE SEPTEMBER 1, 2025]: Sec. 344.2. "Supervised
+SEA 473 — Concur
+
+
+--- Page 9 ---
+9
+practicum", for purposes of IC 16-27.5, means training in a health
+care setting in which a qualified medication aide student
+demonstrates competency while dispensing and distributing
+medications and administering treatments under the direct
+supervision of a registered nurse or a licensed practical nurse.
+SECTION 18. IC 16-18-2-344.3 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE SEPTEMBER 1, 2025]: Sec. 344.3. "Supervision", for
+purposes of IC 16-27.5-5, has the meaning set forth in
+IC 16-27.5-5-1.
+SECTION 19. IC 16-21-1-7.2, AS ADDED BY P.L.190-2023,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 7.2. (a) The medical staff of:
+(1) a hospital (as described in IC 16-21-2-7); or
+(2) an ambulatory outpatient surgical center;
+may make recommendations on the granting of clinical privileges or
+the appointment or reappointment of an applicant to the governing
+board of the hospital or ambulatory outpatient surgical center for a
+period not to exceed thirty-six (36) months.
+(b) The executive board may adopt rules under IC 4-22-2 to
+implement this section.
+SECTION 20. IC 16-27-1.5-4 IS REPEALED [EFFECTIVE
+SEPTEMBER 1, 2025]. Sec. 4. The state department may adopt rules
+under IC 4-22-2 to implement this chapter.
+SECTION 21. IC 16-27-1.5-5 IS REPEALED [EFFECTIVE
+SEPTEMBER 1, 2025]. Sec. 5. (a) This section applies to a registered
+home health aide who:
+(1) is employed as a home health aide; and
+(2) provides care to an individual who has been diagnosed with or
+experiences symptoms of Alzheimer's disease, dementia, or a
+related cognitive disorder.
+(b) As used in this section, "approved dementia training" refers to
+a dementia training program:
+(1) for use in training home health aides in the care of individuals
+described in subsection (a)(2); and
+(2) that has been approved by the state department under
+subsection (f).
+(c) Not later than sixty (60) days after the date on which a home
+health aide is initially hired to care for an individual with Alzheimer's
+disease, dementia, or a related cognitive disorder, the home health aide
+shall complete at least six (6) hours of approved dementia training.
+(d) Before December 31 of each year, a home health aide who has
+SEA 473 — Concur
+
+
+--- Page 10 ---
+10
+been employed as a home health aide for at least one (1) year shall
+complete at least three (3) hours of approved dementia training.
+(e) A home health aide who:
+(1) has received the training required by subsections (c) and (d);
+(2) has been employed as a home health aide for at least
+twenty-four (24) consecutive months; and
+(3) is hired by a home health agency;
+is not required to repeat the training required by this section.
+(f) The state department shall do the following:
+(1) Identify and approve each dementia training program that
+meets the following requirements:
+(A) The dementia training program includes education
+concerning the following:
+(i) The nature of Alzheimer's disease, dementia, and other
+related cognitive disorders.
+(ii) Current best practices for caring for and treating
+individuals with dementia.
+(iii) Guidelines for the assessment and care of an individual
+with dementia.
+(iv) Procedures for providing patient centered quality care.
+(v) The daily activities of individuals with dementia.
+(vi) Dementia related behaviors, communication, and
+positive intervention.
+(vii) The role of an individual's family in caring for an
+individual with dementia.
+(B) The dementia training program:
+(i) must be culturally competent; and
+(ii) may be provided online.
+(2) Establish and implement a process for state department
+approval of a dementia training program.
+(g) To the extent allowed by 42 CFR 484.80, the hours of approved
+dementia training completed under this section satisfies an equivalent
+number of hours of the home health aide training required by 42 CFR
+484.80.
+(h) An entity that provides approved dementia training shall provide
+to each home health aide who successfully completes the training a
+certificate of completion.
+(i) A home health aide:
+(1) is responsible for maintaining the home health aide's
+certificate of completion; and
+(2) may use the certificate of completion as proof of compliance
+with this section.
+SEA 473 — Concur
+
+
+--- Page 11 ---
+11
+SECTION 22. IC 16-27-1.5-6 IS REPEALED [EFFECTIVE
+SEPTEMBER 1, 2025]. Sec. 6. (a) A registered home health aide may
+administer gastrointestinal and jejunostomy tube feedings to a specific
+patient only if the following conditions are met:
+(1) The registered home health aide has completed the training
+curriculum described in subsection (b).
+(2) A registered nurse, providing registered nursing under
+IC 25-23-1-1.1(b)(6), either:
+(A) supervises the registered home health aide in
+administering the gastrointestinal and jejunostomy tube
+feedings; or
+(B) delegates responsibility for administering the
+gastrointestinal and jejunostomy tube feedings to the
+registered home health aide based on the registered nurse's
+assessment of the registered home health aide's competency to
+administer gastrointestinal and jejunostomy tube feedings.
+(3) The home health agency that the registered home health aide
+is employed with:
+(A) allows the registered home health aide to administer
+gastrointestinal and jejunostomy tube feedings;
+(B) establishes a procedure for:
+(i) the delegation of the administration of gastrointestinal
+and jejunostomy tube feedings from a registered nurse to a
+registered home health aide that includes patient specific
+clinical parameters based on the registered nurse's
+assessment of the patient and the registered home health
+aide's competency to administer the gastrointestinal and
+jejunostomy tube feedings; and
+(ii) the assessment by the registered nurse of the patient
+specific clinical parameters;
+(C) retains documentation that the registered home health aide
+has completed the training curriculum described in subsection
+(b); and
+(D) notifies each patient requiring gastrointestinal and
+jejunostomy tube feedings upon admission that the home
+health aide agency may allow registered home health aides to
+administer gastrointestinal and jejunostomy tube feedings.
+(b) Training curriculum for home health aides to administer
+gastrointestinal and jejunostomy tube feedings must:
+(1) be approved by the state department; and
+(2) include the following concerning the administration of
+gastrointestinal and jejunostomy tube feedings:
+SEA 473 — Concur
+
+
+--- Page 12 ---
+12
+(A) At least four (4) hours and not more than eight (8) hours
+of classroom training.
+(B) At least two (2) hours and not more than four (4) hours of
+practical training.
+(C) A written and practical examination administered by the
+trainer.
+(c) A registered home health aide may not administer
+gastrointestinal and jejunostomy tube feedings until the home health
+aide has successfully:
+(1) completed the curriculum described in subsection (b); and
+(2) passed the examinations described in subsection (b)(2)(C).
+(d) The state department may require a registered home health aide
+who administers gastrointestinal and jejunostomy tube feedings under
+this section to annually complete not more than one (1) hour of in
+service training specific to the administration of gastrointestinal and
+jejunostomy tube feedings.
+(e) Before January 1, 2024, the state department must approve at
+least one (1) training curriculum described in subsection (b).
+SECTION 23. IC 16-27-2-9 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE SEPTEMBER 1, 2025]: Sec. 9. A person
+(other than a person denied employment or dismissed under this
+chapter or against whom a finding is made for the registry of nurse
+aides under 42 CFR 483.156) who in good faith:
+(1) denies employment to an individual or dismisses an individual
+from employment under this chapter;
+(2) testifies or participates in an investigation or an administrative
+or a judicial proceeding arising from:
+(A) this chapter; or
+(B) 42 CFR 483 regarding the registry of nurse aides; or
+(3) makes a report to the state department, the certified health
+care professions commission, or the registry of nurse aides;
+is immune from both civil and criminal liability arising from those
+actions.
+SECTION 24. IC 16-27.5 IS ADDED TO THE INDIANA CODE
+AS A NEW ARTICLE TO READ AS FOLLOWS [EFFECTIVE
+SEPTEMBER 1, 2025]:
+ARTICLE 27.5. AIDE CERTIFICATION AND REGISTRY
+Chapter 1. Administration
+Sec. 1. (a) In accordance with 42 CFR 483.156, the state
+department shall establish and maintain a registry of each
+individual who is:
+(1) certified as a:
+SEA 473 — Concur
+
+
+--- Page 13 ---
+13
+(A) qualified medication aide under IC 16-27.5-4; or
+(B) certified nurse aide under IC 16-27.5-3; or
+(2) registered as a home health aide under IC 16-27.5-5 and
+rules adopted under IC 16-27-1-7.
+(b) The commission may conduct hearings for violations of this
+article under IC 4-21.5.
+(c) The state department's authority under this section includes
+the ability to collect information from individuals certified as a
+qualified medication aide or certified nurse aide, as specified under
+IC 25-1-2-10.
+Sec. 2. (a) The state department shall investigate allegations of
+the following:
+(1) Abuse, neglect, and misappropriation of patient property
+by a nurse aide, home health aide, or qualified medication
+aide.
+(2) Misconduct by a qualified medication aide.
+(b) After conducting an investigation under subsection (a), if the
+state department finds evidence of an allegation described in
+subsection (a), the state department shall present the evidence and
+findings to the commission for review and recommended direction
+concerning disciplinary action and the placement of a finding
+against the individual in the registry established under section 1 of
+this chapter.
+(c) The state department may only place a finding of abuse,
+neglect, misappropriation, or misconduct described in subsection
+(a) in the registry as directed by the commission.
+Sec. 3. (a) At least ninety (90) days before the date on which an
+individual's certification or registration under this article expires,
+the state department shall provide notice to the individual
+informing the individual of the expiration date and requirements
+for renewing certification or registration.
+(b) This subsection applies if the state department fails to
+provide the notice required under this section at least ninety (90)
+days before the date described in subsection (a). If, not later than
+forty five (45) days after receiving the notice described in
+subsection (a), an individual renews the individual's certification
+or registration, the individual may not be sanctioned for failing to
+renew the certification or registration on time.
+Sec. 4. (a) The state department may delay renewing an
+individual's certification or registration under this article for not
+more than one hundred twenty (120) days after the expiration of
+the certification or registration to allow the state department to
+SEA 473 — Concur
+
+
+--- Page 14 ---
+14
+investigate a complaint concerning an allegation described in
+section 2 of this chapter against the individual.
+(b) If the state department delays renewing an individual's
+certification or registration as descri bed in subsection (a), the
+following must occur:
+(1) The state department shall notify the individual of the
+complaint and begin an investigation.
+(2) Before the delay period described in subsection (a) ends,
+the commission shall review evidence provided by the state
+department and hold a hearing to make a determination
+concerning the allegation, the individual's application for
+renewal, and, if appropriate, disciplinary action.
+(c) An individual's certification or registration remains valid
+under this section until the earlier of:
+(1) commission's determination under subsection (a); or
+(2) the individual's application for renewal is denied.
+(d) If the commission fails to make a determination required
+under subsection (b), the state department shall renew the
+individual's certification or registration.
+Sec. 5. The commission may take action against an individual's
+certification or registration under this article if the individual fails
+to appear at a hearing before the commission, as required by the
+commission.
+Sec. 6. The state department's renewal of an individual's
+certification or registration under this article does not preclude the
+commission from making a determination concerning an allegation
+against the individual after the individual's certification or
+registration is renewed.
+Sec. 7. (a) Except as provided in subsection (b), an individual
+who:
+(1) submits an application for certification or registration
+under this article; and
+(2) fails to meet the applicable requirements for the
+certification or registration not later than one (1) year after
+the date on which the individual submitted the application
+described in subdivision (1);
+forfeits the individual's application.
+(b) The commission may, for good cause, extend the validity of
+an individual's application described in subsection (a) for not more
+than thirty (30) days.
+(c) An application submitted by an individual after the
+individual forfeits an application under subsection (a) is considered
+SEA 473 — Concur
+
+
+--- Page 15 ---
+15
+a new application.
+Sec. 8. The state department may adopt rules under IC 4-22-2,
+approved by the commission, to implement this article.
+Chapter 2. Certified Health Care Professions Commission
+Sec. 1. (a) The certified health care professions commission is
+established as a continuing commission for executive branch
+purposes and shall be staffed by the state department.
+(b) The commission consists of the following members, all of
+whom are voting members, appointed by the governor:
+(1) Two (2) individuals, each of whom is a nurse aide,
+qualified medication aide, or home health aide in Indiana.
+(2) Three (3) individuals, each of whom is a registered nurse
+in Indiana, and at least one (1) of whom has experience
+training certified nurse aides, qualified medication aides, or
+home health aides.
+(3) One (1) individual who is a health facility administrator in
+Indiana.
+(4) One (1) individual who is a consumer of nursing services
+in Indiana.
+(c) A member appointed under subsection (b)(1) through (b)(3)
+must have at least five (5) years of health care experience.
+(d) A member appointed to the commission serves a term under
+IC 25-1-6.5 and may be removed under IC 25-1-6.5-4.
+(e) Four (4) members of the commission constitute a quorum.
+An affirmative vote of a majority of the members appointed to the
+commission is required for action by the commission.
+(f) The first meeting of the commission shall be held within
+thirty (30) days after the members of the commission have been
+appointed. At the first meeting, the commission shall elect a
+chairperson from among the members of the commission for a one
+(1) year term. An individual may not be elected as chairperson for
+more than two (2) consecutive one (1) year terms.
+(g) The commission shall meet at least four (4) times per year at
+times and places determined by the commission. Additional
+meetings may be called at any time by the chairperson or any four
+(4) members of the commission to be held at such time and place as
+may be designated in the call.
+Sec. 2. Each member of the commission who is not a state
+employee is entitled to the minimum salary per diem provided by
+IC 4-10-11-2.1(b). Each member of the commission is entitled to
+reimbursement for travel expenses and other expenses actually
+incurred in connection with the member's duties, as provided in the
+SEA 473 — Concur
+
+
+--- Page 16 ---
+16
+state travel policies and procedures established by the Indiana
+department of administration and approved by the budget agency.
+Sec. 3. The state department shall perform administrative
+functions, duties, and responsibilities for the commission, including
+the following:
+(1) Employing necessary staff.
+(2) Providing notice of commission meetings and
+communications.
+(3) Maintaining records concerning:
+(A) commission meetings, proceedings, and actions; and
+(B) individuals certified or registered under this article.
+(4) Issuing and renewing certifications and registrations
+under this article.
+Sec. 4. (a) The commission shall do the following:
+(1) Consider and make determinations concerning the
+qualifications of individuals who apply for any of the
+following:
+(A) A certification as a nurse aide.
+(B) A certification as a qualified medication aide.
+(C) A registration as a home health aide.
+(2) Renew registrations and certifications under this article.
+(3) Consider and make determinations concerning the
+qualifications for the following training programs:
+(A) Nurse aide.
+(B) Qualified medication aide.
+(C) Home health aide.
+(4) Consider and make determinations concerning the
+qualifications for instructors of nurse aide training programs
+and qualified medication aide training programs.
+(5) Consider and make determinations concerning the
+curriculum for the following programs:
+(A) A nurse aide training program.
+(B) A qualified medication aide training and competency
+evaluation program.
+(C) A home health aide training and competency
+evaluation program.
+(6) Direct the state department:
+(A) regarding the implementation of this subsection; and
+(B) to adopt rules under IC 4-22-2 to implement this
+article.
+(b) The commission shall:
+(1) review evidence concerning allegations against a certified
+SEA 473 — Concur
+
+
+--- Page 17 ---
+17
+nurse aide, qualified medication aide, or home health aide
+submitted by the state department under IC 16-27.5-1;
+(2) allow an individual described in subdivision (1) to provide
+an oral or written statement to the commission concerning the
+evidence; and
+(3) if appropriate, direct the state department to enter a
+finding in the registry established under IC 16-27.5-1 against
+the individual described in subdivision (1).
+Chapter 3. Certification of Nurse Aides
+Sec. 1. (a) Except as provided in subsections (b) through (f), an
+individual shall do the following to become a certified nurse aide:
+(1) Apply for certification in the manner prescribed by the
+state department.
+(2) Complete a nurse aide training program as prescribed by
+the commission.
+(3) Pass the state nurse aide competency examination with at
+least a minimum score, as prescribed by the commission.
+(4) Submit a signed affidavit affirming, under the penalties for
+perjury, that the individual has not been convicted of a crime
+set forth in IC 16-28-13-3 that prohibits the individual from
+being employed.
+(b) A nursing student currently enrolled in an accredited
+nursing education program shall do the following to become a
+certified nurse aide:
+(1) Apply for certification in the manner prescribed by the
+state department.
+(2) Successfully complete at least one (1) semester of an
+accredited nursing school program.
+(3) Pass foundational nursing course work, as determined by
+the commission, and submit a transcript verifying the
+successful completion of the required course work.
+(4) Pass the state nurse aide competency examination with at
+least a minimum score, as prescribed by the commission.
+(5) Submit a signed affidavit affirming, under the penalties for
+perjury, that the individual has not been convicted of a crime
+set forth in IC 16-28-13-3 that prohibits the individual from
+being employed.
+(c) A nursing student who has graduated from an accredited
+nursing education program shall do the following to become a
+certified nurse aide:
+(1) Apply for certification in the manner prescri bed by the
+state department.
+SEA 473 — Concur
+
+
+--- Page 18 ---
+18
+(2) Provide a transcript verifying completion of the accredited
+nursing program in the previous twenty-four (24) months.
+(3) Pass the state nurse aide competency examination with at
+least a minimum score, as prescribed by the commission.
+(4) Submit a signed affidavit affirming, under the penalties for
+perjury, that the individual has not been convicted of a crime
+set forth in IC 16-28-13-3 that prohibits the individual from
+being employed.
+(d) An individual who is a nurse aide, or the equivalent, in
+another state shall do the following to become a certified nurse aide
+in Indiana:
+(1) Apply for certification in the manner prescribed by the
+state department.
+(2) Submit proof that the applicant is a nurse aide in good
+standing with no verified complaints in another state or
+criminal convictions since becom ing certified in the other
+state.
+(3) Submit a signed affidavit affirming, under the penalties for
+perjury, that the individual has not been convicted of a crime
+set forth in IC 16-28-13-3 that prohibits the individual from
+being employed.
+(e) An emergency medical responder (as defined in
+IC 16-18-2-109.8) or another health care practitioner, as
+determined by the commission, shall do the following to become a
+certified nurse aide:
+(1) Apply for certification in the manner prescri bed by the
+state department.
+(2) Submit a signed affidavit affirming, under the penalties for
+perjury, that the individual has not been convicted of a crime
+set forth in IC 16-28-13-3 that prohibits the individual from
+being employed.
+(3) Pass the state nurse aide competency examination with at
+least a minimum score, as prescribed by the commission.
+(f) An individual with military health care training who does not
+qualify under another subsection shall do the following to become
+a certified nurse aide:
+(1) Apply for certification in the manner prescribed by the
+state department.
+(2) Provide documentation verifying the completed military
+health care training.
+(3) Pass the state nurse aide competency examination with at
+least a minimum score, as prescribed by the commission.
+SEA 473 — Concur
+
+
+--- Page 19 ---
+19
+(4) Submit a signed affidavit affirming, under the penalties for
+perjury, that the individual has not been convicted of a crime
+set forth in IC 16-28-13-3 that prohibits the individual from
+being employed.
+(g) An individual applying for certification under this chapter
+shall provide on the individual's application the individual's:
+(1) full name;
+(2) telephone number;
+(3) mailing address; and
+(4) electronic mail address;
+and any other information required by the state department and
+commission.
+(h) An individual described in subsection (b), (c), or (f) may take
+the state nurse aide competency examination not more than four
+(4) times in a two (2) year period. If the individual does not pass the
+state nurse aide competency examination after four (4) attempts in
+a two (2) year period, the individual must personally appear before
+the commission before reapplying for certification under this
+chapter.
+(i) A health care facility or other employer of an individual who
+applies for certification under this section shall request and obtain
+the release of a limited criminal history under IC 10-13-3-27(b)
+from the state police for each individual who applies for
+certification under this section.
+(j) Certification under this section is valid for two (2) years. The
+state department may prescribe the manner in which to renew
+certification. An individual certified under this section who wants
+to renew the certification shall do so in the manner prescribed by
+the state department.
+(k) In order to renew a certification described in this section, a
+certified nurse aide shall complete the inservice training required
+under 42 CFR 483.95.
+(l) Before directing the state department to issue or renew a
+certification to an individual who applies for certification under
+this section, the commission may require the individual to
+personally appear before the commission to discuss questions
+concerning the individual's application.
+(m) The application requirements for certification under this
+chapter must comply with federal law.
+Sec. 2. A health care facility, organization, or institution may
+establish a nurse aide training program. The progra m must be
+approved by the commission and comply with 42 CFR 483.152.
+SEA 473 — Concur
+
+
+--- Page 20 ---
+20
+Sec. 3. (a) A nurse aide who is hired to work in a health care
+facility shall:
+(1) have successfully completed a nurse aide training program
+approved by the state department; or
+(2) be enrolled in the first available approved training
+program that begins not more than sixty (60) days from the
+date of the nurse aide's employment.
+(b) A nurse aide who:
+(1) was removed from the nurse aide registry established
+under IC 16-27.5-1 in the previous five (5) years due to not
+performing any nursing or nursing related services for at
+least twenty-four (24) consecutive months under 42 CFR
+483.156; and
+(2) has had no findings of abuse, neglect, or misappropriation
+of patient property while certified;
+may be reinstated to the registry following the successful passage
+of the state nurse aide examination.
+Sec. 4. (a) A health care facility, organization, or institution
+seeking approval for a nurse aide training program shall submit an
+application for approval to the commission in the manner
+prescribed by the state department.
+(b) A nurse aide training program must include seventy-five
+(75) hours of training, a majority of which are supervised clinical
+experiences. At least sixteen (16) hours of the supervised clinical
+experiences must be supervised practical training.
+(c) Upon direction of the commission, the state department may
+revoke approval of a nurse aide training program for cause
+following proceedings described in IC 4-21.5.
+Sec. 5. (a) A nurse aide training program that was approved by
+the state department before September 1, 2025, is deemed to be
+approved by the commission with no further action necessary.
+Curriculum established by the state department before September
+1, 2025, for the implementation of nurse aide training programs is
+deemed approved by the commission.
+(b) This section expires December 31, 2025.
+ Sec. 6. (a) A nurse aide training program  shall employ
+instructors who meet the requirements of 42 CFR 483.152.
+(b) The state department shall certify individuals who meet the
+requirements described in subsection (a) as certified nurse aide
+instructors. The state department shall establish a procedure for
+the certification of instructors under this section.
+(c) Certification under this section is valid for two (2) years and
+SEA 473 — Concur
+
+
+--- Page 21 ---
+21
+may be renewed in the manner prescribed by the commission.
+Sec. 7. A certified nurse aide shall notify the state department
+of any change in the certified nurse aide's mailing address or
+electronic mail address not later than thirty (30) days after the date
+on which the address changed.
+Sec. 8. (a) An individual may not:
+(1) profess to be a certified nurse aide; or
+(2) use the initials "CNA" or any other words, letters,
+abbreviations, or insignia indicating or implying that the
+individual is a certified nurse aide;
+unless the individual holds a certification under this chapter.
+(b) An individual who knowingly or intentionally violates this
+section commits a Class A misdemeanor.
+Sec. 9. An individual may not work as a certified nurse aide
+unless the individual holds a certification under this chapter.
+Chapter 4. Certification of Qualified Medication Aides
+Sec. 1. (a) Except as provided in subsections (b) through (f), a
+nurse aide shall do the following to be certified as a qualified
+medication aide:
+(1) Apply for the certification in the manner prescribed by the
+state department.
+(2) Complete the qualified medication aide training and
+competency evaluation program.
+(3) Pass the qualified medication aide competency
+examination with at least the minimum score, as prescribed
+by the commission.
+(b) A nursing student of an accredited nursing education
+program shall do the following to be certified as a qualified
+medication aide:
+(1) Apply for the certification in the manner prescribed by the
+state department.
+(2) Be currently enrolled in an accredited nursing education
+program.
+(3) Satisfactorily complete a course in pharmacology or its
+equivalent course and submit a transcript verifying the
+successful completion of the course.
+(4) Successfully complete the supervised practicum portion of
+the qualified medication aide training and competency
+evaluation program.
+(5) Pass the qualified medication aide competency
+examination with at least the minimum score, as prescribed
+by the commission.
+SEA 473 — Concur
+
+
+--- Page 22 ---
+22
+(c) A nursing student who has graduated from an accredited
+nursing education program shall do the following to be certified as
+a qualified medication aide:
+(1) Apply for the certification in the manner prescribed by the
+state department.
+(2) Provide a transcript verifying successful completion of the
+accredited nursing program in the previous twenty-four (24)
+months.
+(3) Pass the qualified medication aide competency
+examination with at least the minimum score, as prescribed
+by the commission.
+(d) An individual who is a qualified medication aide, or the
+equivalent in another state, shall do the following to be certified as
+a qualified medication aide in Indiana:
+(1) Apply for the certification in the manner prescribed by the
+state department.
+(2) Submit proof that the individual is a qualified medication
+aide in good standing with no verified complaints in another
+state.
+(3) Submit to a national criminal history background check
+under IC 25-1-1.1-4.
+(e) An emergency medical technician (as defined in
+IC 16-18-2-112), an advanced emergen cy medical technician (as
+defined in IC 16-18-2-6.5), a paramedic (as defined in
+IC 16-18-2-266), a psychiatric attendant, or another health care
+practitioner, as determined by the commission, shall do the
+following to be certified as a qualified medication aide:
+(1) Apply for the certification in the manner prescribed by the
+state department.
+(2) Pass the qualified medication aide competency
+examination with at least a minimum score, as prescribed by
+the commission.
+(3) Submit to a national criminal history background check
+under IC 25-1-1.1-4.
+(f) An individual with military health care training who does not
+qualify under another subsection shall do the following to be
+certified as a qualified medication aide:
+(1) Apply for the certification in the manner prescribed by the
+state department.
+(2) Submit documented evidence of the completed military
+health care training.
+(3) Pass the qualified medication aide competency
+SEA 473 — Concur
+
+
+--- Page 23 ---
+23
+examination with at least a minimum score, as prescribed by
+the commission.
+(4) Submit to a national criminal history background check
+under IC 25-1-1.1-4.
+(g) An individual applying for certification under this chapter
+shall provide on the individual's application the individual's:
+(1) full name;
+(2) telephone number;
+(3) mailing address; and
+(4) electronic mail address;
+and any other information required by the state department and
+commission.
+(h) An individual described in subsection (b), (c), (e), or (f) may
+take the qualified medication aide competency examination not
+more than four (4) times during a two (2) year period. If an
+individual does not pass the examination after four (4) attempts in
+a two (2) year period, the applicant must personally appear before
+the commission before reapplying for certification under this
+chapter.
+(i) Certification under this section is valid for two (2) years. The
+state department may prescribe the manner in which to renew
+certification. An individual certified under this section who wants
+to renew the certification shall do so in the manner prescribed by
+the state department.
+(j) Before directing the state department to issue or renew a
+certification to an individual who applies for certification under
+this section, the commission may require the individual to
+personally appear before the commission to discuss questions
+concerning the individual's application.
+(k) In order to renew a certification described in this section, a
+qualified medication aide shall complete at least six (6) hours of
+inservice education during the two (2) year certification period.
+(l) A qualified medication aide who is authorized to administer
+insulin shall complete at least seven (7) hours of inservice
+education, with at least one (1) hour dedicated to insulin
+administration, during the two (2) year certification period in
+order to renew the certification.
+(m) The application requirements for certification under this
+chapter must comply with federal law.
+Sec. 2. (a) Except as provided in section 1 of this chapter, an
+individual may not work as a qualified medication aide unless the
+individual has:
+SEA 473 — Concur
+
+
+--- Page 24 ---
+24
+(1) satisfactorily completed an approved qualified medication
+aide training and competency evaluation program; and
+(2) passed the qualified medication aide competency
+examination.
+(b) An individual must meet the following requirements in order
+to participate in an approved qualified medication aide training
+and competency evaluation program:
+(1) Provide proof that the individual has received a high
+school diploma or a high school equivalency certificate.
+(2) Be at least eighteen (18) years of age.
+(3) Provide proof of certification as a nurse aide in good
+standing.
+(4) Have either:
+(A) completed at least one thousand (1,000) hours of
+documented work experience as a nurse aide; or
+(B) requested and been granted by the commission a
+waiver of the hours required in clause (A) for a reduced
+work requirement.
+Sec. 3. (a) A qualified medication aide training and competency
+evaluation program must meet the following requirements:
+(1) Be composed of not more than one hundred (100) hours of
+training composed of classroom instruction and supervised
+practicum.
+(2) Be taught by instructors who meet the requirements of
+section 8 of this chapter.
+(b) Upon direction of the commission, the state department may
+revoke approval of a qualified medication aide training program
+for cause following proceedings described in IC 4-21.5.
+Sec. 4. Before a health care facility may allow an individual to
+work as a qualified medication aide, the health care facility must
+verify that an individual has met certification requirements of this
+chapter and is included on the registry established under
+IC 16-27.5-1. However, an individual may begin working if the
+individual can prove that the individual:
+(1) successfully completed a qualified medication aide training
+and competency evaluation program approved by the
+commission; and
+(2) has not yet been included on the registry.
+Sec. 5. (a) Supervised practicum requirements for a qualified
+medication aide training and competency evaluation program must
+occur at a health care facility.
+(b) The classroom training requirements for qualified
+SEA 473 — Concur
+
+
+--- Page 25 ---
+25
+medication aide training may be provided by any of the following:
+(1) A health facility licensed under IC 16-28.
+(2) A program operated by an Indiana vocational school
+governed by the department of education or the North
+Central Association of College and Schools.
+(3) An accredited nursing education program.
+(4) A nonfacility program.
+A classroom training program or site must have the necessary
+supplies and equipment to train qualified medication aides.
+Sec. 6. (a) A qualified medication aide training and competency
+evaluation program curriculum must include the following
+training:
+(1) Communication and interpersonal skills concerning
+patients, including the following:
+(A) Techniques for addressing the unique needs and
+behaviors of individuals with dementia or Alzheimer's
+disease.
+(B) Communication with cognitively impaired patients.
+(C) Understanding the behavior of cognitively impaired
+patients.
+(D) Appropriate responses to behavior of cognitively
+impaired patients.
+(E) Methods of reducing the effects of cognitive
+impairments.
+(2) Infection control.
+(3) Safety and emergency procedures, including the Heimlich
+maneuver.
+(4) Patient independence.
+(5) Patient rights.
+(6) Abuse, neglect, and misappropriation of patient property.
+(7) Fundamentals of pharmacology.
+(8) Medication orders.
+(9) Care of long term patients and monitoring for effects of
+medication usage.
+(10) Fundamentals of the following systems and medications
+affecting each system:
+(A) Gastrointestinal.
+(B) Musculoskeletal.
+(C) Skin and sensory.
+(D) Urinary.
+(E) Cardiovascular.
+(F) Respiratory.
+SEA 473 — Concur
+
+
+--- Page 26 ---
+26
+(G) Endocrine.
+(H) Male and female reproductive.
+(I) Nervous.
+(11) Psychotherapeutic medications.
+(12) Inflammation, infection, immunity, and malignant
+disease.
+(13) Nutritional deficiencies.
+(14) Principles of administering medications.
+(15) Documentation of medication administration.
+(16) Positioning of patients in preparation for medication and
+treatment administration, including the following:
+(A) Supine position.
+(B) Lateral or Sim's position.
+(C) Fowler's position.
+(D) Prone position.
+(E) Semi Fowler's position.
+(F) Dorsal recumbent position.
+(17) Temperature taking via oral, axillary, otic, temporal
+artery, or rectal using a thermometer.
+(18) Measurement of vital signs, including pulse, respiratory
+rate, and blood pressure.
+(19) Observation reporting to a licensed nurse and
+documentation of the observations in the medical record.
+(20) Clean technique in handling medications and dressings.
+(21) Administration of oxygen  through a nasal cannula or
+nonsealing mask.
+(22) Use of an oximeter to obtain oxygen saturation.
+(23) Administration of medications through a gastrostomy
+tube (G-tube) and a jejunostomy tube (J-tube).
+(24) Administration of medication through a metered dose
+inhaler.
+(25) Hemoccult testing.
+(26) Finger stick blood glucose testing.
+(27) Dressing application for a minor skin tear.
+(28) Dressing application for a healed gastrostomy tube
+(G-tube) and a jejunostomy tube (J-tube) site.
+(29) Colostomy bag emptying and changing.
+(30) Insertion of a commercially prepared disposable enema.
+(31) Administration of a sitz bath.
+(32) Application of cold dry compresses.
+(33) Performance of diabetic urine testing.
+(34) Collection of fecal and urine specimens.
+SEA 473 — Concur
+
+
+--- Page 27 ---
+27
+(b) A qualified medication aide training and competency
+evaluation program curriculum must require an individual in the
+program to do the following:
+(1) Demonstrate competency through return demonstration
+of skills under the direct supervision of a registered nurse or
+licensed practical nurse.
+(2) Complete a supervised practicum checklist, approved by
+the commission.
+(c) The supervised practicum checklist described in subsection
+(b)(2) must include the following:
+(1) The date of each observation signed by the individual in
+the program and the registered nurse or licensed practical
+nurse who observed the individual.
+(2) A competency achievement statement signed by the
+individual in the program and the registered nurse or licensed
+practical nurse who observed  the individual demonstrate
+competency in the following:
+(A) Initial steps, as determined by the commission.
+(B) Final steps, as determined by the commission.
+(C) Preparation and administration of oral, liquid, and
+powdered medication, including controlled substances.
+(D) Application of the following:
+(i) Topical lotion, ointment, or cream.
+(ii) A transdermal patch.
+(E) Administration of the following:
+(i) Eye drops and ophthalmic ointment.
+(ii) Ear drops.
+(iii) Nasal medication through an atomizer.
+(iv) Nasal drops through a dropper.
+(v) Vaginal cream.
+(F) Insertion of a vaginal and a rectal suppository.
+(G) Treatment of scabies and pediculosis.
+(H) The skills described in the following:
+(i) Subsection (a)(16) through (a)(18).
+(ii) Subsection (a)(21).
+(iii) Subsection (a)(23) through (a)(27).
+(iv) Subsection (a)(29) through (a)(30).
+(v) Subsection (a)(32).
+(vi) Subsection (a)(34).
+(d) An individual in the program may attempt each task on the
+supervised practicum checklist described in subsection (b)(2) until
+satisfactorily completing the task.
+SEA 473 — Concur
+
+
+--- Page 28 ---
+28
+(e) If a task described in subsection (b)(2) is not available for an
+individual in the program to perform during the supervised
+practicum, the registered nurse or licensed practical nurse
+supervising the individual shall:
+(1) allow the individual to simulate the task in a laboratory
+setting; and
+(2) document on the supervised practicum checklist that the
+task was simulated in a laboratory setting.
+(f) A completed supervised practicum checklist must be placed
+in the individual's file and be made available to the commission
+upon request.
+ Sec. 7. The commission may remove approval  to provide
+training for qualified medication aides if the entity providing the
+training does any of the following:
+(1) Fails to meet the requirements of this chapter or any other
+state regulation.
+(2) Falsifies any documents concerning the training of
+qualified medication aides.
+(3) Has a pattern of excessive failure rates on the competency
+evaluation test.
+(4) Has validated training improprieties.
+(5) Violates requirements of this chapter, as determined by
+the commission.
+Sec. 8. (a) An individual must meet the following requirements
+in order to be certified as an instructor of a qualified medication
+aide training and competency evaluation program:
+(1) Be licensed as a registered nurse or a licensed practical
+nurse.
+(2) Have at least one (1) year of nursing experience.
+(3) Have completed a qualified medication aide training and
+competency evaluation instructor course approved by the
+commission.
+(b) An individual shall apply to the state department for
+certification as an instructor of a qualified medication aide training
+and competency evaluation program in the manner prescribed by
+the commission.
+Sec. 9. A qualified medication aide competency evaluation test
+must meet the following requirements:
+(1) Be administered by a state approved testing entity.
+(2) Consist of multiple choice questions.
+(3) Be updated to include new medications, medication
+classifications, or otherwise to maintain a valid exam.
+SEA 473 — Concur
+
+
+--- Page 29 ---
+29
+Sec. 10. (a) The following tasks are within the scope of practice
+of a qualified medication aide certified under this chapter unless
+prohibited by health care facility policy:
+(1) Observing and reporting to the health care facility's
+licensed nurse a patient's exhibited reactions or side effects to
+medications.
+(2) Measuring and documenting vital signs before the
+administration of medications that could impact vital signs,
+and reporting to the health care facility's licensed nurse a
+patient's abnormalities that may prohibit medication
+administration.
+(3) Administering and documenting regularly prescribed
+medications for which the qualified medication aide has
+received training to administer after personally preparing
+and administering the medication.
+(4) Initiating oxygen  per nasal cannula or nonsealing mask
+only if the following are met:
+(A) The situation is an emergency.
+(B) The qualified medication aide notifies the health care
+facility's licensed nurse.
+(C) The qualified medication aide documents the action
+and notification.
+(5) Obtaining oxygen saturation using an oximeter that has
+been calibrated by another health care provider within that
+provider's scope of practice and reporting the result to the
+health care facility's licensed nurse.
+(6) Applying physician or other authorized health care
+provider ordered oral, ophthalmic, otic, nasal, vaginal, and
+rectal medications.
+(7) Crushing and administering medications in accordance
+with the drug manufacturer's instructions, physician's orders,
+or other authorized health care provider's orders.
+(8) Altering capsules if a physician or other authorized health
+care provider has prescribed the medication to be altered in
+that manner.
+(9) Counting, administering, and documenting controlled
+substances.
+(10) Administering medications through a gastrostomy tube
+(G-tube) and a jejunostomy tube (J-tube).
+(11) Administering previously ordered pro re nata medication
+when authorization is obtained from the health care facility's
+licensed nurse.
+SEA 473 — Concur
+
+
+--- Page 30 ---
+30
+(12) Applying topical medication to minor skin conditions.
+(13) Administering medication through a metered dose
+inhaler.
+(14) Conducting hemoccult testing and reporting results to the
+health care facility's licensed nurse.
+(15) Conducting finger stick blood glucose testing and
+reporting the result to the health care facility's licensed nurse.
+(16) Applying a dressing to a minor skin tear that has been
+assessed by the health care facility's licensed nurse.
+(17) Providing ordered site care and applying a dressing to a
+healed gastrostomy tube (G-tube) and a jejunostomy tube
+(J-tube) site.
+(18) Emptying and changing a colostomy bag.
+(19) Instilling a commercially prepared disposable enema
+after the patient has been assessed by the health care facility's
+licensed nurse and the licensed nurse has instructed the
+qualified medication aide to instill the enema.
+(20) Applying a cold, dry compress as directed by a physician,
+other authorized health care provider, or the health care
+facility's licensed nurse in an emergency situation that
+requires first aid treatment.
+(21) Collecting fecal or urine specimens, as ordered by a
+physician or other authorized health care provider.
+(22) Documenting observations and issues in the medical
+record that are reported to the qualified medication aide by
+the patient.
+(b) Except as provided in section 11 of this chapter, a qualified
+medication aide may not perform the following tasks which are
+outside of the qualified medication aide's scope of practice:
+(1) Administering medications by the injection route,
+including the following routes:
+(A) Intramuscular.
+(B) Intravenous.
+(C) Subcutaneous.
+(D) Intradermal.
+(2) Administering medications used for intermittent positive
+pressure breathing treatments or any form of medication
+inhalation treatments. This subdivision does not include a
+prohibition on metered dose inhalers.
+(3) Administering medications through a nasogastric tube.
+(4) Except as provided in subsection (a)(19), instilling
+irrigation fluids of any type.
+SEA 473 — Concur
+
+
+--- Page 31 ---
+31
+(5) Assuming responsibility for receiving in writing or
+receiving a verbal telephone order.
+(6) Administering a treatment that involves advanced skin
+conditions, including stages II through IV decubitus ulcers.
+(c) A qualified medication aide may not document any
+medication that was administered by another person or not
+administered at all in a patient's medical record.
+(d) If a qualified medication aide obtains authorization to
+administer a previously ordered pro re nata medication as
+described in subsection (a)(11), the qualified medication aide shall
+do the following:
+(1) Document any symptoms indicating the need for the
+medication and the time the symptoms occurred in the
+patient's medical record.
+(2) Document that protocol was followed by notifying the
+health care facility's licensed nurse describing the symptoms
+and that authorization was obtained to administer the
+medication and the time of contact.
+(3) Obtain permission to administer the medication each time
+the symptoms occur in the patient.
+(4) Ensure that the patient's medical record is cosigned by the
+health care facility's licensed nurse who granted authorization
+by the end of the shift or if the licensed nurse was on call, by
+the end of the licensed nurse's next tour of duty.
+Sec. 11. (a) The commission shall establish an optional training
+module in the administration of insulin to be used to train a
+qualified medication aide. The training module must include the
+following:
+(1) At least four (4) and not more than eight (8) hours of
+classroom training.
+(2) At least two (2) and not more than four (4) hours of
+practical training.
+(3) The administration of a written and practical examination
+administered by the trainer.
+A qualified medication aide must successfully complete the course,
+pass the examination, and meet the requirements of this chapter in
+order to administer insulin.
+(b) A qualified medication aide certified under this chapter may
+administer insulin to a specific patient at a health care facility if the
+following conditions are met:
+(1) A registered nurse providing registered nursing (as
+defined in IC 25-23-1-1.1(b)):
+SEA 473 — Concur
+
+
+--- Page 32 ---
+32
+(A) supervises the qualified medication aide in
+administering the insulin; or
+(B) delegates responsibility for administering the insulin to
+the qualified medication aide based on the registered
+nurse's assessment of the qualified medication aide's
+competency to administer insulin.
+(2) The health care facility where the qualified medication
+aide is employed:
+(A) permits the qualified medication aide to administer
+insulin;
+(B) establishes a procedure for:
+(i) the delegation of insulin administration from a
+registered nurse to a qualified medication aide that
+includes patient specific clinical parameters based on the
+registered nurse's assessment of the patient and the
+qualified medication aide's competency to administer the
+insulin; and
+(ii) when the patient specific parameters require a new
+assessment by the registered nurse;
+(C) retains documentation that the qualified medication
+aide has completed the optional training module for the
+administration of insulin under this section; and
+(D) notifies each patient upon admission to the health care
+facility that the health care facility may allow a qualified
+medication aide to administer insulin.
+(3) The qualified medication aide may not administer a dose
+of concentrated insulin equal to or greater in strength or
+activity than a dose of U-500 insulin.
+Sec. 12. A health facility licensed under IC 16-28 shall report
+any incident of alleged abuse, neglect, misappropriation of patient
+property, or misconduct by a qualified medication aide to the state
+department.
+Sec. 13. A qualified medication aide shall notify the state
+department of any change in the qualified medication aide's
+mailing address or electronic mail address not later than thirty (30)
+days after the date on which the address changed.
+Sec. 14. (a) An individual may not:
+(1) profess to be a qualified medication aide; or
+(2) use the initials "QMA" or any other words, letters,
+abbreviations, or insignia indicating or implying that the
+individual is a qualified medication aide;
+unless the individual has a valid certification issued under this
+SEA 473 — Concur
+
+
+--- Page 33 ---
+33
+chapter.
+(b) An individual who knowingly or intentionally violates this
+section commits a Class A misdemeanor.
+Chapter 5. Home Health Aides
+Sec. 1. (a) As used in this chapter, "health care professional"
+means any of the following:
+(1) A physician licensed under IC 25-22.5.
+(2) A dentist licensed under IC 25-14.
+(3) A chiropractor licensed under IC 25-10-1.
+(4) A nurse licensed under IC 25-23-1.
+(5) A podiatrist licensed under IC 25-29.
+(6) An optometrist licensed under IC 25-24.
+(7) A physical therapist licensed under IC 25-27 or a physical
+therapy assistant certified under IC 25-27.
+(8) A speech-language pathologist or an audiologist licensed
+under IC 25-35.6-3.
+(9) A speech-language pathology aide or an audiology aide (as
+defined in IC 25-35.6-1-2).
+(10) An:
+(A) occupational therapist licensed; or
+(B) occupational therapy assistant licensed;
+under IC 25-23.5.
+(11) A social worker licensed under IC 25-23.6 or a clinical
+social worker licensed under IC 25-23.6.
+(12) A pharmacist licensed under IC 25-26-13.
+(b) As used in this chapter, "home health aide services" means
+only those home health services that may be performed by a home
+health aide under this chapter and 42 CFR 484.80.
+(c) As used in this chapter, "supervision" means guidance
+provided by a qualified health care professional to a subordinate
+for the purpose of accomplishing a function or activity.
+Sec. 2. (a) An individual shall do the following to become a
+registered home health aide:
+(1) Apply for registration in the manner prescribed by the
+commission.
+(2) Complete a competency evaluation program described in
+section 5 of this chapter.
+(b) An individual applying for registration under this chapter
+shall provide on the individual's application the individual's:
+(1) full name;
+(2) telephone number;
+(3) mailing address; and
+SEA 473 — Concur
+
+
+--- Page 34 ---
+34
+(4) electronic mail address;
+and any other information required by the state department and
+commission.
+(c) Registration under this section is valid for two (2) years. The
+state department may prescribe the manner in which to renew the
+registration. An individual registered under this section who wants
+to renew the registration shall do so in the manner prescribed by
+the state department.
+(d) Before directing the state department to issue or renew a
+registration to an individual who applies for registration under this
+section, the commission may require the individual to personally
+appear before the commission to discuss questions concerning the
+individual's application.
+(e) In order to renew a registration under this section, a home
+health aide shall complete inservice training required under section
+4 of this chapter during the two (2) year registration period.
+(f) The commission or state department may not require a home
+health aide to pay a fee for registration, including a renewal fee.
+(g) The application requirements for certification under this
+chapter must comply with federal law.
+Sec. 3. An individual who is a home health aide, or the
+equivalent in another state, shall do the following to be registered
+as a home health aide in Indiana:
+(1) Apply for registration in the manner prescribed by the
+state department.
+(2) Submit proof that the individual is a home health aide in
+good standing and does not have a verified complaint in
+another state.
+(3) Submit to a national criminal history background check
+under IC 25-1-1.1-4.
+Sec. 4. (a) Except as provided in subsection (b), a home health
+aide registered under this chapter shall complete at least twelve
+(12) inservice training hours each calendar year, including a
+minimum of eight (8) hours in the following topics:
+(1) Communication skills, including the ability to read, write,
+and provide brief and accurate oral presentations to patients,
+caregivers, and other home health agency staff.
+(2) Observing, reporting, and documenting patient care and
+patient status.
+(3) Reading and recording temperature, pulse, and
+respiration.
+(4) Infection control.
+SEA 473 — Concur
+
+
+--- Page 35 ---
+35
+(5) Basic elements of body functioning, including changes that
+must be reported to a home health aide's supervisor.
+(6) Maintaining a clean, safe, and healthy environment.
+(7) Safety and emergency procedures.
+(8) The physical, emotional, and development needs of
+populations served by a home health agency, including patient
+privacy, safety, and respect.
+(9) Appropriate and safe techniques in personal hygiene,
+including bathing and oral hygiene.
+(10) Safe transfer techniques and ambulation.
+(11) Normal range of motion and positioning.
+(12) Adequate nutrition and fluid intake.
+(13) Management and administration of medication.
+(14) Any other task a home health agency may require a home
+health aide to perform.
+(b) In a registered home health aide's first year on the registry
+established under IC 16-27.5-1, the number of hours of training
+must be prorated, as determined by the commission.
+(c) Except for a home health agency that has a probationary
+license, any organization may provide home health aide inservice
+training described in this section.
+(d) A registered nurse shall provide or supervise the inservice
+training described in this section. A home health agency shall
+maintain documentation concerning the inservice training.
+Sec. 5. (a) A home health aide competency evaluation program
+must:
+(1) operate in accordance with 42 CFR 484.80; and
+(2) address each topic described in section 4(a) of this chapter.
+(b) A home health aide competency evaluation program must
+include at least seventy-five (75) hours of training. At least sixteen
+(16) hours of classroom training must occur before supervised
+practical training.
+Sec. 6. An individual may not provide home health aide services
+unless the individual is registered as a home health aide under this
+chapter.
+Sec. 7. A health care professional shall supervise a home health
+aide in the provision of care to ensure competent care is provided.
+Supervision of services must be within the health care
+professional's scope of practice.
+Sec. 8. Information required for entry of a home health aide in
+the registry established under IC 16-27.5-1 must be the same as the
+information required for nurse aides under 42 CFR 483.156(c).
+SEA 473 — Concur
+
+
+--- Page 36 ---
+36
+Sec. 9. A registered home health aide shall notify the
+commission of any change in the registered  home health aide's
+mailing address or electronic mail address not later than thirty (30)
+days after the date on which the address changed.
+Sec. 10. (a) This section applies to a registered home health aide
+who:
+(1) is employed as a home health aide; and
+(2) provides care to an individual who has been diagnosed
+with or experiences symptoms of Alzheimer's disease,
+dementia, or a related cognitive disorder.
+(b) As used in this section, "approved dementia training" refers
+to a dementia training program:
+(1) for use in training home health aides in the care of
+individuals described in subsection (a)(2); and
+(2) that has been approved by the state department under
+subsection (f).
+(c) Not later than sixty (60) days after the date on which a home
+health aide is initially hired to care for an individual with
+Alzheimer's disease, dementia, or a related cognitive disorder, the
+home health aide shall complete at least six (6) hours of approved
+dementia training.
+(d) Before December 31 of each year, a home health aide who
+has been employed as a home health aide for at least one (1) year
+shall complete at least three (3) hours of approved dementia
+training.
+(e) A home health aide who:
+(1) has received the training required by subsections (c) and
+(d);
+(2) has been employed  as a home health aide for at least
+twenty-four (24) consecutive months; and
+(3) is hired by a home health agency;
+is not required to repeat the training required by this section.
+(f) The commission shall do the following:
+(1) Approve each dementia training program that meets the
+following requirements:
+(A) The dementia training program  includes education
+concerning the following:
+(i) The nature of Alzheimer's disease, dementia, and
+other related cognitive disorders.
+(ii) Current best practices for caring for and treating
+individuals with dementia.
+(iii) Guidelines for the assessm ent and care of an
+SEA 473 — Concur
+
+
+--- Page 37 ---
+37
+individual with dementia.
+(iv) Procedures for providing patient centered quality
+care.
+(v) The daily activities of individuals with dementia.
+(vi) Dementia related behaviors, communication, and
+positive intervention.
+(vii) The role of an individual's family in caring for an
+individual with dementia.
+(B) The dementia training program:
+(i) must be culturally competent; and
+(ii) may be provided online.
+(2) Direct the state department to establish and implement a
+process for approval of a dementia training program.
+(g) To the extent allowed by 42 CFR 484.80, the number of
+hours of approved dementia training completed under this section
+satisfies an equivalent number of hours of the home health aide
+training required by 42 CFR 484.80.
+(h) An entity that provides approved dementia training shall
+provide to each home health aide who successfully completes the
+training a certificate of completion.
+(i) A home health aide:
+(1) is responsible for maintaining the home health aide's
+certificate of completion; and
+(2) may use the certificate of completion as proof of
+compliance with this section.
+Sec. 11. (a) A registered home health aide may administer
+gastrointestinal and jejunostomy tube feedings to a specific patient
+only if the following conditions are met:
+(1) The registered home health aide has completed the
+training curriculum described in subsection (b).
+(2) A registered nurse, providing registered nursing under
+IC 25-23-1-1.1(b)(6), either:
+(A) supervises the registered home health aide in
+administering the gastrointestinal and jejunostomy tube
+feedings; or
+(B) delegates responsibility for administering the
+gastrointestinal and jejunostomy tube feedings to the
+registered home health aide based on the registered nurse's
+assessment of the registered home health aide's
+competency to administer gastrointestinal and jejunostomy
+tube feedings.
+(3) The home health agency that the registered home health
+SEA 473 — Concur
+
+
+--- Page 38 ---
+38
+aide is employed with:
+(A) allows the registered home health aide to administer
+gastrointestinal and jejunostomy tube feedings;
+(B) establishes a procedure for:
+(i) the delegation of the administration of gastrointestinal
+and jejunostomy tube feedings from a registered nurse
+to a registered home health aide that includes patient
+specific clinical parameters based on the registered
+nurse's assessment of the patient and the registered
+home health aide's competency to administer the
+gastrointestinal and jejunostomy tube feedings; and
+(ii) the assessment by the registered nurse of the patient
+specific clinical parameters;
+(C) retains documentation that the registered home health
+aide has completed the training curriculum described in
+subsection (b); and
+(D) notifies each patient requiring gastrointestinal and
+jejunostomy tube feedings upon admission that the home
+health aide agency may allow registered home health aides
+to administer gastrointestinal and jejunostomy tube
+feedings.
+(b) Training curriculum for home health aides to administer
+gastrointestinal and jejunostomy tube feedings must:
+(1) be approved by the commission; and
+(2) include the following concerning the administration of
+gastrointestinal and jejunostomy tube feedings:
+(A) At least four (4) hours and not more than eight (8)
+hours of classroom training.
+(B) At least two (2) hours and not more than four (4) hours
+of practical training.
+(C) A written and practical examination administered by
+the trainer.
+(c) A registered  home health aide may not administer
+gastrointestinal and jejunostomy tube feedings until the home
+health aide has successfully:
+(1) completed the curriculum described in subsection (b); and
+(2) passed the examinations described in subsection (b)(2)(C).
+(d) The commission may require a registered home health aide
+who administers gastrointestinal and jejunostomy tube feedings
+under this section to annually complete not more than one (1) hour
+of inservi ce training specific to the administration of
+gastrointestinal and jejunostomy tube feedings.
+SEA 473 — Concur
+
+
+--- Page 39 ---
+39
+Sec. 12. (a) A training curriculum described in section 11 of this
+chapter that was approved by the state department before
+September 1, 2025, is deemed approved by the commission.
+(b) This section expires December 31, 2025.
+SECTION 25. IC 16-28-1-11, AS AMENDED BY P.L.148-2023,
+SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+SEPTEMBER 1, 2025]: Sec. 11. (a) Except as provided in subsection
+(c), unless an individual is certified under this section: IC 16-27.5-3 or
+IC 16-27.5-4:
+(1) the individual may not practice as a qualified medication aide
+or a certified nurse aide; and
+(2) a facility may not employ the individual as a qualified
+medication aide or a certified nurse aide.
+(b) The state department shall do the following:
+(1) Establish a program for the certification of qualified
+medication aides and certified nurse aides who work in facilities
+licensed under this article.
+(2) Approve education and training programs for qualified
+medication aides and certified nurse aides, including course and
+inservice requirements.
+(3) Determine the standards concerning the functions that may be
+performed by a qualified medication aide and a certified nurse
+aide.
+(4) Establish annual certification fees for qualified medication
+aides.
+(5) Adopt rules under IC 4-22-2 necessary to implement and
+enforce this section.
+(c) The education and training programs approved by the state
+department:
+(1) must include a competency test that an individual must pass
+before being granted an initial certification as:
+(A) a qualified medication aide; or
+(B) a certified nurse aide; and
+(2) must include an optional training module for qualified
+medication aides in administering insulin, including:
+(A) at least four (4), and not more than eight (8), hours of
+classroom training;
+(B) at least two (2), and not more than four (4), hours of
+practical training; and
+(C) passing a written and practical examination administered
+by the trainer;
+in insulin administration to be completed before a qualified
+SEA 473 — Concur
+
+
+--- Page 40 ---
+40
+medication aide may administer insulin.
+(d) The state department shall maintain a registry of each individual
+who is:
+(1) certified as a:
+(A) qualified medication aide; or
+(B) certified nurse aide; or
+(2) registered as a home health aide under rules adopted under
+IC 16-27-1-7.
+(e) The state department may conduct hearings for violations of this
+section under IC 4-21.5.
+(f) The state department's authority under this section includes the
+ability to collect information from individuals certified as a qualified
+medication aide or certified nurse aide, as specified under
+IC 25-1-2-10.
+(b) A facility shall verify through the nurse aide registry that an
+individual who will provide nurse aide services has met
+competency evaluation requirements under the competency
+evaluation program. Except as provided in subsection (c), a facility
+may not use any individual working in the facility as a nurse aide
+unless the individual is a certified nurse aide.
+(c) A facility may allow an individual to perform nurse aide
+services without being a certified nurse aide in the following
+circumstances:
+(1) For not more than four (4) months on a full-time,
+part-time, temporary, per diem, or any other basis if the
+individual:
+(A) is determined by the facility to be competent to provide
+nursing and nursing related services; and
+(B) has at least completed a competency evaluation
+program approved by the certified health care professions
+commission under IC 16-27.5.
+(2) The individual:
+(A) is a full-time employee who is enrolled in a training
+and competency evaluation program approved  by the
+certified health care professions commission under
+IC 16-27.5; or
+(B) has recently successfully completed the training and
+competency evaluation program described in this section
+but has not yet been included in the registry.
+The facility shall subsequently confirm that the individual is
+on the registry in order to continue having the individual
+provide nurse aide services.
+SEA 473 — Concur
+
+
+--- Page 41 ---
+41
+(d) A facility shall:
+(1) arrange for individuals whom the facility plans to employ
+as nurse aides in the facility to participate in a competency
+evaluation program approved by the certified health care
+professions commission under IC 16-27.5; and
+(2) facilitate the individual's completion of the program.
+SECTION 26. IC 16-28-1-11.5 IS REPEALED [EFFECTIVE
+SEPTEMBER 1, 2025]. Sec. 11.5. (a) Except as provided in subsection
+(b), a qualified medication aide certified under section 11 of this
+chapter may not administer injectable medications.
+(b) A qualified medication aide certified under section 11 of this
+chapter may administer insulin to a specific patient at a health facility
+licensed under this article if:
+(1) a registered nurse, under IC 25-23-1-1.1(b)(6):
+(A) supervises the qualified medication aide in administering
+the insulin; or
+(B) delegates responsibility for administering the insulin to the
+qualified medication aide based on the registered nurse's
+assessment of the qualified medication aide's competency to
+administer insulin;
+(2) the health facility where the qualified medication aide is
+employed:
+(A) permits the qualified medication aide to administer
+insulin;
+(B) establishes a procedure for:
+(i) the delegation of insulin administration from a registered
+nurse to a qualified medication aide that includes
+patient-specific clinical parameters based on the registered
+nurse's assessment of the patient and the qualified
+medication aide's competency to administer the insulin; and
+(ii) when the patient-specific parameters require a new
+assessment by the registered nurse;
+(C) retains documentation that the qualified medication aide
+has completed the optional training module described in
+section 11(c)(2) of this chapter; and
+(D) notifies each patient upon admission to the health facility
+that the health facility may allow qualified medication aides to
+administer insulin; and
+(3) the qualified medication aide does not administer a dose of
+concentrated insulin equal to or greater in strength or activity than
+a dose of U-500 insulin.
+(c) The state department may require a qualified medication aide
+SEA 473 — Concur
+
+
+--- Page 42 ---
+42
+who administers insulin under this section to annually complete not
+more than one (1) hour of inservice training specific to administration
+of insulin.
+SECTION 27. IC 16-28-11-1 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE SEPTEMBER 1, 2025]: Sec. 1. Except as
+provided in IC 16-28-1-11 and IC 16-28-7-4, fines or fees required to
+be paid under this article shall be paid directly to the director who shall
+deposit the fines or fees in the state general fund.
+SECTION 28. IC 16-28-13-1 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 1. (a) As used in this
+chapter and 410 IAC 16.2, "nurse aide" means an individual who
+provides nursing or nursing related services to residents in the
+following:
+(1) A health facility.
+(2) A hospital based health facility.
+(3) An ambulatory outpatient surgical center licensed under
+IC 16-21-2. Under this subdivision, the term applies to an
+individual who was employed by the center after July 1, 1999.
+(4) A home health agency licensed under IC 16-27-1. Under this
+subdivision, the term applies to an individual who was employed
+by the agency after July 1, 1999.
+(5) A hospice program licensed under IC 16-25-3. Under this
+subdivision, the term applies to an individual who was employed
+by the program after July 1, 1999.
+(6) A hospital licensed under IC 16-21-2. Under this subdivision,
+the term applies to an individual who was employed by the
+hospital after July 1, 1999.
+(b) The term does not include the following:
+(1) A licensed health professional (as defined in IC 25-1-9-3).
+(2) A registered dietician.
+(3) An individual who volunteers to provide nursing or nursing
+related services without pay.
+SECTION 29. IC 16-28-13-9 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE SEPTEMBER 1, 2025]: Sec. 9. A person,
+other than a person denied employment or dismissed under this chapter
+or against whom a finding is made for the nurse aide registry under 42
+CFR 483.156, who in good faith:
+(1) denies employment to an individual or dismisses an individual
+from employment under this chapter;
+(2) testifies or participates in an investigation or an administrative
+or a judicial proceeding arising from:
+(A) this chapter; or
+SEA 473 — Concur
+
+
+--- Page 43 ---
+43
+(B) 42 CFR 483 regarding the nurse aide registry; or
+(3) makes a report to the state department, the certified health
+care professions commission, or the nurse aide registry;
+is immune from both civil and criminal liability arising from those
+actions.
+SECTION 30. IC 16-41-8-0.2 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 0.2. As used in this chapter,
+"business associate" has the meaning set forth in 45 CFR 160.103.
+SECTION 31. IC 16-41-8-0.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 0.5. As used in this chapter,
+"covered entity" has the meaning set forth in 45 CFR 160.103.
+SECTION 32. IC 16-41-8-1, AS AMENDED BY P.L.130-2021,
+SECTION 16, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 1. (a) As used in this chapter, "potentially disease
+transmitting offense" means any of the following:
+(1) Battery (IC 35-42-2-1) or domestic battery (IC 35-42-2-1.3)
+involving placing a bodily fluid or waste on another person.
+(2) An offense relating to a criminal sexual act (as defined in
+IC 35-31.5-2-216), if sexual intercourse or other sexual conduct
+(as defined in IC 35-31.5-2-221.5) occurred.
+The term includes an attempt to commit an offense, if sexual
+intercourse or other sexual conduct (as defined in IC 35-31.5-2-221.5)
+occurred, and a delinquent act that would be a crime if committed by
+an adult.
+(b) Except as provided in this chapter, a person may not disclose or
+be compelled to disclose medical or epidemiological information
+involving a communicable disease or other serious disease (as set forth
+in the list published under IC 16-41-2-1). This information may not be
+released or made public upon subpoena or otherwise, except under the
+following circumstances:
+(1) Release may be made of medical or epidemiologic information
+for statistical purposes if done in a manner that does not identify
+an individual.
+(2) Release may be made of medical or epidemiologic information
+with the written consent of all individuals identified in the
+information released.
+(3) Release may be made of medical or epidemiologic information
+to the extent necessary to enforce public health laws, laws
+described in IC 31-37-19-4 through IC 31-37-19-6, IC 31-37-19-9
+through IC 31-37-19-10, IC 31-37-19-12 through IC 31-37-19-23,
+SEA 473 — Concur
+
+
+--- Page 44 ---
+44
+IC 35-38-1-7.1, and IC 35-45-21-1 or to protect the health or life
+of a named party.
+(4) Release may be made of the medical information of a person
+in accordance with this chapter.
+(5) Release may be made of the medical information or
+epidemiologic information of a person to an Indiana nonprofit
+entity that performs health data services for health care providers
+if the state department:
+(A) determines that the release is necessary as part of a
+response to a public health event, including an outbreak,
+epidemic, or pandemic; and
+(B) executes a data use agreement with the entity that specifies
+the permitted use and disclosure of any released information.
+(c) Except as provided in this chapter, a person responsible for
+recording, reporting, or maintaining information required to be reported
+under IC 16-41-2 who recklessly, knowingly, or intentionally discloses
+or fails to protect medical or epidemiologic information classified as
+confidential under this section commits a Class A misdemeanor.
+(d) In addition to subsection (c), a public employee who violates this
+section is subject to discharge or other disciplinary action under the
+personnel rules of the agency that employs the employee.
+(e) Release shall be made of the medical records concerning an
+individual to:
+(1) the individual;
+(2) a person authorized in writing by the individual to receive the
+medical records; or
+(3) a coroner under IC 36-2-14-21.
+(f) An individual may voluntarily disclose information about the
+individual's communicable disease.
+(g) The provisions of this section regarding confidentiality apply to
+information obtained by the state department or a local health
+department, including the health and hospital corporation created
+under IC 16-22-8, under IC 16-41-1 through IC 16-41-16.
+SECTION 33. IC 16-41-8-4, AS AMENDED BY P.L.1-2010,
+SECTION 72, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 4. (a) This section:
+(1) applies to the release of medical information that may be
+relevant to the prosecution or defense of a person who has been
+charged with a potentially disease transmitting offense; and
+(2) does not apply to the disclosure by a covered entity,
+business associate acting on behalf of a covered entity, or
+health care provider of medical information of an alleged
+SEA 473 — Concur
+
+
+--- Page 45 ---
+45
+perpetrator if the covered entity, business associate, or health
+care provider, in good faith, believes that the disclosure
+provides evidence of criminal conduct that occurred on its
+premises.
+(b) A:
+(1) prosecuting attorney may seek to obtain access to a
+defendant's medical information if the defendant has been
+charged with a potentially disease transmitting offense; and
+(2) defendant who has been charged with a potentially disease
+transmitting offense may seek access to the medical information
+of another person if the medical information would be relevant to
+the defendant's defense;
+by filing a verified petition for the release of medical information with
+the court.
+(c) The prosecuting attorney or defendant who files a petition under
+subsection (b) shall serve a copy of the petition on:
+(1) the person whose medical information is sought;
+(2) the guardian, guardian ad litem, or court appointed special
+advocate appointed for a minor, parent, or custodian of a person
+who is incompetent, if applicable; and
+(3) the provider that maintains the record, or the attorney general
+if the provider is a state agency;
+at the time of filing in accordance with Indiana Trial Rule 4.
+(d) The court shall set the matter for hearing not later than twenty
+(20) days after the date of filing.
+(e) If, following a hearing for release of a person's medical
+information, the court finds probable cause to believe that the medical
+information may be relevant to the prosecution or defense of a person
+who has been charged with a potentially disease transmitting offense,
+the court shall order the person having custody of the person's medical
+information to release the medical information to the court.
+(f) The court shall examine the person's medical information in
+camera. If, after examining the medical information in camera and
+considering the evidence presented at the hearing, the court finds
+probable cause to believe that the medical information is relevant to the
+prosecution or defense of a person who has been charged with a
+potentially disease transmitting offense, the court may order the release
+of a person's medical information to the petitioner.
+(g) In an order issued under subsection (f), the court shall:
+(1) permit the disclosure of only those parts of the person's
+medical information that are essential to fulfill the objective of the
+order;
+SEA 473 — Concur
+
+
+--- Page 46 ---
+46
+(2) restrict access to the medical information to those persons
+whose need for the information is the basis of the order; and
+(3) include in its order any other appropriate measures to limit
+disclosure of the medical information to protect the right to
+privacy of the person who is the subject of the medical
+information.
+(h) A hearing for the release of a person's medical information may
+be closed to the public. The transcript of the hearing, the court's order,
+and all documents filed in connection with the hearing are confidential.
+In addition, if a person's medical information is disclosed in a legal
+proceeding, the court shall order the record or transcript of the
+testimony to be preserved as a confidential court record.
+(i) This section does not prohibit the application to medical
+information of any law concerning medical information that is not
+addressed by this section.
+SECTION 34. IC 16-52-1-4, AS ADDED BY P.L.149-2023,
+SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+SEPTEMBER 1, 2025]: Sec. 4. (a) As used in this article, "health care
+personnel" means the following:
+(1) A nurse aide (as defined in IC 16-28-13-1).
+(2) A registered nurse or licensed practical nurse licensed under
+IC 25-23.
+(3) An advanced practice registered nurse licensed under
+IC 25-23.
+(4) A qualified medication aide certified under IC 16-28-1-11.
+IC 16-27.5-4.
+(5) A home health aide.
+(6) A physician assistant licensed under IC 25-27.5.
+(7) Except as provided in subsection (b), any other individual
+licensed or authorized by the state to provide health care or
+professional services to residents or patients of a health care
+facility.
+(b) The term does not include a physician licensed under
+IC 25-22.5.
+SECTION 35. IC 20-35-11-2.2 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 2.2. As used in this chapter,
+"educational evaluation" means procedures used to provide
+information about a student's disability or suspected disability for
+the student's case conference committee to determine the
+following:
+(1) Whether a student is eligible for special education and
+SEA 473 — Concur
+
+
+--- Page 47 ---
+47
+related services.
+(2) If eligible, the nature and extent of the special education
+and related services that the student needs.
+SECTION 36. IC 20-35-11-2.3 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 2.3. As used in this chapter,
+"family navigator" means a person who meets the following:
+(1) Is credentialed by the office of the secretary of family and
+social services, with a background in the any of the following
+fields:
+(A) Audiology.
+(B) Deaf education.
+(C) Early childhood education.
+(D) Special education.
+(E) Speech-language pathology.
+(2) Aids, in an unbiased manner, families in accessing
+comprehensive resources and information available through
+the center.
+SECTION 37. IC 20-35-11-2.4 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 2.4. As used in this chapter, "full
+continuum of communication options" means any method of
+communication used by a child who is deaf or hard of hearing and
+the child's parent. The term may include any of the following:
+(1) American sign language.
+(2) Cued speech.
+(3) Listening and spoken language.
+(4) Augmentative and alternative communication.
+(5) Any combination of communication methods under
+subdivisions (1) through (4).
+SECTION 38. IC 20-35-11-2.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 2.5. As used in this chapter,
+"observe and follow" means observing progress and following the
+movement of children identified as deaf and hard of hearing by the
+following:
+(1) The Indiana department of health, including the early
+hearing detection and intervention program.
+(2) The office of the secretary of family and social services.
+(3) The department.
+(4) Any entity with data concerning the progress or movement
+of children identified as deaf or hard of hearing.
+SEA 473 — Concur
+
+
+--- Page 48 ---
+48
+The term does not include case coordination or direct therapy
+services.
+SECTION 39. IC 20-35-11-4, AS AMENDED BY P.L.147-2023,
+SECTION 33, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 4. (a) The center shall carry out the following
+duties in an unbiased manner to ensure that children who are deaf and
+children who are hard of hearing acquire optimal language skills and
+academic abilities, regardless of the mode of communication used:
+(1) Monitoring and tracking the identification, early intervention,
+education, and successful transitions of Observe and follow
+children who are deaf and hard of hearing from:
+(A) birth through three (3) years of age, in collaboration
+with the early hearing detection and intervention program
+and the office of the secretary of family and social services;
+and
+(B) three (3) years of age through twenty-one (21) years of
+age and who are enrolled or preparing to enroll in early
+intervention services, preschool, elementary, or secondary
+school, in collaboration with the department.
+(2) Developing student learning opportunities.
+(3) (2) Providing Provide family support from birth through
+twenty-one (21) years of age by any of the following:
+(A) Connecting families to existing public and private
+resources for information and services, which may include
+any of the following:
+(i) First steps agencies.
+(ii) Deaf mentors.
+(iii) Interpreting agencies.
+(iv) Hearing health care professionals.
+(v) Educational professionals.
+(B) Providing audiology assessments and management.
+(C) Using family navigators.
+Except for deaf mentor services, audiology services, and
+interpreter servi ces, the center may not provide any direct
+therapy services.
+(4) Developing child assessment service models, consistent with
+federal and state early childhood intervention and special
+education law, for the following:
+(A) Audiological assessments.
+(B) Social and developmental assessments.
+(C) Communication (including language) assessments.
+(D) Academic achievement assessments.
+SEA 473 — Concur
+
+
+--- Page 49 ---
+49
+(3) Develop and ensure comprehensive educational
+evaluations that:
+(A) consider the full continuum of communication options;
+and
+(B) make available the following professionals based on the
+needs of the individual child:
+(i) A speech-language pathologist licensed under
+IC 25-35.6-3.
+(ii) A school psychologist licensed by the department.
+(iii) An occupational therapist licensed under IC 25-23.5.
+(iv) A physical therapist licensed under IC 25-27.
+(v) A certified listening and spoken language specialist.
+(vi) An American Sign Language specialist, as defined by
+the National Association of State Directors of Special
+Education.
+(vii) An audiologist licensed under IC 25-35.6-3.
+(viii) A deaf educator licensed under IC 20-28-5.
+(5) Providing technical assistance related to classroom
+instruction, acoustics, and other environmental aspects.
+(6) (4) Assisting Assist professionals who provide students with
+sign language interpreting oral interpreting, cued speech
+transliteration, and captioning services.
+(7) (5) Providing Provide consultation by qualified
+professionals to school corporations in providing services to
+schools concerning students who are deaf and students who are
+hard of hearing, including classroom accommodations,
+instruction, acoustics, and other environmental aspects.
+(8) (6) Acting Act as a liaison with all state agencies that provide
+services to individuals who are deaf and hard of hearing,
+including the department, of education, the Indiana department of
+health, the office of the secretary of family and social services,
+administration, and the Indiana School for the Deaf.
+(7) Beginning July 1, 2025, and every three (3) months
+thereafter, provide the Indiana department of health with
+aggregate data and metrics concerning the center's duties.
+(b) The Indiana department of health shall post the following on
+the Indiana department of health's website:
+(1) The data and metrics submitted by the center under
+subsection (a)(7).
+(2) The center's current operational policies and procedures
+concerning the center's duties, as specified in this section.
+SECTION 40. IC 20-35-11-5, AS ADDED BY P.L.109-2012,
+SEA 473 — Concur
+
+
+--- Page 50 ---
+50
+SECTION 16, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 5. (a) The center may provide the services set
+forth in section 4 of this chapter directly or through contract or
+agreement with other entities.
+(b) The center may collect an intergovernmental fee from other
+state agencies, school corporations, or local units only for services
+provided by the following:
+(1) An audiologist.
+(2) An interpreter.
+(3) A family navigator.
+(4) A deaf mentor.
+SECTION 41. IC 20-35-11-6 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 6. (a) The purpose of a family
+navigator is to provide the following:
+(1) Unbiased and comprehensive information to assist families
+in navigating all available statewide resources that support
+children from birth through three (3) years of age who are
+deaf and hard of hearing, including information necessary for
+families to make decisions concerning modes of
+communication for the child through family outcomes
+identified on the individual family service plan, as described
+in IC 12-12.7-2-20(4).
+(2) Family training to assist the family in understanding the
+unique needs of the child and enhance the child's development
+through family outcomes identified on the individual family
+service plan. This subdivision may not be construed to include
+providing direct therapy related to hearing technology, child
+development, language, or listening milestones.
+(3) Part B special education transition support in accordance
+with state law and the federal Individual with Disabilities
+Education Act (IDEA).
+(b) A child and the child's family eligible for the infants and
+toddlers with disabilities program under IC 12-12.7-2 may receive
+family navigator services in accordance with IC 12-12.7-2-3.
+SECTION 42. IC 25-1-5-11, AS AMENDED BY P.L.151-2013,
+SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 11. (a) As used in this section, "applicant" means
+an individual who applies for a license, certificate, registration, or
+permit issued by a board under this title.
+(b) As used in this section, "licensee" means an individual who is or
+has been licensed, certified, or registered by a board under this title.
+SEA 473 — Concur
+
+
+--- Page 51 ---
+51
+(c) As used in this section, "personal information" means the
+following:
+(1) Home telephone number.
+(2) Electronic mail address.
+(d) Except as otherwise provided in this section, the personal
+information of an individual who is:
+(1) a licensee;
+(2) an applicant; or
+(3) a board member;
+is confidential for purposes of IC 5-14-3-4 and may not be disclosed to
+the public by the agency or a board.
+(e) Except as provided in IC 25-23-1-12.6, an applicant or a
+licensee shall provide the applicant's or licensee's Social Security
+number to the agency.
+(f) The agency and the boards shall collect and release the
+applicant's or licensee's Social Security number as provided in state or
+federal law.
+(g) Notwithstanding IC 4-1-10-3, the agency and the boards may
+allow access to the Social Security number of each applicant or
+licensee to:
+(1) a testing service that provides the examination for licensure,
+certification, or registration to the agency or the boards; or
+(2) an individual state regulatory board or an organization
+composed of state regulatory boards for the applicant's or
+licensee's profession for the purpose of coordinating:
+(A) licensure, certification, or registration; and
+(B) disciplinary activities among the individual states.
+(h) Notwithstanding subsection (d), the agency or a board may
+disclose personal information of an individual described in subsection
+(d) if the person requesting the information provides proof of identity
+and represents that the use of the personal information will be strictly
+limited to at least one (1) of the following:
+(1) For use by a government agency, including a court or law
+enforcement agency, in carrying out its functions, or a person
+acting on behalf of a government agency in carrying out its
+functions.
+(2) For use in connection with a civil, a criminal, an
+administrative, or an arbitration proceeding in a court or
+government agency or before a self-regulatory body, including the
+service of process, investigation in anticipation of litigation, and
+the execution or enforcement of judgments and orders, or under
+an order of a court.
+SEA 473 — Concur
+
+
+--- Page 52 ---
+52
+(3) For use in research activities, and for use in producing
+statistical reports, as long as the personal information is not
+published, re-disclosed, or used to contact the individuals who are
+the subject of the personal information.
+(4) For use by any person, when the person demonstrates, in a
+form and manner prescribed by the agency, that written consent
+has been obtained from the individual who is the subject of the
+information.
+(5) For any other use specifically authorized by law that is related
+to the agency or a board or to public safety.
+SECTION 43. IC 25-1-6-10, AS ADDED BY P.L.157-2006,
+SECTION 19, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 10. (a) Except as provided in IC 25-23-1-12.6,
+an individual who applies for a license issued by a board under this
+chapter or who holds a license issued by a board under this chapter
+shall provide the individual's Social Security number to the licensing
+agency.
+(b) The licensing agency and the boards shall collect and release the
+applicant's or licensee's Social Security number as otherwise provided
+in state or federal law.
+(c) Notwithstanding IC 4-1-10-3, the licensing agency and the
+boards may allow access to the Social Security number of each person
+who is licensed under this chapter or has applied for a license under
+this chapter to:
+(1) a testing service that provides the examination for licensure to
+the licensing agency or the boards; or
+(2) an individual state regulatory board or an organization
+composed of state regulatory boards for the applicant's or
+licensee's profession for the purpose of coordinating licensure and
+disciplinary activities among the individual states.
+SECTION 44. IC 25-1-9.5-8, AS AMENDED BY P.L.85-2021,
+SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 8. (a) A prescriber may issue a prescription to a
+patient who is receiving services through the use of telehealth if the
+patient has not been examined previously by the prescriber in person
+if the following conditions are met:
+(1) The prescriber has satisfied the applicable standard of care in
+the treatment of the patient.
+(2) The issuance of the prescription by the prescriber is within the
+prescriber's scope of practice and certification.
+(3) The prescription:
+(A) meets the requirements of subsection (b); and
+SEA 473 — Concur
+
+
+--- Page 53 ---
+53
+(B) is not for an opioid. However, an opioid may be prescribed
+if the opioid:
+(i) is a partial agonist that has been approved by the
+federal Food and Drug Administration for the treatment
+of opioid addiction; and
+(ii) is used to treat or manage opioid dependence.
+(4) The prescription is not for an abortion inducing drug (as
+defined in IC 16-18-2-1.6).
+(5) If the prescription is for a medical device, including an
+ophthalmic device, the prescriber must use telehealth technology
+that is sufficient to allow the provider to make an informed
+diagnosis and treatment plan that includes the medical device
+being prescribed. However, a prescription for an ophthalmic
+device is also subject to the conditions in section 13 of this
+chapter.
+(b) Except as provided in subsection (a), a prescriber may issue a
+prescription for a controlled substance (as defined in IC 35-48-1-9) to
+a patient who is receiving services through the use of telehealth, even
+if the patient has not been examined previously by the prescriber in
+person, if the following conditions are met:
+(1) The prescriber maintains a valid controlled substance
+registration under IC 35-48-3.
+(2) The prescriber meets the conditions set forth in 21 U.S.C. 829
+et seq., 21 CFR 1300, 1304, and 1306, and any other regulation
+enforced by the federal Drug Enforcement Agency.
+(3) A practitioner acting in the usual course of the practitioner's
+professional practices issues the prescription for a legitimate
+medical purpose.
+(4) The telehealth communication is conducted using an
+audiovisual, real time, two-way interactive communication
+system.
+(5) The prescriber complies with the requirements of the
+INSPECT program (IC 25-26-24).
+(6) All other applicable federal and state laws are followed.
+(c) A prescription for a controlled substance under this section must
+be prescribed and dispensed in accordance with IC 25-1-9.3 and
+IC 25-26-24.
+SECTION 45. IC 25-19-1-2.5, AS AMENDED BY P.L.9-2024,
+SECTION 459, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 2.5. (a) An individual seeking
+licensure as a residential care administrator must:
+(1) be at least twenty-one (21) years of age;
+SEA 473 — Concur
+
+
+--- Page 54 ---
+54
+(2) have obtained at least a high school diploma or its equivalent;
+(3) submit to a national criminal history background check, as
+required by IC 25-0.5-1-8;
+(4) achieve a passing score, as prescribed by the board, on the
+state jurisprudence examination; and
+(5) meet one (1) of the following:
+(A) Be a licensed health facility administrator or a registered,
+certified, or licensed health care practitioner under IC 16 or
+this title.
+(B) Have at least one (1) year of management experience:
+(i) in health care;
+(ii) in housing;
+(iii) in hospitality; or
+(iv) providing services that are similar to services described
+in items (i) through (iii) to individuals who are elderly.
+(C) Possess an associate degree in gerontology or health care.
+(D) Possess a bachelor's degree or higher degree from an
+accredited postsecondary educational institution.
+(E) Complete a one hundred (100) hour specialized course in
+residential care facility administration that is approved by the
+board.
+(b) An applicant must meet the requirements in subsection (a)(1)
+through (a)(3) and subsection (a)(5) before the applicant may take the
+state jurisprudence examination.
+(c) The board may issue a residential care administrator license to
+an individual who meets the requirements of this section.
+(d) Except as provided in subsection subsections (e) and (f), for
+each two (2) year license period, a licensed residential care
+administrator shall complete at least twenty (20) hours of continuing
+education that include education on:
+(1) promoting resident dignity, independence, self-determination,
+privacy, choice, and rights;
+(2) building safety, fire prevention, and disaster response;
+(3) preventing and containing infectious diseases, including
+hygiene protocols;
+(4) preventing and reporting abuse and neglect of residents; and
+(5) assisting residents with daily activities.
+(e) A licensed residential care administrator who holds an active
+health facility administrator license is not required to complete the
+continuing education requirements described in subsection (d).
+However, a residential care administrator described in this subsection
+shall complete any continuing education requirements for the
+SEA 473 — Concur
+
+
+--- Page 55 ---
+55
+residential care administrator's health facility administrator license.
+(f) A licensed residential care administrator who has not been
+previously licensed as a residential care administrator in another
+state is not required to complete the continuing education
+requirem ents described in subsection (d) for the two (2) year
+licensing period in which the residential care administrator's initial
+license is issued.
+SECTION 46. IC 25-22.5-2-9, AS ADDED BY P.L.106-2023,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 9. (a) Any rule adopted under section 7(a)(10) of
+this chapter that requires an office based setting to be accredited by an
+accreditation agency approved by the board shall not apply to an
+individual described in subsection (b) providing anesthesia in a
+physician office, podiatrist office, or dental office.
+(b) The following may administer moderate sedation, deep sedation,
+or general anesthesia to a patient in a dental an office described in
+subsection (a) if the standards described in subsection (c) are met:
+(1) An anesthesiologist licensed under this article.
+(2) A certified registered nurse anesthetist (as defined in
+IC 25-23-1-1.4) under the direction of and in the immediate
+presence of a physician.
+(3) An anesthesiologist assistant practicing in compliance with
+IC 25-3.7-2-4.
+(c) An anesthesiologist administering anesthesia or a physician
+directing or supervising the administration of anesthesia, as required by
+subsection (b)(2) and (b)(3), in a dental office an office described in
+subsection (a) shall do the following:
+(1) Ensure that the standards required by rules adopted under
+section 7(a)(10) of this chapter concerning:
+(A) procedures performed in office based settings;
+(B) the operation of office based settings; and
+(C) requirements for practitioners administering anesthesia in
+office based settings;
+are met.
+(2) Once every two (2) years, submit the following to the board in
+writing:
+(A) The address of the applicable physician office, podiatrist
+office, or dental office.
+(B) An attestation that the standar ds required under this
+section have been met.
+(d) A physician group practice, on behalf of the physicians in the
+group practice, may submit the attestation required by subsection
+SEA 473 — Concur
+
+
+--- Page 56 ---
+56
+(c)(2).
+(e) Not later than twenty-four (24) hours from an adverse event
+concerning the administration of anesthesia in an office that is not
+accredited as allowed under this section, a health care provider
+described in subsection (b) shall report to the board any adverse
+event required by the board to be reported under subsection (f)
+that occurs in an office described in subsection (a) that is not
+accredited as permitted under this section.
+(f) The board shall do the following:
+(1) Determine the adverse events that are required to be
+reported under subsection (e).
+(2) Establish the procedure for reporting an adverse event.
+(3) Post any reported adverse events on the board's website.
+SECTION 47. IC 25-23-1-12.6 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 12.6. (a) An individual who:
+(1) is seeking:
+(A) a federally authorized work visa;
+(B) licensure by examination as a:
+(i) registered nurse under section 11(g); or
+(ii) licensed practical nurse under section 12(f);
+of this chapter;
+(2) does not have a Social Security number; and
+(3) meets all applicable requirements of this chapter;
+may not be required to provide a Social Security number as a
+condition of applying for or being issued a provisional license.
+(b) An individual described in subsection (a) shall provide to the
+board the following:
+(1) The individual's alien identification number.
+(2) A signed affidavit affirming that the individual is seeking
+a federally authorized work visa.
+(3) Documentation of an offer of employment to provide
+registered nursing or practical nursing services in Indiana
+that is a condition of the federally authorized work visa.
+The individual must affirm under the penalties of perjury that the
+information provided to the board under this subsection is true and
+accurate.
+(c) Upon verification of the individual's lawful status through
+the United States Citizenship and Immigration Services, the board
+shall grant a provisional license to an individual who meets the
+requirements of subsections (a) and (b).
+(d) A provisional license issued under this section is valid for not
+SEA 473 — Concur
+
+
+--- Page 57 ---
+57
+more than one hundred eighty (180) days. The fee for a provisional
+license under this section is ten dollars ($10).
+(e) After being issued a Social Security number as a condition
+of a federally authorized work visa, an individual described in this
+section who is issued a provisional license shall provide to the
+board the individual's Social Security number. After receiving the
+individual's Social Security number, the board shall issue to the
+individual a license under section 11(g) or 12(f) of this chapter.
+(f) If an individual fails to provide the individual's Social
+Security number as required under subsection (e), the individual's
+provisional license lapses.
+SECTION 48. IC 25-23-1-20, AS AMENDED BY P.L.177-2009,
+SECTION 43, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 20. (a) Any institution which desires to conduct
+a nursing education program shall apply to the board and submit
+evidence that:
+(1) it is prepared to give a minimum curriculum of organized
+instruction and clinical experience in nursing in conformity to the
+provisions of this chapter and the rules of the board. Such
+instruction and experience may must be secured in one (1) or
+more institutions or agencies than one (1) institution or agency
+approved by the board; and
+(2) it is prepared to meet other standards established by this
+chapter and by the board.
+(b) An institution that conducts a nursing education program may
+employ a person who:
+(1) is a registered nurse with a bachelor's degree in nursing; and
+(2) has at least three (3) years of experience in nursing in the
+previous six (6) years;
+to instruct nursing students on a part-time basis for the purpose of
+clinical instruction.
+SECTION 49. IC 25-23-1-20.2,  AS ADDED BY P.L.69-2022,
+SECTION 8, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 20.2. (a) As used in this section, "clinical
+experience" means the learning experiences provided in facilities
+appropriate to the curriculum objectives.
+(b) As used in this section, "clinical hours" refers to the number of
+hours of clinical experience a nursing student is required to complete.
+(c) As used in this section, "NCLEX" refers to the National Council
+Licensure Examination that is:
+(1) provided by the National Council of State Boards of Nursing;
+and
+SEA 473 — Concur
+
+
+--- Page 58 ---
+58
+(2) used to determine the competency of graduates of nursing
+school.
+(d) As used in this section, "nursing program" means one (1) of the
+following:
+(1) A licensed practical nursing program.
+(2) An associate degree nursing program.
+(3) A diploma nursing program.
+(4) A baccalaureate degree nursing program.
+(e) As used in this section, "simulation hours" refers to the hours
+spent by a nursing student participating in an educational process:
+(1) that replicates real world clinical scenarios in a simulation lab;
+and
+(2) in which a nursing student develops and practices the nursing
+student's nursing skills.
+(f) A nursing program may allow substitution of simulation hours
+for clinical hours in the following manner:
+(1) Simulation for not more than fifty percent (50%) of clinical
+hours if a nursing program has an overall pass rate of at least
+eighty percent (80%) on the NCLEX.
+(2) Simulation for not more than twenty-five percent (25%) of
+clinical hours if a nursing program has an overall pass rate of less
+than eighty percent (80%) on the NCLEX.
+(g) A nursing program must offer a clinical experience that
+includes clinical hours in at least one (1) hospital licensed under
+IC 16-21-2 and one (1) health facility licensed under IC 16-28.
+(g) (h) The board may adopt rules under IC 4-22-2 to implement this
+section. Nothing in this section prohibits a nursing program from
+substituting simulation hours for clinical hours in accordance with this
+section before the board adopts rules under this section.
+SECTION 50. IC 34-6-2-55, AS AMENDED BY P.L.56-2023,
+SECTION 307, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE SEPTEMBER 1, 2025]: Sec. 55. (a) "Health care
+services":
+(1) except as provided in subdivision (2), for purposes of
+IC 34-30-13, has the meaning set forth in IC 27-13-1-18(a); and
+(2) for purposes of IC 34-30-13-1.2, means only noninvasive
+examinations, treatments, and procedures and the following
+invasive procedures:
+(A) Routine dental services.
+(B) Injections.
+(C) Suturing of minor lacerations.
+(D) Incisions of boils or superficial abscesses.
+SEA 473 — Concur
+
+
+--- Page 59 ---
+59
+The term does not include performance of an abortion, including
+abortion by surgical means, by use of an abortion inducing drug,
+or by prescribing a controlled substance or scheduled drug under
+IC 35-48.
+(b) "Health care services", for purposes of IC 34-30-13.5, means:
+(1) any services provided by an individual licensed under:
+(A) IC 25-2.5;
+(B) IC 25-10;
+(C) IC 25-13;
+(D) IC 25-14;
+(E) IC 25-19;
+(F) IC 25-22.5;
+(G) IC 25-23;
+(H) IC 25-23.5;
+(I) IC 25-23.6;
+(J) IC 25-24;
+(K) IC 25-26;
+(L) IC 25-27;
+(M) IC 25-27.5;
+(N) IC 25-29;
+(O) IC 25-33;
+(P) IC 25-34.5; or
+(Q) IC 25-35.6;
+(2) services provided as the result of hospitalization, to an
+individual admitted to a health facility licensed under IC 16-28,
+or to a person residing in a housing with services establishment
+(as defined by IC 12-10-15-3);
+(3) services incidental to the furnishing of services described in
+subdivisions (1) or (2);
+(4) any services by individuals:
+(A) licensed as paramedics;
+(B) certified as advanced emergency medical technicians; or
+(C) certified as emergency medical technicians under
+IC 16-31;
+(5) any services provided by individuals certified as emergency
+medical responders under IC 16-31;
+(6) any services provided by certified health care professionals
+who are registered with the Indiana department of health and the
+certified health care professions commission, including:
+(A) certified nurse aides certified under IC 16-28-1-11;
+IC 16-27.5-3;
+(B) qualified medication aides certified under IC 16-28-1-11;
+SEA 473 — Concur
+
+
+--- Page 60 ---
+60
+IC 16-27.5-4; and
+(C) home health aides registered under rules adopted under
+IC 16-27-1-7; IC 16-27.5-5;
+(7) any services provided by unlicensed health care professionals
+who have successfully completed any applicable training required
+by the Indiana department of health;
+(8) any services provided by health care volunteers who are
+permitted to practice during an event that is declared a disaster
+emergency under IC 10-14-3-12 to respond to COVID-19;
+(9) any services provided by individuals with provisional or
+temporary licenses who are permitted to practice during an event
+that is declared a disaster emergency under IC 10-14-3-12 to
+respond to COVID-19; or
+(10) any other services or goods furnished for the purpose of
+preventing, alleviating, curing, or healing human illness, physical
+disability, or injury.
+SECTION 51. IC 34-30-2.1-206, AS AMENDED BY P.L.56-2023,
+SECTION 312, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE SEPTEMBER 1, 2025]: Sec. 206. IC 16-27-2-9
+(Concerning persons for denying or terminating employment of an
+individual with a criminal history, or reporting to or participating in the
+proceedings of the Indiana department of health, certified health care
+professions commission, or the registry of nurse aides).
+SECTION 52. IC 34-30-2.1-209, AS AMENDED BY P.L.56-2023,
+SECTION 313, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 209. IC 16-28-13-9 (Concerning
+persons for denying or terminating employment of an individual with
+a criminal history, or reporting to or participating in proceedings of the
+Indiana department of health, certified health care professions
+commission, or the nurse aide registry).
+SECTION 53. IC 35-45-21-5, AS ADDED BY P.L.158-2013,
+SECTION 547, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE SEPTEMBER 1, 2025]: Sec. 5. (a) The following
+definitions apply throughout this section:
+(1) "Health care provider" refers to a health care provider (as
+defined in IC 16-18-2-163(a), IC 16-18-2-163(b), or
+IC 16-18-2-163(c)) or a qualified medication aide as described in
+IC 16-28-1-11. IC 16-27.5-4.
+(2) "Licensed health professional" has the meaning set forth in
+IC 25-23-1-27.1.
+(3) "Practitioner" has the meaning set forth in IC 16-42-19-5.
+However, the term does not include a veterinarian.
+SEA 473 — Concur
+
+
+--- Page 61 ---
+61
+(4) "Prescription drug" has the meaning set forth in
+IC 35-48-1-25.
+(b) A person who knowingly or intentionally physically interrupts,
+obstructs, or alters the delivery or administration of a prescription drug:
+(1) prescribed or ordered by a practitioner for a person who is a
+patient of the practitioner; and
+(2) without the prescription or order of a practitioner;
+commits interference with medical services, a Class A misdemeanor,
+except as provided in subsection (c).
+(c) An offense described in subsection (b) is:
+(1) a Level 6 felony if the offense results in bodily injury;
+(2) a Level 5 felony if it is committed by a person who is a
+licensed health care provider or licensed health professional;
+(3) a Level 4 felony if it results in serious bodily injury to the
+patient; and
+(4) a Level 2 felony if it results in the death of the patient.
+(d) A person is justified in engaging in conduct otherwise prohibited
+under this section if the conduct is performed by:
+(1) a health care provider or licensed health professional who acts
+in good faith within the scope of the person's practice or
+employment; or
+(2) a person who is rendering emergency care at the scene of an
+emergency or accident in a good faith attempt to avoid or
+minimize serious bodily injury to the patient.
+SECTION 54. IC 35-52-16-12.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE SEPTEMBER 1, 2025]: Sec. 12.5. IC 16-27.5-3-8
+defines a crime concerning certified nurse aides.
+SECTION 55. IC 35-52-16-12.6 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE SEPTEMBER 1, 2025]: Sec. 12.6. IC 16-27.5-4-14
+defines a crime concerning qualified medication aides.
+SECTION 56. [EFFECTIVE SEPTEMBER 1, 2025] (a) As used in
+this SECTION, "qualified medication aide training and
+competency evaluation program" refers to a qualified medication
+aide training and competency evaluation program described in
+IC 16-27.5-4, as added by this act.
+(b) As used in this SECTION, "commission" refers to the
+certified health care professions commission established under
+IC 16-27.5-2, as added by this act.
+(c) A qualified medication training and competency evaluation
+program that was approved by the Indiana department of health
+SEA 473 — Concur
+
+
+--- Page 62 ---
+62
+before September 1, 2025, is deemed to be approved by the
+commission with no further action necessary.
+(d) Curriculum established by the Indiana department of health
+before September 1, 2025, for the implementation of qualified
+medication aide training and competency evaluation programs is
+deemed to be approved by the commission.
+(e) A qualified medication aide training and competency
+evaluation instructor course described in IC 16-27.5-4, as added by
+this act, approved  by the Indiana department of health before
+September 1, 2025, is deemed to be approved by the commission.
+(f) This SECTION expires December 31, 2025.
+SECTION 57. [EFFECTIVE JULY 1, 2025] (a) The following
+administrative rules are void:
+(1) 410 IAC 16.2-3.1-14(b) through 410 IAC 16.2-3.1-14(d),
+and 410 IAC 16.2-3.1-14(g) (comprehensive care facility
+personnel).
+(2) 410 IAC 16.2-1.1-45 (definition of nurse aide).
+The publisher of the Indiana Administrative Code and the Indiana
+Register shall remove these provisions from the Indiana
+Administrative Code.
+(b) This SECTION expires June 30, 2026.
+SECTION 58. [EFFECTIVE SEPTEMBER 1, 2025] (a) As used in
+this SECTION, "commission" refers to the certified health care
+professions commission established by IC 16-27.5-2, as added by
+this act.
+(b) The initial members of the commission shall be appointed by
+the governor not later than October 31, 2025.
+(c) This SECTION expires December 31, 2025.
+SECTION 59. An emergency is declared for this act.
+SEA 473 — Concur
+
+
+--- Page 63 ---
+President of the Senate
+President Pro Tempore
+Speaker of the House of Representatives
+Governor of the State of Indiana
+Date:                                Time: 
+SEA 473 — Concur

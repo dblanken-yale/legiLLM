@@ -1,0 +1,152 @@
+{
+  "bill_id": 1897638,
+  "change_hash": "bc5ab5deda2ce5f958cff5e6cc2fd6e4",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/HB1011/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/house/1011/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-08",
+  "progress": [
+    {
+      "date": "2025-01-08",
+      "event": 1
+    },
+    {
+      "date": "2025-01-08",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "HB1011",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "H",
+  "body_id": 37,
+  "current_body": "H",
+  "current_body_id": 37,
+  "title": "End of life options.",
+  "description": "End of life options. Allows individuals with a terminal illness who meet certain requirements to make a request to an attending provider for medication that the individual may self-administer to bring about death. Specifies requirements a provider must meet in order to prescribe the medication to a patient. Prohibits an insurer from denying payment of benefits under a life insurance policy based upon a suicide clause in the life insurance policy if the death of the insured individual is the result of medical aid in dying. Establishes a Level 1 felony if a person: (1) without authorization of the patient, willfully alters, forges, conceals, or destroys a request for medication or a rescission of a request for medication with the intent or effect of causing the individual's death; or (2) knowingly or intentionally coerces or exerts undue influence on an individual to request medication to bring about death or to destroy a rescission of a request for medication to bring about death. Establishes a Class A misdemeanor if a person, without authorization of the patient, willfully alters, forges, conceals, or destroys a request for medication or a rescission of a request for medication in order to affect a health care decision by the individual. Establishes certain criminal and civil immunity for health care providers.",
+  "pending_committee_id": 1300,
+  "committee": {
+    "committee_id": 1300,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Public Health"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-08",
+      "committee_id": 1300,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Public Health"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-08",
+      "action": "Authored by Representative Pierce M",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-08",
+      "action": "First reading: referred to Committee on Public Health",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 5549,
+      "person_hash": "13o7wfd7",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Matt Pierce",
+      "first_name": "Matt",
+      "middle_name": "",
+      "last_name": "Pierce",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-061",
+      "ftm_eid": 6393305,
+      "votesmart_id": 34012,
+      "opensecrets_id": "",
+      "knowwho_pid": 212335,
+      "ballotpedia": "Matt_Pierce_(Indiana)",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3034455,
+      "date": "2024-12-19",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/HB1011/id/3034455",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1011/HB1011.01.INTR.pdf",
+      "text_size": 236273,
+      "text_hash": "731082c999e0240b2fd66a5c33d8bd97",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 485069,
+      "date": "2024-12-19",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/HB1011/id/485069",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1011/fiscal-notes/HB1011.01.INTR.FN001.pdf",
+      "supplement_size": 73213,
+      "supplement_hash": "100f344d8d6eb17a31c4c8b21df72c22",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

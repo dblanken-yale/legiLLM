@@ -1,0 +1,186 @@
+{
+  "bill_id": 1903653,
+  "change_hash": "b334e34597721ace3a8a673070cfcca6",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/HB1153/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/house/1153/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-08",
+  "progress": [
+    {
+      "date": "2025-01-08",
+      "event": 1
+    },
+    {
+      "date": "2025-01-08",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "HB1153",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "H",
+  "body_id": 37,
+  "current_body": "H",
+  "current_body_id": 37,
+  "title": "Project Lifesaver program requirement for counties.",
+  "description": "Project Lifesaver program requirement for counties. Requires each county to establish and maintain a Project Lifesaver program. Tasks the division of disability and rehabilitative services with ensuring compliance, and requires the division to report to the general assembly.",
+  "pending_committee_id": 1298,
+  "committee": {
+    "committee_id": 1298,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Local Government"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-08",
+      "committee_id": 1298,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Local Government"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-08",
+      "action": "Authored by Representative Pfaff",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-08",
+      "action": "First reading: referred to Committee on Local Government",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 1
+    },
+    {
+      "date": "2025-01-09",
+      "action": "Representative Andrade added as coauthor",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 20385,
+      "person_hash": "zt2nzhlt",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Tonya Pfaff",
+      "first_name": "Tonya",
+      "middle_name": "",
+      "last_name": "Pfaff",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-043",
+      "ftm_eid": 44858080,
+      "votesmart_id": 178110,
+      "opensecrets_id": "",
+      "knowwho_pid": 655011,
+      "ballotpedia": "Tonya_Pfaff",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    },
+    {
+      "people_id": 22274,
+      "person_hash": "sbrjqmlq",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Mike Andrade",
+      "first_name": "Mike",
+      "middle_name": "",
+      "last_name": "Andrade",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-012",
+      "ftm_eid": 48871425,
+      "votesmart_id": 189663,
+      "opensecrets_id": "",
+      "knowwho_pid": 731033,
+      "ballotpedia": "Mike_Andrade",
+      "bioguide_id": "",
+      "sponsor_type_id": 2,
+      "sponsor_order": 2,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3040392,
+      "date": "2025-01-07",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/HB1153/id/3040392",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1153/HB1153.01.INTR.pdf",
+      "text_size": 86084,
+      "text_hash": "fe908ace39668c33d81240fce79e7215",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 486058,
+      "date": "2025-01-07",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/HB1153/id/486058",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1153/fiscal-notes/HB1153.01.INTR.FN001.pdf",
+      "supplement_size": 59248,
+      "supplement_hash": "4e9bdc23e53266976ece53f228162a73",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

@@ -1,0 +1,124 @@
+{
+  "bill_id": 1932259,
+  "change_hash": "2aad66363ca345b3ce355fb28cb8ae97",
+  "session_id": 2174,
+  "session": {
+    "session_id": 2174,
+    "state_id": 7,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 General Assembly"
+  },
+  "url": "https://legiscan.com/CT/bill/SB01071/2025",
+  "state_link": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB01071&which_year=2025",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-22",
+  "progress": [
+    {
+      "date": "2025-01-22",
+      "event": 1
+    },
+    {
+      "date": "2025-01-22",
+      "event": 9
+    }
+  ],
+  "state": "CT",
+  "state_id": 7,
+  "bill_number": "SB01071",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "S",
+  "body_id": 24,
+  "current_body": "S",
+  "current_body_id": 24,
+  "title": "An Act Implementing The Recommendations Of The Pediatric Hospice Working Group.",
+  "description": "To implement the recommendations of the pediatric hospice working group.",
+  "pending_committee_id": 1359,
+  "committee": {
+    "committee_id": 1359,
+    "chamber": "J",
+    "chamber_id": 108,
+    "name": "Public Health"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-22",
+      "committee_id": 1359,
+      "chamber": "J",
+      "chamber_id": 108,
+      "name": "Public Health"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-22",
+      "action": "Referred to Joint Committee on Public Health",
+      "chamber": "S",
+      "chamber_id": 24,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 23569,
+      "person_hash": "6uoxe8sb",
+      "party_id": "1",
+      "state_id": 7,
+      "party": "D",
+      "role_id": 2,
+      "role": "Sen",
+      "name": "Jan Hochadel",
+      "first_name": "Jan",
+      "middle_name": "",
+      "last_name": "Hochadel",
+      "suffix": "",
+      "nickname": "",
+      "district": "SD-013",
+      "ftm_eid": 55761655,
+      "votesmart_id": 208751,
+      "opensecrets_id": "",
+      "knowwho_pid": 0,
+      "ballotpedia": "Jan_Hochadel",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3069863,
+      "date": "2025-01-21",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/CT/text/SB01071/id/3069863",
+      "state_link": "https://www.cga.ct.gov/2025/TOB/S/PDF/2025SB-01071-R00-SB.PDF",
+      "text_size": 40575,
+      "text_hash": "90a5900fb43311fc8a3e4e8d9bae20b4",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [],
+  "calendar": []
+}

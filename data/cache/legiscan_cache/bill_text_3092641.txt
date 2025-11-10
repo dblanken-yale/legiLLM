@@ -1,0 +1,616 @@
+--- Page 1 ---
+*SB0270.1*
+January 31, 2025
+SENATE BILL No. 270
+_____
+DIGEST OF  SB 270 (Updated January 30, 2025 3:19 pm - DI 1 40)
+Citations Affected:  IC 5-10; IC 27-1; IC 27-8; IC 27-13.
+Synopsis:  Coverage of orthotic and prosthetic devices. Sets forth
+requirements for coverage of orthotic devices and prosthetic devices by
+a state employee health plan, a policy of accident and sickness
+insurance, and a health maintenance organization contract. Requires,
+not later than October 1, 2026, the state personnel department, an
+insurer that issues a policy of accident and sickness insurance, and a
+health maintenance organization to submit a report to the insurance
+commissioner regarding the total number of claims and the total
+amount of claims paid for orthotic devices and prosthetic devices
+during the preceding plan year. Requires the insurance commissioner
+to: (1) aggregate the data received in the reports regarding coverage of
+orthotic devices and prosthetic devices; and (2) report the aggregated
+data, not later than December 1, 2026, to the standing committees of
+the house of representatives and the senate that consider insurance
+matters. Makes corresponding changes.
+Effective:  July 1, 2025.
+Hunley
+January 13, 2025, read first time and referred to Commi ttee on Rules and Legislative
+Procedure.
+January 30, 2025, amended; reassigned to Commi ttee on Insurance and Financial
+Institutions.
+SB 270—LS 6933/DI 13
+
+
+--- Page 3 ---
+January 31, 2025
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+ Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+ Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+SENATE BILL No. 270
+A BILL FOR AN ACT to amend the Indiana Code concerning
+insurance.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 5-10-8-14, AS ADDED BY P.L.109-2008,
+2 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2025]: Sec. 14. (a) This section applies to a state employee
+4 health plan that is established, entered into, amended, or renewed
+5 after June 30, 2025.
+6 (a) (b) As used in this section, "covered individual" means an
+7 individual who is entitled to coverage under a state employee health
+8 plan.
+9 (b) (c) As used in this section, "orthotic device" means a medically
+10 necessary custom fabricated brace or support that is designed as a
+11 component of a prosthetic device.
+12 (c) (d) As used in this section, "prosthetic device" means an
+13 artificial leg or arm.
+14 (d) (e) As used in this section, "state employee health plan" means
+15 a:
+16 (1) self-insurance program established under section 7(b) of this
+17 chapter; or
+SB 270—LS 6933/DI 13
+
+
+--- Page 4 ---
+2
+1 (2) contract with a prepaid health care delivery plan that is
+2 entered into or renewed under section 7(c) of this chapter;
+3 to provide group health coverage. The term does not include a dental
+4 or vision plan.
+5 (e) (f) A state employee health plan must provide coverage for the
+6 following:
+7 (1) An orthotic devices and device or a prosthetic devices,
+8 including repairs or replacements, device that is determined by
+9 the covered individual's provider to be the most appropriate
+10 model that adequately meets the medical needs of the covered
+11 individual.
+12 (1) are provided or performed by a person that is:
+13 (A) accredited as required under 42 U.S.C. 1395m(a)(20); or
+14 (B) a qualified practitioner (as defined in 42 U.S.C.
+15 1395m(h)(1)(F)(iii));
+16 (2) are An orthotic device or a prosthetic device that is
+17 determined by the covered individual's physician provider to be
+18 medically necessa ry to restore or maintain the covered
+19 individual's ability to perform activities of daily living or essential
+20 job related activities; and the most appropriate model that
+21 meets the medical needs of the covered individual for
+22 purposes of:
+23 (A) performing physical activities, as applicable, such as
+24 running, biking, swimming, and strength training; and
+25 (B) maximizing the covered individual's whole body health
+26 and lower or upper limb function.
+27 (3) are not solely for comfort or convenience. An orthotic device
+28 or a prosthetic device that is determined by the covered
+29 individual's provider to be the most appropriate model that
+30 meets the medical needs of the covered individual for
+31 purposes of showering or bathing.
+32 (4) All materials and components necessary to use the orthotic
+33 devices and prosthetic devices described in subdivisions (1)
+34 through (3).
+35 (5) Instruction to the covered individual on using the orthotic
+36 devices and prosthetic devices described in subdivisions (1)
+37 through (3).
+38 (6) The medically necessary repair or replacement of the
+39 orthotic devices and prosthetic devices described in
+40 subdivisions (1) through (3).
+41 (g) With respect to a covered individual who receives an
+42 orthotic device or a prosthetic device under subsection (f)(1),
+SB 270—LS 6933/DI 13
+
+
+--- Page 5 ---
+3
+1 coverage of an additional orthotic device or prosthetic device
+2 under subsection (f)(2) or (f)(3) must require the covered
+3 individual's treating physician to determine that the additional
+4 orthotic device or prosthetic device under subsection (f)(2) or (f)(3)
+5 is necessary to enable the covered individual to engage in the
+6 activities described in subsection (f)(2) or (f)(3).
+7 (f) (h) The:
+8 (1) coverage required under subsection (e) (f) must be equal to
+9 the coverage that is provided for the same device, repair, or
+10 replacement under the federal Medicare program (42 U.S.C. 1395
+11 et seq.) and the regulations under 42 CFR 410.100, 42 CFR
+12 414.202, 42 CFR 414.210, and 42 CFR 414.228; and
+13 (2) reimbursement under the coverage required under subsection
+14 (e) (f) must be equal to the reimbursement that is provided for the
+15 same device, repair, or replacement under the federal Medicare
+16 reimbursement schedule, unless a different reimbursement rate is
+17 negotiated.
+18 This subsection does not require a deductible under a state employee
+19 health plan to be equal to a deductible under the federal Medicare
+20 program.
+21 (g) (i) Except as provided in subsections (h) and (i), subsection (k),
+22 the coverage required under subsection (e): (f):
+23 (1) may be subject to; and
+24 (2) may not be more restrictive than;
+25 the provisions that apply to other benefits under the state employee
+26 health plan.
+27 (j) A state employee health plan shall consider the coverage
+28 required under subsection (f) to be habilitative or rehabilitative
+29 benefits for purposes of any state or federal requirement for
+30 coverage of essential health benefits.
+31 (h) (k) The coverage required under subsection (e) (f) may be
+32 subject to utilization review, including periodic review, of the
+33 continued medical necessity of the benefit. A state employee health
+34 plan:
+35 (1) shall render utilization review determinations in a
+36 nondiscriminatory manner; and
+37 (2) may not deny coverage for habilitative or rehabilitative
+38 benefits, including orthotic devices or prosthetic devices,
+39 solely on the basis of a covered individual's actual or
+40 perceived disability.
+41 (l) A state employee health plan may not deny coverage for an
+42 orthotic device or a prosthetic device for a covered individual with
+SB 270—LS 6933/DI 13
+
+
+--- Page 6 ---
+4
+1 limb loss or absence that would otherwise be covered for a covered
+2 individual without a disability who seeks medical or surgical
+3 intervention to restore or maintain the ability to perform the same
+4 physical activity.
+5 (m) A state employee health plan shall include language
+6 describing a covered individual's rights under subsections (k) and
+7 (l) in the state employee health plan's evidence of coverage and any
+8 denial letters.
+9 (n) A state employee health plan shall ensure that covered
+10 individuals have access to medically necessary clinical care and
+11 orthotic devices and prosthetic devices from at least two (2) distinct
+12 orthotic device and prosthetic device providers in the state
+13 employee health plan's network. If medically necessary orthotic
+14 devices and prosthetic devices are not available from an in network
+15 provider, the state employee health plan shall:
+16 (1) provide processes to refer a covered individual to an out
+17 of network provider; and
+18 (2) fully reimburse the out of network provider at a mutually
+19 agreed upon rate reduced by the covered individual's cost
+20 sharing determined on an in network basis.
+21 (o) If a state employee health plan provides coverage for an
+22 orthotic device or prosthetic device, the state employee health plan
+23 shall provide coverage for the replacement of the orthotic device,
+24 the prosthetic device, or any part of the orthotic device or
+25 prosthetic device without regard to continuous use or useful
+26 lifetime restrictions if an ordering provider determines that the
+27 replacement device or part is necessary because of any of the
+28 following:
+29 (1) A change in the physiological condition of the covered
+30 individual.
+31 (2) An irreparable change in the condition of the device or
+32 part.
+33 (3) The condition of the device or part requires repairs and
+34 the cost of the repairs would be more than sixty percent
+35 (60%) of the cost of a replacement device or part.
+36 The state employee health plan may require confirmation from a
+37 prescribing provider if the device or part that is being replaced is
+38 less than three (3) years old.
+39 (i) Any lifetime maximum coverage limitation that applies to
+40 prosthetic devices and orthotic devices:
+41 (1) must not be included in; and
+42 (2) must be equal to;
+SB 270—LS 6933/DI 13
+
+
+--- Page 7 ---
+5
+1 the lifetime maximum coverage limitation that applies to all other items
+2 and services generally under the state employee health plan.
+3 (j) (p) For purposes of this subsection, "items and services" does not
+4 include preventive services for which coverage is provided under a
+5 high deductible health plan (as defined in 26 U.S.C. 220(c)(2) or 26
+6 U.S.C. 223(c)(2)). The coverage required under subsection (e) (f) may
+7 not be subject to a deductible, copayment, or coinsurance provision that
+8 is less favorable to a covered individual than the deductible,
+9 copayment, or coinsurance provisions that apply to other items and
+10 services generally under the state employee health plan.
+11 (q) Not later than October 1, 2026, the state personnel
+12 department shall submit a report to the insurance commissioner
+13 regarding a state employee's health plan cover age of orthotic
+14 devices and prosthetic devices. The report must:
+15 (1) be on a form prescribed by the insurance commissioner;
+16 and
+17 (2) include the total number of claims and the total amount of
+18 claims paid for the services required under subsection (f)
+19 during the preceding plan year.
+20 This subsection expires June 30, 2027.
+21 SECTION 2. IC 27-1-3-35.5 IS ADDED TO THE INDIANA CODE
+22 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+23 1, 2025]: Sec. 35.5. (a) The commissioner shall aggregate the data
+24 received under:
+25 (1) IC 5-10-8-14;
+26 (2) IC 27-8-24.2-11; and
+27 (3) IC 27-13-7-19.
+28 (b) Not later than December 1, 2026, the commissioner shall
+29 submit a report regarding the aggregated data under subsection (a)
+30 in an electronic format under IC 5-14-6 to the standing committees
+31 of the house of representatives and the senate that consider
+32 insurance matters.
+33 (c) This section expires June 30, 2027.
+34 SECTION 3. IC 27-8-24.2- 0.1, AS ADDED BY P.L.220-2011,
+35 SECTION 450, IS AMENDED TO READ AS FOLLOWS
+36 [EFFECTIVE JULY 1, 2025]: Sec. 0.1. The addition of This chapter by
+37 P.L.109-2008 applies to a policy of accident and sickness insurance
+38 that is issued, delivered, amended , or renewed after June 30, 2008.
+39 2025.
+40 SECTION 4. IC 27-8-24.2-5, AS ADDED BY P.L.109-2008,
+41 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+42 JULY 1, 2025]: Sec. 5. A policy of accident and sickness insurance
+SB 270—LS 6933/DI 13
+
+
+--- Page 8 ---
+6
+1 must provide coverage for the following:
+2 (1) An orthotic devices and device or a prosthetic devices,
+3 including repairs or replacements, device that is determined by
+4 the insured's provider to be the most appropriate model that
+5 adequately meets the medical needs of the insured.
+6 (1) are provided or performed by a person that is:
+7 (A) accredited as required under 42 U.S.C. 1395m(a)(20); or
+8 (B) a qualified practitioner (as defined in 42 U.S.C.
+9 1395m(h)(1)(F)(iii));
+10 (2) are An orthotic device or a prosthetic device that is
+11 determined by the insured's physician provider to be medically
+12 necessary to restore or maintain the insured's ability to perform
+13 activities of daily living or essential job related activities; and the
+14 most appropriate model that meets the medical needs of the
+15 insured for purposes of:
+16 (A) performing physical activities, as applicable, such as
+17 running, biking, swimming, and strength training; and
+18 (B) maximizing the insured's whole body health and lower
+19 or upper limb function.
+20 (3) are not solely for comfort or convenience. An orthotic device
+21 or a prosthetic device that is determined by the insured's
+22 provider to be the most appropriate model that meets the
+23 medical needs of the insured for purposes of showering or
+24 bathing.
+25 (4) All materials and components necessary to use the orthotic
+26 devices and prosthetic devices described in subdivisions (1)
+27 through (3).
+28 (5) Instruction to the insured on using the orthotic devices and
+29 prosthetic devices described in subdivisions (1) through (3).
+30 (6) The medically necessary repair or replacement of the
+31 orthotic devices and prosthetic devices described in
+32 subdivisions (1) through (3).
+33 SECTION 5. IC 27-8-24.2-5.5 IS ADDED TO THE INDIANA
+34 CODE AS A NEW SECTION TO READ AS FOLLOWS
+35 [EFFECTIVE JULY 1, 2025]: Sec. 5.5. With respect to an insured
+36 who receives an orthotic device or a prosthetic device under section
+37 5(1) of this chapter, coverage of an additional orthotic device or
+38 prosthetic device under section 5(2) or 5(3) of this chapter must
+39 require the insured's treating physician to determine that the
+40 additional orthotic device or prosthetic device under section 5(2)
+41 or 5(3) of this chapter is necessary to enable the insured to engage
+42 in the activities described in section 5(2) or 5(3) of this chapter.
+SB 270—LS 6933/DI 13
+
+
+--- Page 9 ---
+7
+1 SECTION 6. IC 27-8-24.2-6, AS ADDED BY P.L.109-2008,
+2 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2025]: Sec. 6. The:
+4 (1) coverage required under section 5 of this chapter must be
+5 equal to the coverage that is provided for the same device, repair,
+6 or replacement under the federal Medicare program (42 U.S.C.
+7 1395 et seq.) and the regulations under 42 CFR 410.100, 42
+8 CFR 414.202, 42 CFR 414.210, and 42 CFR 414.228; and
+9 (2) reimbursement under the coverage required under section 5 of
+10 this chapter must be equal to the reimbursement that is provided
+11 for the same device, repair, or replacement under the federal
+12 Medicare reimbursement schedul e, unless a different
+13 reimbursement rate is negotiated.
+14 This section does not require a deductible under a policy of accident
+15 and sickness insurance to be equal to a deductible under the federal
+16 Medicare program.
+17 SECTION 7. IC 27-8-24.2-7, AS ADDED BY P.L.109-2008,
+18 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+19 JULY 1, 2025]: Sec. 7. Except as provided in sections section 8 and 9
+20 of this chapter, the coverage required under section 5 of this chapter:
+21 (1) may be subject to; and
+22 (2) may not be more restrictive than;
+23 the provisions that apply to other benefits under the policy of accident
+24 and sickness insurance.
+25 SECTION 8. IC 27-8-24.2-7.5 IS ADDED TO THE INDIANA
+26 CODE AS A NEW SECTION TO READ AS FOLLOWS
+27 [EFFECTIVE JULY 1, 2025]: Sec. 7.5. A policy of accident and
+28 sickness insurance shall consider the coverage required under
+29 section 5 of this chapter to be habilitative or rehabilitative benefits
+30 for purposes of any state or federal requirement for coverage of
+31 essential health benefits.
+32 SECTION 9. IC 27-8-24.2-8, AS ADDED BY P.L.109-2008,
+33 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+34 JULY 1, 2025]: Sec. 8. (a) The coverage required under section 5 of
+35 this chapter may be subject to utilization review, including periodic
+36 review, of the continued medical necessity of the benefit.
+37 (b) A policy of accident and sickness insurance:
+38 (1) shall render utilization review determinations in a
+39 nondiscriminatory manner; and
+40 (2) may not deny coverage for habilitative or rehabilitative
+41 benefits, including orthotic devices or prosthetic devices,
+42 solely on the basis of an insured's actual or perceived
+SB 270—LS 6933/DI 13
+
+
+--- Page 10 ---
+8
+1 disability.
+2 SECTION 10. IC 27-8-24.2-8.3 IS ADDED TO THE INDIANA
+3 CODE AS A NEW SECTION TO READ AS FOLLOWS
+4 [EFFECTIVE JULY 1, 2025]: Sec. 8.3. A policy of accident and
+5 sickness insurance may not deny coverage for an orthotic device or
+6 a prosthetic device for an insured with limb loss or absence that
+7 would otherwise be covered for an insured without a disability who
+8 seeks medical or surgical intervention to restore or maintain the
+9 ability to perform the same physical activity.
+10 SECTION 11. IC 27-8-24.2-8.5 IS ADDED TO THE INDIANA
+11 CODE AS A NEW SECTION TO READ AS FOLLOWS
+12 [EFFECTIVE JULY 1, 2025]: Sec. 8.5. A policy of accident and
+13 sickness insurance shall include language describing an insured's
+14 rights under sections 8 and 8.3 of this chapter in the policy of
+15 accident and sickness insurance's evidence of coverage and any
+16 denial letters.
+17 SECTION 12. IC 27-8-24.2-8.7 IS ADDED TO THE INDIANA
+18 CODE AS A NEW SECTION TO READ AS FOLLOWS
+19 [EFFECTIVE JULY 1, 2025]: Sec. 8.7. A policy of accident and
+20 sickness insurance shall ensure that insureds have access to
+21 medically necessary clinical care and orthotic devices and
+22 prosthetic devices from at least two (2) distinct orthotic device and
+23 prosthetic device providers in the policy of accident and sickness
+24 insurance's network. If medically necessary orthotic devices and
+25 prosthetic devices are not available from an in network provider,
+26 the policy of accident and sickness insurance shall:
+27 (1) provide processes to refer an insured to an out of network
+28 provider; and
+29 (2) fully reimburse the out of network provider at a mutually
+30 agreed upon rate reduced by the insured's cost sharing
+31 determined on an in network basis.
+32 SECTION 13. IC 27-8-24.2-9 IS REPEALED [EFFECTIVE JULY
+33 1, 2025]. Sec. 9. Any lifetime maximum coverage limitation that
+34 applies to prosthetic devices and orthotic devices:
+35 (1) must not be included in; and
+36 (2) must be equal to;
+37 the lifetime maximum coverage limitation that applies to all other items
+38 and services generally under the policy of accident and sickness
+39 insurance.
+40 SECTION 14. IC 27-8-24.2-9.5 IS ADDED TO THE INDIANA
+41 CODE AS A NEW SECTION TO READ AS FOLLOWS
+42 [EFFECTIVE JULY 1, 2025]: Sec. 9.5. If a policy of accident and
+SB 270—LS 6933/DI 13
+
+
+--- Page 11 ---
+9
+1 sickness insurance provides coverage for an orthotic device or
+2 prosthetic device, the policy of accident and sickness insurance
+3 shall provide coverage for the replacement of the orthotic device,
+4 the prosthetic device, or any part of the orthotic device or
+5 prosthetic device without regard to continuous use or useful
+6 lifetime restrictions if an ordering provider determines that the
+7 replacement device or part is necessary becau se of any of the
+8 following:
+9 (1) A change in the physiological condition of the insured.
+10 (2) An irreparable change in the condition of the device or
+11 part.
+12 (3) The condition of the device or part requires repairs and
+13 the cost of the repairs would be more than sixty percent
+14 (60%) of the cost of a replacement device or part.
+15 The policy of accident and sickness insurance may require
+16 confirmation from a prescribing provider if the device or part that
+17 is being replaced is less than three (3) years old.
+18 SECTION 15. IC 27-8-24.2-11 IS ADDED TO THE INDIANA
+19 CODE AS A NEW SECTION TO READ AS FOLLOWS
+20 [EFFECTIVE JULY 1, 2025]: Sec. 11. (a) Not later than October 1,
+21 2026, an insurer that issues a policy of accident and sickness
+22 insurance shall submit a report to the commissioner regarding the
+23 policy of accident and sickness insurance's coverage of orthotic
+24 devices and prosthetic devices. The report must:
+25 (1) be on a form prescribed by the commissioner; and
+26 (2) include the total number of claims and the total amount of
+27 claims paid for the services required under section 5 of this
+28 chapter during the preceding plan year.
+29 (b) This section expires June 30, 2027.
+30 SECTION 16. IC 27-13-7-19, AS ADDED BY P.L.109-2008,
+31 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+32 JULY 1, 2025]: Sec. 19. (a) This section applies to an individual
+33 contract and a group contract that is entered into, delivered,
+34 amended, or renewed after June 30, 2025.
+35 (a) (b) As used in this section, "orthotic device" means a medically
+36 necessary custom fabricated brace or support that is designed as a
+37 component of a prosthetic device.
+38 (b) (c) As used in this section, "prosthetic device" means an
+39 artificial leg or arm.
+40 (c) (d) An individual contract or a group contract that provides
+41 coverage for basic health care services must provide coverage for the
+42 following:
+SB 270—LS 6933/DI 13
+
+
+--- Page 12 ---
+10
+1 (1) An orthotic devices and device or a prosthetic devices,
+2 including repairs or replacements, device that is determined by
+3 the enrollee's provider to be the most appropriate model that
+4 adequately meets the medical needs of the enrollee.
+5 (1) are provided or performed by a person that is:
+6 (A) accredited as required under 42 U.S.C. 1395m(a)(20); or
+7 (B) a qualified practitioner (as defined in 42 U.S.C.
+8 1395m(h)(1)(F)(iii));
+9 (2) are An orthotic device or a prosthetic device that is
+10 determined by the enrollee's physician provider to be medically
+11 necessary to restore or maintain the enrollee's ability to perform
+12 activities of daily living or essential job related activities; and the
+13 most appropriate model that meets the medical needs of the
+14 enrollee for purposes of:
+15 (A) performing physical activities, as applicable, such as
+16 running, biking, swimming, and strength training; and
+17 (B) maximizing the enrollee's whole body health and lower
+18 or upper limb function.
+19 (3) are not solely for comfort or convenience. An orthotic device
+20 or a prosthetic device that is determined by the enrollee's
+21 provider to be the most appropriate model that meets the
+22 medical needs of the enrollee for purposes of showering or
+23 bathing.
+24 (4) All materials and components necessary to use the orthotic
+25 devices and prosthetic devices described in subdivisions (1)
+26 through (3).
+27 (5) Instruction to the enrollee on using the orthotic devices
+28 and prosthetic devices described in subdivisions (1) through
+29 (3).
+30 (6) The medically necessary repair or replacement of the
+31 orthotic devices and prosthetic devices described in
+32 subdivisions (1) through (3).
+33 (e) With respect to an enrollee who receives an orthotic device
+34 or a prosthetic device under subsection (d)(1), coverage of an
+35 additional orthotic device or prosthetic device under subsection
+36 (d)(2) or (d)(3) must require the enrollee's treating physician to
+37 determine that the additional orthotic device or prosthetic device
+38 under subsection (d)(2) or (d)(3) is necessary to enable the enrollee
+39 to engage in the activities described in subsection (d)(2) or (d)(3).
+40 (d) (f) The:
+41 (1) coverage required under subsection (c) (d) must be equal to
+42 the coverage that is provided for the same device, repair, or
+SB 270—LS 6933/DI 13
+
+
+--- Page 13 ---
+11
+1 replacement under the federal Medicare program (42 U.S.C. 1395
+2 et seq.) and the regulations under 42 CFR 410.1 00, 42 CFR
+3 414.202, 42 CFR 414.210, and 42 CFR 414.228; and
+4 (2) reimbursement under the coverage required under subsection
+5 (c) (d) must be equal to the reimbursement that is provided for the
+6 same device, repair, or replacement under the federal Medicare
+7 reimbursement schedule, unless a different reimbursement rate is
+8 negotiated.
+9 This subsect ion does not require a deductible under an individual
+10 contract or a group contract to be equal to a deductible under the
+11 federal Medicare program.
+12 (e) (g) Except as provided in subsections (f) and (g), subsection (i),
+13 the coverage required under subsection (c): (d):
+14 (1) may be subject to; and
+15 (2) may not be more restrictive than;
+16 the provisions that apply to other benefits under the individual contract
+17 or group contract.
+18 (h) An individual contract or a group contract shall consider the
+19 coverage required under subsection (d) to be habilitative or
+20 rehabilitative benefits for purposes of any state or federal
+21 requirement for coverage of essential health benefits.
+22 (f) (i) The coverage required under subsection (c) (d) may be
+23 subject to utilization review, including periodic review, of the
+24 continued medical necessity of the benefit. An individual contract or
+25 a group contract:
+26 (1) shall render utilization review determinations in a
+27 nondiscriminatory manner; and
+28 (2) may not deny coverage for habilitative or rehabilitative
+29 benefits, including orthotic devices or prosthetic devices,
+30 solely on the basis of an enrollee's actual or perceived
+31 disability.
+32 (j) An individual contract or a group contract may not deny
+33 coverage  for an orthotic device or a prosthetic device for an
+34 enrollee with limb loss or absence that would otherwise be covered
+35 for an enrollee without a disability who seeks medical or surgical
+36 intervention to restore or maintain the ability to perform the same
+37 physical activity.
+38 (k) An individual contract or a group contract shall include
+39 language describing an enrollee's rights under subsections (i) and
+40 (j) in the individual contract or group contract's evidence of
+41 coverage and any denial letters.
+42 (l) An individual contract or a group contract shall ensure that
+SB 270—LS 6933/DI 13
+
+
+--- Page 14 ---
+12
+1 enrollees have access to medically necessary clinical care and
+2 orthotic devices and prosthetic devices from at least two (2) distinct
+3 orthotic device and prosthetic device providers in the individual
+4 contract or group contract's network. If medically necessary
+5 orthotic devices and prosthetic devices are not available from an
+6 in network  provider, the individual contract or group contract
+7 shall:
+8 (1) provide processes to refer an enrollee to an out of network
+9 provider; and
+10 (2) fully reimburse the out of network provider at a mutually
+11 agreed upon rate reduced by the enrollee's cost sharing
+12 determined on an in network basis.
+13 (m) If an individual contract or a grou p contract provides
+14 coverage for an orthotic device or prosthetic device, the individual
+15 contract or group contract shall provide coverage for the
+16 replacement of the orthotic device, the prosthetic device, or any
+17 part of the orthotic device or prosthetic device without regard to
+18 continuous use or useful lifetime restrictions if an ordering
+19 provider determines that the replacement device or part is
+20 necessary because of any of the following:
+21 (1) A change in the physiological condition of the enrollee.
+22 (2) An irreparable change in the condition of the device or
+23 part.
+24 (3) The condition of the device or part requires repairs and
+25 the cost of the repairs would be more than sixty percent
+26 (60%) of the cost of a replacement device or part.
+27 The individual contract or group contract may require
+28 confirmation from a prescribing provider if the device or part that
+29 is being replaced is less than three (3) years old.
+30 (g) Any lifetime maximum coverage limitation that applies to
+31 prosthetic devices and orthotic devices:
+32 (1) must not be included in; and
+33 (2) must be equal to;
+34 the lifetime maximum coverage limitation that applies to all other items
+35 and services generally under the individual contract or group contract.
+36 (h) (n) For purposes of this subsection, "items and services" does
+37 not include preventive services for which coverage is provided under
+38 a high deductible health plan (as defined in 26 U.S.C. 220(c)(2) or 26
+39 U.S.C. 223(c)(2)). The coverage required under subsection (c) (d) may
+40 not be subject to a deductible, copayment, or coinsurance provision that
+41 is less favorable to an enrollee than the deductible, copayment, or
+42 coinsurance provisions that apply to other items and services generally
+SB 270—LS 6933/DI 13
+
+
+--- Page 15 ---
+13
+1 under the individual contract or group contract.
+2 (o) Not later than October 1, 2026, a health maintenance
+3 organization that enters into an individual contract or a group
+4 contract that provides coverage for basic health care services shall
+5 submit a report to the commissioner regarding the individual
+6 contract or group contract's coverage of orthotic devices and
+7 prosthetic devices. The report must:
+8 (1) be on a form prescribed by the commissioner; and
+9 (2) include the total number of claims and the total amount of
+10 claims paid for the services required under subsection (d)
+11 during the preceding plan year.
+12 This subsection expires June 30, 2027.
+SB 270—LS 6933/DI 13
+
+
+--- Page 16 ---
+14
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Rules and Legislative
+Procedure, to which was referred Senate Bill No. 270, has had the same
+under consideration and begs leave to report the same back to the
+Senate with the recommendation that said bill be AMENDED as
+follows:
+Delete everything after the enacting clause and insert the following:
+(SEE TEXT OF BILL)
+and when so amended that said bill be reassigned to the Senate
+Committee on Insurance and Financial Institutions.
+(Reference is to SB 270 as introduced.)
+BRAY, Chairperson
+SB 270—LS 6933/DI 13

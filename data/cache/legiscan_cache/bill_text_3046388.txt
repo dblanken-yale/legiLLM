@@ -1,0 +1,976 @@
+--- Page 1 ---
+ 
+Introduced Version
+HOUSE BILL No. 1274
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 6-3.6; IC 16-18-2; IC 16-46; IC 21-13;
+IC 21-44; IC 25-14-5.
+Synopsis:  Health finance matters. Adds capital projects, technology
+upgrades, and operational expenses for certain county hospitals to the
+definition of "public safety" for purposes of local income tax revenue
+use. Increases the maximum local income tax that may be imposed in
+certain counties if a tax rate is adopted for purposes related to certain
+hospitals located in the county. Establishes the rural hospital clinically
+integrated network grant program to provide grants to rural hospital
+clinically integrated networks. Establishes the Indiana rural hospital
+and critical health care services fund (rural health care services fund)
+for the purpose of awarding grants to certain rural hospitals. Provides
+that the Indiana department of health (state department) administers the
+rural health care services fund. Establishes the following: (1) The
+health workforce student loan repayment program (program). (2) The
+health workforce advisory board (advisory board). (3) The health
+workforce student loan repayment program fund (repayment program
+fund) for the purpose of providing funds to repay outstanding student
+loans of certain health providers who meet the program requirements.
+Provides that the state department shall administer the program and
+repayment program fund. Establishes: (1) the imposition of fees at the
+time a license is issued or renewed for certain health profession
+licenses; and (2) qualifications to receive a student loan repayment
+award under the program. Provides that, beginning July 1, 2025, the
+state department and each board included in the program may award a
+student loan repayment to an eligible applicant who is a provider
+licensed by the board. Provides that money in the repayment program
+fund is continuously appropriated. Repeals provisions concerning the
+(Continued next page)
+Effective:  Upon passage; July 1, 2025.
+Manning
+January 13, 2025, read first time and referred to Commi ttee on Ways and Means.
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 2 ---
+Digest Continued
+following: (1) The primary care physician loan forgiveness program.
+(2) The mental health services development programs. (3) The dental
+underserved area and minority recruitment program. Urges the
+legislative council to assign to an appropriate interim study committee
+the task of studying topics related to the rural health care services fund.
+Urges the legislative council to assign to an appropriate study
+committee the task of studying certain topics related to health care
+services.
+2025 IN 1274—LS 7171/DI 147
+ 2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 3 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE BILL No. 1274
+A BILL FOR AN ACT to amend the Indiana Code concerning
+health and to make an appropriation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 6-3.6-2-14, AS AMENDED BY P.L.148-2024,
+2 SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2025]: Sec. 14. "Public safety" refers to the following:
+4 (1) A police and law enforcement system to preserve public peace
+5 and order.
+6 (2) A firefighting and fire prevention system.
+7 (3) Emergency ambulance services (as defined in
+8 IC 16-18-2-107).
+9 (4) Emergency medical services (as defined in IC 16-18-2-110).
+10 (5) Emergency action (as defined in IC 13-11-2-65).
+11 (6) A probation department of a court.
+12 (7) Confinement, supervision, services under a community
+13 corrections program (as defined in IC 35-38-2.6-2), or other
+14 correctional services for a person who has been:
+15 (A) diverted before a final hearing or trial under an agreement
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 4 ---
+2
+1 that is between the prosecuting attorney of the appropriate
+2 judicial circuit and the person or the person's custodian,
+3 guardian, or parent and that provides for confinement,
+4 supervision, community corrections services, or other
+5 correctional services instead of a final action described in
+6 clause (B) or (C);
+7 (B) convicted of a crime; or
+8 (C) adjudicated as a delinquent child or a child in need of
+9 services.
+10 (8) A juvenile detention facility under IC 31-31-8.
+11 (9) A juvenile detention center under IC 31-31-9.
+12 (10) A county jail.
+13 (11) A communications system (as defined i n IC 36-8-15-3), an
+14 enhanced emergency telephone system (as defined in
+15 IC 36-8-16-2, before its repeal on July 1, 2012), a PSAP (as
+16 defined in IC 36-8-16.7-20) that is part of the statewide 911
+17 system (as defined in IC 36-8-16.7-22) and located within the
+18 county, or the statewide 911 system (as defined in
+19 IC 36-8-16.7-22).
+20 (12) Medical and health expenses for jailed inmates and other
+21 confined persons.
+22 (13) Pension payments for any of the following:
+23 (A) A member of a fire department (as defined in IC 36-8-1-8)
+24 or any other employee of the fire department.
+25 (B) A member of a police department (as defined in
+26 IC 36-8-1-9), a police chief hired under a waiver under
+27 IC 36-8-4-6.5, or any other employee hired by the police
+28 department.
+29 (C) A county sheriff or any other member of the office of the
+30 county sheriff.
+31 (D) Other personnel employed to provide a service described
+32 in this section.
+33 (14) Law enforcement training.
+34 (15) In the case of a county that:
+35 (A) has a population of less than fifty thousand (50,000);
+36 and
+37 (B) owns and operates a hospital under IC 16-22;
+38 capital projects, technology upgrades, and operational
+39 expenses for the county hospital.
+40 SECTION 2. IC 6-3.6-6-2, AS ADDED BY P.L.243-2015,
+41 SECTION 10, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+42 JULY 1, 2025]: Sec. 2. (a) This section applies to all counties.
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 5 ---
+3
+1 (b) Except as provided in subsection (c), the adopting body may
+2 impose a tax rate under this chapter that does not exceed:
+3 (1) two and five-tenths percent (2.5%) in all counties other than
+4 Marion County; and
+5 (2) two and seventy-five hundredths percent (2.75%) in Marion
+6 County;
+7 on the adjusted gross income of local taxpayers in the county served by
+8 the adopting body.
+9 (c) This subsection applies only to a county having a population
+10 of less than fifty thousand (50,000) in which a hospital that is a:
+11 (1) hospital owned and operated by the county under
+12 IC 16-22; or
+13 (2) critical access hospital that meets the criteria under 42
+14 CFR 485.601 et seq. and that provides:
+15 (A) an emergency department that operates twenty-four
+16 (24) hours a day, seven (7) days a week, three hundred
+17 sixty-five (365) days a year;
+18 (B) full-time obstetric and maternal services;
+19 (C) primary care services, including access to primary care
+20 providers for:
+21 (i) initial diagnosis and treatment of various health
+22 conditions; and
+23 (ii) managing chronic conditions; and
+24 (D) emergen cy medical services, unless the county
+25 government otherwise operates, maintains, or contracts for
+26 emergency medical services;
+27 is located. The adopting body may impose a tax rate under this
+28 chapter that exceed s two and five-tenths percent (2.5%) on the
+29 adjusted gross income of local taxpayers in the county served by
+30 the adopting body if the adopting body adopts an ordinance under
+31 section 3.1 of this chapter. However, the tax rate imposed under
+32 this chapter may not exceed two and seventy-five hundredths
+33 percent (2.75%).
+34 SECTION 3. IC 6-3.6-6-3, AS AMENDED BY P.L.137-2024,
+35 SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+36 JULY 1, 2025]: Sec. 3. (a) Revenue raised from a tax imposed under
+37 this chapter shall be treated as follows:
+38 (1) To make the following distributions:
+39 (A) If an ordinance described in section 2.5 of this chapter is
+40 in effect in a county, to make a distribution to the county equal
+41 to the amount of revenue generated by the rate imposed under
+42 section 2.5 of this chapter.
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 6 ---
+4
+1 (B) If an ordinance described in section 2.6 of this chapter is
+2 in effect in a county, to make a distribution to the county equal
+3 to the amount of revenue generated by the rate imposed under
+4 section 2.6 of this chapter.
+5 (C) If an ordinance described in section 2.7 of this chapter is
+6 in effect in a county, to make a distribution to the county equal
+7 to the amount of revenue generated by the rate imposed under
+8 section 2.7 of this chapter.
+9 (D) If an ordinance described in section 2.8 of this chapter is
+10 in effect in a county, to make a distribution to the county equal
+11 to the amount of revenue generated by the rate imposed under
+12 section 2.8 of this chapter.
+13 (E) If an ordinance described in section 3.1 of this chapter
+14 is in effect in a county, to make a distribution to the county
+15 equal to the amount of revenue generated by the rate
+16 imposed under section 3.1 of this chapter.
+17 (2) After making the distributions described in subdivision (1), if
+18 any, to make distributions to school corporations and civil taxing
+19 units in counties that formerly imposed a tax under IC 6-3.5-1.1
+20 (repealed). The revenue categorized from the next twenty-five
+21 hundredths percent (0.25%) of the rate for a former tax adopted
+22 under IC 6-3.5-1.1 (repealed) shall be allocated to school
+23 corporations and civil taxing units. The amount of the allocation
+24 to a school corporation or civil taxing unit shall be determined
+25 using the allocation amounts for civil taxing units and school
+26 corporations in the county.
+27 (3) After making the distributions described in subdivisions (1)
+28 and (2), the remaining revenue shall be treated as additional
+29 revenue (referred to as "additional revenue" in this chapter).
+30 Additional revenue may not be considered by the department of
+31 local government finance in determining:
+32 (A) any taxing unit's maximum permissible property tax levy
+33 limit under IC 6-1.1-18.5; or
+34 (B) the approved property tax rate for any fund.
+35 (b) In the case of a civil taxing unit that has pledged the tax from
+36 additional revenue for the payment of bonds, leases, or other
+37 obligations as reported by the civil taxing unit under IC 5-1-18, the
+38 adopting body may not, under section 4 of this chapter, reduce the
+39 proportional allocation of the additional revenue that was allocated in
+40 the preceding year if the reduction for that year would result in an
+41 amount less than the amount necessary for the payment of bonds,
+42 leases, or other obligations payable or required to be deposited in a
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 7 ---
+5
+1 sinking fund or other reserve in that year for the bonds, leases, or other
+2 obligations for which the tax from additional revenue has been pledged.
+3 To inform an adopting body with regard to allocations that affect the
+4 payment of bonds, leases, or other obligations, a taxing unit may
+5 provide the adopting body with information regarding any outstanding
+6 bonds, leases, or other obligations that are secured by additional
+7 revenue. The information must be provided before the date of the
+8 public hearing at which the adopting body may change the allocation
+9 of additional revenue under section 4 of this chapter.
+10 SECTION 4. IC 6-3.6-6-3.1 IS ADDED TO THE INDIANA CODE
+11 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+12 1, 2025]: Sec. 3.1. (a) This section applies to a county having a
+13 population of less than fifty thousand (50,000) in which a hospital
+14 that is a:
+15 (1) county hospital; or
+16 (2) critical access hospital;
+17 is located.
+18 (b) As used in this section, "county hospital" means a hospital
+19 that is owned and operated by the county under IC 16-22.
+20 (c) As used in this section, "critical access hospital" means a
+21 critical access hospital that meets the criteria under 42 CFR
+22 485.601 et seq. and that provides:
+23 (1) an emergency department that operates twenty-four (24)
+24 hours a day, seven (7) days a week, three hundred sixty-five
+25 (365) days a year;
+26 (2) full-time obstetric and maternal services;
+27 (3) primary care services, including access to primary care
+28 providers for:
+29 (A) initial diagnosis and treatment of various health
+30 conditions; and
+31 (B) managing chronic conditions; and
+32 (4) emergency medical services, unless the county government
+33 otherwise operates, maintains, or contracts for emergency
+34 medical services.
+35 (d) A county fiscal body may adopt an ordinance to impose a tax
+36 rate for:
+37 (1) critical access hospitals; and
+38 (2) county hospitals;
+39 that are located in the county. The tax rate must be in increments
+40 of one-hundredth of one percent (0.01%) and may not exceed
+41 twenty-five hundredths of one percent (0.25%).
+42 (e) The revenue generated by a tax rate imposed under this
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 8 ---
+6
+1 section must be distributed directly to the county before the
+2 remainder of the expenditure rate revenue is distributed. The
+3 revenue shall be maintained in a separate dedicated county fund.
+4 The county may distribute the revenue directly to a critical access
+5 hospital or a county hospital, or use the revenue to pay costs on
+6 behalf of the critical access hospital or the county hospital, but the
+7 revenue may be used only for paying for capital projects,
+8 technology upgrades, and operational expenses of a critical access
+9 hospital or a county hospital.
+10 SECTION 5. IC 6-3.6-9-10, AS AMENDED BY P.L.137-2024,
+11 SECTION 13, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+12 JULY 1, 2025]: Sec. 10. The budget agency shall also certify
+13 information concerning the part of the certified distribution that is
+14 attributable to each of the following:
+15 (1) The tax rate imposed under IC 6-3.6-5.
+16 (2) The tax rate imposed under IC 6-3.6-6, separately stating:
+17 (A) the part of the distribution attributable to a tax rate
+18 imposed under IC 6-3.6-6-2.5;
+19 (B) the part of the distribution attributable to a tax rate
+20 imposed under IC 6-3.6-6-2.6; and
+21 (C) the part of the distribution attributable to a tax rate
+22 imposed under IC 6-3.6-6-2.7; and
+23 (D) the part of the distribution attributable to a tax rate
+24 imposed under IC 6-3.6-6-3.1.
+25 (3) Each tax rate imposed under IC 6-3.6-7.
+26 (4) In the case of Marion County, the local income taxes paid by
+27 local taxpayers described in IC 6-3.6-2-13(3).
+28 The amount certified shall be adjusted to reflect any adjustment in the
+29 certified distribution under this chapter.
+30 SECTION 6. IC 16-18-2-106.8 IS ADDED TO THE INDIANA
+31 CODE AS A NEW SECTION TO READ AS FOLLOWS
+32 [EFFECTIVE JULY 1, 2025]: Sec. 106.8. "Eligible hospital", for
+33 purposes of IC 16-46-18, has the meaning set forth in
+34 IC 16-46-18-1.
+35 SECTION 7. IC 16-18-2-143, AS AMENDED BY P.L.1-2010,
+36 SECTION 69, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+37 JULY 1, 2025]: Sec. 143. (a) "Fund", for purposes of IC 16-26-2, has
+38 the meaning set forth in IC 16-26-2-2.
+39 (b) "Fund", for purposes of IC 16-31-8.5, has the meaning set forth
+40 in IC 16-31-8.5-2.
+41 (c) "Fund", for purposes of IC 16-41-39.4, refers to the childhood
+42 lead poisoning prevention fund established by IC 16-41-39.4-3.1.
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 9 ---
+7
+1 (d) "Fund", for purposes of IC 16-41-39.8, refers to the lead trust
+2 fund established by IC 16-41-39.8-7.
+3 (e) "Fund", for purposes of IC 16-46-5, has the meaning set forth in
+4 IC 16-46-5-3.
+5 (f) "Fund", for purposes of IC 16-46-12, has the meaning set forth
+6 in IC 16-46-12-1.
+7 (g) "Fund", for purposes of IC 16-41-42.2, has the meaning set forth
+8 in IC 16-41-42.2-2.
+9 (h) "Fund", for purposes of IC 16-35-8, has the meaning set forth in
+10 IC 16-35-8-2.
+11 (i) "Fund", for purposes of IC 16-46-18, has the meaning set
+12 forth in IC 16-46-18-2.
+13 (j) "Fund", for purposes of IC 16-46-19, has the meaning set
+14 forth in IC 16-46-19-1.
+15 SECTION 8. IC 16-18-2-320.6 IS ADDED TO THE INDIANA
+16 CODE AS A NEW SECTION TO READ AS FOLLOWS
+17 [EFFECTIVE JULY 1, 2025]: Sec. 320.6. "Rural hospital", for
+18 purposes of IC 16-46-19, has the meaning set forth in
+19 IC 16-46-19-2.
+20 SECTION 9. IC 16-18-2-320.7 IS ADDED TO THE INDIANA
+21 CODE AS A NEW SECTION TO READ AS FOLLOWS
+22 [EFFECTIVE JULY 1, 2025]: Sec. 320.7. "Rural hospital clinically
+23 integrated network", for purposes of IC 16-46-19, has the meaning
+24 set forth in IC 16-46-19-3.
+25 SECTION 10. IC 16-46-18 IS ADDED TO THE INDIANA CODE
+26 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+27 JULY 1, 2025]:
+28 Chapter 18. Indiana Rural Hospital and Critical Health Care
+29 Services Fund
+30 Sec. 1. As used in this chapter, "eligible hospital" means a
+31 hospital located in a county having a population of less than fifty
+32 thousand (50,000) that is a:
+33 (1) critical access hospital that meets the criteria under 42
+34 CFR 485.601 et seq.; or
+35 (2) hospital owned and operated by the county under
+36 IC 16-22.
+37 Sec. 2. As used in this chapter, "fund" refers to the Indiana
+38 rural hospital and critical health care services fund established by
+39 section 3 of this chapter.
+40 Sec. 3. (a) The Indiana rural hospital and critical health care
+41 services fund is established for the purpose of awarding grants
+42 under this chapter.
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 10 ---
+8
+1 (b) The fund shall be administered by the state department.
+2 (c) The fund consists of:
+3 (1) appropriations from the general assembly; and
+4 (2) grants, gifts, and donations to the fund.
+5 (d) The expenses of administering the fund shall be paid from
+6 money in the fund.
+7 Sec. 4. An eligible hospital may apply for a grant from the fund
+8 in the form and manner prescribed by the state department.
+9 Sec. 5. Subject to section 6 of this chapter, of the amount
+10 available to make grants in a state fiscal year, the state department
+11 shall award grants in equal amounts to each eligible hospital that
+12 submits an application.
+13 Sec. 6. The state department shall allocate at least seventy-five
+14 percent (75%) of the amount available to the state department to
+15 make grants in a state fiscal year to eligible hospitals that provide
+16 the following:
+17 (1) An emergency department that operates twenty-four (24)
+18 hours a day, seven (7) days a week, three hundred sixty-five
+19 (365) days a year.
+20 (2) Full-time obstetric and maternal services.
+21 (3) Primary care services, including access to primary care
+22 providers for:
+23 (A) initial diagnosis and treatment of various health
+24 conditions; and
+25 (B) managing chronic conditions.
+26 (4) Emergency medical services, unless the county
+27 government otherwise operates, maintains, or contracts for
+28 emergency medical services.
+29 Sec. 7. A grant award ed to an eligible hospital from the fund
+30 may be used for:
+31 (1) facility, technology, or equipment upgrades; and
+32 (2) any other operational expense or purpose as determined
+33 necessary by the eligible hospital.
+34 Sec. 8. Except as otherwise provided in this chapter, the state
+35 department may not impose terms or conditions on a grant
+36 awarded from the fund.
+37 SECTION 11. IC 16-46-19 IS ADDED TO THE INDIANA CODE
+38 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+39 JULY 1, 2025]:
+40 Chapter 19. Rural Hospital Clinically Integrated Network
+41 Grant Program
+42 Sec. 1. As used in this chapter, "fund" refers to the rural
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 11 ---
+9
+1 hospital clinically integrated network fund established by section
+2 6 of this chapter.
+3 Sec. 2. As used in this chapter, "rural hospital" means a hospital
+4 located in a county having a population of less than fifty thousand
+5 (50,000).
+6 Sec. 3. As used in this chapter, "rural hospital clinically
+7 integrated network" means a collaboration between rural hospitals
+8 and health care providers that:
+9 (1) is established to:
+10 (A) facilitate collaboration among health care providers in
+11 rural areas;
+12 (B) improve patient outcomes;
+13 (C) improve operational sustainability among participating
+14 hospitals and health care providers;
+15 (D) reduce health care costs; and
+16 (E) negotiate the terms and conditions of health provider
+17 contracts (as defined in IC 27-1-37-3);
+18 (2) complies with applicable state and federal laws;
+19 (3) has a governance structure that includes representation of
+20 each participating rural hospital and health care provider;
+21 and
+22 (4) may include collaboration with other rural health care
+23 entities, such as independent rural health clinics, independent
+24 physician practices, or community based organizations
+25 focused on addressing social determinants of health.
+26 Sec. 4. The rural hospital clinically integrated network grant
+27 program is established to provide grants to rural hospital clinically
+28 integrated networks to do the following:
+29 (1) Implement data sharing platforms.
+30 (2) Enter into value based health care reimbursem ent
+31 agreements.
+32 (3) Use data analysis software to:
+33 (A) provide risk stratification; and
+34 (B) manage patient referrals.
+35 (4) Develop an integrated system for patient care
+36 coordination.
+37 (5) Staff the rural hospital clinically integrated network.
+38 Sec. 5. (a) The state department shall administer the rural
+39 hospital clinically integrated network grant program.
+40 (b) The state department may contract with the Indiana Rural
+41 Health Association to administer the rural hospital clinically
+42 integrated network grant program.
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 12 ---
+10
+1 Sec. 6. (a) The rural hospital clinically integrated network fund
+2 is established for the purpose of providing grants under this
+3 chapter. The state department shall administer the fund.
+4 (b) The fund consists of:
+5 (1) appropriations from the general assembly; and
+6 (2) grants, gifts, and donations to the fund.
+7 (c) The expenses of administering the fund shall be paid from
+8 money in the fund.
+9 Sec. 7. To be eligible for a grant, a rural hospital clinically
+10 integrated network must do the following:
+11 (1) Apply to the state department in the manner and on a
+12 form prescribed by the state department.
+13 (2) Provide the state department with a strategic plan to meet
+14 the goals described in section 4 of this chapter.
+15 (3) Agree to provide an amount equal to at least twenty
+16 percent (20%) of the amount of the awarded grant for the
+17 purpose of meeting the goals described in section 4 of this
+18 chapter.
+19 Sec. 8. A grant award ed under this chapter may not exceed
+20 three million five hundred thousand dollars ($3,500,000).
+21 Sec. 9. A rural hospital clinically integrated network that
+22 receives a grant under this chapter shall, not later than July 1,
+23 2026, and each July 1 thereafter, submit a report to the state
+24 department summarizing the network's use of the grant funds and
+25 the status of the network's strategic plan described in section 7(2)
+26 of this chapter.
+27 SECTION 12. IC 21-13-1-5, AS AMENDED BY P.L.148-2016,
+28 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+29 JULY 1, 2025]: Sec. 5. "Fund":
+30 (1) for purposes of IC 21-13-2, refers to the William A. Crawford
+31 minority teacher scholarship fund established by IC 21-13-2-1;
+32 (2) for purposes of IC 21-13-4, refers to the National Guard
+33 tuition supplement program fund established by IC 21-13-4-1;
+34 (3) for purposes of IC 21-13-5, refers to the National Guard
+35 scholarship extension fund established by IC 21-13-5-1; and
+36 (4) for purposes of IC 21-13-6, refers to the primary care
+37 physician loan forgiveness fund established by IC 21-13-6-3; and
+38 (5) (4) for purposes of IC 21-13-6.5, refers to the medical
+39 residency education fund established by IC 21-13-6.5-1.
+40 SECTION 13. IC 21-13-6 IS REPEALED [EFFECTIVE JULY 1,
+41 2025]. (Primary Care Physician Loan Forgiveness Program).
+42 SECTION 14. IC 21-13-13 IS ADDED TO THE INDIANA CODE
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 13 ---
+11
+1 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+2 JULY 1, 2025]:
+3 Chapter 13. Health Workforce Student Loan Repayment
+4 Program
+5 Sec. 1. As used in this chapter, "advisory board" refers to the
+6 health workforce advisory board established by section 10 of this
+7 chapter.
+8 Sec. 2. As used in this chapter, "board" refers to any of the
+9 following:
+10 (1) The state board of dentistry (IC 25-14-1-2).
+11 (2) The medical licensing board of Indiana (IC 25-22.5-2-1).
+12 (3) The Indiana state board of nursing (IC 25-23-1-2).
+13 (4) The occupational therapy committee (IC 25-23.5-2-1).
+14 (5) The behavioral health and human services licensing board
+15 (IC 25-23.6-2-1).
+16 (6) The Indiana optometry board (IC 25-24-1-1).
+17 (7) The Indiana board of pharmacy (IC 25-26-13-3).
+18 (8) The Indiana board of physical therapy (IC 25-27-1-4).
+19 (9) The physician assistant committee (IC 25-27.5-3-1).
+20 (10) The board of podiatric medicine (IC 25-29-2-1).
+21 (11) The state psychology board (IC 25-33-1-3).
+22 (12) The speech-language pathology and audiology board (IC
+23 25-35.6-2-1).
+24 Sec. 3. As used in this chapter, "eligible provider" means a
+25 provider who meets the requirements described in section 15(b) of
+26 this chapter.
+27 Sec. 4. As used in this chapter, "fund" refers to the health
+28 workforce student loan repayment program fund established by
+29 section 11 of this chapter.
+30 Sec. 5. As used in this chapter, "license" means:
+31 (1) an unlimited license, permit, certificate, or certificate of
+32 registration;
+33 (2) a temporary, limited, or probationary license, permit,
+34 certificate, or certificate of registration;
+35 (3) an intern permit; or
+36 (4) a provisional license;
+37 issued by a board to a provider.
+38 Sec. 6. As used in this chapter, "program" refers to the health
+39 workforce student loan repayment program established by section
+40 9 of this chapter.
+41 Sec. 7. As used in this chapter, "provider" means any of the
+42 following:
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 14 ---
+12
+1 (1) A dentist licensed under IC 25-14.
+2  (2) A physician licensed under IC 25-22.5.
+3 (3) A nurse licensed under IC 25-23, including nursing faculty.
+4 (4) An occupational therapist licensed under IC 25-23.5.
+5 (5) A clinical social worker licensed under IC 25-23.6-5.
+6 (6) A marriage and family therapist licensed under
+7 IC 25-23.6-8.
+8 (7) A mental health counselor licensed under IC 25-23.6-8.5.
+9 (8) A clinical addiction counselor licensed under
+10 IC 25-23.6-10.5.
+11 (9) An optometrist licensed under IC 25-24.
+12 (10) A pharmacist licensed under IC 25-26.
+13 (11) A physical therapist licensed under IC 25-27.
+14 (12) A physician assistant licensed under IC 25-27.5-4.
+15 (13) A podiatrist licensed under IC 25-29.
+16 (14) A psychologist licensed under IC 25-33-1.
+17 (15) A speech-language pathologist licensed under IC 25-35.6.
+18 (16) An audiologist licensed under IC 25-35.6.
+19 Sec. 8. As used in this chapter, "state department" refers to the
+20 Indiana department of health.
+21 Sec. 9. The health workforce student loan repayment program
+22 is established. The state department shall administer the program.
+23 Sec. 10. (a) The health workforce advisory board is established
+24 under the executive branch of state government for the purpose of
+25 advising the state department on the administration of the
+26 program.
+27 (b) The advisory board consists of the following members:
+28 (1) The executive director of the professional licensing agency
+29 or the director's designee.
+30 (2) The commissioner of the department of workforce
+31 development or the commissioner's designee.
+32 (3) The secretary of family and social services or the
+33 secretary's designee.
+34 (4) The commissioner of the state department or the
+35 commissioner's designee.
+36 (5) The commissioner of the commission for higher education
+37 or the commissioner's designee.
+38 (6) The secretary of education or the secretary's designee.
+39 (7) One (1) member of the senate, appointed by the president
+40 pro tempore of the senate.
+41 (8) One (1) member of the house of representatives, appointed
+42 by the speaker of the house of representatives.
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 15 ---
+13
+1 (9) One (1) member who is a member of the Indiana
+2 commission to combat substance use disorder.
+3 (10) One (1) representative from the governor's workforce
+4 cabinet.
+5 (11) One (1) representative from the Indiana Hospital
+6 Association.
+7 (12) One (1) representative from the Indiana Rural Health
+8 Association.
+9 (13) One (1) representative from the Indiana Primary Health
+10 Care Association.
+11 (14) One (1) representative from the Indiana Minority Health
+12 Coalition.
+13 (15) One (1) representative from the Indiana Health Care
+14 Association.
+15 (16) One (1) representative from the Bowen Center for Health
+16 Workforce Research and Policy at Indiana University.
+17 (17) One (1) member who is a nurse licensed under IC 25-23-1
+18 or has held a license as a nurse in Indiana within the last five
+19 (5) years.
+20 (c) The members described in subsection (b)(9) through (b)(17)
+21 shall be appointed by the governor.
+22 (d) The members shall annually elect a chairperson of the
+23 advisory board.
+24 (e) A majority of the members of the advisory board constitutes
+25 a quorum. The affirmative votes of a majority of the voting
+26 members of the advisory board are required for the advisory
+27 board to take action.
+28 (f) A member of the advisory board who is a member of the
+29 general assembly is a nonvoting member of the advisory board.
+30 (g) An appointed member of the advisory board serves a:
+31 (1) one (1) year term, beginning July 1, 2025, and ending June
+32 30, 2026; and
+33 (2) two (2) year term thereafter, beginning July 1 of every
+34 odd-numbered year and ending June 30 of the following
+35 odd-numbered year.
+36 An appointed member may be reappointed at the conclusion of the
+37 member's term. An appointed member of the advisory board
+38 serves at the will of the member's appointing authority. If a
+39 vacancy occurs on the advisory board, the appointing authority
+40 that appointed the member whose position is vacant shall appoint
+41 an individual to fill the vacancy.
+42 (h) The advisory board:
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 16 ---
+14
+1 (1) shall meet at the call of the chairperson at least one (1)
+2 time each quarter during 2025 and each year thereafter; and
+3 (2) may meet at any time at the call of:
+4 (A) the chairperson; or
+5 (B) a majority of the members of the advisory board.
+6 (i) The state department shall staff the advisory board.
+7 (j) Except as provided in subsection (m), and subject to section
+8 11(d) of this chapter, the expenses of the advisory board shall be
+9 paid from the fund.
+10 (k) A member of the advisory board who is not a state employee
+11 is not entitled to the minimum salary per diem provided by
+12 IC 4-10-11-2.1(b). The member is, however, entitled to
+13 reimbursement for mileage and traveling expenses as provided
+14 under IC 4-13-1-4 and other expenses actually incurred in
+15 connection with the member's duties as provided in the state
+16 policies and procedures established by the Indiana department of
+17 administration and approved by the budget agency.
+18 (l) Each member of the advisory board who is a state employee,
+19 but who is not a member of the general assembly, is entitled to
+20 reimbursement for mileage and traveling expenses as provided
+21 under IC 4-13-1-4 and other expenses actually incurred in
+22 connection with the member's duties as provided in the state
+23 policies and procedures established by the Indiana department of
+24 administration and approved by the budget agency.
+25 (m) Each member of the advisory board who is a member of the
+26 general assembly is entitled to receive the same per diem, mileage,
+27 and travel allowances paid to legislative members of interim study
+28 committees established by the legislative council. Per diem,
+29 mileage, and travel allowances paid under this subsection shall be
+30 paid from appropriations made to the legislative council or the
+31 legislative services agency.
+32 Sec. 11. (a) The health workforce student loan repayment
+33 program fund is established for the purpose of providing funds to
+34 repay outstanding student loans of providers who meet the
+35 requirements of this chapter.
+36 (b) The fund consists of the following:
+37 (1) Appropriations made by the general assembly.
+38 (2) Fees collected under section 12 of this chapter.
+39 (3) Gifts, grants, devises, or bequests made to the state
+40 department to achieve the purposes of the fund.
+41 (c) The state department shall administer the fund.
+42 (d) The expenses of administering the fund shall be paid from
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 17 ---
+15
+1 money in the fund but may not exceed a total of one hundred
+2 thousand dollars ($100,000) each biennium.
+3 (e) Money in the fund is continuously appropriated to:
+4 (1) carry out the purposes of the fund; and
+5 (2) subject to subsection (d), cover the costs incurred by the
+6 state department in administering the program.
+7 (f) The state department shall establish a separate account
+8 within the fund for each board. On June 30, 2027, and on June 30
+9 every two (2) years thereafter, any money in a separate account
+10 established under this subsection reverts to the fund.
+11 (g) The treasurer of state shall invest the money in the fund not
+12 currently needed to meet the obligations of the fund in the same
+13 manner as other public funds may be invested. Interest that
+14 accrues from investments under this subsection must be deposited
+15 in the fund.
+16 (h) Money in the fund at the end of a state fiscal year does not
+17 revert to the state general fund but remains available to be used for
+18 the purposes of this chapter.
+19 Sec. 12. (a) Beginning not later than October 1, 2025, and in
+20 addition to any other fee imposed for the issuance or renewal of a
+21 license, each board shall, at the time a license is issued or renewed,
+22 collect a fee in the following amounts:
+23 (1) Ten dollars ($10), if a fee for the issuance or renewal of a
+24 license is not more than one hundred dollars ($100).
+25 (2) Twenty dollars ($20), if a fee for the issuance or renewal
+26 of a license is more than one hundred dollars ($100).
+27 (b) Each board shall deposit fees collected by the board under
+28 this section into the fund.
+29 Sec. 13. (a) Except as provided in subsection (c), the money in
+30 the fund shall be allocated and used as follows:
+31 (1) An amount that may not exceed one hundred thousand
+32 dollars ($100,000) each biennium shall remain in the fund for
+33 use by the state department to cover the costs incurred by the
+34 state department in administering the program.
+35 (2) An amount equal to the amount determined in STEP
+36 THREE of the following formula shall remain in the fund for
+37 use by the state department to award student loan repayment
+38 to an eligible provider under this chapter:
+39 STEP ONE: Determine the total amount of money in the
+40 fund minus any gifts, grants, devises, or bequests that have
+41 been directed to be used as described in subsection (b).
+42 STEP TWO: Subtract the amount retained by the state
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 18 ---
+16
+1 department under subdivision (1) from the amount
+2 determined under STEP ONE.
+3 STEP THREE: Determine the result of:
+4 (A) the amount determined under STEP TWO;
+5 multiplied by
+6 (B) fifty percent (50%).
+7 (3) An amount equal to the amount determined in STEP
+8 THREE of the following formula shall be transferred to each
+9 board's account for use by the respective board to award
+10 student loan repayment to eligible providers licensed by that
+11 board:
+12 STEP ONE: Subtract the amount determined in STEP
+13 THREE of subdivision (2) from the amount determined in
+14 STEP TWO of subdivision (2).
+15 STEP TWO: For each board, divide the total number of
+16 providers licensed by that board by the total number of
+17 providers licensed by all of the boards.
+18 STEP THREE: Multiply the amount determined under
+19 STEP ONE by the quotient determined under STEP TWO
+20 for each respective board.
+21 (b) A person providing a gift, grant, devise, or bequest to the
+22 fund may direct that the gift, grant, devise, or bequest be used for
+23 student loan repayments for eligible providers of a specific
+24 profession.
+25 (c) If a person has directed that a gift, grant, devise, or bequest
+26 be used for student loan repayments for eligible providers of a
+27 specific profession, the state department shall transfer the amount
+28 of the gift, grant, devise, or bequest to the applicable board's
+29 account for student loan repayments to eligible providers of that
+30 profession. A board may use a gift, grant, devise, or bequest
+31 described in this subsection only to award student loan repayments
+32 to eligible providers of the specified profession.
+33 Sec. 14. (a) The advisory board shall serve as a resource to the
+34 state department as the state department administers the program.
+35 (b) The advisory board shall advise the state department on the
+36 following:
+37 (1) The eligibility requirements for the program.
+38 (2) The eligible providers the advisory board recommends be
+39 awarded student loan repayments under this chapter.
+40 (3) Award amounts for the award of student loan repayments
+41 under this chapter.
+42 (4) Areas of need for workforce and workforce development
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 19 ---
+17
+1 in the respective professions that a board licenses.
+2 (c) The state department shall provide to each board all
+3 information:
+4 (1) obtained from the advisory board under this section; and
+5 (2) concerning the board's licensees.
+6 Sec. 15. (a) Beginning July 1, 2026, the state department and
+7 each board may award student loan repayments to any eligible
+8 provider who:
+9 (1) is a provider licensed by the board; and
+10 (2) meets the requirements of this chapter.
+11 (b) To be eligible to receive a student loan repayment award
+12 under this chapter, a provider must meet the following
+13 requirements:
+14 (1) Apply on a form prescribed by the state department.
+15 (2) Be a provider and practice a profession that is licensed by
+16 a board.
+17 (3) Have an outstanding student loan balance.
+18 (4) Provide essential services directly to Indiana residents.
+19 (5) Agree in writing to:
+20 (A) practice full time the applicable profession and provide
+21 essential services for a specified number of years in a
+22 health workforce shortage area in Indiana, as determined
+23 by the state department; and
+24 (B) meet any other requirements established by the state
+25 department.
+26 (6) Meet any other requirements established by the state
+27 department.
+28 (c) The state department shall determine the amount of a
+29 student loan repayment award that an eligible provider receives
+30 under this chapter.
+31 (d) If the state department or a board award s student loan
+32 repayment to an eligible provider under this chapter, the state
+33 department or board:
+34 (1) shall, subject to subdivision (3), make the student loan
+35 repayment award in an amount determined by the state
+36 department at the end of each state fiscal year;
+37 (2) shall transfer the student loan repayment award directly
+38 to the holder of the eligible provider's student loans; and
+39 (3) may not make the student loan repayment award to the
+40 eligible provider unless the eligible provider:
+41 (A) met the requirements of this chapter during that state
+42 fiscal year; and
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 20 ---
+18
+1 (B) has, for at least one (1) year, practiced full time the
+2 applicable profession and provided essential services in a
+3 health workforce shortage area as described in subsection
+4 (b)(5)(A).
+5 (e) The state department or a board may make student loan
+6 repayment awards to an eligible provider under this chapter until
+7 the balance of the eligible provider's student loans are paid in full.
+8 Sec. 16. (a) The state department shall prepare a report that
+9 includes the following:
+10 (1) The receipt, disbursement, and uses of money from the
+11 fund and the separate accounts within the fund.
+12 (2) The number of applications submitted for student loan
+13 repayment under the program.
+14 (3) The number and amount of student loan repayment
+15 awards that have been provided by the state department and
+16 each board.
+17 (4) An evaluation of the short and long term impact of the
+18 program on Indiana health workforce shortages.
+19 (5) Any other information collected concerning the fund,
+20 program , or student loan repayments awarded under this
+21 chapter.
+22 (b) Not later than July 1, 2027, and not later than July 1 every
+23 two (2) years thereafter, the state department shall submit the
+24 report described in subsection (a) to the following:
+25 (1) The governor.
+26 (2) The general assembly in an electronic format under
+27 IC 5-14-6.
+28 Sec. 17. The state department, in consultation with the advisory
+29 board, shall adopt rules under IC 4-22-2 to:
+30 (1) establish eligibility requirements to recei ve student loan
+31 repayment awards under the program; and
+32 (2) otherwise administer the program.
+33 Sec. 18. This chapter expires July 1, 2036.
+34 SECTION 15. IC 21-44-1-3, AS AMENDED BY P.L.190-2015,
+35 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+36 JULY 1, 2025]: Sec. 3. (a) "Board", for purposes of IC 21-44-5, refers
+37 to the medical education board established by IC 21-44-5-1.
+38 (b) "Board", for purposes of IC 21-44-6, refers to the mental health
+39 and addiction services development programs board established by
+40 IC 21-44-6-1.
+41 (c) (b) "Board", for purposes of IC 21-44-7, refers to the graduate
+42 medical education board established by IC 21-44-7-2.
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 21 ---
+19
+1 SECTION 16. IC 21-44-1-16 IS REPEALED [EFFECTIVE JULY
+2 1, 2025]. Sec. 16. "Training track program", for purposes of
+3 IC 21-44-6, refers to the program for individuals in the public sector
+4 psychiatry development program.
+5 SECTION 17. IC 21-44-6 IS REPEALED [EFFECTIVE JULY 1,
+6 2025]. (Mental Health Services Development Programs).
+7 SECTION 18. IC 25-14-5 IS REPEALED [EFFECTIVE JULY 1,
+8 2025]. (Dental Underserved Area and Minority Recruitment Program).
+9 SECTION 19. [EFFECTIVE UPON PASSAGE] (a) As used in this
+10 SECTION, "fund" refers to the Indiana rural hospital and critical
+11 health care services fund established by IC 16-46-18-3, as added by
+12 this act.
+13 (b) The legislative council is urged to assign to the appropriate
+14 study committee during the 2025 legislative interim the task of
+15 studying the following issues related to the fund:
+16 (1) The amount of funding necessary for the number and
+17 amounts of grants awarded from the fund to result in
+18 increased access to critical health care servi ces in counties
+19 with a population of less than fifty thousand (50,000).
+20 (2) The types of hospitals that should be eligible for a grant
+21 from the fund.
+22 (3) The requirements, if any, that a hospital should be
+23 required to meet to be eligible, or to maintain eligibility, for
+24 a grant from the fund, including potential requirements
+25 concerning particular health care services offered by the
+26 hospital.
+27 (c) This SECTION expires December 31, 2025.
+28 SECTION 20. [EFFECTIVE UPON PASSAGE] (a) The legislative
+29 council is urged to assign to the appropriate study committee
+30 during the 2025 legislative interim the task of studying the
+31 following topics:
+32 (1) Whether state funded telehealth expansion grants should
+33 be provided to hospitals that are located in counties with a
+34 population of less than fifty thousand (50,000) and that are:
+35 (A) critical access hospitals that meet the criteria under 42
+36 CFR 485.601 et seq.; or
+37 (B) hospitals owned and operated by the county under
+38 IC 16-22;
+39 for the purposes of expanding telehealth and telemedicine
+40 services, improving access to specialists, and reducing travel
+41 burdens for patients.
+42 (2) Whether the state should implement state funded rural
+2025 IN 1274—LS 7171/DI 147
+
+
+--- Page 22 ---
+20
+1 health care workforce training programs for health care
+2 professionals in rural areas that focus on:
+3 (A) helping health care professionals develop skills unique
+4 to rural health care needs; and
+5 (B) fostering partnerships between medical schools and
+6 rural hospitals to bring medical students to rural areas,
+7 including expanding and funding medical residencies in
+8 rural areas.
+9 (3) Increasing state funding for emergency medical services,
+10 including training and equipment grants and ongoing funding
+11 for operating expenses.
+12 (4) Whether the state should provide additional grants to
+13 hospitals that provide the following services:
+14 (A) An emergency department that operates twenty-four
+15 (24) hours a day, seven (7) days a week, three hundred
+16 sixty-five (365) days a year.
+17 (B) Full-time obstetric and maternal services.
+18 (C) Primary care services, including access to primary
+19 care providers for:
+20 (i) initial diagnosis and treatment of various health
+21 conditions; and
+22 (ii) managing chronic conditions.
+23 (D) Emergency medical services, unless the county
+24 government otherwise operates, maintains, or contracts for
+25 emergency medical services.
+26 (E) Cardiac care services, including providing
+27 electrocardiograms and managing acute cardiac events.
+28 (F) Stroke care services, including assessment and initial
+29 treatment of stroke patients.
+30 (G) Trauma care services, including basic trauma care
+31 capabilities, wound management and stabilization, and
+32 basic laboratory and diagnostic imaging capabilities.
+33 (H) Pharmacy services, including pharmacy services
+34 related to acute conditions and stabilization of chronic
+35 illnesses.
+36 (I) Pediatric emergency care services.
+37 (b) This SECTION expires December 31, 2025.
+38 SECTION 21. An emergency is declared for this act.
+2025 IN 1274—LS 7171/DI 147

@@ -1,0 +1,213 @@
+{
+  "bill_id": 1920882,
+  "change_hash": "a7e6d7c923caf7b3a03deb55193defef",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/HB1552/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/house/1552/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-21",
+  "progress": [
+    {
+      "date": "2025-01-21",
+      "event": 1
+    },
+    {
+      "date": "2025-01-21",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "HB1552",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "H",
+  "body_id": 37,
+  "current_body": "H",
+  "current_body_id": 37,
+  "title": "Coverage for treatment of chronic diseases.",
+  "description": "Coverage for treatment of chronic diseases. Requires a state employee health plan, a policy of accident and sickness insurance, and a health maintenance organization contract to provide coverage for anti-obesity medication and intensive behavioral and lifestyle therapy.",
+  "pending_committee_id": 1294,
+  "committee": {
+    "committee_id": 1294,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Insurance"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-21",
+      "committee_id": 1294,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Insurance"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-21",
+      "action": "Coauthored by Representatives Gore and Pfaff",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Authored by Representative Andrade",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-21",
+      "action": "First reading: referred to Committee on Insurance",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 22274,
+      "person_hash": "sbrjqmlq",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Mike Andrade",
+      "first_name": "Mike",
+      "middle_name": "",
+      "last_name": "Andrade",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-012",
+      "ftm_eid": 48871425,
+      "votesmart_id": 189663,
+      "opensecrets_id": "",
+      "knowwho_pid": 731033,
+      "ballotpedia": "Mike_Andrade",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    },
+    {
+      "people_id": 22016,
+      "person_hash": "j84xzrnb",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Mitch Gore",
+      "first_name": "Mitchell",
+      "middle_name": "Alan",
+      "last_name": "Gore",
+      "suffix": "",
+      "nickname": "Mitch",
+      "district": "HD-089",
+      "ftm_eid": 45272585,
+      "votesmart_id": 189695,
+      "opensecrets_id": "",
+      "knowwho_pid": 731220,
+      "ballotpedia": "Mitch_Gore",
+      "bioguide_id": "",
+      "sponsor_type_id": 2,
+      "sponsor_order": 2,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    },
+    {
+      "people_id": 20385,
+      "person_hash": "zt2nzhlt",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Tonya Pfaff",
+      "first_name": "Tonya",
+      "middle_name": "",
+      "last_name": "Pfaff",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-043",
+      "ftm_eid": 44858080,
+      "votesmart_id": 178110,
+      "opensecrets_id": "",
+      "knowwho_pid": 655011,
+      "ballotpedia": "Tonya_Pfaff",
+      "bioguide_id": "",
+      "sponsor_type_id": 2,
+      "sponsor_order": 3,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3058058,
+      "date": "2025-01-15",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/HB1552/id/3058058",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1552/HB1552.01.INTR.pdf",
+      "text_size": 100594,
+      "text_hash": "c7dd4dd7d783a6e8d15b98a8cfe11f4f",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 488761,
+      "date": "2025-01-15",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/HB1552/id/488761",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1552/fiscal-notes/HB1552.01.INTR.FN001.pdf",
+      "supplement_size": 62083,
+      "supplement_hash": "91cf0e9a7a015dc5d96bcaf990a6e92a",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

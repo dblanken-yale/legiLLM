@@ -1,0 +1,213 @@
+{
+  "bill_id": 1920107,
+  "change_hash": "09fe93f7d45b55b11a100988060fb789",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/SB0522/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/senate/522/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-16",
+  "progress": [
+    {
+      "date": "2025-01-16",
+      "event": 1
+    },
+    {
+      "date": "2025-01-16",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "SB0522",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "S",
+  "body_id": 38,
+  "current_body": "S",
+  "current_body_id": 38,
+  "title": "Maternal health matters.",
+  "description": "Maternal health matters. Prohibits step therapy protocol for prescription drugs prescribed for the treatment of postpartum mental health conditions. Requires a state employee health plan, a policy of accident and sickness insurance, and a health maintenance organization contract to provide coverage for: (1) postpartum mental health conditions; (2) a tubal ligation procedure; and (3) a vasectomy procedure; for certain individuals. Establishes a grant program to promote the installation of lactation rooms in public buildings. Requires the Indiana housing and community development authority (IHCDA) to administer the grant program. Authorizes public agencies to apply for grants. Establishes the Officer Breann Leath Memorial Prison Nursery (nursery) within a correctional facility determined by the commissioner of the department of correction (DOC). Specifies the criteria for operation, design, and implementation of the nursery and minimum standards that govern the nursery. Requires the DOC to provide an annual report to the legislative council concerning the nursery. Amends the statute requiring the DOC to adopt rules governing minimum standards for county jails to include the provision of menstrual discharge collection devices to inmates. Establishes the incarcerated women's maternal health fund to provide funds to support the nursery. Provides for Medicaid reimbursement for certified medical interpretation services for Medicaid recipients who have limited English proficiency when receiving Medicaid covered services from a Medicaid provider. Requires Medicaid pregnancy services to include reimbursement for doula services. Establishes the telephone assistance line for mothers program for the purpose of providing a telephone assistance line for mothers who are experiencing behavioral health issues to connect with health care practitioners to obtain behavioral health resources. Establishes the stillbirth prevention through fetal movement pilot program (program) for the purpose of providing evidence based information on the importance of tracking fetal movement in the third trimester of pregnancy to prevent stillbirths, to be administered by the Indiana department of health (state department). Allows the state department to award grants to increase education and the distribution of materials on tracking fetal movement in the third trimester of pregnancy. Requires grantees to report specified information on a quarterly and annual basis. Creates a fund and appropriates $250,000 for the program. Expires the program on December 31, 2027. Appropriates $5,000,000 to the IHCDA for deposit in the lactation room grant fund. Makes a continuing appropriation.",
+  "pending_committee_id": 1321,
+  "committee": {
+    "committee_id": 1321,
+    "chamber": "S",
+    "chamber_id": 38,
+    "name": "Health and Provider Services"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-16",
+      "committee_id": 1321,
+      "chamber": "S",
+      "chamber_id": 38,
+      "name": "Health and Provider Services"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-16",
+      "action": "Authored by Senator Hunley",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-16",
+      "action": "Coauthored by Senators Yoder and Jackson L",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-16",
+      "action": "First reading: referred to Committee on Health and Provider Services",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 23872,
+      "person_hash": "cw1rbt12",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 2,
+      "role": "Sen",
+      "name": "Andrea Hunley",
+      "first_name": "Andrea",
+      "middle_name": "",
+      "last_name": "Hunley",
+      "suffix": "",
+      "nickname": "",
+      "district": "SD-046",
+      "ftm_eid": 54902992,
+      "votesmart_id": 202027,
+      "opensecrets_id": "",
+      "knowwho_pid": 0,
+      "ballotpedia": "Andrea_Hunley",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    },
+    {
+      "people_id": 22087,
+      "person_hash": "dcvlp4vo",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 2,
+      "role": "Sen",
+      "name": "Shelli Yoder",
+      "first_name": "Shelli",
+      "middle_name": "",
+      "last_name": "Yoder",
+      "suffix": "",
+      "nickname": "",
+      "district": "SD-040",
+      "ftm_eid": 17657992,
+      "votesmart_id": 135982,
+      "opensecrets_id": "",
+      "knowwho_pid": 395644,
+      "ballotpedia": "Shelli_Yoder",
+      "bioguide_id": "",
+      "sponsor_type_id": 2,
+      "sponsor_order": 2,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    },
+    {
+      "people_id": 25505,
+      "person_hash": "u6qocaz0",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 2,
+      "role": "Sen",
+      "name": "La Keisha Jackson",
+      "first_name": "La Keisha",
+      "middle_name": "",
+      "last_name": "Jackson",
+      "suffix": "",
+      "nickname": "",
+      "district": "SD-034",
+      "ftm_eid": 60411165,
+      "votesmart_id": 158327,
+      "opensecrets_id": "",
+      "knowwho_pid": 0,
+      "ballotpedia": "La_Keisha_Jackson",
+      "bioguide_id": "",
+      "sponsor_type_id": 2,
+      "sponsor_order": 3,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3057315,
+      "date": "2025-01-15",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/SB0522/id/3057315",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/bills/SB0522/SB0522.01.INTR.pdf",
+      "text_size": 367222,
+      "text_hash": "239c50912b3fc0981c5227f7f6761520",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 488599,
+      "date": "2025-01-15",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/SB0522/id/488599",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/bills/SB0522/fiscal-notes/SB0522.01.INTR.FN001.pdf",
+      "supplement_size": 97122,
+      "supplement_hash": "cbdc2f96b6f1933113910b2cc59e73fb",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

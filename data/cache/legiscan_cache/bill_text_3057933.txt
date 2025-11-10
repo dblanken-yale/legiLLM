@@ -1,0 +1,237 @@
+--- Page 1 ---
+ 
+Introduced Version
+HOUSE BILL No. 1580
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 21-44-8; IC 34-30-2.1-293.5.
+Synopsis:  Parkinson's disease registry. Requires the Indiana
+University School of Medicine to collect data on the incidence of
+Parkinson's disease and establish a Parkinson's disease registry.
+Requires health care providers to report a diagnosis of Parkinson's
+disease and a related condition to the registry, and, if a patient agrees
+to the reporting, additional information concerning the medical
+treatment. Requires the health care provider to provide certain
+information to a patient diagnosed with Parkinson's disease or a related
+condition and to receive either permission or a denial to provide other
+information concerning the diagnosis and treatment. Requires that the
+information be confidential. Provides immunity to a person that
+provides information for the registry. Specifies persons that can obtain
+information from the registry. 
+Effective:  July 1, 2025.
+Hamilton,  Errington
+January 21, 2025, read first time and referred to Commi ttee on Public Health.
+2025 IN 1580—LS 7642/DI 104
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE BILL No. 1580
+A BILL FOR AN ACT to amend the Indiana Code concerning
+health.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 21-44-8 IS ADDED TO THE INDIANA CODE AS
+2 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2025]:
+4 Chapter 8. Parkinson's Disease Registry
+5 Sec. 1. As used in this chapter, "Parkinson's disease" means a
+6 chronic and progressive neurologic disorder resulting from
+7 deficiency of the neurotransmitter dopamine as the consequence of
+8 specific degenerative changes in the basal ganglia, characterized by
+9 the following:
+10 (1) Tremor at rest.
+11 (2) Slow movements.
+12 (3) Muscle rigidity.
+13 (4) Stooped posture.
+14 (5) Unsteady or shuffling gait.
+15 Sec. 2. As used in this chapter, "registry" refers to the
+16 Parkinson's disease registry established under section 3 of this
+17 chapter.
+2025 IN 1580—LS 7642/DI 104
+
+
+--- Page 3 ---
+2
+1 Sec. 3. (a) The Indiana University School of Medicine or an
+2 entity under an agreement described in subsection (h) shall collect
+3 data on the incidence of Parkinson's disease in Indiana and
+4 establish a Parkinson's disease registry.
+5 (b) The dean of the Indiana University School of Medicine shall
+6 oversee the registry and the collection of data under this chapter.
+7 (c) The Indiana University School of Medicine shall establish an
+8 advisory committee to do the following:
+9 (1) Assist in the development and implementation of the
+10 registry.
+11 (2) Determine the data to be collected for the registry,
+12 including the related conditions to be reported.
+13 (3) Advise the Indiana University School of Medicine
+14 concerning the data collection and registry.
+15 (d) The advisory committee must include at least one (1) of each
+16 of the following:
+17 (1) A general neurologist.
+18 (2) A movement disorder specialist.
+19 (3) A primary care physician.
+20 (4) A physician who practices clinical informatics.
+21 (5) A patient diagnosed with Parkinson's disease.
+22 (6) A public health staff member.
+23 (7) A population health researcher familiar with health
+24 related registries.
+25 (8) A Parkinson's disease researcher.
+26 (9) A clinical data management expert representative from
+27 the Regenstrief Institute.
+28 (10) Any other individual determined by the Indiana
+29 University School of Medicine to be able to assist with the
+30 establishment and implementation of the collection of data
+31 and the registry under this chapter.
+32 (e) The Indiana University School of Medicine shall establish a
+33 system for the collection and dissemination of information
+34 determining the incidence and prevalence of Parkinson's disease
+35 and related conditions.
+36 (f) The Indiana University School of Medicine may create,
+37 review, and revise a list of data points required to be reported to
+38 the registry under this chapter. The information to be reported
+39 must at least include the following:
+40 (1) Triggering diagnostic conditions, consistent with the most
+41 recent International Statistical Classification of Diseases and
+42 Related Health Problems (ICD).
+2025 IN 1580—LS 7642/DI 104
+
+
+--- Page 4 ---
+3
+1 (2) Case data, including the following:
+2 (A) Diagnosis.
+3 (B) Medical treatment.
+4 (C) Other treatment.
+5 (D) Survival.
+6 (g) The Indiana University School of Medicine must include
+7 notification of the mandatory reporting under this chapter as
+8 follows:
+9 (1) On the school's website.
+10 (2) To associations representing physicians and hospitals.
+11 (3) To the medical licensing board of Indiana.
+12 The notification must occur at least one hundred eighty (180) days
+13 before the registry is implemented and the reporting is required.
+14 (h) The Indiana University School of Medicine may enter into
+15 an agreement with an entity to do any of the following:
+16 (1) Collect the data for the registry.
+17 (2) Administer the registry.
+18 (i) Subject to subsection (j), the Indiana University School of
+19 Medicine may enter into any agreements with any of the following
+20 to provide data collected under this chapter:
+21 (1) Other state Parkinson's disease registries.
+22 (2) Federal Parkinson's disease control agencies.
+23 (3) Local health officers.
+24 (4) Health researchers studying Parkinson's disease.
+25 (5) An individual whose medical information has been
+26 included on the registry, who may have access solely to the
+27 individual's information unless the individual is also described
+28 in subdivisions (1) through (4).
+29 Before confidential information may be disclosed to a person
+30 described in this subsection, the requesting person must agree in
+31 writing to maintain the confidentiality of the information. A
+32 disclosure authorized by this subsection may include only the
+33 information necessary for the stated purpose of the requested
+34 disclosure, used for the approved purpose, and not further
+35 disclosed.
+36 (j) Before a health researcher described in subsection (i)(4) may
+37 receive confidential information, in addition to the requirements
+38 in subsection (i), the researcher shall do both of the following:
+39 (1) Obtain approval of the respective committee for the
+40 protection of human subjects established in accordance with
+41 45 CFR 46.101.
+42 (2) Provide documentation to the Indiana University School
+2025 IN 1580—LS 7642/DI 104
+
+
+--- Page 5 ---
+4
+1 of Medicine that demonstrates, to the school's satisfaction,
+2 that the researcher has established the procedures and ability
+3 to maintain the confidentiality of the information.
+4 (k) Except as otherwise provided in this section, all information
+5 collected under this chapter is confidential. The Indiana University
+6 School of Medicine shall use a coding system that removes any
+7 personal identifying information about the patient.
+8 (l) The Indiana University School of Medicine must maintain an
+9 accurate record of any person that is given access to confidential
+10 information under this section. The record must include the
+11 following:
+12 (1) The name of the person authorizing access.
+13 (2) The name, title, address, and organizational affiliation of
+14 the person given access.
+15 (3) The date of the access.
+16 (4) The specific purpose for which information is to be used.
+17 The record must be open to public inspection during regular
+18 business hours.
+19 Sec. 4. (a) A health care provider (as defined in IC 16-36-7-12)
+20 who diagnoses a patient with Parkinson's disease or a related
+21 condition shall do the following:
+22 (1) Notify a patient verbally and in writing about the registry
+23 and answer any questions the patient may have about the
+24 registry.
+25 (2) Ask the patient whether the patient would like to
+26 participate in the registry and provide medical information
+27 concerning the patient's Parkinson's disease diagnosis and
+28 treatment to the registry.
+29 (3) If the patient declines to participate in the data collection
+30 and registry:
+31 (A) certify in writing that the notification required under
+32 subdivision (1) was provided, the patient was offered the
+33 opportunity to ask any questions, and that the patient
+34 declined to participate in the registry; and
+35 (B) report to the registry only that the health care provider
+36 diagnosed an individual with Parkinson's disease or a
+37 related condition.
+38 (4) If the patient agrees to participate in the data collection
+39 and registry, provide the information to the registry in the
+40 manner prescribed by the Indiana University School of
+41 Medicine.
+42 (b) Each patient diagnosed with Parkinson's disease or a related
+2025 IN 1580—LS 7642/DI 104
+
+
+--- Page 6 ---
+5
+1 condition shall be notified about the registry and provided the
+2 opportunity to participate in providing data and inclusion in the
+3 registry. A health care provider, the Indiana University School of
+4 Medicine, or any other person may not require a patient to
+5 participate in the data collection or registry. However, if the
+6 patient declines to participate, the health care provider shall
+7 inform the patient that the patient's diagnosis of Parkinson's
+8 disease or a related condition will be reported to the registry but
+9 no other information will be provided.
+10 Sec. 5. A person that reports information to the registry under
+11 this chapter is immune from any civil or criminal liability that
+12 might otherwise be imposed because of the release of what is
+13 otherwise confidential information.
+14 Sec. 6. Notwithstanding any other law and except as otherwise
+15 provided in this chapter, the confidential information collected
+16 under this chapter may not be disclosed, is not discover able, and
+17 may not be compelled to be produced in any civil, criminal,
+18 administrative, or other proceeding. The confidential information
+19 is not admissible as evidence in any civil, criminal, administrative,
+20 or other tribunal or court for any reason. This section does not
+21 preclude an individual to whom the information pertains to access
+22 the individual's own information.
+23 Sec. 7. This chapter does not preclude a health care provider
+24 from providing diagnostic or treatment services to patients with
+25 Parkinson's disease to maintain the health care provider's own
+26 facility based Parkinson's disease data base or registry.
+27 SECTION 2. IC 34-30-2.1-293.5 IS ADDED TO THE INDIANA
+28 CODE AS A NEW SECTION TO READ AS FOLLOWS
+29 [EFFECTIVE JULY 1, 2025]: Sec. 293.5. IC 21-44-8-5 (Concerning
+30 a person that reports information to the Parkinson's disease
+31 registry).
+2025 IN 1580—LS 7642/DI 104

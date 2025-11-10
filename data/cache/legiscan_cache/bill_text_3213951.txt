@@ -1,0 +1,828 @@
+--- Page 1 ---
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+SENATE ENROLLED ACT No. 480
+AN ACT to amend the Indiana Code concerning insurance.
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1. IC 5-10-8-19, AS ADDED BY P.L.77-2018,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 19. A self-insurance program established under
+section 7(b) of this chapter to provide health care coverage shall
+comply with the prior authorization requirements that apply to a health
+plan utilization review entity under IC 27-1-37.5.
+SECTION 2. IC 27-1-37.5-1, AS AMENDED BY P.L.190-2023,
+SECTION 13, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 1. (a) Except as provided in sections 10, 11, 12,
+13, and 13.5 of this chapter, this chapter applies beginning September
+1, 2018.
+(b) (a) This chapter does not apply to a step therapy protocol
+exception procedure under IC 5-10-8-17, IC 27-8-5-30, or
+IC 27-13-7-23.
+(c) (b) This chapter does not apply to a health plan that is offered by
+a local unit public employer under a program of group health insurance
+provided under IC 5-10-8-2.6.
+(c) This chapter does not apply to health care services provided
+under the following state Medicaid waivers:
+(1) Pathways for aging.
+(2) Health and wellness.
+(d) This chapter does not apply to the extent that it is preempted
+SEA 480 — Concur
+
+
+--- Page 2 ---
+2
+by a federal statute or regulation relating to the Medicaid program
+under Title XIX of the federal Social Security Act (42 U.S.C. 1396
+et seq.).
+SECTION 3. IC 27-1-37.5-1.5, AS ADDED BY P.L.190-2023,
+SECTION 14, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 1.5. As used in this chapter, "adverse
+determination" means a denial of a request for benefits decision by a
+utilization review entity to deny, reduce, or terminate benefit
+coverage of a health care service furnished or proposed to be
+furnished to a covered individual on the grounds that the health care
+service: or item:
+(1) is not medically necessary, appropriate, effective, or efficient;
+(2) is not being provided in or at an appropriate health care setting
+or level of care; or
+(3) is experimental or investigational.
+SECTION 4. IC 27-1-37.5-1.6 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 1.6. As used in this chapter,
+"authorization" means a determination by a utilization review
+entity that:
+(1) a health care service:
+(A) has been reviewed; and
+(B) based on the information provided, satisfies the
+utilization review entity's requirements for medical
+necessity; and
+(2) payment will be made for the health care service.
+SECTION 5. IC 27-1-37.5-1.7, AS ADDED BY P.L.190-2023,
+SECTION 15, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 1.7. As used in this chapter, "clinical peer" means
+a practitioner or other health care provider who either: the following:
+(1) Except as provided in subdivision (3), for a review of a
+request from a physician, a physician who:
+(A) holds a current and valid license in any United States
+jurisdiction; under IC 25-22.5, (2) has been granted
+reciprocity in the state, under IC 25-1-21, if reciprocity exists,
+or (3) holds a license that is part of a compact in which the
+state Indiana has entered;
+(B) is certified in the same specialty as the physician under
+review, as recognized by:
+(i) the American Board of Medical Specialties; or
+(ii) the American Osteopathic Association; and
+(C) if the review specifically concerns subspecialty care, is
+SEA 480 — Concur
+
+
+--- Page 3 ---
+3
+certified in the same subspecialty as the physician under
+review, as recognized by:
+(i) the American Board of Medical Specialties; or
+(ii) the American Osteopathic Association.
+(2) For a review of a request from an advanced practice
+registered nurse, an advanced practice registered nurse who:
+(A) holds a current and valid license under IC 25-23-1 or
+has been granted reciprocity under IC 25-1-21, if
+reciprocity exists, or holds a license that is part of a
+compact in which Indiana has entered; and
+(B) holds equivalent or similar:
+(i) population focus; and
+(ii) role specialty;
+as the advanced practice registered nurse who is subject to
+the review.
+(3) For a review of a request from a primary care physician
+(as defined in IC 25-22.5-5.5-1.5), a physician who:
+(A) holds a current and valid license under IC 25-22.5, has
+been granted reciprocity under IC 25-1-21, if reciprocity
+exists, or holds a license that is part of a compact in which
+Indiana has entered;
+(B) is certified in the same general practice of medicine
+under review, as recognized by:
+(i) the American Board of Medical Specialties;
+(ii) the American Board of Pediatrics; or
+(iii) the American Osteopathic Association; and
+(C) has been actively engage d in general practice for at
+least three (3) years.
+(4) For a review of a request from a practitioner or health
+care provider other than those specified in subdivisions (1)
+through (3), a practitioner or health care provider who:
+(A) holds a current and valid license in Indiana;
+(B) has been granted reciprocity in Indiana, if reciprocity
+exists; or
+(C) holds a license that is part of a compact in which
+Indiana has entered.
+SECTION 6. IC 27-1-37.5-1.8 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 1.8. As used in this chapter,
+"clinical criteria" means:
+(1) written policies;
+(2) written screen procedures;
+SEA 480 — Concur
+
+
+--- Page 4 ---
+4
+(3) drug formularies or lists of covered drugs;
+(4) determination rules;
+(5) determination abstracts;
+(6) clinical protocols;
+(7) practice guidelines;
+(8) medical protocols; and
+(9) any other criteria or rationale;
+used by the utilization review entity to determine the medical
+necessity of a health care service.
+SECTION 7. IC 27-1-37.5-1.9 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 1.9. (a) As used in this chapter,
+"cosmetic surgery" means any procedure that:
+(1) is directed at improving the patient's appearance; and
+(2) does not meaningfully:
+(A) promote the proper function of the body; or
+(B) prevent or treat illness or disease.
+(b) The term does not include the following:
+(1) A procedure that is necessary to ameliorate a deformity
+arising from or directly related to a:
+(A) congenital abnormality;
+(B) personal injury resulting from an accident or trauma;
+or
+(C) disfiguring disease.
+(2) A procedure related to the treatment of breast cancer.
+SECTION 8. IC 27-1-37.5-2, AS ADDED BY P.L.77-2018,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 2. As used in this chapt er, "covered individual"
+means an individual who is covered under a health plan. The term
+includes a covered individual's legally authorized representative.
+SECTION 9. IC 27-1-37.5-3.7 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 3.7. As used in this chapter,
+"emergency health care service" means a health care service that
+is provided in an emergency facility after the sudden onset of a
+medical condition that manifests itself by symptoms of sufficient
+severity, including severe pain, that the absence of immediate
+medical attention could reasonably be expected by a prudent
+layperson who possesses average knowledge of health and medicine
+to:
+(1) place an individual's health in serious jeopardy;
+(2) result in serious impairment to the individual's bodily
+SEA 480 — Concur
+
+
+--- Page 5 ---
+5
+function; or
+(3) result in serious dysfunction of any bodily organ or part of
+the individual.
+SECTION 10. IC 27-1-37.5-3.8 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 3.8. As used in this chapter,
+"episode of care" means the medical care ordered to be provided
+for a specific medical procedure, condition, or illness.
+SECTION 11. IC 27-1-37.5-3.9 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025] : Sec. 3.9. (a) As used in this chapter,
+except as provided in subsection (b), "health care provider" means
+an individual who holds a license issued by a board described in
+IC 25-0.5-11.
+(b) The term does not include the following:
+(1) A dentist licensed under IC 25-14.
+(2) An optometrist licensed under IC 25-24.
+(3) A veterinarian licensed under IC 25-38.1.
+SECTION 12. IC 27-1-37.5-4, AS ADDED BY P.L.77-2018,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 4. (a) As used in this chapter, "health care service"
+means a health care related service or product rendered or sold
+procedure, treatment, or service provided by:
+(1) a health care facility (as defined in IC 16-18-2-161(a));
+(2) an ambulatory outpatient surgical center (as defined in
+IC 16-18-2-14); or
+(3) a health care provider within the scope of practice of the
+health care provider's license or legal authorization.
+including hospital, medical, surgical, mental health, and substance
+abuse services or products. The term includes the provision of
+pharmaceutical products or services or durable medical
+equipment.
+(b) The term does not include the following:
+(1) Dental services.
+(2) Vision services.
+(3) Long term rehabilitation treatment. Cosmetic surgery.
+(4) Pharmaceutical services or products.
+SECTION 13. IC 27-1-37.5-5.4 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 5.4. As used in this chapter,
+"medically necessary" means a health care service that a prudent
+health care provider would provide to a patient for the purpose of
+SEA 480 — Concur
+
+
+--- Page 6 ---
+6
+preventing, diagnosing, or treating an illness, injury, disease, or
+symptoms in a manner that is:
+(1) in accordance with generally accepted standards of
+medical practice;
+(2) clinically appropriate in terms of type, frequency, extent,
+site, and duration; and
+(3) not primarily for:
+(A) the economic benefit of the health plan or purchaser;
+or
+(B) the convenience of the health plan, patient, treating
+physician, or other health care provider.
+SECTION 14. IC 27-1-37.5-7, AS ADDED BY P.L.77-2018,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 7. As used in this chapter, "prior authorization"
+means a practice implemented by a health plan through which coverage
+of a health care service is dependent on the covered individual or
+health care provider obtaining approval from the health plan before the
+health care service is rendered. The term includes prospective or
+utilization review procedures conducted before a health care service is
+rendered. the process by which a utilization review entity
+determines the medical necessity of an otherwise covered health
+care service before the health care service is rendered. The term
+includes a utilization review entity's requirement that a covered
+individual or health care provider notify the utilization review
+entity prior to providing a health care service.
+SECTION 15. IC 27-1-37.5-8 IS REPEALED [EFFECTIVE JULY
+1, 2025]. Sec. 8. As used in this chapter, "urgent care situation" means
+a situation in which a covered individual's treating physician has
+determined that the covered individual's condition is likely to result in:
+(1) adverse health consequences or serious jeopardy to the
+covered individual's life, health, or safety; or
+(2) due to the covered individual's psychological state, serious
+jeopardy to the life, health, or safety of another individual;
+unless treatment of the covered individual's condition for which prior
+authorization is sought occurs earlier than the period generally
+considered by the medical profession to be reasonable to treat routine
+or non-life threatening conditions.
+SECTION 16. IC 27-1-37.5-8.1 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 8.1. As used in this chapter,
+"urgent health care service" means a health care service in which
+the application of the time period for making a nonexpedited prior
+SEA 480 — Concur
+
+
+--- Page 7 ---
+7
+authorization, in the opinion of a physician with knowledge of the
+covered individual's medical condition, could:
+(1) seriously jeopardize:
+(A) the life or health of the covered individual; or
+(B) the covered individual's ability to regain maximum
+function; or
+(2) subject the covered individual to severe pain that cannot
+be adequately managed without the health care service.
+The term includes a mental and behavioral health care service.
+SECTION 17. IC 27-1-37.5-8.3 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 8.3. As used in this chapter,
+"utilization review entity" means an individual or entity that
+performs prior authorization for one (1) or more of the following:
+(1) An employer who employs a covered individual.
+(2) A health plan.
+(3) A preferred provider organization.
+(4) Any other individual or entity that:
+(A) provides;
+(B) offers to provide; or
+(C) administers;
+hospital, outpatient, medical, prescription drug, or other
+health benefits to a covered individual.
+SECTION 18. IC 27-1-37.5-9 IS REPEALED [EFFECTIVE JULY
+1, 2025]. Sec. 9. (a) A health plan shall make available to participating
+providers on the health plan's Internet web site or portal the applicable
+CPT code for the specific health care services for which prior
+authorization is required.
+(b) A health plan shall make available to participating providers, on
+the health plan's Internet web site or portal, a list of the health plan's
+prior authorization requirements, including specific information that a
+provider must submit to establish a complete request for prior
+authorization. This subsection does not prevent a health plan from
+requiring specific additional information upon review of the request for
+prior authorization.
+(c) A health plan shall, not less than forty-five (45) days before the
+prior authorization requirement becomes effective, disclose to a
+participating provider any new prior authorization requirement.
+(d) A disclosure made under subsection (c) must:
+(1) be sent via electronic or United States mail and conspicuously
+labeled "Notice of Changes to Prior Authorization Requirements";
+and
+SEA 480 — Concur
+
+
+--- Page 8 ---
+8
+(2) specifically identify the location on the health plan's Internet
+web site or portal of the new prior authorization requirement.
+However, a health plan is considered to have met the requirements of
+this subsection if the health plan conspicuously posts the information
+required by this subsection, including the effective date of the new
+prior authorization requirement, on the health plan's Internet web site.
+(e) A participating provider shall, not more than seven (7) days after
+the change is made, notify the health plan of a change in the
+participating provider's electronic or United States mail address.
+SECTION 19. IC 27-1-37.5-10, AS ADDED BY P.L.208-2018,
+SECTION 8, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 10. (a) This section applies to a request for prior
+authorization delivered to a health plan after December 31, 2019. does
+not apply to prior authorization for a prescription drug.
+(b) A health plan utilization review entity shall accept a request for
+prior authorization delivered to the health plan utilization review
+entity by a covered individual's health care provider through a secure
+electronic transmission or an application programming interface. A
+health care provider shall submit a request for prior authorization
+through a secure electronic transmission or an application
+programming interface. A health plan utilization review entity shall
+provide for:
+(1) a secure electronic transmission or an application
+programming interface; and
+(2) acknowledgment of receipt, by use of a transaction number or
+another reference code;
+of a request for prior authorization and any supporting information.
+(c) Subsection (b) does not apply and a health plan utilization
+review entity that requires prior authorization shall accept a request for
+prior authorization that is not submitted through a secure electronic
+transmission or an application programming interface if a covered
+individual's health care provider and the health plan utilization review
+entity have entered into an agreement under which the health plan
+utilization review entity agrees to process prior authorization requests
+that are not submitted through a secure electronic transmission or an
+application programming interface because:
+(1) a secure electronic transmission or an application
+programming interface of prior authorization requests would
+cause financial hardship for the health care provider;
+(2) the area in which the health care provider is located lacks
+sufficient Internet access; or
+(3) the health care provider has an insufficient number of covered
+SEA 480 — Concur
+
+
+--- Page 9 ---
+9
+individuals as patients or customers, as determined by the
+commissioner, to warrant the financial expense that compliance
+with subsection (b) would require.
+(d) If a covered individual's health care provider is described in
+subsection (c), the health plan utilization review entity shall accept
+from the health care provider a request for prior authorization as
+follows:
+(1) The prior authorization request must be made on the
+standardized prior authorization form established by the
+department under section 16 of this chapter.
+(2) The health plan utilization review entity shall provide for a
+secure electronic transmission or an application programming
+interface and acknowledgement acknowledgment of receipt of
+the standardized prior authorization form and any supporting
+information for the prior authorization by use of a transaction
+number or another reference code.
+SECTION 20. IC 27-1-37.5-11 IS REPEALED [EFFECTIVE JULY
+1, 2025]. Sec. 11. (a) This section applies to a prior authorization
+request delivered to a health plan after December 31, 2019.
+(b) A health plan shall respond to a request delivered under section
+10 of this chapter as follows:
+(1) If the request is delivered under section 10(b) of this chapter,
+the health plan shall immediately send to the requesting health
+care provider an electronic receipt for the request.
+(2) If the request  is for an urgent care situation, the health plan
+shall respond with a prior authorization determination not more
+than forty-eight (48) hours after receiving the request.
+(3) If the request is for a nonurgent care situation, the health plan
+shall respond with a prior authorization determination not more
+than five (5) business days after receiving the request.
+(c) If a request delivered under section 10 of this chapter is
+incomplete:
+(1) the health plan shall respond within the period required by
+subsection (b) and indicate the specific additional information
+required to process the request;
+(2) if the request was delivered under section 10(b) of this
+chapter, upon receiving the response under subdivision (1), the
+health care provider shall immediately send to the health plan an
+electronic receipt for the response made under subdivision (1);
+and
+(3) if the request is for an urgent care situation, the health care
+provider shall respond to the request for additional information
+SEA 480 — Concur
+
+
+--- Page 10 ---
+10
+not more than forty-eight (48) hours after the health care provider
+receives the response under subdivision (1).
+(d) If a request delivered under section 10 of this chapter is denied,
+the health plan shall respond within the period required by subsection
+(b) and indicate the specific reason for the denial in clear and easy to
+understand language.
+SECTION 21. IC 27-1-37.5-12, AS ADDED BY P.L.77-2018,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 12. (a) This section applies to a claim for a health
+care service rendered by a participating health care provider:
+(1) for which:
+(A) prior authorization is requested after December 31, 2019;
+June 30, 2025; and
+(B) a health plan utilization review entity gives prior
+authorization; and
+(2) that is rendered in accordance with
+(A) the prior authorization. and
+(B) all terms and conditions of the participating provider's
+agreement or contract with the health plan.
+(b) The health plan utilization review entity shall not deny the
+claim described in subsection (a) unless:
+(1) the:
+(A) request for prior authorization; or
+(B) claim;
+contains fraudulent or materially incorrect information; or
+(1) the health care provider knowingly and materially
+misrepresented the health care service in the prior
+authorization request with the specific intent to deceive and
+obtain an unlawful payment from the utilization review
+entity;
+(2) the health care service was no longer a covered benefit on
+the date the health care service was provided;
+(3) the health care provider was no longer contracted with the
+patient's health plan on the date the health care service was
+provided;
+(4) the health care provider failed to meet the utilization
+review entity's timely filing requirements;
+(5) the utilization review entity does not have liability for the
+claim; or
+(2) (6) the covered individual is patient was not covered under
+the health plan on the date on which the health care service is was
+rendered.
+SEA 480 — Concur
+
+
+--- Page 11 ---
+11
+(c) If:
+(1) the claim described in subsection (a) contains an unintentional
+and inaccurate inconsistency with the request for prior
+authorization; and
+(2) the inconsistency results in denial of the claim;
+the health care provider may resubmit the claim with accurate,
+corrected information.
+SECTION 22. IC 27-1-37.5-13, AS ADDED BY P.L.77-2018,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 13. (a) This section applies to a claim filed after
+December 31, 2018, June 30, 2025, for a medically necessary health
+care service rendered by a participating health care provider, the
+necessity of which:
+(1) is not anticipated at the time prior authorization is obtained for
+of scheduling another health care service that:
+(A) was authorized by the utilization review entity; or
+(B) is not subject to a prior authorization requirement; and
+(2) is determined at the time the other health care service is
+rendered.
+(b) A utilization review entity may not:
+(1) require retrospective review of; or
+(2) deny a claim based solely on lack of prior authorization
+for;
+an unanticipated health care service described in subsection (a).
+(c) A health care provider that renders an unanticipated health
+care service described in subsection (a) shall submit to the
+utilization review entity documentation explaining why the
+unanticipated health care service was medically necessary.
+(b) The health plan shall not deny a claim described in subsection
+(a) based solely on lack of prior authorization for the unanticipated
+health care service.
+(c) The health plan:
+(1) shall not deny payment for a health care service that is
+rendered in accordance with:
+(A) a prior authorization; and
+(B) all terms and conditions of the participating provider's
+agreement or contract with the health plan; and
+(2) may:
+(A) require retrospective review of; and
+(B) withhold payment for;
+an unanticipated health care service described in subsection (a).
+SECTION 23. IC 27-1-37.5-13.7 IS ADDED TO THE INDIANA
+SEA 480 — Concur
+
+
+--- Page 12 ---
+12
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 13.7. (a) This section does not
+apply to the following:
+(1) A state employee health plan (as defined in
+IC 5-10-8-6.7(a)).
+(2) The Medicaid program.
+(b) A utilization review entity may not require prior
+authorization for the first twelve (12):
+(1) physical therapy; or
+(2) chiropractic;
+visits of each new episode of care.
+SECTION 24. IC 27-1-37.5-14, AS ADDED BY P.L.77-2018,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 14. A provision that:
+(1) is contained in a policy or contract that is entered into,
+amended, or renewed after June 30, 2018; 2025; and
+(2) contradicts this chapter;
+is void.
+SECTION 25. IC 27-1-37.5-15, AS ADDED BY P.L.77-2018,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 15. A violation of this chapter by a health plan
+utilization review entity is an unfair or deceptive act or practice in the
+business of insurance under IC 27-4-1-4.
+SECTION 26. IC 27-1-37.5-16, AS AMENDED BY P.L.265-2019,
+SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 16. (a) Except as provided in subsection (b), the
+department shall establish, post, and maintain on the department's
+Internet web site website a standardized prior authorization form for
+use by health care providers and health plans utilization review
+entities for purposes of any notice or authorization required by a health
+plan utilization review entity with respect to payment for a health care
+service rendered to a covered individual.
+(b) After December 31, 2020, a Medicaid manag ed care
+organization (as defined in IC 12-7-2-126.9) shall use a standardized
+prior authorization form prescribed by the office of the secretary of
+family and social services.
+SECTION 27. IC 27-1-37.5-17, AS ADDED BY P.L.190-2023,
+SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 17. (a) As used in this section, "necessary
+information" includes the results of any face-to-face clinical evaluation,
+second opinion, or other clinical information that is directly applicable
+to the requested health care service that may be required.
+SEA 480 — Concur
+
+
+--- Page 13 ---
+13
+(b) If a health plan utilization review entity makes an adverse
+determination on a prior authorization request by a covered individual's
+health care provider, the health plan utilization review entity must
+offer the covered individual's health care provider the option to request
+a peer to peer review by a clinical peer concerning the adverse
+determination.
+(c) A covered individual's health care provider may request a peer
+to peer review by a clinical peer either in writing or electronically.
+(d) If a peer to peer review by a clinical peer is requested under this
+section:
+(1) the health plan's utilization review entity's clinical peer and
+the covered individual's health care provider or the health care
+provider's designee shall make every effort to provide the peer to
+peer review not later than seven (7) business days forty-eight
+(48) hours (excluding weekends and state and federal legal
+holidays) from the date of receipt by the health plan after the
+utilization review entity receives of the request by the covered
+individual's health care provider for a peer to peer review if the
+health plan utilization review entity has received the necessary
+information for the peer to peer review; and
+(2) the health plan utilization review entity must have the peer
+to peer review conducted between the clinical peer and the
+covered individual's health care provider or the provider's
+designee.
+SECTION 28. IC 27-1-37.5-19 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 19. (a) A utilization review entity
+shall make any current prior authorization requirements and
+restrictions, including written clinical criteria, readily accessible on
+the utilization review entity's website to covered individuals, health
+care providers, and the general public. The prior authorization
+requirements and restrictions must be described in detail and in
+easily understandable language.
+(b) A utilization review entity may not implement a new prior
+authorization requirement or restriction or amend an existing
+requirement or restriction unless:
+(1) the utilization review entity's website has been updated to
+reflect the new or amended requirement or restriction; and
+(2) the utilization review entity provides written notice to
+covered individuals and health care providers at least sixty
+(60) days before the requirement or restriction is
+implemented.
+SEA 480 — Concur
+
+
+--- Page 14 ---
+14
+(c) A utilization review entity shall make statistics available
+regarding prior authorization approvals and denials on the
+utilization review entity's website in a read ily accessible format,
+including statistics for the following categories:
+(1) Health care provider specialty.
+(2) Medication or diagnostic test or procedure.
+(3) Indication offered.
+(4) Reason for denial.
+(5) If a decision was appealed.
+(6) If a decision was approved or denied on appeal.
+(7) The time between submission and the response.
+(d) Not later than December 31 of each year, a utilization review
+entity shall:
+(1) prepare a report of the statistics compiled under
+subsection (c); and
+(2) submit the report to the department.
+SECTION 29. IC 27-1-37.5-20 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 20. (a) A utilization review entity
+must ensure that:
+(1) all:
+(A) adverse determinations based on medical necessity are
+made; and
+(B) appeals are reviewed and decided;
+by a clinical peer; and
+(2) when making an adverse determination based on medical
+necessity or reviewing and deciding an appeal, the clinical
+peer is under the clinical direction of a medical director of the
+utilization review entity who is:
+(A) responsible for the provision of health care services
+provided to covered individuals; and
+(B) a physician licensed in Indiana under IC 25-22.5.
+(b) An appeal may not be reviewed or decided by a clinical peer
+who:
+(1) has a financial interest in the outcome of the appeal; or
+(2) was involved in making the adverse determination that is
+the subject of the appeal.
+SECTION 30. IC 27-1-37.5-21 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 21. A clinical peer who:
+(1) makes an adverse determination; or
+(2) reviews and decides an appeal;
+SEA 480 — Concur
+
+
+--- Page 15 ---
+15
+owes a duty to the covered individual to exercise the applicable
+standard of care.
+SECTION 31. IC 27-1-37.5-23 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 23. (a) The time frames set forth
+in this section do not include weekends and state and federal legal
+holidays.
+(b) A utilization review entity shall respond to a request for
+prior authorization as follows:
+(1) If the request for prior authorization is for an urgent
+health care service, the utilization review entity shall respond
+with an authorization or adverse determination not later than
+twenty-four (24) hours after receiving the request.
+(2) If the request for prior authorization is:
+(A) for a health care service other than the health care
+services described in subdivision (1); or
+(B) for a prescription drug;
+the utilization review entity shall respond with an
+authorization or adverse determination not later than
+forty-eight (48) hours after receiving the request.
+(c) If a utilization review entity issues an adverse determination
+in a response under subsection (b), the response must include the
+following information:
+(1) Specific reasons for the adverse determination.
+(2) Suggested alternatives to the requested health care service.
+(d) A health care provider shall respond not later than
+forty-eight (48) hours after receiving an adverse determination
+under subsection (b) if the health care provider:
+(1) needs to correct a typographical, clerical, or spelling
+error; or
+(2) accepts an alternative suggested by the utilization review
+entity.
+(e) Not later than forty-eight (48) hours after receiving a health
+care provider's response under subsection (d), the utilization
+review entity shall:
+(1) render a prior authorization or adverse determination
+based on the information provided in the health care
+provider's response; and
+(2) notify the health care provider of the authorization or
+adverse determination.
+(f) A health care provider may appeal an adverse determination
+received under subsection (b) or (e). The health care provider shall
+SEA 480 — Concur
+
+
+--- Page 16 ---
+16
+notify the utilization review entity of an appeal not later than
+forty-eight (48) hours after receiving notice of the adverse
+determination.
+(g) A utilization review entity shall respond to an appeal under
+subsection (f) not later than forty-eight (48) hours after receiving
+notice of the appeal.
+SECTION 32. IC 27-1-37.5-24 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 24. (a) A utilization review entity
+shall allow a covered individual and a covered individual's health
+care provider at least twenty-four (24) hours (excluding weekends
+and state and federal legal holidays) after an emergency admission
+or provision of emergency health care servi ces for the covered
+individual or health care provider to notify the utilization review
+entity of the emergency admission or provision of the emergency
+health care service.
+(b) A utilization review entity shall cover emergency health care
+services necessary to screen and stabilize a covered individual. If
+a health care provider certifies in writing to a utilization review
+entity not later than seventy-two (72) hours (excluding weekends
+and state and federal legal holidays) after a covered individual's
+emergency admission that the covered individual's condition
+required the emergency health care service, the certification will
+create a presumption that the emergency health care service was
+medically necessary. The presumption may be rebutted only if the
+utilization review entity can establish, with clear and convincing
+evidence, that the emergency health care service was not medically
+necessary.
+(c) The medical necessity of an emergency health care service
+may not be based on whether the service was provided by a
+participating or nonparticipating provider. Any restriction on the
+coverage of an emergency health care service provided by a
+nonparticipating provider may not be greater than the restriction
+that applies when the service is provided by a participating
+provider.
+SECTION 33. IC 27-1-37.5-25 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 25. A utilization review entity
+may not revoke, limit, condition, or restrict an authorization if the
+health care provider begins providing the health care service not
+later than forty-five (45) days (excluding weekends and state and
+federal legal holidays) after the date the health care provider
+SEA 480 — Concur
+
+
+--- Page 17 ---
+17
+received the authorization.
+SECTION 34. IC 27-1-37.5-26 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 26. (a) The authorization periods
+in this section do not apply if:
+(1) the health care provider has not begun providing the
+health care service within forty-five (45) days (excluding
+weekends and state and federal legal holidays) after receiving
+the authorization as set forth in section 25 of this chapter; and
+(2) the utilization review entity revokes, limits, conditions, or
+restricts the authorization.
+(b) An authorization for a health care service shall be valid for
+at least one (1) year after the date the health care provider receives
+the authorization.
+(c) The authorization period under subsection (b) is effective
+regardless of any changes in dosage for a prescription drug
+prescribed by the health care provider.
+SECTION 35. IC 27-1-37.5-27 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 27. (a) A utilization review entity
+shall honor an authorization that was granted to a covered
+individual by a previous utilization review entity for at least the
+initial ninety (90) days of the covered individual's coverage under
+a new health plan if:
+(1) the utilization review entity receives information
+documenting the authorization from the covered individual or
+the covered individual's health care provider; and
+(2) the authorization is for a health care service that is
+covered under the new health plan.
+(b) During the time period described in subsection (a), a
+utilization review entity may perform its own review of the prior
+authorization request.
+(c) If there is a change in:
+(1) coverage of; or
+(2) approval criteria for;
+a previously authorized health care service, the change in coverage
+or approval criteria may not affect a covered  individual who
+received authorization before the effective date of the change for
+the remainder of the plan year.
+(d) A utilization review entity shall continue to honor an
+authorization that the utilization review entity granted to a covered
+individual when the covered individual changes products under the
+SEA 480 — Concur
+
+
+--- Page 18 ---
+18
+same health insurance company.
+SECTION 36. IC 27-1-37.5-28 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 28. If a utilization review entity
+fails to comply with the deadlines or other requirements under this
+chapter, the health care service subject to prior authorization shall
+be automatically deemed authorized by the utilization review
+entity.
+SECTION 37. IC 27-8-5.7-12 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025] : Sec. 12. (a) This section applies to a
+policy of accident and sickness insurance that is issued, delivered,
+amended, or renewed after June 30, 2025.
+(b) An insurer may not deny a claim for reimbursement for a
+covered service or item provided to an insured on the sole basis
+that the referring provider is an out of network provider.
+SECTION 38. IC 27-13-36.2-10 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 10. (a) This section applies to an
+individual contract and a group contract that is entered into,
+delivered, amended, or renewed after June 30, 2025.
+(b) A health maintenance organization may not deny a claim for
+reimbursement for a covered service or item provided to an
+enrollee on the sole basis that the referring provider is an out of
+network provider.
+SEA 480 — Concur
+
+
+--- Page 19 ---
+President of the Senate
+President Pro Tempore
+Speaker of the House of Representatives
+Governor of the State of Indiana
+Date: Time: 
+SEA 480 — Concur

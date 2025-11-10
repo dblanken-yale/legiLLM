@@ -1,0 +1,242 @@
+{
+  "bill_id": 1911444,
+  "change_hash": "d035a094fe611a060f27bcfcb9719bff",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/SB0270/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/senate/270/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-13",
+  "progress": [
+    {
+      "date": "2025-01-13",
+      "event": 1
+    },
+    {
+      "date": "2025-01-13",
+      "event": 9
+    },
+    {
+      "date": "2025-01-30",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "SB0270",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "S",
+  "body_id": 38,
+  "current_body": "S",
+  "current_body_id": 38,
+  "title": "Coverage of orthotic and prosthetic devices.",
+  "description": "Coverage of orthotic and prosthetic devices. Sets forth requirements for coverage of orthotic devices and prosthetic devices by a state employee health plan, a policy of accident and sickness insurance, and a health maintenance organization contract. Requires, not later than October 1, 2026, the state personnel department, an insurer that issues a policy of accident and sickness insurance, and a health maintenance organization to submit a report to the insurance commissioner regarding the total number of claims and the total amount of claims paid for orthotic devices and prosthetic devices during the preceding plan year. Requires the insurance commissioner to: (1) aggregate the data received in the reports regarding coverage of orthotic devices and prosthetic devices; and (2) report the aggregated data, not later than December 1, 2026, to the standing committees of the house of representatives and the senate that consider insurance matters. Makes corresponding changes.",
+  "pending_committee_id": 1324,
+  "committee": {
+    "committee_id": 1324,
+    "chamber": "S",
+    "chamber_id": 38,
+    "name": "Insurance & Financial Institutions"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-13",
+      "committee_id": 1334,
+      "chamber": "S",
+      "chamber_id": 38,
+      "name": "Rules and Legislative Procedure"
+    },
+    {
+      "date": "2025-01-30",
+      "committee_id": 1324,
+      "chamber": "S",
+      "chamber_id": 38,
+      "name": "Insurance & Financial Institutions"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-13",
+      "action": "Authored by Senator Yoder",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading: referred to Committee on Rules and Legislative Procedure",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 1
+    },
+    {
+      "date": "2025-01-30",
+      "action": "Committee report: amend do pass adopted; reassigned to Committee on Insurance and Financial Institutions",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 1
+    },
+    {
+      "date": "2025-01-30",
+      "action": "Senator Yoder removed as author",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-30",
+      "action": "Senator Hunley added as author",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 0
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 23872,
+      "person_hash": "cw1rbt12",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 2,
+      "role": "Sen",
+      "name": "Andrea Hunley",
+      "first_name": "Andrea",
+      "middle_name": "",
+      "last_name": "Hunley",
+      "suffix": "",
+      "nickname": "",
+      "district": "SD-046",
+      "ftm_eid": 54902992,
+      "votesmart_id": 202027,
+      "opensecrets_id": "",
+      "knowwho_pid": 0,
+      "ballotpedia": "Andrea_Hunley",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3048171,
+      "date": "2025-01-10",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/SB0270/id/3048171",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/bills/SB0270/SB0270.01.INTR.pdf",
+      "text_size": 68083,
+      "text_hash": "cc1f7f2dd528d87412bf8b2e0a331fe5",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    },
+    {
+      "doc_id": 3092641,
+      "date": "2025-01-30",
+      "type": "Comm Sub",
+      "type_id": 2,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/SB0270/id/3092641",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/bills/SB0270/SB0270.02.COMS.pdf",
+      "text_size": 267115,
+      "text_hash": "8a72ad232c641ea30b609862a887831f",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 487090,
+      "date": "2025-01-10",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/SB0270/id/487090",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/bills/SB0270/fiscal-notes/SB0270.01.INTR.FN001.pdf",
+      "supplement_size": 42952,
+      "supplement_hash": "e54fec58cdc4f1459c6ba639d4782c6a",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    },
+    {
+      "supplement_id": 499844,
+      "date": "2025-01-30",
+      "type": "Misc",
+      "type_id": 7,
+      "title": "Committee Report",
+      "description": " Committee Report",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/SB0270/id/499844",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/bills/SB0270/committee-reports/SB0270.01.INTR.CRS001.pdf",
+      "supplement_size": 110084,
+      "supplement_hash": "02ca11f0027b7f755fe4719cdfb9cef4",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    },
+    {
+      "supplement_id": 501177,
+      "date": "2025-01-31",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Senate Comm Sub",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/SB0270/id/501177",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/bills/SB0270/fiscal-notes/SB0270.02.COMS.FN001.pdf",
+      "supplement_size": 69525,
+      "supplement_hash": "8a06ce1abbc4fedf74563c7bce27a611",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

@@ -1,0 +1,1719 @@
+--- Page 1 ---
+*HB1586.1*
+January 27, 2025
+HOUSE BILL No. 1586
+_____
+DIGEST OF  HB 1586 (Updated January 22, 2025 2:44 pm - DI 1 40)
+Citations Affected:  IC 12-15; IC 16-21; IC 27-1; noncode.
+Synopsis:  Medicaid funding. Makes changes in Medicaid payment
+formulas and assessment of the hospital assessment fee. Extends the
+law governing the hospital assessment fee to June 30, 2027. Authorizes
+a managed care organization assessment fee. 
+Effective:  Upon passage.
+Barrett,  Manning
+January 21, 2025, read first time and referred to Commi ttee on Public Health.
+January 27, 2025, reported — Do Pass. Referred to Commi ttee on Ways and Means
+pursuant to Rule 126.3.
+HB 1586—LS 7548/DI 51
+
+
+--- Page 3 ---
+January 27, 2025
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provi sion is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE BILL No. 1586
+A BILL FOR AN ACT to amend the Indiana Code concerning
+Medicaid.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 12-15-16-1, AS AMENDED BY P.L.76-2018,
+2 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 UPON PASSAGE]: Sec. 1. (a) A provider that is an acute care hospital
+4 licensed under IC 16-21, a state mental health institution under
+5 IC 12-24-1-3, or a private psychiatric institution licensed under
+6 IC 12-25 is a disproportionate share provider if the provider meets
+7 either of the following conditions:
+8 (1) The provider's Medicaid inpatient utilization rate is at least
+9 one (1) standard deviation above the mean Medicaid inpatient
+10 utilization rate for providers receiving Medicaid payments in
+11 Indiana. However, the Medicaid inpatient utilization rate of
+12 providers whose low income utilization rate exceeds twenty-five
+13 percent (25%) must be excluded in calculating the statewide
+14 mean Medicaid inpatient utilization rate.
+15 (2) The provider's low income utilization rate exceeds twenty-five
+16 percent (25%).
+17 (b) An acute care hospital licensed under IC 16-21 is a municipal
+HB 1586—LS 7548/DI 51
+
+
+--- Page 4 ---
+2
+1 disproportionate share provider if the hospital:
+2 (1) has a Medicaid utilization rate greater than one percent (1%);
+3 and
+4 (2) is established and operated under IC 16-22-2 or IC 16-23.
+5 (c) A community mental health center:
+6 (1) that is identified in IC 12-29-2-1;
+7 (2) for which a county provides funds under:
+8 (A) IC 12-29-1-7(b) before January 1, 2004; or
+9 (B) IC 12-29-2 after December 31, 2018;
+10 or from other county sources; and
+11 (3) that provides inpatient services to Medicaid patients;
+12 is a community mental health center disproportionate share provider if
+13 the community mental health center's Medicaid inpatient utilization
+14 rate is greater than one percent (1%).
+15 (d) A disproportionate share provider under IC 12-15-17 must have
+16 at least two (2) obstetricians who have staff privileges and who have
+17 agreed to provide obstetric services under the Medicaid program. For
+18 a hospital located in a rural area (as defined in Section 1886 of the
+19 Social Security Act), an obstetrician includes a physician with staff
+20 privileges at the hospital who has agreed to perform nonemergency
+21 obstetric procedures. However, this obstetric service requirement does
+22 not apply to a provider whose inpatients are predominantly individuals
+23 less than eighteen (18) years of age or that did not offer nonemergency
+24 obstetric services as of December 21, 1987.
+25 (e) The determination of a provider's status as a disproportionate
+26 share provider under this section shall be based on utilization and
+27 revenue data from the most recent year for which an audited cost report
+28 from the provider is on file with the office.
+29 (f) This section does not apply for a state fiscal year for which
+30 the state directed payment program under IC 16-21-10-8(a)(3) is
+31 in effect.
+32 SECTION 2. IC 12-15-16-5 IS AMENDED TO READ AS
+33 FOLLOWS [EFFECTIVE UPON PASSAGE]: Sec. 5. (a) The office
+34 may not implement this chapter, IC 12-15-17, IC 12-15-18,
+35 IC 12-15-19, or IC 12-15-20 until the federal Centers for Medicare and
+36 Medicaid Services has issued its approval of the amended state plan for
+37 medical assistance.
+38 (b) The office may determine not to continue to implement this
+39 chapter, IC 12-15-17, IC 12-15-18, IC 12-15-19, and IC 12-15-20 if
+40 federal financial participation is not available.
+41 (c) If federal financial participation is approved for less than all of
+42 the amounts paid into the Medicaid indigent care trust fund with
+HB 1586—LS 7548/DI 51
+
+
+--- Page 5 ---
+3
+1 respect to a fiscal year, the office may reduce payments attributable to
+2 that fiscal year under IC 12-15-19-1 by a percentage sufficient to
+3 compensate for the aggregate reduction in federal financi al
+4 participation. If additional federal financial participation is
+5 subsequently approved with respect to payments into the Medicaid
+6 indigent care trust fund for the same fiscal year, the office shall
+7 distribute such amounts using the percentage that was used to
+8 compensate for the prior reduction in federal financial participation.
+9 SECTION 3. IC 12-15-16-7, AS AMENDED BY P.L.108-2019,
+10 SECTION 195, IS AMENDED TO READ AS FOLLOWS
+11 [EFFECTIVE UPON PASSAGE]: Sec. 7. (a) Except as provided in
+12 subsection (l) and sections 7.5 and section 7.7 of this chapter, this
+13 section applies to Medicaid disproportionate share payments for the
+14 state fiscal year beginning:
+15 (1) July 1, 2012, if hospital fees authorized under P.L.229-2011,
+16 SECTION 281 or authorized to be transferred and used for
+17 payments are used as state share dollars for the payments; and
+18 (2) July 1, 2013, and for each state fiscal year after, for which
+19 hospital fees authorized under IC 16-21-10 are used as state share
+20 dollars for the payments.
+21 (b) As used in this section, "hospital assessm ent fee committee"
+22 refers to the committee established by IC 16-21-10-7.
+23 (c) As used in this section, "hospital specific limit" refers to the
+24 hospital specific limit provided under 42 U.S.C. 1396r-4(g).
+25 (d) As used in this section, "municipal hospital payment amount"
+26 means, concerning a hospital established and operated under
+27 IC 16-22-2 or IC 16-23, an amount equal to the lesser of:
+28 (1) the hospital specific limit for the hospital for the state fiscal
+29 year; or
+30 (2) the hospital's net 2009 supplemental payment amount.
+31 (e) As used in this section, "nongovernmental hospital" refers to a
+32 hospital that is licensed under IC 16-21-2, that is not a unit of state or
+33 local government, and is not owned or operated by a unit of state or
+34 local government.
+35 (f) As used in this section, "SECTION 281 hospital assessment fee
+36 committee" refers to the hospital assessment fee committee established
+37 by P.L.229-2011, SECTION 281, subsection (e).
+38 (g) Subject to subsection (l), the following providers are eligible
+39 for Medicaid disproportionate share payments under this section:
+40 (1) A hospital or psychiatric institution described in Attachment
+41 4.19-A, Section III, page 6.1(a) of the Medicaid state plan in
+42 effect July 1, 2011.
+HB 1586—LS 7548/DI 51
+
+
+--- Page 6 ---
+4
+1 (2) A hospital that satisfies the following for the state fiscal year
+2 for which Medicaid disproportionate share payments are made
+3 under this section:
+4 (A) A nongovernmental hospital that:
+5 (i) has a Medicaid inpatient utilization rate for the state
+6 fiscal year that is at least equal to the mean Medicaid
+7 inpatient utilization rate as calculated for purposes of
+8 determining Medicaid disproportionate share eligibility, but
+9 does not equal or exceed one (1) standard deviation above
+10 the mean Medicaid inpatient utilization rate; and
+11 (ii) satisfies the obstetric service provisions of 42 U.S.C.
+12 1396r-4(d).
+13 (B) A hospital established and operated under IC 16-22-2 or
+14 IC 16-23 that:
+15 (i) has a Medicaid inpatient utilization rate for the state
+16 fiscal year greater than one percent (1%); and
+17 (ii) satisfies the obstetric service provisions of 42 U.S.C.
+18 1396r-4(d).
+19 (3) A nongovernmental hospital that satisfies the following for the
+20 state fiscal year for which Medicaid disproportionate share
+21 payments are made under this section:
+22 (A) The hospital has a Medicaid inpatient utilization rate for
+23 the state fiscal year that is less than the mean Medicaid
+24 inpatient utilization rate, as calculated for purposes of
+25 determining Medicaid disproportionate share eligibility, but is
+26 at least greater than one percent (1%).
+27 (B) The hospital satisfies the obstetric service provisions of 42
+28 U.S.C. 1396r-4(d).
+29 (h) This subsection applies to a payment of Medicaid
+30 disproportionate share payments, if any, to hospitals described in
+31 subsection (g)(2) and (g)(3). For Medicaid disproportionate share
+32 payments for the state fiscal year beginning July 1, 2012, the office,
+33 subject to approval by the SECTION 281 hospital assessment fee
+34 committee, may develop and implement a Medicaid state plan
+35 amendment that provides Medicaid disproportionate share payments
+36 for the hospitals described in:
+37 (1) subsection (g)(2), as long as each hospital and psychiatric
+38 institution described in subsection (g)(1) has received a Medicaid
+39 disproportionate share payment for the state fiscal year in an
+40 amount equal to either:
+41 (A) the hospital specific limit; or
+42 (B) the municipal hospital payment amount;
+HB 1586—LS 7548/DI 51
+
+
+--- Page 7 ---
+5
+1 for the hospital or psychiatric institution for the state fiscal year;
+2 and
+3 (2) subsection (g)(3), as long as each hospital described in
+4 subsection (g)(2) has received a Medicaid disproportionate share
+5 payment for the state fiscal year in an amount equal to the hospital
+6 specific limit for the hospital for the state fiscal year.
+7 (i) This subsection applies to a payment of Medicaid
+8 disproportionate share payments, if any, to hospitals described in
+9 subsection (g)(2) and (g)(3). For Medicaid disproportionate share
+10 payments for the state fiscal year beginning July 1, 2013, and each state
+11 fiscal year thereafter under this section, the office, subject to the
+12 approval by the hospital assessment fee committee, may develop and
+13 implement a Medicaid state plan amendment that:
+14 (1) renews, for state fiscal year beginning July 1, 2013, and each
+15 state fiscal year thereafter under this section, the Medicaid
+16 disproportionate share provisions of Attachment 4.19-A, Section
+17 III, page 6.1(a) of the Medicaid state plan in effect on July 1,
+18 2011;
+19 (2) provides Medicaid disproportionate share payments for the
+20 hospitals described in subsection (g)(2), as long as each hospital
+21 and psychiatric institution described in subsection (g)(1) has
+22 received a Medicaid disproportionate share payment for the state
+23 fiscal year in an amount equal to the:
+24 (A) hospital specific limit; or
+25 (B) municipal hospital payment amount;
+26 for the hospital or psychiatric institution for the state fiscal year;
+27 and
+28 (3) provides Medicaid disproportionate share payments for the
+29 hospitals described in subsection (g)(3), as long as each hospital
+30 described in subsection (g)(2) has received a Medicaid
+31 disproportionate share payment for the state fiscal year in an
+32 amount equal to the hospital specific limit of the hospital for the
+33 state fiscal year.
+34 (j) This subsection does not apply to Medicaid disproportionate
+35 share payments made to hospitals described in subsection (g)(2)(B)
+36 under Attachment 4.19-A, Section III, page 6.1(a) of the Medicaid state
+37 plan in effect on July 1, 2011, or any renewal. Nothing in this section:
+38 (1) requires that the hospitals described in subsection (g)(2) or
+39 (g)(3) receive Medicaid disproportionate share payments for a
+40 state fiscal year;
+41 (2) requires that the hospitals described in subsect ion (g)(2) or
+42 (g)(3) receive Medicaid disproportionate share payments for a
+HB 1586—LS 7548/DI 51
+
+
+--- Page 8 ---
+6
+1 state fiscal year in an amount equal to the respective hospital
+2 specific limits for the state fiscal year; or
+3 (3) prescribes how Medicaid disproportionate share payments are
+4 to be distributed among the hospitals described in:
+5 (A) subsection (g)(2); or
+6 (B) subsection (g)(3).
+7 (k) Nothing in this section prohibits the use of unexpended federal
+8 Medicaid disproportionate share allotments for a state fiscal year under
+9 a program authorized by the SECTION 281 hospital assessment fee
+10 committee or the hospital assessment fee committee, as long as each
+11 hospital listed in subsection (g)(1), (g)(2), and (g)(3) has received
+12 Medicaid disproportionate share payments for the state fiscal year
+13 equal  to the hospital specific limit for the hospital for the state fiscal
+14 year.
+15 (l) This section does not apply for a state fiscal year for which
+16 the state directed payment program under IC 16-21-10-8(a)(3) is
+17 in effect.
+18 SECTION 4. IC 12-15-16-7.3 IS ADDED TO THE INDIANA
+19 CODE AS A NEW SECTION TO READ AS FOLLOWS
+20 [EFFECTIVE UPON PASSAGE]: Sec. 7.3. (a) This section applies to
+21 disproportionate share payments for any state fiscal year during
+22 which the state directed payment program under
+23 IC 16-21-10-8(a)(3) is in effect.
+24 (b) As used in this section, "hospital assessment fee committee"
+25 refers to the committee established by IC 16-21-10-7.
+26 (c) The office, subject to approval by the hospital assessment fee
+27 committee, shall develop and implement a Medicaid state plan
+28 amendment that provides Medicaid disproportionate share
+29 payments for hospitals pursuant to the following STEPS:
+30 STEP ONE: Each acute care hospital licensed under IC 16-21
+31 that qualifies as a disproportionate share provider under
+32 section 1(a) of this chapter, including acute care hospitals
+33 licensed under IC 16-21 and established and operated under
+34 IC 16-22-2, IC 16-22-8, or IC 16-23 that qualify as a
+35 disproportionate share provider under section 1(a) of this
+36 chapter, shall be paid a disproportionate share payment for
+37 the state fiscal year in the amount of one thousand dollars
+38 ($1,000).
+39 STEP TWO: Of the state's disproportionate share payment
+40 allotment under 42 CFR 447.297 that remains for the state
+41 fiscal year following STEP ONE, disproportionate share
+42 payments shall be paid to municipal disproportionate share
+HB 1586—LS 7548/DI 51
+
+
+--- Page 9 ---
+7
+1 providers described in section 1(b) of this chapter, and to
+2 acute care hospitals licensed under IC 16-21 and established
+3 and operated under IC 16-22-8 that qualify as a
+4 disproportionate share provider under section 1(a) of this
+5 chapter, that fund the state's share of their disproportionate
+6 share payment for the state fiscal year through an
+7 intergovernmental transfer. Subject to subsection (d), each
+8 hospital's payment shall be an amount equal to its hospital
+9 specific limit for the state fiscal year calculated pursuant to 42
+10 U.S.C. 1396r-4(g).
+11 (d) If the total disproportionate share payments under STEP
+12 TWO of subsection (c) for a state fiscal year would be greater than
+13 the state's disproportionate share payment allotment under 42
+14 CFR 447.297 that remains following STEP ONE of subsection (c),
+15 the disproportionate share payments to each hospital shall be made
+16 on a pro rata basis, based on each hospital's hospital specific limit
+17 in relation to the remaining disproportionate share payment
+18 allotment.
+19 SECTION 5. IC 12-15-18-5.1, AS AMENDED BY P.L.76-2018,
+20 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+21 UPON PASSAGE]: Sec. 5.1. (a) For state fiscal years ending on or
+22 after June 30, 1998, the trustees and each municipal health and hospital
+23 corporation established under IC 16-22-8-6 are authorized to make
+24 intergovernmental transfers to the Medicaid indigent care trust fund in
+25 amounts to be determined jointly by the office and the trustees, and the
+26 office and each municipal health and hospital corporation.
+27 (b) The treasurer of state shall annually transfer from appropriations
+28 made for the division of mental health and addiction sufficient money
+29 to provide the state's share of payments under IC 12-15-16-6(c)(2).
+30 (c) The office shall coordinate the transfers from the trustees and
+31 each municipal health and hospital corporation established under
+32 IC 16-22-8-6 so that the aggregate intergovernmental transfers, when
+33 combined with federal matching funds:
+34 (1) produce payments to each hospital licensed under IC 16-21
+35 that qualifies as a disproportionate share provider under
+36 IC 12-15-16-1(a); and
+37 (2) both individually and in the aggregate do not exceed limits
+38 prescribed by the federal Centers for Medicare and Medicaid
+39 Services.
+40 The trustees and a municipal health and hospital corporation are not
+41 required to make intergovernmental transfers under this section. The
+42 trustees and a municipal health and hospital corporation may make
+HB 1586—LS 7548/DI 51
+
+
+--- Page 10 ---
+8
+1 additional transfers to the Medicaid indigent care trust fund to the
+2 extent necessary to make additional payments from the Medicaid
+3 indigent care trust fund apply to a prior federal fiscal year as provided
+4 in IC 12-15-19-1(b).
+5 (d) A municipal disproportionate share provider (as defined in
+6 IC 12-15-16-1) shall transfer to the Medicaid indigent care trust fund
+7 an amount determined jointly by the office and the municipal
+8 disproportionate share provider. A municipal disproportionate share
+9 provider is not required to make intergovernmental transfers under this
+10 section. A municipal disproportionate share provider may make
+11 additional transfers to the Medicaid indigent care trust fund to the
+12 extent necessary to make additional payments from the Medicaid
+13 indigent care trust fund apply to a prior federal fiscal year as provided
+14 in IC 12-15-19-1(b).
+15 (e) A county making a payment under:
+16 (1) IC 12-29-1-7(b) before January 1, 2004; or
+17 (2) IC 12-29-2 after December 31, 2018;
+18 or from other county sources to a community mental health center
+19 qualifying as a community mental health center disproportionate share
+20 provider shall certify that the payment represents expenditures that are
+21 eligible for federal financial participation under 42 U.S.C.
+22 1396b(w)(6)(A) and 42 CFR 433.51. The office shall assist a county in
+23 making this certification.
+24 (f) This section does not apply for a state fiscal year for which
+25 the state directed payment program under IC 16-21-10-8(a)(3) is
+26 in effect.
+27 SECTION 6. IC 12-15-44.2-17, AS AMENDED BY P.L.213-2015,
+28 SECTION 134, IS AMENDED TO READ AS FOLLOWS
+29 [EFFECTIVE UPON PASSAGE]: Sec. 17. (a) The healthy Indiana plan
+30 trust fund is established for the following purposes:
+31 (1) Administering a plan created by the general assembly to
+32 provide health insurance coverage for low income residents of
+33 Indiana under this chapter and IC 12-15-44.5.
+34 (2) Providing copayments, preventative care services, and
+35 premiums for individuals enrolled in the plan.
+36 (3) Funding tobacco use prevention and cessation programs,
+37 childhood immunization programs, and other health care
+38 initiatives designed to promote the general health and well being
+39 of Indiana residents.
+40 (4) Funding amounts necessary to match federal funds for
+41 purposes set forth in this section.
+42 The fund is separate from the state general fund.
+HB 1586—LS 7548/DI 51
+
+
+--- Page 11 ---
+9
+1 (b) The fund shall be administered by the office of the secretary of
+2 family and social services.
+3 (c) The expenses of administering the fund shall be paid from
+4 money in the fund.
+5 (d) The fund shall consist of the following:
+6 (1) Cigarette tax revenues designated by the general assembly to
+7 be part of the fund.
+8 (2) Other funds designated by the general assembly to be part of
+9 the fund.
+10 (3) Federal funds available for the purposes of the fund.
+11 (4) Gifts or donations to the fund.
+12 (e) The treasurer of state shall invest the money in the fund not
+13 currently needed to meet the obligations of the fund in the same
+14 manner as other public money may be invested.
+15 (f) Money must be appropriated before funds are available for use.
+16 (g) Money in the fund does not revert to the state general fund at the
+17 end of any fiscal year.
+18 (h) The fund is considered a trust fund for purposes of IC 4-9.1-1-7.
+19 Money may not be transferred, assigned, or otherwise removed from
+20 the fund by the state board of finance, the budget agency, or any other
+21 state agency unless the transfer, assignment, or removal is made in
+22 accordance with subsection (a)(4).
+23 (i) As used in this subsection, "costs of the healthy Indiana plan 2.0"
+24 includes the costs of all expenses set forth in
+25 IC 16-21-10-13.3(b)(1)(A) through IC 16-21-10-13.3(b)(1)(F) and the
+26 reimbursement for inpatient and outpatient hospital services under
+27 IC 16-21-10-13.3(d). Notwithstanding subsection (a), funds on deposit
+28 in the fund beginning on the date the office implements the healthy
+29 Indiana plan 2.0 (IC 12-15-44.5) and until the healthy Indiana plan 2.0
+30 is terminated upon the completion of a phase out period shall be used
+31 exclusively for the following:
+32 (1) The state share of the costs of the healthy Indiana plan 2.0 that
+33 exceed other available funding sources in any given year.
+34 (2) The state share of the costs of the healthy Indiana plan 2.0
+35 incurred during a phase out period of the healthy Indiana plan 2.0.
+36 (3) The state share of the expenses of the plan in effect under this
+37 chapter immediately before the implementation of the healthy
+38 Indiana plan 2.0 that were incurred in the regular course of the
+39 plan's operation.
+40 (j) As used in this subsection, "costs of the healthy Indiana plan 2.0"
+41 include the costs of all expenses set forth in IC 16-21-10-13.3(b)(1)(A)
+42 through IC 16-21-10-13.3(b)(1)(F) and the reimbursement for
+HB 1586—LS 7548/DI 51
+
+
+--- Page 12 ---
+10
+1 inpatient and outpatient hospital services under
+2 IC 16-21-10-13.3(d). Upon implementation of the healthy Indiana plan
+3 2.0 (IC 12-15-44.5), the entirety of the annual cigarette tax amounts
+4 designated to the fund by the general assembly shall be used
+5 exclusively to fund the state share of the costs of the healthy Indiana
+6 plan 2.0, including the state share of the costs of the healthy Indiana
+7 plan 2.0 incurred during a phase out period of the healthy Indiana plan
+8 2.0. This subsection may not be construed to restrict the annual
+9 cigarette tax dollars annually appropriated by the general assembly for
+10 childhood immunization programs under subsection (a)(3).
+11 SECTION 7. IC 12-15-44.5-4, AS AMENDED BY P.L.30-2016,
+12 SECTION 29, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 UPON PASSAGE]: Sec. 4. (a) The plan:
+14 (1) is not an entitlement program; and
+15 (2) serves as an alternative to health care coverage under Title
+16 XIX of the federal Social Security Act (42 U.S.C. 1396 et seq.).
+17 (b) If either of the following occurs, the office shall terminate the
+18 plan in accordance with section 6(b) of this chapter:
+19 (1) The:
+20 (A) percentages of federal medical assistance available to the
+21 plan for coverage of plan participants described in Section
+22 1902(a)(10)(A)(i)(VIII) of the federal Social Security Act are
+23 less than the percentages provided for in Section
+24 2001(a)(3)(B) of the federal Patient Protection and Affordable
+25 Care Act; and
+26 (B) hospital assessment committee (IC 16-21-10), after
+27 considering the modification and the reduction in available
+28 funding, does not alter the formula established under
+29 IC 16-21-10-13.3(b)(1) or, if applicable, alter the fee
+30 formula used to fund the reimbursement for inpatient and
+31 outpatient hospital services under IC 16-21-10-13.3(d) to
+32 cover the amount of the reduction in federal medical
+33 assistance.
+34 For purposes of this subdivision, "coverage of plan participants"
+35 includes reimbursement, payments, contributions, and amounts
+36 referred to in IC 16-21-10-13.3(b)(1)(A),
+37 IC 16-21-10-13.3(b)(1)(C), and IC 16-21-10-13.3(b)(1)(D), and
+38 IC 16-21-10-13.3(d), including reimbursement, payments,
+39 contributions, and amounts incurred during a phase out period of
+40 the plan.
+41 (2) The:
+42 (A) methodology of calculating the incremental fee set forth in
+HB 1586—LS 7548/DI 51
+
+
+--- Page 13 ---
+11
+1 IC 16-21-10-13.3 is modified in any way that results in a
+2 reduction in available funding;
+3 (B) hospital assessment fee committee (IC 16-21-10), after
+4 considering the modification and reduction in available
+5 funding, does not alter the formula established under
+6 IC 16-21-10-13.3(b)(1) or, if applicable, alter the fee
+7 formula used to fund the reimbursement for inpatient and
+8 outpatient hospital services under IC 16-21-10-13.3(d) to
+9 cover the amount of the reduction in fees; and
+10 (C) office does not use alternative financial support to cover
+11 the amount of the reduction in fees.
+12 (c) If the plan is terminated under subsection (b), the secretary may
+13 implement a plan for coverage of the affected population in a manner
+14 consistent with the healthy Indiana plan (IC 12-15-44.2 (before its
+15 repeal)) in effect on January 1, 2014:
+16 (1) subject to prior approval of the United States Department of
+17 Health and Human Services; and
+18 (2) without funding from the incremental fee set forth in
+19 IC 16-21-10-13.3.
+20 (d) The office may not operate the plan in a manner that would
+21 obligate the state to financial participation beyond the level of state
+22 appropriations or funding otherwise authorized for the plan.
+23 (e) The office of the secretary shall submit annually to the budget
+24 committee an actuarial analysis of the plan that reflects a determination
+25 that sufficient funding is reasonably estimated to be available to
+26 operate the plan.
+27 SECTION 8. IC 16-21-10-4, AS ADDED BY P.L.205-2013,
+28 SECTION 214, IS AMENDED TO READ AS FOLLOWS
+29 [EFFECTIVE UPON PASSAGE]: Sec. 4. (a) As used in this chapter,
+30 "hospital" means either of the following:
+31 (1) A hospital (as defined in IC 16-18-2-179(b)) licensed under
+32 this article, except that, with respect to the assessment and
+33 payment of a fee authorized under this chapter, the term does
+34 not include a physician owned hospital (as defined in
+35 subsection (c)).
+36 (2) A private psychiatric hospital licensed under IC 12-25.
+37 (b) The term does not include the following:
+38 (1) A state mental health institution operated under IC 12-24-1-3.
+39 (2) A hospital:
+40 (A) designated by the Medicaid program as a long term care
+41 hospital;
+42 (B) that has an average inpatient length of stay that is greater
+HB 1586—LS 7548/DI 51
+
+
+--- Page 14 ---
+12
+1 than twenty-five (25) days, as determined by the office of
+2 Medicaid policy and planning under the Medicaid program;
+3 (C) that is a Medicare certified, freestanding rehabilitation
+4 hospital; or
+5 (D) that is a hospital operated by the federal government.
+6 (c) As used in this chapter, "physician owned hospital" means
+7 an acute care hospital licensed under IC 16-21-2 that has:
+8 (1) physician ownership; or
+9 (2) ownership by a legal entity with one hundred percent
+10 (100%) physician ownership;
+11 or ownership described in both subdivisions (1) and (2), and such
+12 ownership of the hospital is at least fifty-one percent (51%).
+13 SECTION 9. IC 16-21-10-5.5 IS ADDED TO THE INDIANA
+14 CODE AS A NEW SECTION TO READ AS FOLLOWS
+15 [EFFECTIVE UPON PASSAGE]: Sec. 5.5. As used in this chapter,
+16 "preprint" means the document required to be submitted to the
+17 United States Department of Health and Human Services that
+18 implements the prior approval process for a state directed
+19 payment arrangement described in 42 CFR 438.6(c).
+20 SECTION 10. IC 16-21-10-5.7 IS ADDED TO THE INDIANA
+21 CODE AS A NEW SECTION TO READ AS FOLLOWS
+22 [EFFECTIVE UPON PASSAGE]: Sec. 5.7. (a) As used in this
+23 chapter, "separate payment term" means:
+24 (1) with respect to the state directed payment program under
+25 section 8(a)(3) of this chapter, one (1) or more funding pools
+26 for the payment of inpatient and outpatient hospital services
+27 under section 8(a)(3)(I)(ii) of this chapter; and
+28 (2) with respect to the state directed payment program under
+29 section 13.3(d) of this chapter, one (1) or more funding pools
+30 for the payment of inpatient and outpatient hospital services
+31 under section 13.3(d)(9)(A)(ii) and 13.3(d)(9)(B)(ii) of this
+32 chapter;
+33 approved by the committee for the payment of inpatient and
+34 outpatient hospital services. Any funding pool approved by the
+35 committee shall be established by the office, subject to approval by
+36 the United States Department of Health and Human Services.
+37 (b) The funding pool or pools referenced in subsection (a) are
+38 paid by the office to the following managed care organizations:
+39 (1) With regard to section 8(a)(3)(I)(ii) of this chapter,
+40 managed care orga nizations that contract with the office to
+41 provide health coverage to Medicaid recipients that are within
+42 the same Medicaid eligibility categories as the Medicaid
+HB 1586—LS 7548/DI 51
+
+
+--- Page 15 ---
+13
+1 recipients referenced with respect to section 8(a)(2) of this
+2 chapter.
+3 (2) With regard to section 13.3(d)(9)(A)(ii) and
+4 13.3(d)(9)(B)(ii) of this chapter, managed care organizations
+5 that contract with the office to provide health coverage to
+6 enrollees in the healthy Indiana plan established in
+7 IC 12-15-44.5.
+8 (c) The funding pool or pools referenced in subsection (a) are
+9 paid by the office separately, and in addition to, capitation
+10 payments paid by the office to the managed care organizations
+11 referenced in subsection (b).
+12 (d) The committee shall establish a timetable for disbursing the
+13 funding pool or pools to the managed care organizations.
+14 (e) The committee shall designate the encounter data upon
+15 which the disbursements referenced in subsection (d) shall be
+16 based, provided that the disbursements shall be sufficient to result
+17 in:
+18 (1) for purposes of section 8(a)(3) of this chapter, the
+19 reimbursement rates required pursuant to section 8(a)(3)(A)
+20 of this chapter; and
+21 (2) for purposes of section 13.3(d)(9) of this chapter, the
+22 reimbursement rates required pursuant to section 13.3(d)(1)
+23 of this chapter.
+24 SECTION 11. IC 16-21-10-5.9 IS ADDED TO THE INDIANA
+25 CODE AS A NEW SECTION TO READ AS FOLLOWS
+26 [EFFECTIVE UPON PASSAGE]: Sec. 5.9. As used in this chapter,
+27 "state directed payment program" means a payment arrangement
+28 under 42 CFR 438.6(c) that allows the office to direct specific
+29 payments to a hospital by the following managed  care
+30 organizations:
+31 (1) With respect to the state directed payment program under
+32 section 8(a)(3) of this chapter, managed care organizations
+33 that contract with the office to provide health coverage to
+34 Medicaid recipients that are within the same Medicaid
+35 eligibility categories as the Medicaid recipients referenced
+36 with respect to section 8(a)(2) of this chapter.
+37 (2) With respect to the state directed payment program under
+38 section 13.3(d) of this chapter, managed care organizations
+39 that contract with the office to provide health coverage to
+40 enrollees in the healthy Indiana plan established in
+41 IC 12-15-44.5.
+42 SECTION 12. IC 16-21-10-6, AS AMENDED BY P.L.213-2015,
+HB 1586—LS 7548/DI 51
+
+
+--- Page 16 ---
+14
+1 SECTION 141, IS AMENDED TO READ AS FOLLOWS
+2 [EFFECTIVE UPON PASSAGE]: Sec. 6. (a) Subject to subsection (b)
+3 and section 8(b) of this chapter, the office may assess a hospital
+4 assessment fee to hospitals during the fee period if the following
+5 conditions are met:
+6 (1) The fee may be used only for the purposes described in the
+7 following:
+8 (A) Section 8(c)(1) of this chapter.
+9 (B) Section 9 of this chapter.
+10 (C) Section 11 of this chapter.
+11 (D) Section 13.3 of this chapter.
+12 (E) Section 14 of this chapter, subject to section 14(c) of this
+13 chapter.
+14 (2) The Medicaid state plan amendments and waiver requests
+15 required for the initial implementation of this chapter are
+16 submitted by the office to the United States Department of Health
+17 and Human Services before October 1, 2013.
+18 (3) The United States Department of Health and Human Services
+19 approves the Medicaid state plan amendments and waiver
+20 requests, or revisions of the Medicaid state plan amendments and
+21 waiver requests, described in subdivision (2):
+22 (A) not later than October 1, 2014; or
+23 (B) after October 1, 2014, if a date is established by the
+24 committee.
+25 (4) The funds generated from the fee do not revert to the state
+26 general fund.
+27 (b) The office shall stop collecting a fee, the programs described in
+28 section 8(a) of this chapter shall be reconciled and terminated subject
+29 to section 9(c) of this chapter, and the operation of section 11 of this
+30 chapt er, subject to section 11(d) and 11(e) of this chapter, ends
+31 subject to section 9(c) of this chapter, if any of the following occurs:
+32 (1) An appellate court makes a final determination that either:
+33 (A) the fee; or
+34 (B) any of the programs described in section 8(a) of this
+35 chapter;
+36 cannot be implemented or maintained.
+37 (2) The United States Department of Health and Human Services
+38 makes a final determination that the Medicaid state plan
+39 amendments or waivers submitted under this chapter are not
+40 approved or cannot be validly implemented.
+41 (3) The fee is not collected because of circumstances described in
+42 section 8(d) of this chapter.
+HB 1586—LS 7548/DI 51
+
+
+--- Page 17 ---
+15
+1 (c) The office shall keep records of the fees collected by the office
+2 and report the amount of fees collected under this chapter to the budget
+3 committee.
+4 SECTION 13. IC 16-21-10-7, AS AMENDED BY P.L.108-2019,
+5 SECTION 202, IS AMENDED TO READ AS FOLLOWS
+6 [EFFECTIVE UPON PASSAGE]: Sec. 7. (a) The hospital assessment
+7 fee committee is established. The committee consists of the following
+8 four (4) voting members:
+9 (1) The secretary of family and social services appointed under
+10 IC 12-8-1.5-2 or the secretary's designee, who shall serve as the
+11 chair of the committee.
+12 (2) The budget director or the budget director's designee.
+13 (3) Two (2) individuals appointed by the governor from a list of
+14 at least four (4) individuals submitted by the Indiana Hospital
+15 Association.
+16 The committee members described in subdivision (3) serve at the
+17 pleasure of the governor. If a vacancy occurs among the members
+18 appointed under subdivision (3), the governor shall appoint a
+19 replacement committee member from a list of at least two (2)
+20 individuals submitted by the Indiana Hospital Association.
+21 (b) The committee shall do the following:
+22 (1) Review any Medicaid state plan amendments, waiver requests,
+23 or revisions to any Medicaid state plan amendments or waiver
+24 requests, to implement or continue the implementation of this
+25 chapter for the purpose of establishing favorable review of the
+26 amendments, requests, and revisions by the United States
+27 Department of Health and Human Services. The committee shall
+28 also develop a disproportionate share payment plan or submit to
+29 the office the default plan, if applicable, as set forth in
+30 IC 12-15-16-7.5 (before its expiration) and IC 12-15-16-7.7.
+31 (2) Make the determinations and take the other actions
+32 referenced with respect to the committee under sections
+33 8(a)(3) and 13.3(d) of this chapter.
+34 (c) The committee shall meet at the call of the chair. The members
+35 serve without compensation.
+36 (d) A quorum consists of at least three (3) members. An affirmative
+37 vote of at least three (3) members of the committee is necessary to
+38 approve Medicaid state plan amendments, waiver requests, revisions
+39 to the Medicaid state plan or waiver requests, and the approvals and
+40 other determinations required of the committee under IC 12-15-44.5
+41 and section 13.3 of this chapter, including the determinations and
+42 other actions referenced with respect to the committee under
+HB 1586—LS 7548/DI 51
+
+
+--- Page 18 ---
+16
+1 sections 8(a)(3) and 13.3(d) of this chapter.
+2 (e) The following apply to the approvals and any other
+3 determinations required by the committee under IC 12-15-44.5 and
+4 section 13.3 of this chapter:
+5 (1) The committee shall be guided and subject to the intent of the
+6 general assembly in the passage of IC 12-15-44.5, section 8(a) of
+7 this chapter, and section 13.3 of this chapter, and the passage of
+8 any amendments to IC 12-15-44.5, section 8(a) of this chapter,
+9 and section 13.3 of this chapter.
+10 (2) The chair of the committee shall report any approval and other
+11 determination by the committee to the budget committee.
+12 (3) If, in taking action, the committee's vote is tied, the committee
+13 shall follow the following procedure:
+14 (A) The chair of the committee shall notify the chairman of the
+15 budget committee of the tied vote and provide a summary of
+16 that matter that was the subject of the vote.
+17 (B) The chairman of the budget committee shall provide each
+18 committee member who voted an opportunity to appear before
+19 the budget committee to present information and materials to
+20 the budget committee concerning the matter that was the
+21 subject of the tied vote.
+22 (C) Following a presentation of the information and the
+23 materials described in clause (B), the budget committee may
+24 make recommendations to the committee concerning the
+25 matter that was the subject of the tied vote.
+26 SECTION 14. IC 16-21-10-8, AS AMENDED BY P.L.213-2015,
+27 SECTION 143, IS AMENDED TO READ AS FOLLOWS
+28 [EFFECTIVE UPON PASSAGE]: Sec. 8. (a) This section does not
+29 apply to the use of the incremental fee described in section 13.3 of this
+30 chapter. Subject to subsection (b), the office shall develop the
+31 following programs designed to increase to the extent allowable under
+32 federal law, Medicaid reimbursement for inpatient and outpatient
+33 hospital services provided by a hospital to Medicaid recipients:
+34 (1) A program concerning reimbursement for the Medicaid
+35 fee-for-service program that, in the aggregate, will result in
+36 payments equivalent to the level of payment that would be paid
+37 under federal Medicare payment principles.
+38 (2) A program concerning reimbursement for the Medicaid risk
+39 based managed care program that, in the aggregate, will result in
+40 payments equivalent to the level of payment that would be paid
+41 under federal Medicare payment principles. The operation of
+42 this program shall cease for so long as the state directed
+HB 1586—LS 7548/DI 51
+
+
+--- Page 19 ---
+17
+1 payment program established pursuant to subdivision (3) is in
+2 effect.
+3 (3) Subject to the following clauses (A) through (K), a state
+4 directed payment program is commenced after June 30, 2025,
+5 whereby state directed payments are made for inpatient and
+6 outpatient hospital services:
+7 (A) Subject to clause (B), the reimbursement rates for
+8 inpatient and outpatient hospital services under the state
+9 directed payment program shall be established at the
+10 maximum rates permitted by federal Medicaid law, subject
+11 to available state share funding. At a minimum, the
+12 reimbursement rates for such services must be greater
+13 than Medicare reimbursement rates. The reimbursement
+14 rates may not be established at rates that would result in
+15 a violation of the average commercial rate limitation set
+16 forth in 42 CFR 438.6(c)(2)(iii).
+17 (B) The committee may determine to implement the state
+18 directed payment program through the establishment of
+19 classes of hospitals with different rates of reimbursement
+20 among the classes, consistent with 42 CFR
+21 438.6(c)(2)(ii)(B) and 42 CFR 438.6(c)(2)(ii)(I).
+22 (C) The committee shall determine the quality measures to
+23 be applied for purposes of the state directed payment
+24 program.
+25 (D) Before July 1, 2025, the committee shall determine a
+26 fee formula to be used to fund the state share of the
+27 payments under the state directed payment program.
+28 (E) Before July 1, 2025, the office shall complete and
+29 submit all documentation required by the United States
+30 Department of Health and Human Services for the
+31 Department's review and approval of the state directed
+32 payment program. The required documentation includes
+33 the following:
+34 (i) A completed preprint.
+35 (ii) The average commercial rate demonstration
+36 described in 42 CFR 438.6(c)(2)(iii).
+37 (iii) If requested by the Department, a total payment rate
+38 analysis pursuant to 42 CFR 438.6(c)(2)(ii)(I).
+39 (iv) Required information pertaining to the use of the
+40 fee, and any waiver requests relating to the fee, to fund
+41 the state share of the payments under the state directed
+42 payment program.
+HB 1586—LS 7548/DI 51
+
+
+--- Page 20 ---
+18
+1 (v) If applicable, proposed state plan amendments.
+2 (F) In the event the United States Department of Health
+3 and Human Services proposes terms or conditions relating
+4 to the state directed payment program, or relating to the
+5 fee (or any waiver requests relating to the fee), that are
+6 different from the terms and conditions submitted by the
+7 office, the committee shall determine whether to accept the
+8 Department's terms or conditions, or whether to direct the
+9 office to respond to the Department with counterproposals
+10 determined by the committee.
+11 (G) The office may not implement the state directed
+12 payment program without the approval of the United
+13 States Department of Health and Human Services. To the
+14 extent permitted by the Department, the office shall
+15 implement the program retroactive to July 1, 2025.
+16 (H) The office may not implement the state directed
+17 payment program without the United States Department
+18 of Health and Human Services' approval of the fee,
+19 including any waivers relating to the fee, to fund the state
+20 share of the payments under the state directed payment
+21 program. To the extent permitted by the Department, the
+22 office shall use the fee, and any waivers relating to the fee,
+23 to fund the state directed payment program retroactive to
+24 July 1, 2025.
+25 (I) Payments by the office to the managed care
+26 organizations that contract with the office to provide
+27 health coverage to Medicaid recipients under the state
+28 directed payment program shall be made pursuant to the
+29 following items (i) and (ii):
+30 (i) Subject to clause (J), capitation payments at levels
+31 necessary to pay inpatient and outpatient hospital
+32 services at reimbursement rates equal to the Medicaid
+33 reimbursement rates in effect on June 30, 2011. This
+34 reimbursement will be paid to hospitals by the managed
+35 care organizations on a claims basis. The fee shall not
+36 fund the state share of the capitation payments.
+37 (ii) Subject to clause (J), a separate payment term
+38 necessary to pay inpatient and outpatient hospital
+39 services at reimbursement rates equal to the difference
+40 between the Medicaid reimbursement rates in effect on
+41 June 30, 2011, and the reimbursement rates established
+42 pursuant to clause (A). The fee shall fund the state share
+HB 1586—LS 7548/DI 51
+
+
+--- Page 21 ---
+19
+1 of the payments under the separate payment term to the
+2 managed care organizations.
+3 (J) In the event a separate payment term is not permitted
+4 by operation of 42 CFR 438.6(c)(6), payments by the office
+5 to the managed care organizations that contract with the
+6 office to provide health coverage to Medicaid recipients
+7 under the state directed payment program shall consist of
+8 capitation payments at levels sufficient to pay inpatient
+9 and outpatient hospitals at the reimbursement rates
+10 established pursuant to clause (A). This reimbursement
+11 will be paid to hospitals by the managed care organizations
+12 on a claims basis. The fee shall be used to pay the state
+13 share of the part of the capitation payments that fund the
+14 portion of the reimbursement rates that exceed the
+15 Medicaid reimbursement rates in effect on June 30, 2011.
+16 (K) A reconciliation will be performed at the end of each
+17 year of a rating period for purposes of:
+18 (i) with respect to the portions of the capitation
+19 payments under clauses (I)(i) and (J) attributable to the
+20 payment of inpatient and outpatient hospital services,
+21 and with respect to the separate payment term under
+22 clause (I)(ii) attributable to the payment of inpatient and
+23 outpatient hospital services, ensuring that such portions
+24 of the capitation payments, and the separate payment
+25 term, were appropriately and accurately calculated; and
+26 (ii) based on the reconciliation of the matters set forth in
+27 item (i), ensuring that no fees funded the portion of the
+28 capitation payments referenced in clause (I)(i), ensuring
+29 that the fees that funded the portion of the capitation
+30 payments referenced under clause (J) were
+31 appropriately and accurately calculated, and ensuring
+32 that the fees that funded the separate payment terms
+33 under clause (I)(ii) were appropriately and accurately
+34 calculated.
+35 (b) Regarding the programs described in subsection (a)(1) and
+36 (a)(2), the office shall not submit to the United States Department of
+37 Health and Human Services any Medicaid state plan amendments,
+38 waiver requests, or revisions to any Medicaid state plan amendments
+39 or waiver requests, to implement or continue the implementation of this
+40 chapter until the committee has reviewed and approved the
+41 amendments, waivers, or revisions described in this subsection and has
+42 submitted a written report to the budget committee concerning the
+HB 1586—LS 7548/DI 51
+
+
+--- Page 22 ---
+20
+1 amendments, waivers, or revisions descr ibed in this subsection,
+2 including the following:
+3 (1) The methodology to be used by the office in calculating the
+4 increased Medicaid reimbursement under the programs described
+5 in subsection (a).
+6 (2) The methodology to be used by the office in calculating,
+7 imposing, or collecting the fee, or any other matter relating to the
+8 fee.
+9 (3) The determination of Medicaid disproportionate share
+10 allotments under section 11 of this chapter (subject to section
+11 11(d) and 11(e) of this chapter) that are to be funded by the fee,
+12 including the formula for distributing the Medicaid
+13 disproportionate share allotments.
+14 (4) The distribution to private psychiatric institutions under
+15 section 13 of this chapter.
+16 (c) This subsection applies to the programs described in subsection
+17 (a). The state share dollars for the programs must consist of the
+18 following:
+19 (1) Fees paid under this chapter.
+20 (2) The hospital care for the indigent funds allocated under
+21 section 10 of this chapter (before its repeal).
+22 (3) Other sources of state share dollars available to the office,
+23 excluding intergovernmental transfers of funds made by or on
+24 behalf of a hospital.
+25 The money described in subdivisions (1) and (2) may be used only to
+26 fund the part of the payments that exceed the Medicaid reimbursement
+27 rates in effect on June 30, 2011.
+28 (d) This subsection applies to the programs described in subsection
+29 (a). If the state is unable to maintain the funding under subsection
+30 (c)(3) for the payments at Medicaid reimbursement levels in effect on
+31 June 30, 2011, because of budgetary constraints, the office shall reduce
+32 inpatient and outpatient hospital Medicaid reimbursement rates under
+33 subsection (a)(1) or (a)(2) or request approval from the committee and
+34 the United States Department of Health and Human Services to
+35 increase the fee to prevent a decrease in Medicaid reimbursement for
+36 hospital services. If:
+37 (1) the committee:
+38 (A) does not approve a reimbursement reduction; or
+39 (B) does not approve an increase in the fee; or
+40 (2) the United States Department of Health and Human Services
+41 does not approve an increase in the fee;
+42 the office shall cease to collect the fee and the programs described in
+HB 1586—LS 7548/DI 51
+
+
+--- Page 23 ---
+21
+1 subsection (a) are terminated.
+2 SECTION 15. IC 16-21-10-9, AS AMENDED BY P.L.213-2015,
+3 SECTION 144, IS AMENDED TO READ AS FOLLOWS
+4 [EFFECTIVE UPON PASSAGE]: Sec. 9. (a) This section is effective
+5 upon implementation of the fee. The hospital Medicaid fee fund is
+6 established for the purpose of holding fees collected under section 6 of
+7 this chapter, excluding the part of the fee used for purposes of section
+8 13.3 if of this chapter, that are not necessary to match federal funds.
+9 (b) The office shall administer the fund.
+10 (c) Money in the fund at the end of a state fiscal year attributable to
+11 fees collected to fund the programs described in section 8 of this
+12 chapter does not revert to the state general fund. However, money
+13 remaining in the fund after the cessation of the collection of the fee
+14 under section 6(b) of this chapter shall be used for the payments
+15 described in sections 8(a) and 11 of this chapter (subject to section
+16 11(d) and 11(e) of this chapter). Any money not required for the
+17 payments described in sections 8(a) and 11 of this chapter (subject to
+18 section 11(d) and 11(e) of this chapter) after the cessation of the
+19 collection of the fee under section 6(b) of this chapter shall be
+20 distributed to the hospitals on a pro rata basis based upon the fees paid
+21 by each hospital for the state fiscal year that ended immediately before
+22 the cessation of the collection of the fee under section 6(b) of this
+23 chapter.
+24 (d) The treasurer of state shall invest the money in the fund not
+25 currently needed to meet the obligations of the fund in the same
+26 manner as other public funds may be invested. Interest that accrues
+27 from these investments shall be deposited in the fund.
+28 SECTION 16. IC 16-21-10-10 IS REPEALED [EFFECTIVE UPON
+29 PASSAGE]. Sec. 10. This section:
+30 (1) is effective upon implementation of the fee; and
+31 (2) does not apply to funds under IC 12-16-17.
+32 Notwithstanding any other law, the part of the amounts appropriated
+33 for or transferred to the hospital care for the indigent program for the
+34 state fiscal year beginning July 1, 2013, and each state fiscal year
+35 thereafter that are not required to be paid to the office by law shall be
+36 used exclusively as state share dollars for the payments described in
+37 sections 8(a) and 11 of this chapter. Any hospital care for the indigent
+38 funds that are not required for the payments described in sections 8(a)
+39 and 11 of this chapter after the cessation of the collection of the fee
+40 under section 6(b) of this chapter shall be used for the state share
+41 dollars of the payments in IC 12-15-20-2(8)(G)(ii) through
+42 IC 12-15-20-2(8)(G)(x).
+HB 1586—LS 7548/DI 51
+
+
+--- Page 24 ---
+22
+1 SECTION 17. IC 16-21-10-11, AS AMENDED BY P.L.30-2016,
+2 SECTION 38, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 UPON PASSAGE]: Sec. 11. (a) This section:
+4 (1) does not apply to the incremental fee described in section 13.3
+5 of this chapter;
+6 (2) is effective upon the implementation of the fee described in
+7 section 6 of this chapter, excluding the part of the fee used for
+8 purposes of section 13.3 of this chapter; and
+9 (3) applies to the Medicaid disproportionate share payments for
+10 the state fiscal year beginning July 1, 2013, and each state fiscal
+11 year thereafter.
+12 (b) Subject to subsections (d) and (e), the state share dollars used
+13 to fund disproportionate share payments to acute care hospitals
+14 licensed under IC 16-21-2 that qualify as disproportionate share
+15 providers or municipal disproportionate share providers under
+16 IC 12-15-16-1(a) or IC 12-15-16-1(b) shall be paid with money
+17 collected through the fee and the hospital care for the indigent dollars
+18 described in section 10 of this chapter (before its repeal).
+19 (c) Subject to subsections (d) and (e), the federal Medicaid
+20 disproportionate share allotments for the state fiscal years beginning
+21 July 1, 2013, and each state fiscal year thereafter shall be allocated in
+22 their entirety to acute care hospitals licensed under IC 16-21-2 that
+23 qualify as disproportionate share providers or municipal
+24 disproportionate share providers under IC 12-15-16-1(a) or
+25 IC 12-15-16-1(b). No part of the federal disproportionate share
+26 allotments applicable for disproportionate share payments for the state
+27 fiscal year beginning July 1, 2013, and each state fiscal year thereafter
+28 may be allocated to institutions for mental disease or other mental
+29 health facilities, as defined by applicable federal law.
+30 (d) Subsections (b) and (c) do not apply for any state fiscal year
+31 for which the state directed payment program established under
+32 section 8(a)(3) of this chapter is in effect.
+33 (e) For any state fiscal year for which the state directed payment
+34 program established under section 8(a)(3) of this chapter is in
+35 effect, the state share of the disproportionate share payments
+36 described in STEP ONE of IC 12-15-16-7.3(c) shall be funded by
+37 the fee.
+38 SECTION 18. IC 16-21-10-13.3, AS AMENDED BY P.L.93-2024,
+39 SECTION 128, IS AMENDED TO READ AS FOLLOWS
+40 [EFFECTIVE UPON PASSAGE]: Sec. 13.3.(a) This section is
+41 effective beginning February 1, 2015. As used in this section, "plan"
+42 refers to the healthy Indiana plan established in IC 12-15-44.5.
+HB 1586—LS 7548/DI 51
+
+
+--- Page 25 ---
+23
+1 (b) Subject to subsections (c) through (e), (g), the incremental fee
+2 under this section may be used to fund the state share of the expenses
+3 specified in this subsection if, after January 31, 2015, but before the
+4 collection of the fee under this section, the following occur:
+5 (1) The committee establishes a fee formula to be used to fund the
+6 state share of the following expenses described in this
+7 subdivision:
+8 (A) The state share of the capitated payments made to a
+9 managed care organization that contracts with the office to
+10 provide health coverage under the plan to plan enrollees other
+11 than plan enrollees who are eligible for the plan under Section
+12 1931 of the federal Social Security Act.
+13 (B) The state share of capitated payments described in clause
+14 (A) for plan enrollees who are eligible for the plan under
+15 Section 1931 of the federal Social Security Act that are limited
+16 to the difference between:
+17 (i) the capitation rates effective September 1, 2014,
+18 developed using Medicaid reimbursement rates; and
+19 (ii) the capitation rates applicable for the plan developed
+20 using the plan's Medicare reimbursement rates described in
+21 IC 12-15-44.5-5(a)(2).
+22 (C) The state share of the state's contributions to plan enrollee
+23 accounts.
+24 (D) The state share of amounts used to pay premiums for a
+25 premium assistance plan implemented under
+26 IC 12-15-44.2-20.
+27 (E) The state share of the costs of increasing reimbursement
+28 rates for physician services provided to individuals enrolled in
+29 Medicaid programs other than the plan, but not to exceed the
+30 difference between the Medicaid fee schedule for a physician
+31 service that was in effect before the implementation of the plan
+32 and the amount equal to seventy-five percent (75%) of the
+33 previous year federal Medicare reimbursement rate for a
+34 physician service. The incremental fee may not be used for the
+35 amount that exceeds seventy-five percent (75%) of the federal
+36 Medicare reimbursement rate for a physician service.
+37 (F) The state share of the state's administrative costs that, for
+38 purposes of this clause, may not exceed one hundred seventy
+39 dollars ($170) per person per plan enrollee per year, and
+40 adjusted annually by the Consumer Price Index.
+41 (2) The committee approves a process to be used for reconciling:
+42 (A) the state share of the costs of the plan;
+HB 1586—LS 7548/DI 51
+
+
+--- Page 26 ---
+24
+1 (B) the amounts used to fund the state share of the costs of the
+2 plan; and
+3 (C) the amount of fees assessed for funding the state share of
+4 the costs of the plan.
+5 For purposes of this subdivision, "costs of the plan" includes the
+6 costs of the expenses listed in subdivision (1)(A) through (1)(F).
+7 The fees collected under for the purposes of subdivision (1)(A)
+8 through (1)(F) and subsection (d) shall be deposited into the
+9 incremental hospital fee fund established by section 13.5 of this
+10 chapter. The fees used for purposes of funding the state share of
+11 expenses listed in subdivision (1)(A) through (1)(F), and the
+12 reimbursement for inpatient and outpatient hospital services under
+13 subsection (d), may not be used to fund expenses incurred on or after
+14 the commencement of a phase out period of the plan.
+15 (c) This office shall:
+16 (1) terminate the use of the incremental fee for purposes of
+17 subsection (b)(1)(A) and (b)(1)(B); and
+18 (2) use the incremental fee to fund the reimbursement for
+19 inpatient and outpatient hospital services under subsection
+20 (d);
+21 for so long as the state directed payment program established
+22 pursuant to subsection (d) is in effect.
+23 (d) Subject to the following subdivisions (1) through (10), the
+24 office shall establish a state directed payment program,
+25 commencing after June 30, 2025, whereby state directed payments
+26 are made for inpatient and outpatient hospital services provided to
+27 plan enrollees:
+28 (1) Subject to subdivision (2), the reimbursement rates for
+29 inpatient and outpatient services under the state directed
+30 payment program shall be established at the maximum rates
+31 permitted by federal Medicaid law, subject to available state
+32 share funding. At a minimum, the reimbursement rates for
+33 such services must be greater than Medicare reimbursement
+34 rates. The reimbursement rates may not be established at
+35 rates that would result in a violation of the average
+36 commercial rate limitation set forth in 42 CFR 438.6(c)(2)(iii).
+37 (2) The committee may determine to implement the state
+38 directed payment program through the establishment of
+39 classes of hospitals with different rates of reimbursement
+40 among the classes, consistent with 42 CFR 438.6(c)(2)(ii)(B)
+41 and 42 CFR 438.6(c)(2)(ii)(I).
+42 (3) The committee shall determine the quality measures to be
+HB 1586—LS 7548/DI 51
+
+
+--- Page 27 ---
+25
+1 applied for purposes of the state directed payment program.
+2 (4) Before July 1, 2025 , the committee shall determine a fee
+3 formula to be used to fund the state share of the payments
+4 under the state directed payment program.
+5 (5) Before July 1, 2025, the office shall complete and submit
+6 all documentation required by the United States Department
+7 of Health and Human Services for the Department's review
+8 and approval of the state directed payment program. The
+9 required documentation includes the following:
+10 (A) A completed preprint.
+11 (B) The average commercial rate demonstration described
+12 in 42 CFR 438.6(c)(2)(iii).
+13 (C) If requested by the Department, a total payment rate
+14 analysis pursuant to 42 CFR 438.6(c)(2)(ii)(I).
+15 (D) Required information pertaining to the use of the
+16 incremental fee, and any waiver requests relating to the
+17 incremental fee, to fund the state share of the payments
+18 under the state directed payment program.
+19 (E) If applicable, proposed state plan amendments.
+20 (6) In the event the United States Department of Health and
+21 Human Services proposes terms or conditions relating to the
+22 state directed payment program, or relating to the
+23 incremental fee (or any waiver requests relating to the
+24 incremental fee), that are different from the terms and
+25 conditions submitted by the office, the committee shall
+26 determine whether to accept the Department's terms or
+27 conditions, or whether to direct the office to respond to the
+28 Department with counterproposals determined by the
+29 committee.
+30 (7) The office may not implement the state directed payment
+31 program without the approval of the United States
+32 Department of Health and Human Services. To the extent
+33 permitted by the Department, the office shall implement the
+34 program retroactive to July 1, 2025.
+35 (8) The office may not implement the state directed payment
+36 program without the United States Department of Health and
+37 Human Services' approval of the incremental fee, including
+38 any waivers relating to the incremental fee, to fund the state
+39 share of the payments under the state directed payment
+40 program. To the extent permitted by the Department, the
+41 office shall use the incremental fee, and any waivers relating
+42 to the incremental fee, to fund the state directed payment
+HB 1586—LS 7548/DI 51
+
+
+--- Page 28 ---
+26
+1 program retroactive to July 1, 2025.
+2 (9) Payments by the office to the managed care organizations
+3 that contract with the office to provide health coverage to
+4 Medicaid recipients under the state directed payment
+5 program shall be made pursuant to the following clauses (A)
+6 and (B):
+7 (A) For the plan enrollees referenced in subsection
+8 (b)(1)(A) the following apply:
+9 (i) The office shall pay capitation payments to the
+10 managed care organizations at levels sufficient to pay
+11 inpatient and outpatient hospital services at
+12 reimbursement rates equal to the Medicaid
+13 reimbursement rates in effect on September 1, 2014. This
+14 reimbursement will be paid to hospitals by the managed
+15 care organizations on a claims basis. The incremental fee
+16 shall fund the state share of these capitation payments.
+17 (ii) Subject to item (iii), the office shall pay amounts to
+18 the managed care organizations pursuant to a separate
+19 payment term. The payments must be at levels sufficient
+20 to pay inpatient and outpatient hospital services at
+21 reimbursement rates equal to the difference between the
+22 Medicaid reimbursement rates in effect on September 1,
+23 2014, and the reimbursement rates established pursuant
+24 to subdivision (1). The incremental fee shall fund the
+25 state share of these payments pursuant to the separate
+26 payment term.
+27 (iii) In the event a separate payment term is not
+28 permitted by operation of 42 CFR 438.6(c)(6), the office
+29 shall cease paying to the managed care organizations the
+30 amounts referenced in item (ii), and instead shall pay
+31 capitation payments to the managed care organizations
+32 at levels sufficient to pay inpatient and outpatient
+33 hospital services at reimbursement rates equal to the
+34 difference between the Medicaid reimbursement rates in
+35 effect on September 1, 2014, and the reimbursement
+36 rates established pursuant to subdivision (1). This
+37 reimbursement will be paid to hospitals by the managed
+38 care organizations on a claims basis. The incremental fee
+39 shall fund the state share of these capitation payments.
+40 (iv) A reconciliation will be performed at the end of each
+41 year of a rating period for purposes of, with respect to
+42 the portions of the capitation payments under items (i)
+HB 1586—LS 7548/DI 51
+
+
+--- Page 29 ---
+27
+1 and (iii) attributable to the payment of inpatient and
+2 outpatient hospital services, and with respect to the
+3 separate payment term under item (ii) attributable to the
+4 payment of inpatient and outpatient hospital servi ces,
+5 ensuring that such portions of the capitation payments,
+6 and the separate payment term, were appropriately and
+7 accurately calculated. Based on the reconciliation of the
+8 matters set forth in this item, ensuring that the fees that
+9 funded the portions of the capitation payments
+10 referenced in items (i) and (iii), and ensuring that the
+11 fees that funded the separate payment terms under item
+12 (ii) were appropriately and accurately calculated. 
+13 (B) For the plan enrollees referenced in subsection
+14 (b)(1)(B) the following apply:
+15 (i) The office shall pay capitation payments to the
+16 managed care organizations at levels necessary to pay
+17 inpatient and outpatient hospital services at
+18 reimbursement rates equal to the Medicaid
+19 reimbursement rates in effect on September 1, 2014. This
+20 reimbursement will be paid to hospitals by the managed
+21 care organizations on a claims basis. The incremental fee
+22 shall not fund the state share of these capitation
+23 payments.
+24 (ii) Subject to item (iii), the office shall pay amounts to
+25 the managed care organizations pursuant to a separate
+26 payment term. The payments must be at levels necessary
+27 to pay inpatient and outpatient hospital services at
+28 reimbursement rates equal to the difference between the
+29 Medicaid reimbursement rates in effect on September 1,
+30 2014, and the reimbursement rates established pursuant
+31 to subdivision (1). The incremental fee shall fund the
+32 state share of these payments pursuant to the separate
+33 payment term.
+34 (iii) In the event a separate payment term is not
+35 permitted by operation of 42 CFR 438.6(c)(6), the office
+36 shall cease paying to the managed care organizations the
+37 amounts referenced in item (ii), and instead shall pay
+38 capitation payments to the managed care organizations
+39 at levels sufficient to pay inpatient and outpatient
+40 hospital services at reimbursement rates equal to the
+41 difference between the Medicaid reimbursement rates in
+42 effect on September 1, 2014, and the reimbursement
+HB 1586—LS 7548/DI 51
+
+
+--- Page 30 ---
+28
+1 rates established pursuant to subdivision (1). This
+2 reimbursement will be paid to hospitals by the managed
+3 care organizations on a claims basis. The incremental fee
+4 shall fund the state share of these capitation payments.
+5 A recon ciliation will be performed at the end of each
+6 year of a rating period for purposes of, with respect to
+7 the portion of the capitation payments based on
+8 payments in reimbursement for inpatient and outpatient
+9 hospital services, ensuring that such portion was
+10 appropriately and accurately calculated, and based on
+11 the reconciliation of the matters set forth in item (i),
+12 ensuring the appropriate and accurate calculation of the
+13 incremental fee that funded the portion of the capitation
+14 payments referenced in item (i).
+15 (iv) A reconciliation will be performed at the end of each
+16 year of a rating period for purposes of, with respect to
+17 the portions of the capitation payments under items (i)
+18 and (iii) attributable to the payment of inpatient and
+19 outpatient hospital services, and with respect to the
+20 separate payment term under item (ii) attributable to the
+21 payment of inpatient and outpatient hospital services,
+22 ensuring that such portions of the capitation payments,
+23 and the separate payment term, were appropriately and
+24 accurately calculated. Based on the reconciliation of the
+25 matters set forth in this item, ensuring that no fees
+26 funded the portion of the capitation payments referenced
+27 in item (i), ensuring that the fees that funded the portion
+28 of the capitation payments referenced under item (iii)
+29 were appropriately and accurately calculated, and
+30 ensuring that the fees that funded the separate payment
+31 terms under item (ii), were appropriately and accurately
+32 calculated.
+33 (10) The incremental fees collected for purposes of funding
+34 the state share of the payments described in subdivision (9)(B)
+35 and in this subdivision shall be deposited into the incremental
+36 hospital fee fund established by section 13.5 of this chapter.
+37 Such incremental fees may not be used to fund the state share
+38 of the payments described in subdivision (9)(B) and in this
+39 subdivision on or after the commencement of a phase out
+40 period of the plan.
+41 (c) (e) For each state fiscal year for which the fee authorized by this
+42 section is used to fund the state share of the expenses described in
+HB 1586—LS 7548/DI 51
+
+
+--- Page 31 ---
+29
+1 subsection (b)(1) and, if applicable, the reimbursement for inpatient
+2 and outpatient hospital services under subsection (d), the amount of
+3 fees shall be reduced by:
+4 (1) the amount of funds annually designated by the general
+5 assembly to be deposited in the healthy Indiana plan trust fund
+6 established by IC 12-15-44.2-17; less
+7 (2) the annual  cigarette tax funds annually appropriated by the
+8 general assembly for childhood immunization programs under
+9 IC 12-15-44.2-17(a)(3).
+10 (d) (f) The incremental fee described in this section may not:
+11 (1) be assessed before July 1, 2016; and
+12 (2) be assessed or collected on or after the beginning of a phase
+13 out period of the plan.
+14 (e) (g) This section is not intended to and may not be construed to
+15 change or affect any component of the programs established under
+16 section 8 of this chapter.
+17 SECTION 19. IC 16-21-10-13.5, AS AMENDED BY P.L.30-2016,
+18 SECTION 41, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+19 UPON PASSAGE]: Sec. 13.5.(a) The incremental hospital fee fund is
+20 established for the purpose of holding fees collected under section 13.3
+21 of this chapter.
+22 (b) The office shall administer the fund.
+23 (c) Money in the fund consists of the following:
+24 (1) Fees collected under section 13.3 of this chapter.
+25 (2) Donations, gifts, and money received from any other source.
+26 (3) Interest accrued under this section.
+27 (d) Money in the fund may be used only for the following:
+28 (1) To fund exclusively the state share of the expenses listed in
+29 section 13.3(b)(1)(A) through 13.3(b)(1)(F) of this chapter or,
+30 if applicable, to fund the reimbursement for inpatient and
+31 hospital services under section 13.3(d) of this chapter.
+32 (2) To refund hospitals in the same manner as described in
+33 subsection (g) as soon as reasonably possible after the beginning
+34 of a phase out period of the healthy Indiana plan.
+35 (e) Money remaining in the fund at the end of a state fiscal year
+36 does not revert to the state general fund.
+37 (f) The treasurer of state shall invest the money in the fund not
+38 currently needed to meet the obligations of the fund in the same
+39 manner as other public funds may be invested. Interest that accrues
+40 from these investments shall be deposited in the fund.
+41 (g) Upon the beginning of a phase out period of the healthy Indiana
+42 plan, money collected under section 13.3 of this chapter and any
+HB 1586—LS 7548/DI 51
+
+
+--- Page 32 ---
+30
+1 accrued interest remaining in the fund shall be distributed to the
+2 hospitals on a pro rata basis based upon the fees authorized by this
+3 chapter that were paid by each hospital for the state fiscal year that
+4 ended immediately before the beginning of the phase out period.
+5 SECTION 20. IC 16-21-10-14, AS AMENDED BY P.L.213-2015,
+6 SECTION 150, IS AMENDED TO READ AS FOLLOWS
+7 [EFFECTIVE UPON PASSAGE]: Sec. 14. (a) This section does not
+8 apply to the use of the incremental fee described in section 13.3 of this
+9 chapter.
+10 (b) Subject to subsections (c) and (d), the fees collected under
+11 section 8 of this chapter may be used only as described in this chapter
+12 or to pay the state's share of the cost for Medicaid services provided
+13 under the federal Medicaid program (42 U.S.C. 1396 et seq.) as
+14 follows:
+15 (1) Twenty-eight and five-tenths percent (28.5%) may be used by
+16 the office for Medicaid expenses.
+17 (2) Seventy-one and five-tenths percent (71.5%) to hospitals.
+18 (c) Subject to subsection (d), this section does not apply for any
+19 state fiscal year for which the managed care assessment fee under
+20 IC 27-1-50.3 is assessed.
+21 (d) With respect to the first state fiscal year for which the
+22 managed care assessment fee under IC 27-1-50.3 is assessed, any
+23 fees described in subsection (b)(1) that were collected for that state
+24 fiscal year before the assessment of the managed care assessment
+25 fee for that state fiscal year shall be used to fund the state's share
+26 of the reimbursement described in section 8(a)(2) of this chapter.
+27 SECTION 21. IC 16-21-10-19, AS ADDED BY P.L.205-2013,
+28 SECTION 214, IS AMENDED TO READ AS FOLLOWS
+29 [EFFECTIVE UPON PASSAGE]: Sec. 19. Payments for the programs
+30 described in section 8(a) 8(a)(1) and 8(a)(2) of this chapter are limited
+31 to claims for dates of services provided during the fee period and that
+32 are timely filed with the office or a contractor of the office. Payments
+33 for the programs described in section 8(a) 8(a)(1) and 8(a)(2) of this
+34 chapter and payments to hospitals in accordance with section 11 of this
+35 chapter (subject to section 11(d) and 11(e) of this chapter) may occur
+36 at any time, including after collection of the fee is stopped under
+37 section 6(b) of this chapter, to the extent the funding provided for the
+38 payments by this chapter is available under section 9(c) of this chapter.
+39 Payments for the program described in section 13 of this chapter may
+40 occur at any time, including after the collection of the fee is stopped
+41 under section 6(b) of this chapter, subject to the reconciliation and
+42 termination of the program required by section 6(b) of this chapter.
+HB 1586—LS 7548/DI 51
+
+
+--- Page 33 ---
+31
+1 SECTION 22. IC 16-21-10-21, AS AMENDED BY P.L.201-2023,
+2 SECTION 148, IS AMENDED TO READ AS FOLLOWS
+3 [EFFECTIVE UPON PASSAGE]: Sec. 21. This chapter expires June
+4 30, 2025. 2027.
+5 SECTION 23. IC 27-1-50.3 IS ADDED TO THE INDIANA CODE
+6 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+7 UPON PASSAGE]:
+8 Chapter 50.3. Managed Care Assessment Fee
+9 Sec. 1. The following definitions apply throughout this chapter:
+10 (1) "Approval of the state directed payment programs"
+11 means CMS's approval of the state directed payment
+12 program described in IC 16-21-10-8(a)(3) and the state
+13 directed payment program described in IC 16-21-10-13.3(d).
+14 (2) "Business day" means a day other than Saturday or
+15 Sunday, or a legal holiday listed in IC 1-1-9-1.
+16 (3) "CMS" refers to the federal Centers for Medicare and
+17 Medicaid Services.
+18 (4) "Commissioner" refers to the insurance commissioner
+19 appointed under IC 27-1-1-2.
+20 (5) "Department" refers to the department of insurance
+21 created by IC 27-1-1-1.
+22 (6) "Fee" refers to the fee on managed care organizations
+23 authorized by this chapter.
+24 (7) "Managed care organization" means an organization that
+25 holds a certificate of authority, license, or other similar
+26 authorization issued by the department and that is a managed
+27 care organization for purposes of 42 U.S.C.
+28 1396b(w)(7)(A)(viii) and 42 CFR 433.56(a)(8).
+29 (8) "Office" refers to the office of Medicaid policy and
+30 planning established by IC 12-8-6.5-1.
+31 (9) "Secretary" refers to the secretary of family and social
+32 services appointed under IC 12-8-1.5-2.
+33 (10) "State directed payments" means the payments made
+34 under the state directed payment program described in
+35 IC 16-21-10-8(a)(3), and the payments made under the state
+36 directed payment program described in IC 16-21-10-13.3(d).
+37 (11) "State's share" means the portion of allowable Medicaid
+38 expenses funded by the state, by other units of government,
+39 or, as permitted by federal Medicaid laws, by other entities
+40 other than the federal government.
+41 Sec. 2. (a) Subject to subsections (b) and (c) and this chapter, a
+42 fee is authorized. The fee shall be assessed for each state fiscal year
+HB 1586—LS 7548/DI 51
+
+
+--- Page 34 ---
+32
+1 for which state directed payments are made to hospitals.
+2 (b) The fee may not be assessed without approval from CMS.
+3 (c) The assessment of the fee shall cease upon CMS's
+4 determination that the fee is no longer a permissible health care
+5 related tax that is eligible for federal financial participation.
+6 Sec. 3. For each of the state fiscal years described in section 2(a)
+7 of this chapter, the office, subject to section 6 of this chapter, shall
+8 assess a fee upon managed care organizations in an aggregate
+9 amount equal to twenty-eight and five-tenths percent (28.5%) of
+10 the fees assessed under IC 16-21-10 for the state fiscal year,
+11 excluding the fees collected under IC 16-21-10-13.3.
+12 Sec. 4. The fee collected under this chapter only may be used to
+13 pay the state's share of the cost of Medicaid services provided
+14 under the Medicaid program (42 U.S.C. 1396 et seq.).
+15 Sec. 5. Not later than May 30, 2025, and after consulting with
+16 the secretary or the secretary's designee regarding compliance
+17 with 42 U.S.C. 1396b(w)(7)(A)(viii) and 42 CFR 433.56(a)(8) and
+18 the types of managed care organizations recognized under Indiana
+19 law, the commissioner or the commissioner's designee shall provide
+20 the secretary or the secretary's designee with a list of the managed
+21 care organizations that hold a certificate of authority, license, or
+22 other similar authorization issued by the department and that are
+23 managed  care organizations for purposes of 42 U.S.C.
+24 1396b(w)(7)(A)(viii) and 42 CFR 433.56(a)(8). Thereafter, the
+25 commissioner or the commissioner's designee shall update this list
+26 to the secretary or the secretary's designee not sooner than one
+27 hundred twenty (120) days, and not later than ninety (90) days,
+28 from the start of each state fiscal year for which the fee is assessed.
+29 Sec. 6. (a) The fee must meet the requirements of the federal
+30 Medicaid statutes and regulations for permissible health care
+31 related taxes.
+32 (b) The office may request a waiver from CMS of the broad
+33 based and uniformity requirements under 42 CFR 433.68 as
+34 amended, relating to the assessment under this chapter.
+35 (c) Subject to subsection (a):
+36 (1) the office may assess the fee on a tiered basis among the
+37 managed care organizations; and
+38 (2) the office may assess the fee based on member months,
+39 premium revenue, or any other methodology approved by
+40 CMS.
+41 Sec. 7. (a) The managed care assessment fee committee is
+42 established. The committee consists of the following five (5)
+HB 1586—LS 7548/DI 51
+
+
+--- Page 35 ---
+33
+1 members:
+2 (1) The secretary, or the secretary's designee, who shall serve
+3 as chair of the committee.
+4 (2) The commissioner or the commissioner's designee.
+5 (3) The budget director or the budget director's designee.
+6 (4) One (1) member from a managed care organization that
+7 has a comprehensive risk contract with the office under
+8 IC 12-15, appointed by the governor from a list of at least
+9 three (3) individuals submitted by the Insurance Institute of
+10 Indiana.
+11 (5) One (1) member from a managed care organization that
+12 does not have a comprehensive risk contract with the office
+13 under IC 12-15, appointed by the governor from a list of at
+14 least three (3) individuals submitted by the Insurance Institute
+15 of Indiana.
+16 (b) The committee shall meet at the call of the chair. The
+17 members shall serve without compensation.
+18 (c) The committee shall provide recommendations to the
+19 secretary, or the secretary's designee, regarding all matters
+20 pertaining to the assessment of the fee, including recommendations
+21 regarding the matters referenced in section 6(b) and 6(c) of this
+22 chapter and section 9(d) through 9(f) of this chapter.
+23 Sec. 8. The office shall submit a written request to CMS for
+24 approval of the managed care assessment fee not later than June
+25 30, 2025. Subject to the requirements of this chapter, the office is
+26 authorized to negotiate with CMS regarding the terms and
+27 conditions for the implementation and maintenance of the fee.
+28 Sec. 9. (a) Pursuant to section 2 of this chapter, the fee shall be
+29 assessed for each state fiscal year for which state directed
+30 payments are made to hospitals.
+31 (b) With respect to the first state fiscal year for which state
+32 directed payments are paid to hospitals, the assessment payable by
+33 a managed care organization for that state fiscal year shall be
+34 prorated and due and payable in equal monthly installments on the
+35 first business day of each calendar month that follows the date such
+36 state directed payments are first paid to hospitals. The office shall
+37 notify each managed care organ ization of its assessment and its
+38 installment due dates as soon as reasonably possible following
+39 CMS's approval of the state directed payment programs. The
+40 assessment payable by a managed care organization under this
+41 subsection shall be subject to the reconciliation process set forth in
+42 subsections (d), (e), and (f).
+HB 1586—LS 7548/DI 51
+
+
+--- Page 36 ---
+34
+1 (c) Except for the circumstances described in subsection (a), the
+2 assessment payable by a managed care orga nization for a state
+3 fiscal year shall be due and payable in monthly installments, each
+4 equaling one-twelfth (1/12) of the assessment for the state fiscal
+5 year, on the first business day of each calendar month of the state
+6 fiscal year. The office shall notify each managed care organization
+7 of its annual assessment and its installment due dates not later than
+8 thirty (30) days prior to the start of each fiscal year. The
+9 assessment payable by a managed care organization under this
+10 subsection shall be subject to the reconciliation process set forth in
+11 subsections (d), (e), and (f).
+12 (d) The office shall establish a process for reconciling for a state
+13 fiscal year:
+14 (1) the amount of fees actually assessed under IC 16-21-10 for
+15 the state fiscal year, excluding the fees collected under
+16 IC 16-21-10-13.3; and
+17 (2) the amount of fees assessed under this chapter for the state
+18 fiscal year in relation to the amount that equals twenty-eight
+19 and five-tenths percen t (28.5%) of the fees actually assessed
+20 under IC 16-21-10 for the state fiscal year, excluding the fees
+21 collected under IC 16-21-10-13.3.
+22 (e) The office may assess additional fees under this chapter for
+23 a state fiscal year if the amount of fees assessed for the state fiscal
+24 year was less than an amount equaling twenty-eight and five-tenths
+25 percent (28.5%) of the fees actually assessed under IC 16-21-10 for
+26 the state fiscal year, excluding the fees collected under
+27 IC 16-21-10-13.3.
+28 (f) The office shall refund fees assessed under this chapter for a
+29 state fiscal year if the amount of fees assessed for the state fiscal
+30 year was greater than an amount equaling twenty-eight and
+31 five-tenths percent (28.5%) of the fees actually assessed under
+32 IC 16-21-10 for the state fiscal year, excluding the fees collected
+33 under IC 16-21-10-13.3.
+34 Sec. 10. (a) The managed care assessment fund is established for
+35 the purpose of holding the fees collected under this chapter.
+36 (b) The office shall administer the fund.
+37 (c) Money in the fund consists of the following:
+38 (1) Fees collected under this chapter, including penalty
+39 payments under section 12 of this chapter.
+40 (2) Donations, gifts, appropriations by the general assembly,
+41 and money received from any other source.
+42 (3) Interest accrued under this section.
+HB 1586—LS 7548/DI 51
+
+
+--- Page 37 ---
+35
+1 (d) Money remaining in the fund at the end of a state fiscal year
+2 does not revert to the state general fund.
+3 (e) The treasurer of state shall invest the money in the fund not
+4 currently needed to meet the obligations of the fund in the same
+5 manner as other public funds may be invested. Interest that
+6 accrues from these investments shall be deposited in the fund.
+7 Sec. 11. A managed  care organization that is liable for an
+8 assessment under this chapter shall keep accurate and complete
+9 records and pertinent documents that are relevant to the
+10 organization's assessment under this chapter, as may be required
+11 by the department or the office. The department or the office may
+12 audit all records necessary to ensure compliance with this chapter
+13 and make adjustments to assessment amounts previously
+14 calculated based on the results of any the audit.
+15 Sec. 12. (a) For good cause shown by a managed care
+16 organization due to financial or other difficulties, as determined by
+17 the office, the office is authorized to grant grace periods, of up to
+18 thirty (30) days, f or the managed care organization's payment of
+19 an installment payment due under this chapter.
+20 (b) If a managed care organization that is liable for an
+21 assessment under this chapter fails to make an installment
+22 payment by the payment's due date, and no grace period has been
+23 granted to the managed care organization for the payment of the
+24 installment payment, the managed care organization shall pay a
+25 penalty of ten percent (10%) of the amount of the installment
+26 payment not paid, plus ten percent (10%) of the portion remaining
+27 unpaid on the last day of every thirty (30) day period thereafter.
+28 These penalty payments shall be deposited into the managed care
+29 assessment fund.
+30 (c) If a managed  care organization that is liable for an
+31 assessment under this chapter is granted a grace period but fails to
+32 make its installment payment by the end of the grace period, the
+33 managed care organization shall pay a penalty of five percent (5%)
+34 of the amount of the installment payment not paid, plus five
+35 percent (5%) of the portion remaining unpaid on the last day of
+36 every thirty (30) day period thereafter. These penalty payments
+37 shall be deposited into the managed care assessment fund.
+38 (d) Notwithstanding subsections (b) and (c), with respect to a
+39 managed care organization that has a comprehensive risk contract
+40 with the office under IC 12-15 that fails to make an installment
+41 payment not later than sixty (60) days after the due date or, if
+42 applicable, not later than sixty (60) days after the end of a grace
+HB 1586—LS 7548/DI 51
+
+
+--- Page 38 ---
+36
+1 period, the office may additionally impose a contractual sanction
+2 allowed against the managed care organization, and may terminate
+3 the contract with the office.
+4 (e) Notwithstanding subsections (b) through (d), with respect to
+5 a managed care organization that fails to make an installment
+6 payment not later than sixty (60) days after the due date or, if
+7 applicable, not later than sixty (60) days after the end of a grace
+8 period, the department may suspend or revoke, after notice and
+9 hearing, the managed care organization's certificate of authority,
+10 license, or other authority to operate in Indiana.
+11 Sec. 13. The office may adopt rules under IC 4-22-2 to
+12 implement this chapter. Notwithstanding the effective dates
+13 specified for rules in IC 4-22-2, rules adopted to implement this
+14 chapter may be retroactive to May 1, 2025.
+15 SECTION 24. [EFFECTIVE UPON PASSAGE] (a) The office of
+16 the secretary of family and social services shall amend 405
+17 IAC 1-8-5 and 405 IAC 1-10.5-7 to reflect the amendments in this
+18 act and any Medicaid state plan amendment, Medicaid waiver, or
+19 preprint submitted for purposes of 42 CFR 438.6(c):
+20 (1) approved or otherwise determined by the hospital
+21 assessment fee committee under IC 16-21-10-7, as amended by
+22 this act;
+23 (2) submitted to the budget committee in accordance with
+24 IC 12-15-1.3-17.5; and
+25 (3) approved by the United States Department of Health and
+26 Human Services.
+27 The office of the secretary may adopt the changes required by this
+28 subsection as provisional rules or interim rules in the manner set
+29 forth in IC 4-22-2.
+30 (b) The administrative rules amended under subsection (a) are
+31 effective and may be retroactive to the date the United States
+32 Department of Health and Human Services approved a Medicaid
+33 state plan amendment or Medicaid waiver described in subsection
+34 (a).
+35 (c) Notwithstanding the expiration dates in IC 4-22-2, if the
+36 office of the secre tary adopts the changes to the administrative
+37 rules as required in subsection (a) through a provisional or an
+38 interim rule, the provisional or interim rule expires not later than
+39 the earlier of the following:
+40 (1) The date on which a rule that supersedes the provisional
+41 or interim rule is adopted by the office of the secretary under
+42 IC 4-22-2-19.7 through IC 4-22-2-36.
+HB 1586—LS 7548/DI 51
+
+
+--- Page 39 ---
+37
+1 (2) July 1, 2027.
+2 (d) This SECTION expires July 1, 2027.
+3 SECTION 25. An emergency is declared for this act.
+HB 1586—LS 7548/DI 51
+
+
+--- Page 40 ---
+38
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Public Health, to which was
+referred House Bill 1586, has had the same under consideration and
+begs leave to report the same back to the House with the
+recommendation that said bill do pass. 
+(Reference is to HB 1586 as introduced.) 
+BARRETT
+Committee Vote: Yeas 11, Nays 0         
+HB 1586—LS 7548/DI 51

@@ -1,0 +1,172 @@
+{
+  "bill_id": 1915132,
+  "change_hash": "7b2dc954d7c1d280f6287267a76230f3",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/HB1426/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/house/1426/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-13",
+  "progress": [
+    {
+      "date": "2025-01-13",
+      "event": 1
+    },
+    {
+      "date": "2025-01-13",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "HB1426",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "H",
+  "body_id": 37,
+  "current_body": "H",
+  "current_body_id": 37,
+  "title": "Liability shield products.",
+  "description": "Liability shield products. Defines a \"liability shield product\" as a certain type of product that has been designated as immune from liability under federal law. Requires a liability shield product to undergo a placebo controlled study before it is distributed, manufactured, marketed, or administered. Requires: (1) the Indiana department of health to monitor and publish certain information; and (2) certain entities to submit documentation and compliance reports; concerning liability shield products. Allows the attorney general or a private individual to bring an action if the requirements concerning liability shield products are not met.",
+  "pending_committee_id": 1300,
+  "committee": {
+    "committee_id": 1300,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Public Health"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-13",
+      "committee_id": 1300,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Public Health"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-13",
+      "action": "Authored by Representative Borders",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading: referred to Committee on Public Health",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 5576,
+      "person_hash": "onhy7tcb",
+      "party_id": "2",
+      "state_id": 14,
+      "party": "R",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Bruce Borders",
+      "first_name": "Bruce",
+      "middle_name": "Alan",
+      "last_name": "Borders",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-045",
+      "ftm_eid": 6592521,
+      "votesmart_id": 34050,
+      "opensecrets_id": "",
+      "knowwho_pid": 227380,
+      "ballotpedia": "Bruce_Borders",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3052221,
+      "date": "2025-01-13",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/HB1426/id/3052221",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1426/HB1426.01.INTR.pdf",
+      "text_size": 128175,
+      "text_hash": "a32290a58e5eb96f8f1b0bbaf7dd1314",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 487453,
+      "date": "2025-01-13",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/HB1426/id/487453",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1426/fiscal-notes/HB1426.01.INTR.FN001.pdf",
+      "supplement_size": 59406,
+      "supplement_hash": "d7844ffba30db6bdc49af0eb778023fa",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    },
+    {
+      "supplement_id": 487925,
+      "date": "2025-01-14",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #2: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/HB1426/id/487925",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1426/fiscal-notes/HB1426.01.INTR.FN002.pdf",
+      "supplement_size": 60264,
+      "supplement_hash": "6b4f7f4b6b3b0fb3342fbda753b58d87",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

@@ -1,0 +1,816 @@
+--- Page 1 ---
+ 
+Introduced Version
+HOUSE BILL No. 1588
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 5-28-45; IC 6-3.1; IC 6-8-16.
+Synopsis:  Long term care savings accounts. Establishes the primary
+care access  revolving fund (fund) for the purpose of making loans to
+primary care medical practices in Indiana. Specifies the purposes for
+which money in the fund may be loaned. Provides that the Indiana
+finance authority shall administer the fund. Requires the Indiana
+economic development corporation (IEDC) to transfer $15,000,000 to
+the fund from the amount appropriated to the IEDC by the general
+assembly in the 2025-2026 state fiscal year. Increases the employee
+threshold for purposes of eligibility for the health reimbursement
+arrangement income tax credit. Increases the maximum amount of tax
+credits that may be granted in a year. Specifies the procedure for
+claiming the credit. Allows an employer to establish a long term care
+savings account program that allows an employee to save with
+favorable tax treatment for services required when the employee's or
+the employee's dependents' functional capacities become chronically
+impaired due to advanced age or other circumstances. Expands the
+physician practice ownership tax credit (tax credit) against state tax
+liability to practicing physicians (instead of only primary care
+physicians) who have an ownership interest in a physician practice and
+meet other eligibility criteria. Requires a taxpayer claiming the tax
+credit to certify that each physician with an ownership interest provides
+health care services to patients. Provides that the total amount of tax
+credits awarded in a state fiscal year may not exceed $20,000,000.
+Effective:  January 1, 2025 (retroactive); July 1, 2025.
+Barrett
+January 21, 2025, read first time and referred to Commi ttee on Ways and Means.
+2025 IN 1588—LS 7709/DI 134
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE BILL No. 1588
+A BILL FOR AN ACT to amend the Indiana Code concerning state
+and local administration and to make an appropriation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 5-28-45 IS ADDED TO THE INDIANA CODE AS
+2 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2025]:
+4 Chapter 45. Primary Care Access Revolving Fund
+5 Sec. 1. As used in this chapter, "fund" refers to the primary
+6 care access revolving fund established by section 5 of this chapter.
+7 Sec. 2. As used in this chapter, "physician" means an individual
+8 who is licensed to practice medicine in Indiana under IC 25-22.5.
+9 Sec. 3. As used in this chapter, "primary care medical practice"
+10 includes:
+11 (1) a physician practicing as a primary care physician;
+12 (2) a hospital providing primary health care services to
+13 patients; and
+14 (3) any other corporation, limited liability company,
+15 partnership, or other legal entity organized and licensed to
+16 provide primary health care services to patients;
+17 in Indiana.
+2025 IN 1588—LS 7709/DI 134
+
+
+--- Page 3 ---
+2
+1 Sec. 4. As used in this chapter, "primary care physician" refers
+2 to a physician practicing in one (1) or more of the following:
+3 (1) Family medicine.
+4 (2) General pediatric medicine.
+5 (3) General internal medicine.
+6 (4) The general practice of medicine.
+7 Sec. 5. (a) The primary care access revolving fund is established
+8 for the purpose of making loans to primary care medical practices
+9 as set forth in this chapter. The fund is a nonlapsing, revolving
+10 fund. The Indiana finance authority shall administer the fund. The
+11 fund consists of the following:
+12 (1) Money appropriated by the general assembly.
+13 (2) Money deposited in the fund under subsection (b).
+14 (3) The repayment proceeds of loans made to primary care
+15 medical practices from the fund.
+16 (4) Money received from any other source.
+17 (b) Of the money appropriated by the general assem bly to the
+18 Indiana economic development corporation for the state fiscal year
+19 beginning after June 30, 2025, and ending before July 1, 2026,
+20 fifteen million dollars ($15,000,000) of that amount shall be
+21 deposited by the Indiana economic development corporation in the
+22 fund to be used for the purposes of the fund.
+23 Sec. 6. (a) The Indiana finance authority may make loans from
+24 the fund to primary care medical practices in Indiana. A loan
+25 under this section may be made for the following purposes:
+26 (1) To finance facility capital improvements and expansion.
+27 (2) To purchase equipment used in the primary care medical
+28 practice.
+29 (3) To meet the primary care medical practice's working
+30 capital needs.
+31 (4) Any other purpose of a primary care medical practice that
+32 serves to increase local access to primary health care services.
+33 (b) Priority for a loan from the fund may be given to a primary
+34 care medical practice:
+35 (1) that has secured funding from other sources for the
+36 project or purpose for which the loan from the fund is made;
+37 or
+38 (2) that is located in a:
+39 (A) a medically underserved area;
+40 (B) a rural area; or
+41 (C) a health professional shortage area.
+42 Sec. 7. The recipient of a loan under this chapter must enter into
+2025 IN 1588—LS 7709/DI 134
+
+
+--- Page 4 ---
+3
+1 a loan agreement with the Indiana finance authority. The loan
+2 agreement must contain the following terms:
+3 (1) A requirement that the loan proceeds be used for specified
+4 purposes consistent with this chapter.
+5 (2) The term of the loan.
+6 (3) The repayment schedule.
+7 (4) The interest rate or rates of the loan, which may include
+8 variations in the rate but may not be less than the amount
+9 necessary to cover all expenses in making the loan.
+10 (5) Any other terms and provisions deemed necessary.
+11 SECTION 2. IC 6-3.1-38-1.5 IS ADDED TO THE INDIANA
+12 CODE AS A NEW SECTION TO READ AS FOLLOWS
+13 [EFFECTIVE JANUARY 1, 2025 (RETROACTIVE)]: Sec. 1.5. As
+14 used in this chapter, "pass through entity" has the meaning set
+15 forth in IC 6-3-1-35.
+16 SECTION 3. IC 6-3.1-38-4, AS ADDED BY P.L.203-2023,
+17 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+18 JANUARY 1, 2025 (RETROACTIVE)]: Sec. 4. (a) Subject to
+19 subsection (c) and section 7 of this chapter, a qualified taxpayer may
+20 claim a credit against the qualified taxpayer's state tax liability for a
+21 qualified contribution for a qualified taxpayer with less than fifty (50)
+22 seventy-five (75) employees, if the amount provided toward the
+23 health reimbursement arrangement is equal to or greater than
+24 either the level of benefits provided in the previous benefit year, or
+25 if the amount the employer contributes toward the health
+26 reimbursement arrangement equals the same amount contributed
+27 per covered individual towar d the employer provided health
+28 insurance plan during the previous benefit year. up to four hundred
+29 dollars ($400) in the first year per covered employee if the amount
+30 provided toward the health reimbursement arrangement is equal to or
+31 greater than either the level of benefits provided in the previous benefit
+32 year, or if the amount the employer contributes toward the health
+33 reimbursement arrangement equals the same amount contributed per
+34 covered individual toward the employer provided health insurance plan
+35 during the previous bene fit year. The credit under this section
+36 decreases to two hundred dollars ($200) per covered employee in the
+37 second year.
+38 (b) The amount of the credit is the lesser of:
+39 (1) the amount contributed by the employer toward the health
+40 reimbursement arrangement during the taxable year; or
+41 (2) the following:
+42 (A) For the taxable year in which the employer establishes
+2025 IN 1588—LS 7709/DI 134
+
+
+--- Page 5 ---
+4
+1 the health reimbursement arrangement, four hundred
+2 dollars ($400).
+3 (B) For the taxable year that immediately follows the
+4 taxable year in which the employer establishes the health
+5 reimbursement arrangement, two hundred dollars ($200).
+6 (C) For a taxable year following a taxable year described
+7 in clause (A) or (B), zero dollars ($0).
+8 (c) A qualified taxpayer may not claim a credit under this
+9 chapter for a health reimbursement arrangement established in a
+10 taxable year beginning before January 1, 2024.
+11 SECTION 4. IC 6-3.1-38-4.5 IS ADDED TO THE INDIANA
+12 CODE AS A NEW SECTION TO READ AS FOLLOWS
+13 [EFFECTIVE JANUARY 1, 2025 (RETROACTIVE)]: Sec. 4.5. For
+14 a taxable year beginning after December 31, 2024, if a pass through
+15 entity is entitled to a credit under section 4 of this chapter but does
+16 not have state tax liability against which the tax credit may be
+17 applied, a shareholder, partner, or member of the pass through
+18 entity is entitled to a tax credit equal to:
+19 (1) the tax credit determined for the pass through entity for
+20 the taxable year; multiplied by
+21 (2) the percentage of the pass through entity's distributive
+22 income to which the shareholder, partner, or member is
+23 entitled.
+24 SECTION 5. IC 6-3.1-38-6, AS ADDED BY P.L.203-2023,
+25 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+26 JANUARY 1, 2025 (RETROACTIVE)]: Sec. 6. Subject to section 7
+27 of this chapter, to receive the credit provided by this chapter, a
+28 qualified taxpayer must claim the credit on the qualified taxpayer's
+29 state tax return or returns in the manner prescribed by the department.
+30 SECTION 6. IC 6-3.1-38-7, AS ADDED BY P.L.203-2023,
+31 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+32 JANUARY 1, 2025 (RETROACTIVE)]: Sec. 7. (a) The amount of tax
+33 credits granted under this chapter may not exceed ten million dollars
+34 ($10,000,000)  fifteen million dollars ($15,000,000) in any taxable
+35 state fiscal year.
+36 (b) For state fiscal years ending before July 1, 2025, the
+37 department shall record the time of filing of each return claiming a
+38 credit under section 6 of this chapter and shall approve the claims if
+39 they otherwise qualify for a tax credit under this chapter, in the
+40 chronological order in which the claims are filed in the state fiscal year.
+41 (c) For state fiscal years beginning after June 30, 2025, to claim
+42 the credit, a qualified taxpayer must submit a claim for the credit
+2025 IN 1588—LS 7709/DI 134
+
+
+--- Page 6 ---
+5
+1 after the end of the qualified taxpayer's taxable year. The
+2 department shall record the claimant and the amount of allowable
+3 credit in the order in which the department receives the
+4 application from the taxpayer.
+5 (c) (d) The department may not approve a claim for a tax credit after
+6 the date on which the total credits approved under this section equal the
+7 maximum amount allowable in a particular state fiscal year.
+8 SECTION 7. IC 6-3.1-40-1.5 IS ADDED TO THE INDIANA
+9 CODE AS A NEW SECTION TO READ AS FOLLOWS
+10 [EFFECTIVE JANUARY 1, 2025 (RETROACTIVE)]: Sec. 1.5. As
+11 used in this chapter, "pass through entity" has the meaning set
+12 forth in IC 6-3-1-35.
+13 SECTION 8. IC 6-3.1-40-3 IS REPEALED [EFFECTIVE
+14 JANUARY 1, 2025 (RETROACTIVE)]. Sec. 3. As used in this
+15 chapter, "primary care physician" refers to a physician practicing in one
+16 (1) or more of the following:
+17 (1) Family medicine.
+18 (2) General pediatric medicine.
+19 (3) General internal medicine.
+20 (4) The general practice of medicine.
+21 SECTION 9. IC 6-3.1-40-5, AS ADDED BY P.L.203-2023,
+22 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+23 JANUARY 1, 2025 (RETROACTIVE)]: Sec. 5. As used in this
+24 chapter, "taxpayer" means an individual who:
+25 (1) is a physician practicing as a primary care physician; engaged
+26 in the practice of medicine;
+27 (2) has an ownership interest in a corporation, limited liability
+28 company, partnership, or other legal entity organized to provide
+29 primary health care services as a physician owned entity;
+30 (3) is not employed by a health system (as defined in
+31 IC 16-18-2-168.5); and
+32 (4) has any state income tax liability.
+33 SECTION 10. IC 6-3.1-40-6, AS ADDED BY P.L.203-2023,
+34 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+35 JANUARY 1, 2025 (RETROACTIVE)]: Sec. 6. If a taxpayer:
+36 (1) has an ownership interest in a physician owned medical
+37 practice described in section 5(2) of this chapter that:
+38 (1) (A) is established as a legal entity under Indiana law after
+39 December 31, 2023;
+40 (2) (B) opens and begins to provide primary health care
+41 services to patients in a particular taxable year beginning after
+42 December 31, 2023; and
+2025 IN 1588—LS 7709/DI 134
+
+
+--- Page 7 ---
+6
+1 (3) (C) has billed for health care services described in
+2 subdivision (2) for at least six (6) months of that a taxable
+3 year;
+4 (2) has an ownership interest in the income of the physician
+5 owned medical practice that is at least:
+6 (A) for a physician owned medical practice with not more
+7 than ten (10) owners, five percent (5%) of the physician
+8 owned medical practice's income; and
+9 (B) for a physician owned medical practice with more than
+10 ten (10) owners, fifty percent (50%) of the physician owned
+11 medical practice's income; and
+12 (3) provided health care services in the physician owned
+13 medical practice for at least six (6) months of a taxable year;
+14 the taxpayer may, subject to section sections 7 and 9.5 of this chapter,
+15 claim a credit against the taxpayer's state income tax liability. Subject
+16 to section sections 8 and 11 of this chapter, the amount of the credit
+17 allowed under this chapter for a taxpayer in the particular taxable year
+18 is twenty thousand dollars ($20,000).
+19 SECTION 11. IC 6-3.1-40-7, AS ADDED BY P.L.203-2023,
+20 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+21 JANUARY 1, 2025 (RETROACTIVE)]: Sec. 7. A taxpayer may claim
+22 a tax credit under this chapter for the a taxable year described in
+23 section 6 of this chapter and the two (2) immediately following taxable
+24 years.
+25 SECTION 12. IC 6-3.1-40-8.5 IS ADDED TO THE INDIANA
+26 CODE AS A NEW SECTION TO READ AS FOLLOWS
+27 [EFFECTIVE JANUARY 1, 2025 (RETROACTIVE)]: Sec. 8.5. If a
+28 pass through entity is entitled to a credit under section 6 of this
+29 chapter but does not have state tax liability against which the tax
+30 credit may be applied, a shareholder, partner, or member of the
+31 pass through entity is entitled to a tax credit equal to:
+32 (1) the tax credit determined for the pass through entity for
+33 the taxable year; multiplied by
+34 (2) the percentage of the pass through entity's distributive
+35 income to which the shareholder, partner, or member is
+36 entitled.
+37 SECTION 13. IC 6-3.1-40-9 IS REPEALED [EFFECTIVE
+38 JANUARY 1, 2025 (RETROACTIVE)]. Sec. 9. To obtain a credit
+39 under this chapter, a taxpayer must claim the credit on the taxpayer's
+40 annual state income tax return in the manner prescribed by the
+41 department. The taxpayer shall submit to the department all
+42 information that the department determines is necessary to verify the
+2025 IN 1588—LS 7709/DI 134
+
+
+--- Page 8 ---
+7
+1 taxpayer's eligibility for the credit provided by this chapter.
+2 SECTION 14. IC 6-3.1-40-9.5 IS ADDED TO THE INDIANA
+3 CODE AS A NEW SECTION TO READ AS FOLLOWS
+4 [EFFECTIVE JANUARY 1, 2025 (RETROACTIVE)]: Sec. 9.5. (a) To
+5 receive a credit under this chapter, a taxpayer must:
+6 (1) subject to subsection (d), apply for the department's
+7 approval of the tax credit in the manner prescribed by the
+8 department after June 30 of a calendar year, but not later
+9 than July 1 of the subsequent calendar year;
+10 (2) submit with the application a certified list of each of the
+11 physicians who has an ownership interest in the legal entity
+12 described in section 6 of this chapter and any additional
+13 information that the department determines is necessary for
+14 the calculation of the credit under this chapter;
+15 (3) attach proof of the department's approval of the tax credit
+16 to the taxpayer's state tax return or returns; and
+17 (4) claim the approved tax credit on the taxpayer' s state tax
+18 return or returns in the manner prescribed by the
+19 department.
+20 (b) The department shall record the time of filing of each
+21 application for the department's approval of a tax credit and shall,
+22 except as provided in subsection (c), approve granting the credit to
+23 the taxpayer, if the taxpayer otherwise qualifies for a credit under
+24 this chapter, in the chronological order in which the application for
+25 the department's approval is filed in the year.
+26 (c) If the total credits approved under this section equal the
+27 maximum amount allowable in the year, the department may not
+28 approve an application for the credit filed later in that year.
+29 (d) A taxpayer may not file an application for a credit under this
+30 chapter after the due date of the taxpayer's tax return for a taxable
+31 year, or another date specified by the department.
+32 SECTION 15. IC 6-3.1-40-11 IS ADDED TO THE INDIANA
+33 CODE AS A NEW SECTION TO READ AS FOLLOWS
+34 [EFFECTIVE JANUARY 1, 2025 (RETROACTIVE)]: Sec. 11. (a)
+35 Subject to subsection (b), the total amount of tax credits awarded
+36 under this chapter may not exceed twenty million dollars
+37 ($20,000,0 00) in the state fiscal year beginning July 1, 2025, and
+38 ending June 30, 2026, and in each state fiscal year thereafter.
+39 However, any amounts carried forward under section 8(a) of this
+40 chapter shall first be deducted from the total amount of tax credits
+41 that may be awarded for the succeeding state fiscal year.
+42 (b) For a taxable year beginning after December 31, 2024, and
+2025 IN 1588—LS 7709/DI 134
+
+
+--- Page 9 ---
+8
+1 before January 1, 2026, only that part of a taxpayer's tax credit
+2 that is attributable to the period of time beginning after June 30,
+3 2025, and before January 1, 2026, is subject to the maximum
+4 amount provided in subsection (a).
+5 SECTION 16. IC 6-3.1-40-12 IS ADDED TO THE INDIANA
+6 CODE AS A NEW SECTION TO READ AS FOLLOWS
+7 [EFFECTIVE JANUARY 1, 2025 (RETROACTIVE)]: Sec. 12. The
+8 department, on a website used by the department to provide
+9 information to the public, shall provide the following information:
+10 (1) The application for the credit provided in this chapter.
+11 (2) A timeline for receiving the credit provided in this chapter.
+12 (3) The total amount of credits awarded under this chapter
+13 during the current state fiscal year.
+14 SECTION 17. IC 6-8-16 IS ADDED TO THE INDIANA CODE AS
+15 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+16 1, 2025]:
+17 Chapter 16. Long Term Care Savings Account
+18 Sec. 1. As used in this chapter, "deductible" means the total
+19 deductible for an employee and all dependents of the employee for
+20 a calendar year.
+21 Sec. 2. As used in this chapter, "dependent" means any of the
+22 following:
+23 (1) The spouse of an employee.
+24 (2) An employee's child who is one (1) of the following:
+25 (A) Less than nineteen (19) years of age.
+26 (B) Less than twenty-three (23) years of age and enrolled
+27 as a full-time student at an accredited college or university.
+28 (C) Legally entitled to the provision by the employee of
+29 proper or necessary subsistence, education, medical care,
+30 or other care necessary for the child's health, guidance, or
+31 well-being, and not otherwise emancipated,
+32 self-supporting, married, or a member of the armed forces
+33 of the United States.
+34 (D) Mentally or physically incapacitated to the extent that
+35 the child is not self-sufficient.
+36 Sec. 3. As used in this chapter, "eligible long term care expense"
+37 means an expense paid for the provision of long term care.
+38 Sec. 4. As used in this chapter, "employee" means the
+39 individual:
+40 (1) for whose benefit; or
+41 (2) for the benefit of whose dependents;
+42 a long term care savings account is established.
+2025 IN 1588—LS 7709/DI 134
+
+
+--- Page 10 ---
+9
+1 Sec. 5. (a) As used in this chapter, for 2026, "higher deductible"
+2 means a deductible of:
+3 (1) not less than one thousand dollars ($1,000); and
+4 (2) not more than five thousand dollars ($5,000).
+5 (b) For years after 2026, the term means a deductible of:
+6 (1) not less than the amount set forth in subsection (a)(1),
+7 adjusted under subsection (c); and
+8 (2) not more than the amount set forth in subsection (a)(2),
+9 adjusted under subsection (c).
+10 (c) The adjustments referred to in subsection (b)(1) and (b)(2):
+11 (1) may reflect increases in the general level of prices since
+12 2025; and
+13 (2) must be based on:
+14 (A) the Consumer Price Index updated monthly by the
+15 Bureau of Labor Statistics of the United States Department
+16 of Labor; or
+17 (B) other figures issued by the United States government
+18 to indicate increases in the general level of prices in the
+19 United States.
+20 Sec. 6. As used in this chapter, "long term care" means the
+21 provision of the following services in a setting other than an acute
+22 care wing of a hospital to enable individuals whose functional
+23 capacities are chronically impaired due to advanced age or other
+24 circumstances:
+25 (1) Physician's services.
+26 (2) Nursing services.
+27 (3) Diagnostic services.
+28 (4) Therapeutic services, including physical therapy, speech
+29 therapy, and occupational therapy.
+30 (5) Rehabilitative services.
+31 (6) Maintenance services.
+32 (7) Personal care services, including companion services and
+33 assistance in bathing, dressing, and other skills of daily living.
+34 (8) Transportation services.
+35 (9) Day care services.
+36 (10) Home health care services.
+37 (11) Respite care services.
+38 (12) Services provided in a facility licensed under IC 16-28.
+39 (13) Services provided by chiropractors, podiatrists, and
+40 optometrists.
+41 Sec. 7. As used in this chapter, "long term care savings account"
+42 or "account" means an account established in Indiana under a long
+2025 IN 1588—LS 7709/DI 134
+
+
+--- Page 11 ---
+10
+1 term care savings account program to pay the eligible long term
+2 care expenses of an employee and dependents of the employee.
+3 Sec. 8. As used in this chapter, "long term care savings account
+4 program" means a program established under this chapter to pay
+5 the eligible long term care expenses of employees and dependents
+6 of employees through long term care savings accounts.
+7 Sec. 9. As used in this chapter, "qualified higher deductible long
+8 term care plan" means a long term care coverage policy,
+9 certificate, or contract that:
+10 (1) provides for the payment of eligible long term care
+11 expenses that exceed a higher deductible;
+12 (2) is purchased by an employer for the benefit of employees
+13 and dependents of employees; and
+14 (3) is part of a long term care savings account program
+15 established under this chapter.
+16 Sec. 10. (a) Except as otherwise provided by statute, contract, or
+17 a collective bargaining agreement, an employer may establish a
+18 long term care savings account program for the employer's
+19 employees.
+20 (b) An employer  that establishes a long term care savings
+21 account program under this chapter shall, before making any
+22 contributions to long term care savings acco unts under the
+23 program, inform all employees in writing of the federal tax status
+24 of contributions made under this chapter.
+25 (c) Except as provided in sections 18 and 24 of this chapter, the:
+26 (1) principal contributed by an employer to a long term care
+27 savings account;
+28 (2) interest earned on money on deposit in a long term care
+29 savings account; and
+30 (3) money:
+31 (A) paid out of a long term care savings account for eligible
+32 long term care expenses; or
+33 (B) used to reimburse an employee for eligible long term
+34 care expenses;
+35 are exempt from taxation as income of the employee.
+36 Sec. 11. (a) A long term care savings account program
+37 established by an employer under this chapter must include all of
+38 the following:
+39 (1) The purchase by the employer of a qualified higher
+40 deductible long term care plan for the benefit of one (1) or
+41 more employees and dependents of the employees.
+42 (2) The contribution by the employer, and the deposit into the
+2025 IN 1588—LS 7709/DI 134
+
+
+--- Page 12 ---
+11
+1 long term care savings account established on behalf of each
+2 employee, of all or part of the difference between:
+3 (A) the cost to the employer of purchasing a qualified
+4 higher deductible long term care plan for the benefit of the
+5 employee; and
+6 (B) the cost previously incurred by the employer to pay the
+7 eligible long term care expenses of the employee through
+8 a long term care coverage policy, certificate, or contract.
+9 (3) The designation of an account administrator to administer
+10 the long term care savings accounts of employees.
+11 (b) Notwithstanding subsection (a)(2), if an employer, before
+12 establishing a long term care savings account program under this
+13 chapter, did not pay the eligible long term care expenses of the
+14 employer's employees  through a long term care coverage policy,
+15 certificate, or contract, the employer may contribute all or part of
+16 the deductible of the qualified higher deductible long term care
+17 plan purchased by the employer to establish the long term care
+18 savings account program.
+19 (c) The contribution under subsection (b) must not exceed the
+20 following:
+21 (1) For 2026, five thousand dollars ($5,000).
+22 (2) For years after 2026, the figure set forth in subdivision (1),
+23 adjusted under subsection (d).
+24 (d) The adjustments referred to in subsection (c):
+25 (1) may reflect increases in the general level of prices since
+26 2025; and
+27 (2) must be based on:
+28 (A) the Consumer Price Index updated monthly by the
+29 Bureau of Labor Statistics of the United States Department
+30 of Labor; or
+31 (B) other figures issued by the United States government
+32 to indicate increases in the general level of prices in the
+33 United States.
+34 Sec. 12. (a) A long term care savings account program
+35 established by an employer under this chapter may allow an
+36 employee to contribute money to the long term care savings
+37 account established for the employee. However, an employee may
+38 not contribute an amount larger than necessary to make the
+39 balance in the account equal the deductible.
+40 (b) Notwithstanding sections 18 and 24 of this chapter, if an
+41 employee contributes money to an account under this section:
+42 (1) the money may be withdrawn from the account by the
+2025 IN 1588—LS 7709/DI 134
+
+
+--- Page 13 ---
+12
+1 employee at any time and for any purpose without a penalty;
+2 (2) the withdrawal of the money by the employee is not
+3 income to the employee that is subject to taxation under
+4 IC 6-3-1 through IC 6-3-7; and
+5 (3) income earned on the money while it is in the accou nt is
+6 not income to the employee that is subject to taxation under
+7 IC 6-3-1 through IC 6-3-7.
+8 Sec. 12.5. If an employer contributes money to an account under
+9 this chapter after December 31, 2025, for which no exemption
+10 applies under Indiana law and for which no exemption or exclusion
+11 applies under the Internal Revenue Code at the time of
+12 contribution:
+13 (1) the money may be withdrawn from the account by the
+14 employee at any time and for any purpose without a penalty;
+15 and
+16 (2) the withdrawal of the principal amount contributed by the
+17 employer is not income to the employee that is subject to
+18 taxation under IC 6-3-1 through IC 6-3-7.
+19 Sec. 13. The following may be an account administrator under
+20 this chapter:
+21 (1) A federal or state chartered:
+22 (A) bank;
+23 (B) savings association;
+24 (C) savings bank; or
+25 (D) credit union.
+26 (2) A trust company authorized to act as a fiduciary.
+27 (3) An insurance company or a health maintenance
+28 organization authorized to do business in Indiana under
+29 IC 27.
+30 (4) A broker-dealer, an agent, or an investment adviser
+31 registered under IC 23-19.
+32 (5) A person that is licensed as an administrator under
+33 IC 27-1-25.
+34 (6) An employee welfare benefit plan that is governed by the
+35 federal Employee Retirement Income Security Act, 29 U.S.C.
+36 1001 et seq.
+37 Sec. 14. An account administrator shall use the funds held in a
+38 long term care savings account exclusively for the purpose of
+39 paying the eligible long term care expenses of the employee or the
+40 employee's dependents.
+41 Sec. 15. (a) Funds held in a long term care savings account shall
+42 not be used to cover long term care expenses of the employee or the
+2025 IN 1588—LS 7709/DI 134
+
+
+--- Page 14 ---
+13
+1 employee's dependents that are otherwise covered.
+2 (b) Long term care expenses that are "otherwise covered", for
+3 purposes of this section, include expenses covered by:
+4 (1) an automobile insurance policy;
+5 (2) a worker's compensation insurance policy or self-insured
+6 plan; or
+7 (3) another long term care coverage policy, certificate, or
+8 contract.
+9 Sec. 16. If an employee submits documentation to the account
+10 administrator concerning eligible long term care expenses that the
+11 employee has incurred and paid for long term care for the
+12 employee or a dependent of the employee, the account
+13 administrator shall reimburse the employee from the employee's
+14 account for the eligible long term care expenses paid by the
+15 employee.
+16 Sec. 17. An employer that makes contributions to a long term
+17 care savings account program on a periodic installment basis may
+18 advance to an employee, interest  free, an amount necessary to
+19 cover unpaid eligible long term care expenses that exceed the
+20 amount in the employee's long term care savings account if the
+21 employee agrees to repay the advance:
+22 (1) from future installments; or
+23 (2) when the employee ceases to be an employee of the
+24 employer.
+25 Sec. 18. (a) An employee may, under this section, withdraw
+26 money from the employee's long term care savings account for a
+27 purpose other than the purposes set forth in section 6 of this
+28 chapter.
+29 (b) Except as provided in sections 12(b) and 12.5 of this chapter,
+30 if an employee withdraws money from the employee's long term
+31 care savings account on the last business day of the account
+32 administrator's business year for a purpose not set forth in section
+33 6 of this chapter:
+34 (1) the money withdrawn is income to the individual that is
+35 subject to taxation; but
+36 (2) the withdrawal does not:
+37 (A) subject the employee to a penalty; or
+38 (B) make the interest earned on the account during the tax
+39 year taxable as income of the employee.
+40 (c) Except as provided in sections 12(b) and 12.5 of this chapter,
+41 if an employee withdraws money for a purpose not set forth in
+42 section 6 of this chapter at any time other than the last business
+2025 IN 1588—LS 7709/DI 134
+
+
+--- Page 15 ---
+14
+1 day of the account administrator's business year, all of the
+2 following apply:
+3 (1) The amount of the withdrawal is income to the individual
+4 that is subject to taxation.
+5 (2) The administrator shall withhold and, on behalf of the
+6 employee, pay a penalty to the department of state revenue
+7 equal to ten percent (10%) of the amount of the withdrawal.
+8 (3) All interest earned on the balance in the account during
+9 the tax year in which a withdrawal under this subsection is
+10 made is income to the individual that is subject to taxation.
+11 (d) Money paid to the department of state revenue as a penalty
+12 under this section shall be deposited in the local public health fund
+13 established by IC 16-46-10-1.
+14 Sec. 19. (a) For purposes of section 18(b) of this chapter, an
+15 account administrator that begins to administer a long term care
+16 savings account shall, in writing, notify the employee for whose
+17 benefit the account was established of the date of the last business
+18 day of the administrator's business year.
+19 (b) The notice required by this section must be given not more
+20 than thirty (30) days after the account administrator begins to
+21 administer the long term care savings account.
+22 Sec. 20. Money in a long term care savings account established
+23 under this chapter is exempt from execution under IC 34-55-10-2.
+24 Sec. 21. (a) This section applies only to an employee who has no
+25 dependents who are covered under the long term care savings
+26 account established for the benefit of the employee.
+27 (b) Upon the death of the employee for whose benefit a long
+28 term care savings account was established, the account
+29 administrator shall distribute the principal and accumulated
+30 interest of the accou nt to the estate of the employee by mailing a
+31 check to the personal representative of the employee (as defined in
+32 IC 29-1-1-3).
+33 (c) The distribution of the balance in a long term care savings
+34 account under this section is not income to the individual or to the
+35 estate of the individual that is subject to taxation under IC 6-3-1
+36 through IC 6-3-7.
+37 Sec. 22. If an individual:
+38 (1) who was employed by an employer that participated in a
+39 long term care savings account program; and
+40 (2) whose employment was terminated;
+41 becomes employed with a different employer that participates in
+42 a long term care savings account program, the individual may
+2025 IN 1588—LS 7709/DI 134
+
+
+--- Page 16 ---
+15
+1 transfer the long term care savings account that was established
+2 for the individual's benefit by the former employer to the account
+3 administrator of the new employer.
+4 Sec. 23. If the employment of an individual by an employer that
+5 participates in a long term care savings account program is
+6 terminated, the money in the individual's long term care savings
+7 account may continue to be used for the benefit of the individual
+8 and the individual's dependents and remains exempt from taxation
+9 as provided under this chapter if, not more than sixty (60) days
+10 after the individual's final day of employment:
+11 (1) the individual transfers the individual's long term care
+12 savings account to a new account administrator; or
+13 (2) the individual requests in writing that the former
+14 employer's account administrator remain the administrator
+15 of the individual's account, and the account administrator
+16 agrees to retain the account.
+17 Sec. 24. (a) This section applies when the employment of an
+18 individual by an employer that participates in a long term care
+19 savings account program is terminated.
+20 (b) If the former employer is not informed, within ninety (90)
+21 days after the former employee's final day of employment, of the
+22 name and address of an account administrator to which the former
+23 employee is transferring the former employee's long term care
+24 savings account under section 22 of this chapter, the former
+25 employer shall pay the money in the former employee's long term
+26 care savings account to the former employee under subsection (d).
+27 (c) If:
+28 (1) the former employee, under section 23(2) of this chapter,
+29 requests in writing that the former employer's account
+30 administrator remain the administrator of the individual's
+31 long term care savings account; and
+32 (2) the account administrator does not agree to retain the
+33 account;
+34 the former employer shall, within ninety (90) days after the former
+35 employee's final day of employment, pay the money in the former
+36 employee's long term care savings account to the former employee
+37 under subsection (d).
+38 (d) An employer that is required under this section to pay the
+39 money in a former employee's long term care savings account to
+40 the former employee shall mail to the former employee, at the
+41 former employee's last known address, a check for the balance in
+42 the account on the ninety-first day after the employee's final day
+2025 IN 1588—LS 7709/DI 134
+
+
+--- Page 17 ---
+16
+1 of employment.
+2 (e) Except as provided in sections 12(b) and 12.5 of this chapter,
+3 money that is paid to a former employee under subsection (d):
+4 (1) is subject to taxation under IC 6-3-1 through IC 6-3-7 as
+5 income of the individual; but
+6 (2) is not subject to the penalty referred to in section 18(c)(2)
+7 of this chapter.
+8 Sec. 25. (a) This section applies if an individual:
+9 (1) whose employer participates in a long term care savings
+10 account program; and
+11 (2) who has one (1) or more dependents who are covered
+12 under the account established for the benefit of the individual;
+13 dies.
+14 (b) After the death of an individual described in subsection (a),
+15 the money in the individual's long term care savings account may
+16 continue to be used for the benefit of the individual's dependents
+17 and remains exempt from taxation as provided under this chapter
+18 if, not more than sixty (60) days after the individual's death:
+19 (1) the deceased individual's long term care savings account
+20 is transferred to a new account administrator; or
+21 (2) the dependents of the individual request in writing that the
+22 account administrator of the deceased individual's employer
+23 remain the administrator of the account, and the account
+24 administrator agrees to retain the account.
+25 (c) If the former employer of an individual described in
+26 subsection (a) is not informed, within ninety (90) days after the
+27 individual's death, of the name and address of an account
+28 administrator to which the long term care savings account has
+29 been transferred under subsection (b)(1), the former employer
+30 shall pay the money in the long term care savings account to the
+31 estate of the individual under subsection (e).
+32 (d) If:
+33 (1) the dependents of an individual described in subsection (a),
+34 under subsection (b)(2), request in writing that the former
+35 employer's account administrator remain the administrator
+36 of the individual's long term care savings account; and
+37 (2) the account administrator does not agree to retain the
+38 account;
+39 the former employer shall, within ninety (90) days after the
+40 individual's death, pay the money in the individual's long term care
+41 savings account to the estate of the individual under subsection (e).
+42 (e) Under the circumstances described in subsection (c) or (d),
+2025 IN 1588—LS 7709/DI 134
+
+
+--- Page 18 ---
+17
+1 the account administrator shall distribute the principal and
+2 accumulated interest in the account to the estate of the individual
+3 by mailing a check to the personal representative of the individual
+4 (as defined in IC 29-1-1-3).
+5 (f) The distribution of the balance in a long term care savings
+6 account under subsection (e) is not income to the individual or to
+7 the estate of the individual that is subject to taxation under
+8 IC 6-3-1 through IC 6-3-7.
+9 Sec. 26. (a) The insurance commissioner appointed under
+10 IC 27-1-1-2 and the department of state revenue may adopt rules
+11 under IC 4-22-2 necessary to implement this chapter.
+12 (b) The rules adopted under this section must include a
+13 procedure for the adjustment of amounts required by sections 5
+14 and 11 of this chapter.
+15 SECTION 18. [EFFECTIVE JULY 1, 2025] (a) IC 6-8-16, as
+16 added by this act, applies to taxable years beginning after
+17 December 31, 2025.
+18 (b) This SECTION expires June 30, 2028.
+19 SECTION 19. [EFFECTIVE JANUARY 1, 2025
+20 (RETROACTI VE)] (a) IC 6-3.1-40-1.5, IC 6-3.1-40-8.5,
+21 IC 6-3.1-40-9.5, IC 6-3.1-40-11, and IC 6-3.1-40-12, all as added by
+22 this act, apply to taxable years beginning after December 31, 2024.
+23 (b) IC 6-3.1-40-5, IC 6-3.1-40-6, and IC 6-3.1-40-7, all as
+24 amended by this act, apply to taxable years beginning after
+25 December 31, 2024.
+26 (c) The repeal of IC 6-3.1-40-3 and IC 6-3.1-40-9 by this act
+27 applies to taxable years beginning after December 31, 2024.
+28 (d) This SECTION expires July 1, 2028.
+29 SECTION 20. [EFFECTIVE JANUARY 1, 2025
+30 (RETROACTIVE)] (a) IC 6-3.1-38-4, IC 6-3.1-38-6, and
+31 IC 6-3.1-38-7, all as amended by this act, apply to taxable years
+32 beginning after December 31, 2024.
+33 (b) IC 6-3.1-38-1.5 and IC 6-3.1-38-4.5, both as added by this
+34 act, apply to taxable years beginning after December 31, 2024.
+35 (c) This SECTION expires July 1, 2028.
+36 SECTION 21. An emergency is declared for this act.
+2025 IN 1588—LS 7709/DI 134

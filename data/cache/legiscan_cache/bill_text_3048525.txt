@@ -1,0 +1,243 @@
+--- Page 1 ---
+ 
+Introduced Version
+HOUSE BILL No. 1336
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 16-21-2-17; IC 16-36-1-5.
+Synopsis:  Health care matters. Requires a hospital to inform a woman
+in premature labor of the hospital's capabilities of treating the born
+alive infant and managing a high risk pregnancy and, if the hospital's
+capabilities interfere with the woman's care, the hospital must provide
+this information before the woman is admitted to the hospital. Provides
+that if a born alive infant is transported to a hospital with an
+appropriate perinatal level of care, the woman must be offered an
+opportunity to be transported to the same hospital. Provides that if the
+local prosecuting attorney has probable cause to believe that a health
+care provider may have knowingly or intentionally: (1) violated the
+requirements concerning the treatment and care of a born alive infant
+or mother or the professional standards of practice through the health
+care provider's actions or inactions; and (2) caused harm or death to the
+born alive infant or mother; the prosecuting attorney shall investigate
+the health care provider for appropriate criminal prosecution.
+Establishes a presumption that the continuation of life is in a minor's
+best interests. Requires a health care provider to obtain the consent of
+each parent or each legal guardian before issuing a do not resuscitate
+order or otherwise withholding or withdrawing treatment to allow the
+natural death of a minor. Prohibits a health care provider from
+interfering with the transfer of a minor patient at the request of a parent
+or guardian or otherwise preventing life saving measures before or
+during the transfer. States that a court does not have jurisdiction to
+withdraw life sustaining treatment for a minor. 
+Effective:  July 1, 2025.
+Sweet, Prescott, Cash, Patters on
+January 13, 2025, read first time and referred to Commi ttee on Public Health.
+2025 IN 1336—LS 7533/DI 104
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE BILL No. 1336
+A BILL FOR AN ACT to amend the Indiana Code concerning
+health.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 16-21-2-17, AS ADDED BY P.L.198-2021,
+2 SECTION 11, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2025]: Sec. 17. (a) As used in this section, "born alive" means
+4 the complete expulsion or extraction from the infant's mother, at any
+5 stage of development or gestational age, of an infant who after the
+6 expulsion or extraction:
+7 (1) breathes;
+8 (2) has a beating heart or pulsation of the umbilical cord; or
+9 (3) has a definite movement of voluntary muscles;
+10 regardless of whether the umbilical cord has been cut or whether the
+11 expulsion or extraction occurs as a result of natural or induced labor,
+12 cesarean section, or induced abortion.
+13 (b) If a woman who is in premature labor presents to a hospital, the
+14 hospital must inform the woman of the hospital's capabilities of treating
+15 the born alive infant and managing a high risk pregnancy and, if the
+16 hospital's capabilities interfere with the woman's care, the hospital
+17 must provide this information before the woman is admitted to the
+2025 IN 1336—LS 7533/DI 104
+
+
+--- Page 3 ---
+2
+1 hospital. If the hospital does not have the capability to treat the
+2 premature born alive infant or the ability to manag e a high risk
+3 pregnancy, the hospital must provide the woman options to get to a
+4 hospital with the appropriate level of care under the perinatal level of
+5 care designation established under IC 16-21-13.
+6 (c) A hospital must provide:
+7 (1) a medical screening examination; and
+8 (2) any needed stabilizing treatment;
+9 to an infant who is born alive, including born prematurely or with a
+10 disability, or a woman who is in premature labor.
+11 (d) After a hospital has provided a medical screening examination
+12 under subsection (c)(1), the hospital must inform:
+13 (1) a parent of the born alive infant of the:
+14 (A) infant's treatment options; and
+15 (B) hospital's determination of the appropriate level of care
+16 under the perinatal level of care designation established under
+17 IC 16-21-13; and
+18 (2) the woman who is in premature labor of the:
+19 (A) woman's treatment options; and
+20 (B) hospital's determination of the appropriate level of care
+21 under the perinatal level of care designation established under
+22 IC 16-21-13.
+23 (e) Subject to the requirements under the federal Emergency
+24 Medical Treatment and Labor Act, a hospital shall determine what
+25 perinatal level of care under IC 16-21-13 is appropriate for the born
+26 alive infant and mother and arrange for transport consistent with
+27 requirements adopted under IC 16-21-13-5. If a born alive infant is
+28 transported to a hospital with the appropriate perinatal level of
+29 care, the mother must be offered an opportunity to be transported
+30 to the same hospital.
+31 (f) A hospital that violates this section is subject to the penalties
+32 under IC 16-21-3-1.
+33 (g) A health care provider who is:
+34 (1) licensed or certified under IC 25;
+35 (2) employed or under contract with a hospital; and
+36 (3) responsible for providing treatment or an examination to a
+37 born alive infant or woman with a high risk pregnancy under this
+38 chapter;
+39 is subject to the standards of practice under IC 25-1-9. A health care
+40 provider who violates the standards of practice is subject to disciplinary
+41 sanctions under IC 25-1-9-9.
+42 (h) If the local prosecuting attorney has probable cause to
+2025 IN 1336—LS 7533/DI 104
+
+
+--- Page 4 ---
+3
+1 believe that a health care provider may have knowingly or
+2 intentionally:
+3 (1) violated the requirements in this section or the standards
+4 of practice under IC 25-1-9 through the health care provider's
+5 actions or inactions; and
+6 (2) caused harm or death to the born alive infant or mother;
+7 the prosecuting attorney shall investigate the health care provider
+8 for appropriate criminal prosecution.
+9 SECTION 2. IC 16-36-1-5, AS AMENDED BY P.L.67-2018,
+10 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+11 JULY 1, 2025]: Sec. 5. (a) If an adult incapable of consenting under
+12 section 4 of this chapter has not appointed a health care representative
+13 under section 7 of this chapter or the health care representative
+14 appointed under section 7 of this chapter is not reasonably available or
+15 declines to act, except as provided in sections 9 and 9.5 of this chapter,
+16 consent to health care may be given in the following order of priority:
+17 (1) A judicially appointed guardian of the person or a
+18 representative appointed under section 8 of this chapter.
+19 (2) A spouse.
+20 (3) An adult child.
+21 (4) A parent.
+22 (5) An adult sibling.
+23 (6) A grandparent.
+24 (7) An adult grandchild.
+25 (8) The nearest other adult relative in the next degree of kinship
+26 who is not listed in subdivisions (2) through (7).
+27 (9) A friend who:
+28 (A) is an adult;
+29 (B) has maintained regular contact with the individual; and
+30 (C) is familiar with the individual's activities, health, and
+31 religious or moral beliefs.
+32 (10) The individual's religious superior, if the individual is a
+33 member of a religious order.
+34 (b) Except as provided in subsection (f), consent to health care for
+35 a minor not authorized to consent under section 3 of this chapter may
+36 be given by any of the following:
+37 (1) A judicially appointed guardian of the person or a
+38 representative appointed under section 8 of this chapter.
+39 (2) A parent or an individual in loco parentis if:
+40 (A) there is no guardian or other represent ative described in
+41 subdivision (1);
+42 (B) the guardian or other representative is not reasonably
+2025 IN 1336—LS 7533/DI 104
+
+
+--- Page 5 ---
+4
+1 available or declines to act; or
+2 (C) the existence of the guardian or other representative is
+3 unknown to the health care provider.
+4 (3) An adult sibling of the minor if:
+5 (A) there is no guardian or other representative described in
+6 subdivision (1);
+7 (B) a parent or an individual in loco parentis is not reasonably
+8 available or declines to act; or
+9 (C) the existence of the parent or individual in loco parentis is
+10 unknown to the health care provider after reasonable efforts
+11 are made by the health care provider to determine whether the
+12 minor has a parent or an individual in loco parentis who is able
+13 to consent to the treatment of the minor.
+14 (4) A grandparent of the minor if:
+15 (A) there is no guardian or other representative described in
+16 subdivision (1);
+17 (B) a parent, an individual in loco parentis, or an adult sibling
+18 is not reasonably available or declines to act; or
+19 (C) the existence of the parent, individual in loco parentis, or
+20 adult sibling is unknown to the health care provider after
+21 reasonable efforts are made by the health care provider to
+22 determine whether the minor has a parent, an individual in
+23 loco parentis, or an adult sibling who is able to consent to the
+24 treatment of the minor.
+25 (c) A representative delegated authority to consent under section 6
+26 of this chapter has the same authority and responsibility as the
+27 individual delegating the authority.
+28 (d) An individual authorized to consent for another under this
+29 section shall act in good faith and in the best interest of the individual
+30 incapable of consenting.
+31 (e) If there are multiple individuals at the same priority level under
+32 this section, those individuals shall make a reasonable effort to reach
+33 a consensus as to the health care decisions on behalf of the individual
+34 who is unable to provide health care consent. If the individuals at the
+35 same priority level disagree as to the health care decisions on behalf of
+36 the individual who is unable to provide health care consent, a majority
+37 of the available individuals at the same priority level controls.
+38 (f) This subsection does not apply to a minor described in
+39 section 3(a)(2) of this chapter. It is hereby established that there is
+40 a presumption that the continuation of life is in a minor's best
+41 interests. A health care provider may not issue a do not resuscitate
+42 order or otherwise withhold or withdraw treatment that would
+2025 IN 1336—LS 7533/DI 104
+
+
+--- Page 6 ---
+5
+1 allow the natural death of a minor unless the health care provider
+2 has received the consent of each parent or each legal guardian of
+3 the minor. Consent by each parent or each legal guardian must be
+4 given orally and in writing to the health care provider. The health
+5 care provider must have at least two (2) witnesses attest that the
+6 consent was given by each parent or each  legal guardian. The
+7 health care provider shall document the consent in the minor's
+8 medical record, specifying each parent or legal guardian who gave
+9 consent. A parent or legal guardian may revoke the consent at any
+10 time either orally or in writing.
+11 (g) This subsection does not apply to a minor described in
+12 section 3(a)(2) of this chapter. A health care provider may not
+13 interfere with the efforts of a parent or legal guardian to obtain
+14 other medical opinions or transfer the minor's care to another
+15 health care provider. A health care provider may not hinder or
+16 delay necessary medical measures for a minor, including a
+17 tracheostomy or gastronomy tube required to transfer a minor
+18 patient's care to another health care provider. If the parent or legal
+19 guardian of a minor requests a transfer for the minor patient's
+20 care, the health care provider must continue to provide
+21 life-sustaining procedures, including nutrition and hydration, until
+22 the transfer is made.
+23 (h) This subsection does not apply to a minor described in
+24 section 3(a)(2) of this chapter. A court does not have jurisdiction to
+25 withdraw life sustaining procedures from a minor over the
+26 objection of a parent or legal guardian.
+2025 IN 1336—LS 7533/DI 104

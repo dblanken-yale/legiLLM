@@ -1,0 +1,1027 @@
+--- Page 1 ---
+ 
+Introduced Version
+SENATE BILL No. 165
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 27-1-37.3-5; IC 27-4-10-5; IC 27-8.
+Synopsis:  Requirements of short term insurance plans. Requires an
+insurer that issues a short term insurance plan to cover certain medical
+services. Prohibits an insurer that issues a short term insurance plan
+from retroactively cancelling a short term insurance plan except in the
+case of fraud. Amends current provisions exempting short term
+insurance plans from accident and sickness insurance policy
+requirements to provide for a term of not more than 6 months (current
+law provides for a term of 364 days).
+Effective:  July 1, 2025.
+Qaddoura
+January 8, 2025, read first time and referred to Commi ttee on Insurance and Financial
+Institutions.
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+SENATE BILL No. 165
+A BILL FOR AN ACT to amend the Indiana Code concerning
+insurance.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 27-1-37.3-5, AS AMENDED BY P.L.288-2019,
+2 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2025]: Sec. 5. (a) As used in this chapter, "health plan" means
+4 a plan through which coverage is provided for health care services
+5 through insurance, prepayment, reimbursement, or otherwise. The term
+6 includes the following:
+7 (1) An employee welfare benefit plan (as defined in 29 U.S.C.
+8 1002 et seq.).
+9 (2) A policy of accident and sickness insurance (as defined in
+10 IC 27-8-5-1).
+11 (3) An individual contract (as defined in IC 27-13-1-21) or a
+12 group contract (as defined in IC 27-13-1-16).
+13 (b) The term does not include the following:
+14 (1) Accident-only, credit, Medicare supplement, long term care,
+15 or disability income insurance.
+16 (2) Coverage issued as a supplement to liability insurance.
+17 (3) Worker's compensation or similar insurance.
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 3 ---
+2
+1 (4) Automobile medical payment insurance.
+2 (5) A specified disease policy issued as an individual policy.
+3 (6) A short term insurance plan that:
+4 (A) may be renewed for the greater of:
+5 (i) thirty-six (36) months; or
+6 (ii) the maximum period permitted under federal law;
+7 (B) has a term of not more than three hundred sixty-four (364)
+8 days; six (6) months; and
+9 (C) has an annu al limit of at least two million dollars
+10 ($2,000,000).
+11 (7) A policy that provides a stipulated daily, weekly, or monthly
+12 payment to an insured during hospital confinement, without
+13 regard to the actual expense of the confinement.
+14 SECTION 2. IC 27-4-10-5, AS ADDED BY P.L.31-2021,
+15 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+16 JULY 1, 2025]: Sec. 5. (a) As used in this chapter, "health insurance
+17 plan" means:
+18 (1) a policy of accident and sickness insurance (as defined in
+19 IC 27-8-5-1);
+20 (2) an individual contract or a group contract with a health
+21 maintenance organization under IC 27-13;
+22 (3) a:
+23 (A) policy of accident and sickness insurance; or
+24 (B) limited service health maintenance organization (as
+25 defined in IC 27-13-34-4);
+26 that provides coverage for dental care services; or
+27 (4) another plan or program that provides payment,
+28 reimbursement, or indemnification for the costs of health care
+29 items or services.
+30 (b) The term does not include the following:
+31 (1) Accident only, credit, vision, Medicare supplement, long term
+32 care, or disability income insurance.
+33 (2) Coverage issued as a supplement to liability insurance.
+34 (3) Automobile medical payment insurance.
+35 (4) A specified disease policy.
+36 (5) A short term insurance plan that:
+37 (A) may be renewed for the greater of:
+38 (i) thirty-six (36) months; or
+39 (ii) the maximum period permitted under federal law;
+40 (B) has a term of not more than three hundred sixty-four (364)
+41 days; six (6) months; and
+42 (C) has an annual limit of at least two million dollars
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 4 ---
+3
+1 ($2,000,000).
+2 (6) A policy that provides indemnity benefits not based on any
+3 expense incurred requirement, including a plan that provides
+4 coverage for:
+5 (A) hospital confinement, critical illness, or intensive care; or
+6 (B) gaps for deductibles or copayments.
+7 (7) Worker's compensation or similar insurance.
+8 (8) A student health plan.
+9 (9) A supplemental plan that always pays in addition to other
+10 coverage.
+11 (10) An employer sponsored health benefit plan that is:
+12 (A) provided to individuals who are eligible for Medicare; and
+13 (B) not marketed as, or held out to be, a Medicare supplement
+14 policy.
+15 (11) The Medicaid program.
+16 SECTION 3. IC 27-8-5-2.5, AS AMENDED BY P.L.288-2019,
+17 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+18 JULY 1, 2025]: Sec. 2.5. (a) As used in this section, the term "policy
+19 of accident and sickness insurance" does not include the following:
+20 (1) Accident only, credit, dental, vision, Medicare supplement,
+21 long term care, or disability income insurance.
+22 (2) Coverage issued as a supplement to liability insurance.
+23 (3) Automobile medical payment insurance.
+24 (4) A specified disease policy.
+25 (5) A short term insurance plan that:
+26 (A) may be renewed for the greater of:
+27 (i) thirty-six (36) months; or
+28 (ii) the maximum period permitted under federal law;
+29 (B) has a term of not more than three hundred sixty-four (364)
+30 days; six (6) months; and
+31 (C) has an annual limit of at least two million dollars
+32 ($2,000,000).
+33 (6) A policy that provides indemnity benefits not based on any
+34 expense incurred requirement, including a plan that provides
+35 coverage for:
+36 (A) hospital confinement, critical illness, or intensive care; or
+37 (B) gaps for deductibles or copayments.
+38 (7) Worker's compensation or similar insurance.
+39 (8) A student health plan.
+40 (9) A supplemental plan that always pays in addition to other
+41 coverage.
+42 (10) An employer sponsored health benefit plan that is:
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 5 ---
+4
+1 (A) provided to individuals who are eligible for Medicare; and
+2 (B) not marketed as, or held out to be, a Medicare supplement
+3 policy.
+4 (b) The benefits provided by:
+5 (1) an individual policy of accident and sickness insurance; or
+6 (2) a certificate of coverage that is issued under a nonemployer
+7 based association group policy of accident and sickness insurance
+8 to an individual who is a resident of Indiana;
+9 may not be excluded, limited, or denied for more than twelve (12)
+10 months after the effective date of the coverage because of a preexisting
+11 condition of the individual.
+12 (c) An individual policy of accident and sickness insurance or a
+13 certificate of coverage described in subsection (b) may not define a
+14 preexisting condition, a rider, or an endorsement more restrictively
+15 than as:
+16 (1) a condition that would have caused an ordinarily prudent
+17 person to seek medical advice, diagnosis, care, or treatment
+18 during the twelve (12) months immediately preceding the
+19 effective date of the plan;
+20 (2) a condition for which medical advice, diagnosis, care, or
+21 treatment was recommended or received during the twelve (12)
+22 months immediately preceding the effective date of the plan; or
+23 (3) a pregnancy existing on the effective date of the plan.
+24 (d) An insurer shall reduce the period allowed for a preexisting
+25 condition exclusion described in subsection (b) by the amount of time
+26 the individual has continuously served under a preexisting condition
+27 clause for a policy of accident and sickness insurance issued under
+28 IC 27-8-15 if the individual applies for a policy under this chapter not
+29 more than thirty (30) days after coverage under a policy of accident and
+30 sickness insurance issued under IC 27-8-15 expires.
+31 SECTION 4. IC 27-8-5-15.6, AS AMENDED BY P.L.288-2019,
+32 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+33 JULY 1, 2025]: Sec. 15.6. (a) As used in this section, "coverage of
+34 services for a mental illness" includes the services defined under the
+35 policy of accident and sickness insurance. However, the term does not
+36 include services for the treatment of substance abuse or chemical
+37 dependency.
+38 (b) This section applies to a policy of accident and sickness
+39 insurance that:
+40 (1) is issued on an individual basis or a group basis;
+41 (2) is issued, entered into, or renewed after December 31, 1999;
+42 and
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 6 ---
+5
+1 (3) is issued to an employer that employs more than fifty (50)
+2 full-time employees.
+3 (c) This section does not apply to the following:
+4 (1) A legal business entity that has obtained an exemption under
+5 section 15.7 of this chapter.
+6 (2) Accident only, credit, dental, vision, Medicare supplement,
+7 long term care, or disability income insurance.
+8 (3) Coverage issued as a supplement to liability insurance.
+9 (4) Worker's compensation or similar insurance.
+10 (5) Automobile medical payment insurance.
+11 (6) A specified disease policy.
+12 (7) A short term insurance plan that:
+13 (A) may be renewed for the greater of:
+14 (i) thirty-six (36) months; or
+15 (ii) the maximum period permitted under federal law;
+16 (B) has a term of not more than three hundred sixty-four (364)
+17 days; six (6) months; and
+18 (C) has an annual limit of at least two million dollars
+19 ($2,000,000).
+20 (8) A policy that provides indemnity benefits not based on any
+21 expense incurred requirement, including a plan that provides
+22 coverage for:
+23 (A) hospital confinement, critical illness, or intensive care; or
+24 (B) gaps for deductibles or copayments.
+25 (9) A supplemental plan that always pays in addition to other
+26 coverage.
+27 (10) A student health plan.
+28 (11) An employer sponsored health benefit plan that is:
+29 (A) provided to individuals who are eligible for Medicare; and
+30 (B) not marketed as, or held out to be, a Medicare supplement
+31 policy.
+32 (d) A group or individual insurance policy or agreement may not
+33 permit treatment limitations or financial requirements on the coverage
+34 of services for a mental illness if similar limitations or requirements are
+35 not imposed on the coverage of services for other medical or surgical
+36 conditions.
+37 (e) An insurer that issues a policy of accident and sickness
+38 insurance that provides coverage of services for the treatment of
+39 subst ance abuse and chemical dependency when the services are
+40 required in the treatment of a mental illness shall offer to provide the
+41 coverage without treatment limitations or financial requirements if
+42 similar limitations or requirements are not imposed on the coverage of
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 7 ---
+6
+1 services for other medical or surgical conditions.
+2 (f) This section does not require a group or individual insurance
+3 policy or agreement to offer mental health benefits.
+4 (g) The benefits delivered under this section may be delivered under
+5 a managed care system.
+6 SECTION 5. IC 27-8-5-27, AS AMENDED BY P.L.288-2019,
+7 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+8 JULY 1, 2025]: Sec. 27. (a) As used in this section, "accident and
+9 sickness insurance policy" means an insurance policy that provides at
+10 least one (1) of the types of insurance described in IC 27-1-5-1, Classes
+11 1(b) and 2(a), and is issued on a group basis. The term does not include
+12 the following:
+13 (1) Accident only, credit, dental, vision, Medicare supplement,
+14 long term care, or disability income insurance.
+15 (2) Coverage issued as a supplement to liability insurance.
+16 (3) Automobile medical payment insurance.
+17 (4) A specified disease policy.
+18 (5) A short term insurance plan that:
+19 (A) may be renewed for the greater of:
+20 (i) thirty-six (36) months; or
+21 (ii) the maximum period permitted under federal law;
+22 (B) has a term of not more than three hundred sixty-four (364)
+23 days; six (6) months; and
+24 (C) has an annual limit of at least two million dollars
+25 ($2,000,000).
+26 (6) A policy that provides indemnity benefits not based on any
+27 expense incurred requirement, including a plan that provides
+28 coverage for:
+29 (A) hospital confinement, critical illness, or intensive care; or
+30 (B) gaps for deductibles or copayments.
+31 (7) Worker's compensation or similar insurance.
+32 (8) A student health plan.
+33 (9) A supplemental plan that always pays in addition to other
+34 coverage.
+35 (10) An employer sponsored health benefit plan that is:
+36 (A) provided to individuals who are eligible for Medicare; and
+37 (B) not marketed as, or held out to be, a Medicare supplement
+38 policy.
+39 (b) As used in this section, "insured" means a child or an individual
+40 with a disability who is entitled to coverage under an accident and
+41 sickness insurance policy.
+42 (c) As used in this section, "child" means an individual who is less
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 8 ---
+7
+1 than nineteen (19) years of age.
+2 (d) As used in this section, "individual with a disability" means an
+3 individual:
+4 (1) with a physical or mental impairment that substantially limits
+5 one (1) or more of the major life activities of the individual; and
+6 (2) who:
+7 (A) has a record of; or
+8 (B) is regarded as;
+9 having an impairment described in subdivision (1).
+10 (e) A policy of accident and sickness insurance must include
+11 coverage for anesthesia and hospital charges for dental care for an
+12 insured if the mental or physical condition of the insured requires
+13 dental treatment to be rendered in a hospital or an ambulatory
+14 outpatient surgical center. The Indications for General Anesthesia, as
+15 published in the reference manual of the American Academy of
+16 Pediatric Dentistry, are the utilization standards for determining
+17 whether performing dental procedures necessary to treat the insured's
+18 condition under general anesthesia constitutes appropriate treatment.
+19 (f) An insurer that issues a policy of accident and sickness insurance
+20 may:
+21 (1) require prior authorization for hospitalization or treatment in
+22 an ambulatory outpatient surgical center for dental care
+23 procedures in the same manner that prior authorization is required
+24 for hospitalization or treatment of other covered medical
+25 conditions; and
+26 (2) restrict coverage to include only procedures performed by a
+27 licensed dentist who has privileges at the hospital or ambulatory
+28 outpatient surgical center.
+29 (g) This section does not apply to treatment rendered for temporal
+30 mandibular joint disorders (TMJ).
+31 SECTION 6. IC 27-8-5.6-1, AS AMENDED BY P.L.288-2019,
+32 SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+33 JULY 1, 2025]: Sec. 1. (a) As used in this chapter, the term "accident
+34 and sickness insurance" means any policy or contract covering one (1)
+35 or more of the kinds of insurance described in classes 1(b) or 2(a) of
+36 IC 27-1-5-1, as governed by IC 27-8-5.
+37 (b) The term does not include the following:
+38 (1) Accident only, credit, dental, vision, Medicare supplement,
+39 long term care, or disability income insurance.
+40 (2) Coverage issued as a supplement to liability insurance.
+41 (3) Worker's compensation or similar insurance.
+42 (4) Automobile medical payment insurance.
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 9 ---
+8
+1 (5) A specified disease policy.
+2 (6) A short term insurance plan that:
+3 (A) may be renewed for the greater of:
+4 (i) thirty-six (36) months; or
+5 (ii) the maximum period permitted under federal law;
+6 (B) has a term of not more than three hundred sixty-four (364)
+7 days; six (6) months; and
+8 (C) has an annual limit of at least two million dollars
+9 ($2,000,000).
+10 (7) A policy that provides indemnity benefits not based on any
+11 expense incurred requirement, including a plan that provides
+12 coverage for:
+13 (A) hospital confinement, critical illness, or intensive care; or
+14 (B) gaps for deductibles or copayments.
+15 (8) A supplemental plan that always pays in addition to other
+16 coverage.
+17 (9) A student health plan.
+18 (10) An employer sponsored health benefit plan that is:
+19 (A) provided to individuals who are eligible for Medicare; and
+20 (B) not marketed as, or held out to be, a Medicare supplement
+21 policy.
+22 SECTION 7. IC 27-8-5.8-1, AS AMENDED BY P.L.288-2019,
+23 SECTION 6, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+24 JULY 1, 2025]: Sec. 1. As used in this chapter, "accident and sickness
+25 insurance policy" means an insurance policy that provides at least one
+26 (1) of the types of insurance described in IC 27-1-5-1, Classes 1(b) and
+27 2(a), and is issued on a group basis. The term does not include the
+28 following:
+29 (1) Accident only, credit, dental, vision, Medicare, Medicare
+30 supplement, long term care, or disability income insurance.
+31 (2) Coverage issued as a supplement to liability insurance.
+32 (3) Automobile medical payment insurance.
+33 (4) A specified disease policy.
+34 (5) A limited benefit health insurance policy.
+35 (6) A short term insurance plan that:
+36 (A) may be renewed for the greater of:
+37 (i) thirty-six (36) months; or
+38 (ii) the maximum period permitted under federal law;
+39 (B) has a term of not more than three hundred sixty-four (364)
+40 days; six (6) months; and
+41 (C) has an annual limit of at least two million dollars
+42 ($2,000,000).
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 10 ---
+9
+1 (7) A policy that provides a stipulated daily, weekly, or monthly
+2 payment to an insured during hospital confinement, without
+3 regard to the actual expense of the confinement.
+4 (8) Worker's compensation or similar insurance.
+5 (9) A student health insurance policy.
+6 SECTION 8. IC 27-8-5.9-2.5 IS ADDED TO THE INDIANA
+7 CODE AS A NEW SECTION TO READ AS FOLLOWS
+8 [EFFECTIVE JULY 1, 2025]: Sec. 2.5. As used in this chapter,
+9 "preexisting condition exclusion" has the meaning set forth in 45
+10 CFR 144.103, as in effect on January 1, 2025.
+11 SECTION 9. IC 27-8-5.9-3, AS ADDED BY P.L.288-2019,
+12 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 JULY 1, 2025]: Sec. 3. As used in this chapter, "short term insurance
+14 plan" means a policy of accident and sickness insurance (as defined in
+15 IC 27-8-5-1) that:
+16 (1) may be renewed for the greater of:
+17 (A) thirty-six (36) months; or
+18 (B) the maximum period permitted under federal law;
+19 (2) has a term of not more than three hundred sixty-four (364)
+20 days; six (6) months; and
+21 (3) has an annual limit of at least two million dollars
+22 ($2,000,000).
+23 SECTION 10. IC 27-8-5.9-5, AS ADDED BY P.L.288-2019,
+24 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+25 JULY 1, 2025]: Sec. 5. A short term insurance plan must include
+26 coverage for the following: shall:
+27 (1) not impose a preexisting condition exclusion on coverage
+28 under the short term insurance plan; and
+29 (2) include coverage for the following, as provided under
+30 PPACA:
+31 (1) (A) Ambulatory patient services.
+32 (2) (B) Hospitalization.
+33 (3) (C) Emergency services.
+34 (4) (D) Laboratory services.
+35 (E) Maternity and newborn care.
+36 (F) Mental health and substance use disorder servi ces,
+37 including behavioral health treatment.
+38 (G) Prescription drugs.
+39 (H) Rehabilitative and habilitative services and devices.
+40 (I) Preventive and wellness services and chronic disease
+41 management.
+42 (J) Pediatric services, including oral and vision care.
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 11 ---
+10
+1 SECTION 11. IC 27-8-5.9-10 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2025]: Sec. 10. An insurer that issues a short
+4 term insurance plan may not retroactively cancel a short term
+5 insurance plan except in the case of fraud, as provided under
+6 PPACA.
+7 SECTION 12. IC 27-8-6-6, AS AMENDED BY P.L.288-2019,
+8 SECTION 8, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+9 JULY 1, 2025]: Sec. 6. (a) As used in this section, "policy of accident
+10 and sickness insurance" has the meaning set forth in IC 27-8-5-1.
+11 However, the term does not include the following:
+12 (1) Accident only, credit, dental, vision, Medicare supplement,
+13 long term care, or disability income insurance.
+14 (2) Coverage issued as a supplement to liability insurance.
+15 (3) Automobile medical payment insurance.
+16 (4) A specified disease policy.
+17 (5) A short term insurance plan that:
+18 (A) may be renewed for the greater of:
+19 (i) thirty-six (36) months; or
+20 (ii) the maximum period permitted under federal law;
+21 (B) has a term of not more than three hundred sixty-four (364)
+22 days; six (6) months; and
+23 (C) has an annual limit of at least two million dollars
+24 ($2,000,000).
+25 (6) A policy that provides indemnity benefits not based on any
+26 expense incurred requirement, including a plan that provides
+27 coverage for:
+28 (A) hospital confinement, critical illness, or intensive care; or
+29 (B) gaps for deductibles or copayments.
+30 (7) A supplemental plan that always pays in addition to other
+31 coverage.
+32 (b) A policy of accident and sickness insurance that provides
+33 coverage for physical medicine and rehabilitative services shall provide
+34 the coverage for physical medicine and rehabilitative services that are:
+35 (1) rendered by an athletic trainer who is licensed under
+36 IC 25-5.1; and
+37 (2) within the athletic trainer's scope of practice.
+38 (c) This section does not require a policy of accident and sickness
+39 insurance to provide coverage for physical medicine or rehabilitative
+40 services generally.
+41 SECTION 13. IC 27-8-13.4-1, AS AMENDED BY P.L.288-2019,
+42 SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 12 ---
+11
+1 JULY 1, 2025]: Sec. 1. (a) As used in this chapter, "accident and
+2 sickness insurance policy" means an insurance policy that:
+3 (1) provides one (1) or more of the types of insurance described
+4 in IC 27-1-5-1, Class 1(b) and Class 2(a); and
+5 (2) is issued on a group or individual basis.
+6 (b) As used in this chapter, "accident and sickness insurance policy"
+7 does not include the following:
+8 (1) Accident only, credit, dental, vision, Medicare supplement,
+9 long term care, or disability income insurance.
+10 (2) Coverage issued as a supplement to liability insurance.
+11 (3) Worker's compensation or similar insurance.
+12 (4) Automobile medical payment insurance.
+13 (5) A specified disease policy.
+14 (6) A short term insurance plan that:
+15 (A) may be renewed for the greater of:
+16 (i) thirty-six (36) months; or
+17 (ii) the maximum period permitted under federal law;
+18 (B) has a term of not more than three hundred sixty-four (364)
+19 days; six (6) months; and
+20 (C) has an annual limit of at least two million dollars
+21 ($2,000,000).
+22 (7) A policy that provides indemnity benefits not based on any
+23 expense incurred requirement, including a plan that provides
+24 coverage for:
+25 (A) hospital confinement, critical illness, or intensive care; or
+26 (B) gaps for deductibles or copayments.
+27 (8) A supplemental plan that always pays in addition to other
+28 coverage.
+29 (9) An employer sponsored health benefit plan that is:
+30 (A) provided to individuals who are eligible for Medicare; and
+31 (B) not marketed as, or held out to be, a Medicare supplement
+32 policy.
+33 SECTION 14. IC 27-8-13.5-4, AS AMENDED BY P.L.288-2019,
+34 SECTION 10, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+35 JULY 1, 2025]: Sec. 4. As used in this chapter, "policy of accident and
+36 sickness insurance" has the meaning set forth in IC 27-8-5-1. The term
+37 does not include the following:
+38 (1) Accident only, credit, dental, vision, Medicare supplement,
+39 long term care, or disability income insurance.
+40 (2) Coverage issued as a supplement to liability insurance.
+41 (3) Automobile medical payment insurance.
+42 (4) A specified disease policy.
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 13 ---
+12
+1 (5) A short term insurance plan that:
+2 (A) may be renewed for the greater of:
+3 (i) thirty-six (36) months; or
+4 (ii) the maximum period permitted under federal law;
+5 (B) has a term of not more than three hundred sixty-four (364)
+6 days; six (6) months; and
+7 (C) has an annual limit of at least two million dollars
+8 ($2,000,000).
+9 (6) A policy that provides indemnity benefits not based on any
+10 expense incurred requirement, including a plan that provides
+11 coverage for:
+12 (A) hospital confinement, critical illness, or intensive care; or
+13 (B) gaps for deductibles or copayments.
+14 (7) Worker's compensation or similar insurance.
+15 (8) A student health plan.
+16 (9) A suppl emental plan that always pays in addition to other
+17 coverage.
+18 (10) An employer sponsored health benefit plan that is:
+19 (A) provided to individuals who are eligible for Medicare; and
+20 (B) not marketed as, or held out to be, a Medicare supplement
+21 policy.
+22 SECTION 15. IC 27-8-14-1, AS AMENDED BY P.L.288-2019,
+23 SECTION 11, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+24 JULY 1, 2025]: Sec. 1. (a) As used in this chapter, "accident and
+25 sickness insurance policy" means an insurance policy that:
+26 (1) provides one (1) or more of the types of insurance described
+27 in IC 27-1-5-1, classes 1(b) and 2(a); and
+28 (2) is issued on a group basis.
+29 (b) The term does not include the following:
+30 (1) Accident only, credit, dental, vision, Medicare supplement,
+31 long term care, or disability income insurance.
+32 (2) Coverage issued as a supplement to liability insurance.
+33 (3) Worker's compensation or similar insurance.
+34 (4) Automobile medical payment insurance.
+35 (5) A specified disease policy.
+36 (6) A short term insurance plan that:
+37 (A) may be renewed for the greater of:
+38 (i) thirty-six (36) months; or
+39 (ii) the maximum period permitted under federal law;
+40 (B) has a term of not more than three hundred sixty-four (364)
+41 days; six (6) months; and
+42 (C) has an annual limit of at least two million dollars
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 14 ---
+13
+1 ($2,000,000).
+2 (7) A policy that provides indemnity benefits not based on any
+3 expense incurred requirement, including a plan that provides
+4 coverage for:
+5 (A) hospital confinement, critical illness, or intensive care; or
+6 (B) gaps for deductibles or copayments.
+7 (8) A supplemental plan that always pays in addition to other
+8 coverage.
+9 (9) A student health plan.
+10 (10) An employer sponsored health benefit plan that is:
+11 (A) provided to individuals who are eligible for Medicare; and
+12 (B) not marketed as, or held out to be, a Medicare supplement
+13 policy.
+14 SECTION 16. IC 27-8-14.1-1, AS AMENDED BY P.L.288-2019,
+15 SECTION 12, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+16 JULY 1, 2025]: Sec. 1. (a) As used in this chapter, "accident and
+17 sickness insurance policy" means an insurance policy that:
+18 (1) provides one (1) or more of the types of insurance described
+19 in IC 27-1-5-1, classes 1(b) and 2(a); and
+20 (2) is issued on a group basis.
+21 (b) As used in this chapter, "accident and sickness insurance policy"
+22 does not include the following:
+23 (1) Accident only, credit, dental, vision, Medicare supplement,
+24 long term care, or disability income insurance.
+25 (2) Coverage issued as a supplement to liability insurance.
+26 (3) Worker's compensation or similar insurance.
+27 (4) Automobile medical payment insurance.
+28 (5) A specified disease policy.
+29 (6) A short term insurance plan that:
+30 (A) may be renewed for the greater of:
+31 (i) thirty-six (36) months; or
+32 (ii) the maximum period permitted under federal law;
+33 (B) has a term of not more than three hundred sixty-four (364)
+34 days; six (6) months; and
+35 (C) has an annual limit of at least two million dollars
+36 ($2,000,000).
+37 (7) A policy that provides indemnity benefits not based on any
+38 expense incurred requirement, including a plan that provides
+39 coverage for:
+40 (A) hospital confinement, critical illness, or intensive care; or
+41 (B) gaps for deductibles or copayments.
+42 (8) A supplemental plan that always pays in addition to other
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 15 ---
+14
+1 coverage.
+2 (9) A student health plan.
+3 (10) An employer sponsored health benefit plan that is:
+4 (A) provided to individuals who are eligible for Medicare; and
+5 (B) not marketed as, or held out to be, a Medicare supplement
+6 policy.
+7 SECTION 17. IC 27-8-14.2-1, AS AMENDED BY P.L.288-2019,
+8 SECTION 13, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+9 JULY 1, 2025]: Sec. 1. (a) As used in this chapter, "accident and
+10 sickness insurance policy" means an insurance policy that provides one
+11 (1) or more of the types of insurance described in IC 27-1-5-1, classes
+12 1(b) and 2(a).
+13 (b) The term does not include the following:
+14 (1) Accident only, credit, dental, vision, Medicare supplement,
+15 long term care, or disability income insurance.
+16 (2) Coverage issued as a supplement to liability insurance.
+17 (3) Worker's compensation or similar insurance.
+18 (4) Automobile medical payment insurance.
+19 (5) A specified disease policy.
+20 (6) A short term insurance plan that:
+21 (A) may be renewed for the greater of:
+22 (i) thirty-six (36) months; or
+23 (ii) the maximum period permitted under federal law;
+24 (B) has a term of not more than three hundred sixty-four (364)
+25 days; six (6) months; and
+26 (C) has an annual limit of at least two million dollars
+27 ($2,000,000).
+28 (7) A policy that provides indemnity benefits not based on any
+29 expense incurred requirement, including a plan that provides
+30 coverage for:
+31 (A) hospital confinement, critical illness, or intensive care; or
+32 (B) gaps for deductibles or copayments.
+33 (8) A supplemental plan that always pays in addition to other
+34 coverage.
+35 (9) A student health plan.
+36 (10) An employer sponsored health benefit plan that is:
+37 (A) provided to individuals who are eligible for Medicare; and
+38 (B) not marketed as, or held out to be, a Medicare supplement
+39 policy.
+40 SECTION 18. IC 27-8-14.3-2, AS ADDED BY P.L.37-2024,
+41 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+42 JULY 1, 2025]: Sec. 2. (a) As used in this chapter, "accident and
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 16 ---
+15
+1 sickness policy" means an insurance policy that provides at least one
+2 (1) of the types of insurance described in IC 27-1-5-1, Classes 1(b) and
+3 2(a).
+4 (b) The term "accident and sickness policy" does not include the
+5 following:
+6 (1) Accident only, credit, dental, vision, Medicare supplement,
+7 long term care, or disability income insurance.
+8 (2) Coverage issued as a supplement to liability insurance.
+9 (3) Worker's compensation or similar insurance.
+10 (4) Automobile medical payment insurance.
+11 (5) A specified disease policy.
+12 (6) A short term insurance plan that:
+13 (A) may be renewed for the greater of:
+14 (i) thirty-six (36) months; or
+15 (ii) the maximum period permitted under federal law;
+16 (B) has a term of not more than three hundred sixty-four (364)
+17 days; six (6) months; and
+18 (C) has an annual limit of at least two million dollars
+19 ($2,000,000).
+20 (7) A policy that provides indemnity benefits not based on any
+21 expense incurred requirement, including a plan that provides
+22 coverage for:
+23 (A) hospital confinement, critical illness, or intensive care; or
+24 (B) gaps for deductibles or copayments.
+25 (8) A supplemental plan that always pays in addition to other
+26 coverage.
+27 (9) A student health plan.
+28 (10) An employer sponsored health benefit plan that is:
+29 (A) provided to individuals who are eligible for Medicare; and
+30 (B) not marketed as, or held out to be, a Medicare supplement
+31 policy.
+32 SECTION 19. IC 27-8-14.5-1, AS AMENDED BY P.L.288-2019,
+33 SECTION 14, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+34 JULY 1, 2025]: Sec. 1. (a) As used in this chapter, "health insurance
+35 plan" means any:
+36 (1) hospital or medical expense incurred policy or certificate;
+37 (2) hospital or medical service plan contract; or
+38 (3) health maintenance organization subscriber contract;
+39 provided to an insured.
+40 (b) The term does not include the following:
+41 (1) Accident only, credit, dental, vision, Medicare supplement,
+42 long term care, or disability income insurance.
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 17 ---
+16
+1 (2) Coverage issued as a supplement to liability insurance.
+2 (3) Worker's compensation or similar insurance.
+3 (4) Automobile medical payment insurance.
+4 (5) A specified disease policy.
+5 (6) A short term insurance plan that:
+6 (A) may be renewed for the greater of:
+7 (i) thirty-six (36) months; or
+8 (ii) the maximum period permitted under federal law;
+9 (B) has a term of not more than three hundred sixty-four (364)
+10 days; six (6) months; and
+11 (C) has an annual  limit of at least two million dollars
+12 ($2,000,000).
+13 (7) A policy that provides indemnity benefits not based on any
+14 expense incurred requirement, including a plan that provides
+15 coverage for:
+16 (A) hospital confinement, critical illness, or intensive care; or
+17 (B) gaps for deductibles or copayments.
+18 (8) A supplemental plan that always pays in addition to other
+19 coverage.
+20 (9) A student health plan.
+21 (10) An employer sponsored health benefit plan that is:
+22 (A) provided to individuals who are eligible for Medicare; and
+23 (B) not marketed as, or held out to be, a Medicare supplement
+24 policy.
+25 SECTION 20. IC 27-8-14.7-1, AS AMENDED BY P.L.288-2019,
+26 SECTION 15, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+27 JULY 1, 2025]: Sec. 1. (a) As used in this chapter, "accident and
+28 sickness insurance policy" means an insurance policy that:
+29 (1) provides at least one (1) of the types of insurance described in
+30 IC 27-1-5-1, Classes 1(b) and 2(a); and
+31 (2) is issued on a group basis.
+32 (b) "Accident and sickness insurance policy" does not include the
+33 following:
+34 (1) Accident only, credit, dental, vision, Medicare supplement,
+35 long term care, or disability income insurance.
+36 (2) Coverage issued as a supplement to liability insurance.
+37 (3) Worker's compensation or similar insurance.
+38 (4) Automobile medical payment insurance.
+39 (5) A specified disease policy.
+40 (6) A short term insurance plan that:
+41 (A) may be renewed for the greater of:
+42 (i) thirty-six (36) months; or
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 18 ---
+17
+1 (ii) the maximum period permitted under federal law;
+2 (B) has a term of not more than three hundred sixty-four (364)
+3 days; six (6) months; and
+4 (C) has an annual limit of at least two million dollars
+5 ($2,000,000).
+6 (7) A policy that provides indemnity benefits not based on any
+7 expense incurred requirement, including a plan that provides
+8 coverage for:
+9 (A) hospital confinement, critical illness, or intensive care; or
+10 (B) gaps for deductibles or copayments.
+11 (8) A supplemental plan that always pays in addition to other
+12 coverage.
+13 (9) A student health plan.
+14 (10) An employer sponsored health benefit plan that is:
+15 (A) provided to individuals who are eligible for Medicare; and
+16 (B) not marketed as, or held out to be, a Medicare supplement
+17 policy.
+18 SECTION 21. IC 27-8-14.8-1, AS AMENDED BY P.L.288-2019,
+19 SECTION 16, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+20 JULY 1, 2025]: Sec. 1. (a) As used in this chapter, "accident and
+21 sickness insurance policy" means an insurance policy that:
+22 (1) provides at least one (1) of the types of insurance described in
+23 IC 27-1-5-1, Classes 1(b) and 2(a); and
+24 (2) is issued on a group basis.
+25 (b) "Accident and sickness insurance policy" does not include the
+26 following:
+27 (1) Accident only, credit, dental, vision, Medicare supplement,
+28 long term care, or disability income insurance.
+29 (2) Coverage issued as a supplement to liability insurance.
+30 (3) Worker's compensation or similar insurance.
+31 (4) Automobile medical payment insurance.
+32 (5) A specified disease policy.
+33 (6) A short term insurance plan that:
+34 (A) may be renewed for the greater of:
+35 (i) thirty-six (36) months; or
+36 (ii) the maximum period permitted under federal law;
+37 (B) has a term of not more than three hundred sixty-four (364)
+38 days; six (6) months; and
+39 (C) has an annual limit of at least two million dollars
+40 ($2,000,000).
+41 (7) A policy that provides indemnity benefits not based on any
+42 expense incurred requirement, including a plan that provides
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 19 ---
+18
+1 coverage for:
+2 (A) hospital confinement, critical illness, or intensive care; or
+3 (B) gaps for deductibles or copayments.
+4 (8) A supplemental plan that always pays in addition to other
+5 coverage.
+6 (9) A student health plan.
+7 (10) An employer sponsored health benefit plan that is:
+8 (A) provided to individuals who are eligible for Medicare; and
+9 (B) not marketed as, or held out to be, a Medicare supplement
+10 policy.
+11 SECTION 22. IC 27-8-15-9, AS AMENDED BY P.L.288-2019,
+12 SECTION 17, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 JULY 1, 2025]: Sec. 9. (a) Except as provided in section 28 of this
+14 chapter, as used in this chapter, "health insurance plan" or "plan"
+15 means any:
+16 (1) hospital or medical expense incurred policy or certificate;
+17 (2) hospital or medical service plan contract; or
+18 (3) health maintenance organization subscriber contract;
+19 provided to the employees of a small employer.
+20 (b) The term does not include the following:
+21 (1) Accident-only, credit, dental, vision, Medicare supplement,
+22 long term care, or disability income insurance.
+23 (2) Coverage issued as a supplement to liability insurance.
+24 (3) Worker's compensation or similar insurance.
+25 (4) Automobile medical payment insurance.
+26 (5) A specified disease policy.
+27 (6) A short term insurance plan that:
+28 (A) may be renewed for the greater of:
+29 (i) thirty-six (36) months; or
+30 (ii) the maximum period permitted under federal law;
+31 (B) has a term of not more than three hundred sixty-four (364)
+32 days; six (6) months; and
+33 (C) has an annual limit of at least two million dollars
+34 ($2,000,000).
+35 (7) A policy that provides indemnity benefits not based on any
+36 expense incurred requirement, including a plan that provides
+37 coverage for:
+38 (A) hospital confinement, critical illness, or intensive care; or
+39 (B) gaps for deductibles or copayments.
+40 (8) A supplemental plan that always pays in addition to other
+41 coverage.
+42 (9) A student health plan.
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 20 ---
+19
+1 (10) An employer sponsored health benefit plan that is:
+2 (A) provided to individuals who are eligible for Medicare; and
+3 (B) not marketed as, or held out to be, a Medicare supplement
+4 policy.
+5 SECTION 23. IC 27-8-24.1-1, AS AMENDED BY P.L.288-2019,
+6 SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+7 JULY 1, 2025]: Sec. 1. (a) As used in this chapter, "accident and
+8 sickness insurance policy" means an insurance policy that provides at
+9 least one (1) of the types of insurance described in IC 27-1-5-1, Classes
+10 1(b) and 2(a), and is issued on a group basis.
+11 (b) The term does not include the following:
+12 (1) Accident only, credit, dental, vision, Medicare supplement,
+13 long term care, or disability income insurance.
+14 (2) Coverage issued as a supplement to liability insurance.
+15 (3) Worker's compensation or similar insurance.
+16 (4) Automobile medical payment insurance.
+17 (5) A specified disease policy.
+18 (6) A short term insurance plan that:
+19 (A) may be renewed for the greater of:
+20 (i) thirty-six (36) months; or
+21 (ii) the maximum period permitted under federal law;
+22 (B) has a term of not more than three hundred sixty-four (364)
+23 days; six (6) months; and
+24 (C) has an annual limit of at least two million dollars
+25 ($2,000,000).
+26 (7) A policy that provides indemnity benefits not based on any
+27 expense incurred requirement, including a plan that provides
+28 coverage for:
+29 (A) hospital confinement, critical illness, or intensive care; or
+30 (B) gaps for deductibles or copayments.
+31 (8) A supplemental plan that always pays in addition to other
+32 coverage.
+33 (9) A student health plan.
+34 (10) An employer sponsored health benefit plan that is:
+35 (A) provided to individuals who are eligible for Medicare; and
+36 (B) not marketed as, or held out to be, a Medicare supplement
+37 policy.
+38 SECTION 24. IC 27-8-24.2-3, AS AMENDED BY P.L.288-2019,
+39 SECTION 19, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+40 JULY 1, 2025]: Sec. 3. (a) As used in this chapter, "policy of accident
+41 and sickness insurance" has the meaning set forth in IC 27-8-5-1.
+42 (b) The term does not include the following:
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 21 ---
+20
+1 (1) Accident only, credit, dental, vision, Medicare, Medicare
+2 supplement, long term care, or disability income insurance.
+3 (2) Coverage issued as a supplement to liability insurance.
+4 (3) Automobile medical payment insurance.
+5 (4) A specified disease policy.
+6 (5) A limited benefit health insurance policy.
+7 (6) A short term insurance plan that:
+8 (A) may be renewed for the greater of:
+9 (i) thirty-six (36) months; or
+10 (ii) the maximum period permitted under federal law;
+11 (B) has a term of not more than three hundred sixty-four (364)
+12 days; six (6) months; and
+13 (C) has an annual limit of at least two million dollars
+14 ($2,000,000).
+15 (7) A policy that provides a stipulated daily, weekly, or monthly
+16 payment to an insured during hospital confinement, without
+17 regard to the actual expense of the confinement.
+18 (8) Worker's compensation or similar insurance.
+19 (9) A student health insurance policy.
+20 SECTION 25. IC 27-8-27-4, AS AMENDED BY P.L.288-2019,
+21 SECTION 20, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+22 JULY 1, 2025]: Sec. 4. (a) For purposes of this chapter, "health
+23 insurance plan" means any:
+24 (1) hospital or medical expense incurred policy or certificate;
+25 (2) hospital or medical service plan contract; or
+26 (3) health maintenance organization subscriber contract;
+27 provided to an insured.
+28 (b) The term does not include the following:
+29 (1) Accident-only, credit, dental, Medicare supplement, long term
+30 care, or disability income insurance.
+31 (2) Coverage issued as a supplement to liability insurance.
+32 (3) Worker's compensation or similar insurance.
+33 (4) Automobile medical payment insurance.
+34 (5) A specified disease policy issued as an individual policy.
+35 (6) A limited benefit health insurance plan issued as an individual
+36 policy.
+37 (7) A short term insurance plan that:
+38 (A) may be renewed for the greater of:
+39 (i) thirty-six (36) months; or
+40 (ii) the maximum period permitted under federal law;
+41 (B) has a term of not more than three hundred sixty-four (364)
+42 days; six (6) months; and
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 22 ---
+21
+1 (C) has an annual limit of at least two million dollars
+2 ($2,000,000).
+3 (8) A policy that provides a stipulated daily, weekly, or monthly
+4 payment to an insured during hospital confinement, without
+5 regard to the actual expense of the confinement.
+6 SECTION 26. IC 27-8-28-1, AS AMENDED BY P.L.288-2019,
+7 SECTION 21, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+8 JULY 1, 2025]: Sec. 1. (a) As used in this chapter, "accident and
+9 sickness insurance policy" means an insurance policy that provides one
+10 (1) or more of the kinds of insurance described in Class 1(b) and 2(a)
+11 of IC 27-1-5-1.
+12 (b) The term does not include the following:
+13 (1) Accident only, credit, dental, vision, Medicare supplement,
+14 long term care, or disability income insurance.
+15 (2) Coverage issued as a supplement to liability insurance.
+16 (3) Automobile medical payment insurance.
+17 (4) A specified disease policy issued as an individual policy.
+18 (5) A limited benefit health insurance policy issued as an
+19 individual policy.
+20 (6) A short term insurance plan that:
+21 (A) may be renewed for the greater of:
+22 (i) thirty-six (36) months; or
+23 (ii) the maximum period permitted under federal law;
+24 (B) has a term of not more than three hundred sixty-four (364)
+25 days; six (6) months; and
+26 (C) has an annual limit of at least two million dollars
+27 ($2,000,000).
+28 (7) A policy that provides a stipulated daily, weekly, or monthly
+29 payment to an insured during hospital confinement without regard
+30 to the actual expense of the confinement.
+31 (8) Worker's compensation or similar insurance.
+32 SECTION 27. IC 27-8-38-2, AS ADDED BY P.L.170-2022,
+33 SECTION 38, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+34 JULY 1, 2025]: Sec. 2. (a) As used in this chapter, "accident and
+35 sickness insurance policy" means an insurance policy that:
+36 (1) provides at least one (1) of the types of insurance described in
+37 IC 27-1-5-1, Classes 1(b) and 2(a); and
+38 (2) is issued on:
+39 (A) an individual basis; or
+40 (B) a group basis.
+41 (b) "Accident and sickness insurance policy" does not include the
+42 following:
+2025 IN 165—LS 6502/DI 154
+
+
+--- Page 23 ---
+22
+1 (1) Accident only, credit, dental, vision, Medicare supplement,
+2 long term care, or disability income insurance.
+3 (2) Coverage issued as a supplement to liability insurance.
+4 (3) Worker's compensation or similar insurance.
+5 (4) Automobile medical payment insurance.
+6 (5) A specified disease policy.
+7 (6) A short term insurance plan that:
+8 (A) may be renewed for the greater of:
+9 (i) thirty-six (36) months; or
+10 (ii) the maximum period permitted under federal law;
+11 (B) has a term of not more than three hundred sixty-four (364)
+12 days; six (6) months; and
+13 (C) has an annual limit of at least two million dollars
+14 ($2,000,000).
+15 (7) A policy that provides indemnity benefits not based on any
+16 expense incurred requirement, including a plan that provides
+17 coverage for:
+18 (A) hospital confinement, critical illness, or intensive care; or
+19 (B) gaps for deductibles or copayments.
+20 (8) A supplemental plan that always pays in addition to other
+21 coverage.
+22 (9) A student health plan.
+23 (10) An employer sponsored health benefit plan that is:
+24 (A) provided to individuals who are eligible for Medicare; and
+25 (B) not marketed as, or held out to be, a Medicare supplement
+26 policy.
+2025 IN 165—LS 6502/DI 154

@@ -1,0 +1,181 @@
+--- Page 1 ---
+ 
+Introduced Version
+SENATE BILL No. 435
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 5-10-8-18.5; IC 27-1-24.5; IC 27-8-5-32;
+IC 27-13-7-23.5.
+Synopsis:  Prohibition on copay accumulator adjustments. Provides
+that under certain circumstances, the administrator of the state
+employee health plan shall include any amount paid by a covered
+individual or another person on behalf of the covered individual for a
+prescription drug when calculating a covered individual's overall
+contribution to an out-of-pocket maximum or cost sharing requirement
+under the covered individual's state employee health plan. Provides that
+under certain circumstances, a pharmacy benefit manager shall include
+any amount paid by a covered individual or another person on behalf
+of the covered individual for a prescription drug when calculating a
+covered individual's overall contribution to an out-of-pocket maximum
+or cost sharing requirement under the covered individual's health plan.
+Provides that under certain circumstances, an insurer who issues a
+policy of accident and sickness insurance shall include any amount
+paid by an insured or another person on behalf of the insured for a
+prescription drug when calculating an insured's overall contribution to
+an out-of-pocket maximum or cost sharing requirement under the
+insured's policy of accident and sickness insurance. Provides that under
+certain circumstances, a health maintenance organization shall include
+any amount paid by an enrollee or another person on behalf of the
+enrollee for a prescription drug when calculating an enrollee's overall
+contribution to an out-of-pocket maximum or cost sharing requirement
+under the enrollee's individual or group contract.
+Effective:  July 1, 2025.
+Hunley
+January 13, 2025, read first time and referred to Commi ttee on Health and Provi der
+Services.
+2025 IN 435—LS 7299/DI 154
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+SENATE BILL No. 435
+A BILL FOR AN ACT to amend the Indiana Code concerning
+insurance.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 5-10-8-18.5 IS ADDED TO THE INDIANA CODE
+2 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2025]: Sec. 18.5. (a) This section applies to a state employee
+4 health plan that is established, entered into, amended, or renewed
+5 after June 30, 2025.
+6 (b) This section does not apply to an originating brand name
+7 prescription drug for which a generic alternative exists, unless the
+8 covered individual has obtained access to the originating brand
+9 name drug through:
+10 (1) prior authorization;
+11 (2) a step therapy protocol; or
+12 (3) the administrator's exceptions or appeals process.
+13 (c) As used in this section, "administrator" has the meaning set
+14 forth in section 11(a) of this chapter.
+15 (d) As used in this section, "covered individual" means an
+16 individual entitled to coverage under a state employee health plan.
+17 (e) As used in this section, "generic alternative" means a drug
+2025 IN 435—LS 7299/DI 154
+
+
+--- Page 3 ---
+2
+1 that is:
+2 (1) designated to be therapeutically equivalent to an
+3 originating brand name prescription drug by the federal Food
+4 and Drug Administration; and
+5 (2) nationally available.
+6 (f) As used in this section, "state employee health plan" means
+7 the following:
+8 (1) A self-insurance program established under section 7(b) of
+9 this chapter.
+10 (2) A contract for prepaid health care services entered into
+11 under section 7(c) of this chapter.
+12 (g) When calculating a covered individual's overall contribution
+13 to an out-of-pocket maximum or cost sharing requirement under
+14 the covered individual's state employee health plan, the
+15 administrator shall include any amount paid by the covered
+16 individual or another person on behalf of the covered individual
+17 for a prescription drug.
+18 SECTION 2. IC 27-1-24.5-3.7 IS ADDED TO THE INDIANA
+19 CODE AS A NEW SECTION TO READ AS FOLLOWS
+20 [EFFECTIVE JULY 1, 2025]: Sec. 3.7. As used in this chapter,
+21 "generic alternative" means a drug that is:
+22 (1) designated to be therapeutically equivalent to an
+23 originating brand name prescription drug by the federal Food
+24 and Drug Administration; and
+25 (2) nationally available.
+26 SECTION 3. IC 27-1-24.5-27.7 IS ADDED TO THE INDIANA
+27 CODE AS A NEW SECTION TO READ AS FOLLOWS
+28 [EFFECTIVE JULY 1, 2025]: Sec. 27.7. (a) This section applies to a
+29 health plan entered into or renewed after June 30, 2025.
+30 (b) This section does not apply to an originating brand name
+31 prescription drug for which a generic alternative exists, unless the
+32 covered individual has obtained access to the originating brand
+33 name drug through:
+34 (1) prior authorization;
+35 (2) a step therapy protocol; or
+36 (3) the pharmacy benefit manager's exceptions or appeals
+37 process.
+38 (c) When calculating a covered individual's overall contribution
+39 to an out-of-pocket maximum or cost sharing requirement under
+40 the covered individual's health plan, a pharmacy benefit manager
+41 shall include any amount paid by the covered individual or another
+42 person on behalf of the covered individual for a prescription drug.
+2025 IN 435—LS 7299/DI 154
+
+
+--- Page 4 ---
+3
+1 SECTION 4. IC 27-8-5-32 IS ADDED TO THE INDIANA CODE
+2 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2025]: Sec. 32. (a) This section applies to a policy of accident and
+4 sickness insurance that is issued, entered into, amended, or
+5 renewed after June 30, 2025.
+6 (b) This section does not apply to an originating brand name
+7 prescription drug for which a generic alternative exists, unless the
+8 insured has obtained access to the originating brand name drug
+9 through:
+10 (1) prior authorization;
+11 (2) a step therapy protocol; or
+12 (3) the insurer's exceptions or appeals process.
+13 (c) As used in this section, "generic alternative" means a drug
+14 that is:
+15 (1) designated to be therapeutically equivalent to an
+16 originating brand name prescription drug by the federal Food
+17 and Drug Administration; and
+18 (2) nationally available.
+19 (d) As used in this section, "insured" means an individual
+20 entitled to coverage under a policy of accident and sickness
+21 insurance.
+22 (e) As used in this section, "policy of accident and sickness
+23 insurance" has the meaning set forth in section 1 of this chapter.
+24 (f) When calculating an insured's overall contribution to an
+25 out-of-pocket maximum or cost sharing requirement under the
+26 insured's policy of accident and sickness insurance, an insurer shall
+27 include any amount paid by the insured or another person on
+28 behalf of the insured for a prescription drug.
+29 SECTION 5. IC 27-13-7-23.5 IS ADDED TO THE INDIANA
+30 CODE AS A NEW SECTION TO READ AS FOLLOWS
+31 [EFFECTIVE JULY 1, 2025]: Sec. 23.5. (a) This section applies to an
+32 individual contract and a grou p contract that is entered into,
+33 delivered, amended, or renewed after June 30, 2025.
+34 (b) This section does not apply to an originating brand name
+35 prescription drug for which a generic alternative exists, unless the
+36 enrollee has obtained access to the originating brand name
+37 prescription drug through:
+38 (1) prior authorization;
+39 (2) a step therapy protocol; or
+40 (3) the health maintenance organization's exceptions or
+41 appeals process.
+42 (c) As used in this section, "generic alternative" means a drug
+2025 IN 435—LS 7299/DI 154
+
+
+--- Page 5 ---
+4
+1 that is:
+2 (1) designated to be therapeutically equivalent to an
+3 originating brand name prescription drug by the federal Food
+4 and Drug Administration; and
+5 (2) nationally available.
+6 (d) When calculating an enrollee's overall contribution to an
+7 out-of-pocket maximum or cost sharing requirement under the
+8 enrollee's individual or group contract, a health maintenance
+9 organization shall include any amount paid by the enrollee or
+10 another person on behalf of the enrollee for a prescription drug.
+2025 IN 435—LS 7299/DI 154

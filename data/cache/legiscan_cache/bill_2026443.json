@@ -1,0 +1,118 @@
+{
+  "bill_id": 2026443,
+  "change_hash": "205d855716cfe7b3fe832f2dc59819dc",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/SR0076/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/resolutions/senate/simple/76/details",
+  "completed": 1,
+  "status": 4,
+  "status_date": "2025-04-24",
+  "progress": [
+    {
+      "date": "2025-04-24",
+      "event": 1
+    },
+    {
+      "date": "2025-04-24",
+      "event": 4
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "SR0076",
+  "bill_type": "R",
+  "bill_type_id": "2",
+  "body": "S",
+  "body_id": 38,
+  "current_body": "S",
+  "current_body_id": 38,
+  "title": "Urging the legislative council to assign the topic of whether the use of hyperbaric oxygen therapy in Indiana is being sufficiently regulated.",
+  "description": "Urging the legislative council to assign the topic of whether the use of hyperbaric oxygen therapy in Indiana is being sufficiently regulated. A SENATE RESOLUTION urging the Legislative Council to assign an appropriate study committee the topic of whether the use of hyperbaric oxygen therapy in Indiana is being sufficiently regulated.",
+  "pending_committee_id": 0,
+  "committee": [],
+  "referrals": [],
+  "history": [
+    {
+      "date": "2025-04-24",
+      "action": "Authored by Senator Niezgodski",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "First reading: adopted voice vote",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 5489,
+      "person_hash": "fpmu5pnb",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 2,
+      "role": "Sen",
+      "name": "David Niezgodski",
+      "first_name": "David",
+      "middle_name": "L.",
+      "last_name": "Niezgodski",
+      "suffix": "",
+      "nickname": "",
+      "district": "SD-010",
+      "ftm_eid": 7320467,
+      "votesmart_id": 57875,
+      "opensecrets_id": "",
+      "knowwho_pid": 249846,
+      "ballotpedia": "David_Niezgodski",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3221196,
+      "date": "2025-04-24",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/SR0076/id/3221196",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/resolutions/SR0076/SR0076.01.INTR.pdf",
+      "text_size": 79471,
+      "text_hash": "978f6e3d33f672a538ea8072415e5d5e",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [],
+  "calendar": []
+}

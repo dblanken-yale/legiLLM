@@ -1,0 +1,152 @@
+{
+  "bill_id": 1921138,
+  "change_hash": "bdd2612f13fd3636185749327da69121",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/HB1620/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/house/1620/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-21",
+  "progress": [
+    {
+      "date": "2025-01-21",
+      "event": 1
+    },
+    {
+      "date": "2025-01-21",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "HB1620",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "H",
+  "body_id": 37,
+  "current_body": "H",
+  "current_body_id": 37,
+  "title": "Disclosure of artificial intelligence use in health care.",
+  "description": "Disclosure of artificial intelligence use in health care. Requires a health care provider to disclose to a patient the provider's use of artificial intelligence technology to: (1) make or inform any decision involved in the provision of health care to the patient; or (2) generate any part of a communication to the patient regarding the patient's health care. Requires an insurer that provides accident and sickness coverage to disclose to an insured the insurer's use of artificial intelligence technology to: (1) make or inform any decision involved in the provision of the coverage to the insured; or (2) generate any part of a communication to the insured regarding the coverage.",
+  "pending_committee_id": 1300,
+  "committee": {
+    "committee_id": 1300,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Public Health"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-21",
+      "committee_id": 1300,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Public Health"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-21",
+      "action": "Authored by Representative King",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-21",
+      "action": "First reading: referred to Committee on Public Health",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 22375,
+      "person_hash": "wj1hhpq8",
+      "party_id": "2",
+      "state_id": 14,
+      "party": "R",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Joanna King",
+      "first_name": "Joanna",
+      "middle_name": "",
+      "last_name": "King",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-049",
+      "ftm_eid": 38525920,
+      "votesmart_id": 167538,
+      "opensecrets_id": "",
+      "knowwho_pid": 568850,
+      "ballotpedia": "Joanna_King",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3058315,
+      "date": "2025-01-15",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/HB1620/id/3058315",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1620/HB1620.01.INTR.pdf",
+      "text_size": 128571,
+      "text_hash": "780a592bf91879f90ab77bc84f493fa4",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 488787,
+      "date": "2025-01-15",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/HB1620/id/488787",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1620/fiscal-notes/HB1620.01.INTR.FN001.pdf",
+      "supplement_size": 65156,
+      "supplement_hash": "30b2601428c8f39b3bf674e600309f17",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

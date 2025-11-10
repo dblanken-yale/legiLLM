@@ -1,0 +1,161 @@
+{
+  "bill_id": 2024488,
+  "change_hash": "926fb66a1a1164ee0af364cd89b13002",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/HR0064/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/resolutions/house/simple/64/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-04-17",
+  "progress": [
+    {
+      "date": "2025-04-17",
+      "event": 1
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "HR0064",
+  "bill_type": "R",
+  "bill_type_id": "2",
+  "body": "H",
+  "body_id": 37,
+  "current_body": "H",
+  "current_body_id": 37,
+  "title": "Urging the Legislative Council to assign to the Medicaid Oversight Committee the task of studying the use of long term care insurance.",
+  "description": "Urging the Legislative Council to assign to the Medicaid Oversight Committee the task of studying the use of long term care insurance. Urging the Legislative Council to assign to the Medicaid Oversight Committee the task of studying the use of long term care insurance.",
+  "pending_committee_id": 1300,
+  "committee": {
+    "committee_id": 1300,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Public Health"
+  },
+  "referrals": [
+    {
+      "date": "2025-04-17",
+      "committee_id": 1300,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Public Health"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-04-17",
+      "action": "Authored by Representative DeLaney",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Coauthored by Representative Carbaugh",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-17",
+      "action": "First reading: referred to the Committee on Public Health",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 5533,
+      "person_hash": "p78cntf1",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Edward DeLaney",
+      "first_name": "Edward",
+      "middle_name": "O.",
+      "last_name": "DeLaney",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-086",
+      "ftm_eid": 6488565,
+      "votesmart_id": 102868,
+      "opensecrets_id": "",
+      "knowwho_pid": 270744,
+      "ballotpedia": "Edward_DeLaney",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    },
+    {
+      "people_id": 14762,
+      "person_hash": "pcgjbqb4",
+      "party_id": "2",
+      "state_id": 14,
+      "party": "R",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Martin Carbaugh",
+      "first_name": "Martin",
+      "middle_name": "",
+      "last_name": "Carbaugh",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-081",
+      "ftm_eid": 10246056,
+      "votesmart_id": 135309,
+      "opensecrets_id": "",
+      "knowwho_pid": 395905,
+      "ballotpedia": "Martin_Carbaugh",
+      "bioguide_id": "",
+      "sponsor_type_id": 2,
+      "sponsor_order": 2,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3213748,
+      "date": "2025-04-16",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/HR0064/id/3213748",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/resolutions/HR0064/HR0064.01.INTR.pdf",
+      "text_size": 74823,
+      "text_hash": "35b051a6e4f12d8297def2f53d166b0e",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [],
+  "calendar": []
+}

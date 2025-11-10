@@ -1,0 +1,152 @@
+{
+  "bill_id": 1911881,
+  "change_hash": "375a2a9996634c11fea2ca8e8285009a",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/HB1360/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/house/1360/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-13",
+  "progress": [
+    {
+      "date": "2025-01-13",
+      "event": 1
+    },
+    {
+      "date": "2025-01-13",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "HB1360",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "H",
+  "body_id": 37,
+  "current_body": "H",
+  "current_body_id": 37,
+  "title": "Medicaid coverage for health related social needs.",
+  "description": "Medicaid coverage for health related social needs. Requires the office of the secretary of family and social services to apply, not later than October 1, 2025, for approval of a Section 1115 Medicaid demonstration waiver to provide coverage for health related social needs.",
+  "pending_committee_id": 1300,
+  "committee": {
+    "committee_id": 1300,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Public Health"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-13",
+      "committee_id": 1300,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Public Health"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-13",
+      "action": "Authored by Representative Porter",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading: referred to Committee on Public Health",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 5566,
+      "person_hash": "898lkzk5",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Gregory Porter",
+      "first_name": "Gregory",
+      "middle_name": "W.",
+      "last_name": "Porter",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-096",
+      "ftm_eid": 13000455,
+      "votesmart_id": 4704,
+      "opensecrets_id": "",
+      "knowwho_pid": 194548,
+      "ballotpedia": "Gregory_Porter",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3048548,
+      "date": "2025-01-10",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/HB1360/id/3048548",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1360/HB1360.01.INTR.pdf",
+      "text_size": 74824,
+      "text_hash": "136d89919a1a7e1465dd06778a2113de",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 487283,
+      "date": "2025-01-10",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/HB1360/id/487283",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1360/fiscal-notes/HB1360.01.INTR.FN001.pdf",
+      "supplement_size": 66946,
+      "supplement_hash": "7fc1f4557b3278dfea91ad833a71c77a",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

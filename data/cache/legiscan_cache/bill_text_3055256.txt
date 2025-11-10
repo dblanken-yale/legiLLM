@@ -1,0 +1,139 @@
+--- Page 1 ---
+ 
+Introduced Version
+HOUSE BILL No. 1438
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 16-18-2; IC 16-39-9.
+Synopsis:  Medical record fees. Requires a provider to provide a
+patient's medical record in the form and format requested by the patient
+or the patient's legal representative, if readily producible. Provides that
+a third party may not charge more than $2.50 for producing a patient's
+medical record. Prohibits a provider from charging more than $6.50 for
+producing a patient's medical record in electronic form. Specifies that
+certain provisions in current law governing medical record fees apply
+to a medical record in paper form. Amends the factors the department
+of insurance may consider in adopting rules governing medical record
+fees. Limits supply costs for paper copies to $.05 per page. Prohibits
+the department from adopting a rule permitting a retrieval fee. Requires
+a provider to provide one free copy of a patient's medical record to the
+patient or the patient's legal representative if requesting the medical
+record to apply for or appeal a denial of Social Security insurance
+disability benefits or Supplemental Security Insurance. Provides that a
+certification fee may not exceed $5. Prohibits a provider from charging
+a fee for a billing statement.
+Effective:  July 1, 2025.
+Campbell
+January 21, 2025, read first time and referred to Commi ttee on Public Health.
+2025 IN 1438—LS 6680/DI 147
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE BILL No. 1438
+A BILL FOR AN ACT to amend the Indiana Code concerning
+health.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 16-18-2-198.9 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2025]: Sec. 198.9. "Legal representative", for
+4 purposes of IC 16-39-9, has the meaning set forth in IC 16-39-9-0.5.
+5 SECTION 2. IC 16-18-2-223.8 IS ADDED TO THE INDIANA
+6 CODE AS A NEW SECTION TO READ AS FOLLOWS
+7 [EFFECTIVE JULY 1, 2025]: Sec. 223.8. "Medical record", for
+8 purposes of IC 16-39-9, has the meaning set forth in IC 16-39-9-0.5.
+9 SECTION 3. IC 16-39-9-0.5 IS ADDED TO THE INDIANA CODE
+10 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+11 1, 2025]: Sec. 0.5. (a) As used in this chapter, "legal representative"
+12 includes an attorney.
+13 (b) As used in this chapter, "medical record" includes a mental
+14 health record.
+15 SECTION 4. IC 16-39-9-1.5 IS ADDED TO THE INDIANA CODE
+16 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+17 1, 2025]: Sec. 1.5. Upon request, a provider shall provide to a
+2025 IN 1438—LS 6680/DI 147
+
+
+--- Page 3 ---
+2
+1 patient or a patient's legal representative the patient's medical
+2 record in the form and format requested, if the medical record is
+3 readily producible in the requested form and format.
+4 SECTION 5. IC 16-39-9-2, AS AMENDED BY P.L.173-2007,
+5 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+6 JULY 1, 2025]: Sec. 2. (a) A provider may not charge a person patient
+7 or the patient's legal representative for making and providing copies
+8 of medical records in paper form an amount greater than the amount
+9 set in rules adopted by the department of insurance under section 4 of
+10 this chapter.
+11 (b) A provider may not charge a patient or a patient's legal
+12 representative a fee that exceeds six dollars and fifty cents ($6.50)
+13 for producing the patient's medical record in electronic form.
+14 (c) This subsection applies to a provider who uses or contracts
+15 with a third party to maintain, retrieve, and produce a patient's
+16 medical record. A third party may not charge a patient or a
+17 patient's legal representative more than two dollars and fifty cents
+18 ($2.50) for producing the patient's medical record.
+19 SECTION 6. IC 16-39-9-4, AS AMENDED BY P.L.173-2007,
+20 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+21 JULY 1, 2025]: Sec. 4. (a) As used in this section, "department" refers
+22 to the department of insurance created by IC 27-1-1-1.
+23 (b) Subject to subsection (c), the department may adopt rules under
+24 IC 4-22-2 to set the amounts that may be charged for copying records
+25 in paper form under this chapter. In adopting rules under this section,
+26 the department shall consider the following factors relating to the costs
+27 of copying medical records in paper form:
+28 (1) The following labor costs: Labor for copying.
+29 (A) Verification of requests.
+30 (B) Logging requests.
+31 (C) Retrieval.
+32 (D) Copying.
+33 (E) Refiling.
+34 (2) Software costs for logging requests. Supply costs, not to
+35 exceed five cents ($.05) per page.
+36 (3) Expense costs for copying. Postage costs when a patient or
+37 a patient's legal representative requests that a medical record
+38 be mailed.
+39 (4) Capital costs for copying.
+40 (5) Billing and bad debt expenses.
+41 (6) Space costs.
+42 (c) The department may not adopt a rule under IC 4-22-2
+2025 IN 1438—LS 6680/DI 147
+
+
+--- Page 4 ---
+3
+1 permitting a fee for retrieving a medical record.
+2 SECTION 7. IC 16-39-9-5 IS ADDED TO THE INDIANA CODE
+3 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+4 1, 2025]: Sec. 5. Upon request, a provider shall provide one (1) free
+5 copy of a patient's medical record to the patient or the patient's
+6 legal representative if the patient or the patient's legal
+7 representative requests the medical record to:
+8 (1) apply for; or
+9 (2) appeal a denial of;
+10 Social Security disability insurance benefits or Supplemental
+11 Security Income under the federal Social Security Act.
+12 SECTION 8. IC 16-39-9-6 IS ADDED TO THE INDIANA CODE
+13 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+14 1, 2025]: Sec. 6. (a) This section applies to a request by a patient or
+15 a patient's legal representative for a provider to certify the
+16 patient's medical record.
+17 (b) A provider may not charge a patient or a patient's legal
+18 representative more than five dollars ($5) for certifying the
+19 patient's medical record.
+20 SECTION 9. IC 16-39-9-7 IS ADDED TO THE INDIANA CODE
+21 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+22 1, 2025]: Sec. 7. A provider may not charge a patient or a patient's
+23 legal representative a fee for producing a billing statement.
+2025 IN 1438—LS 6680/DI 147

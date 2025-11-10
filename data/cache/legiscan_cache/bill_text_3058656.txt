@@ -1,0 +1,709 @@
+--- Page 1 ---
+ 
+Introduced Version
+HOUSE BILL No. 1640
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 12-7-2; IC 12-14-31-3; IC 12-17.2-7.2.
+Synopsis:  Prekindergarten program enrollment. Amends the definition
+of "eligible child" for purposes of the prekindergarten program
+(program). Removes provisions regarding the program that require: (1)
+the office of the secretary of family and social services to determine the
+number of eligible children who will participate in the program; and (2)
+a percentage of matching funds from other sources. Establishes the
+prekindergarten expansion grant fund to provide grants to potential
+eligible providers and existing eligible providers. Makes a continuous
+appropriation to the prekindergarten program fund from the state
+general fund in an amount sufficient to carry out the purposes of the
+fund. Makes an appropriation to the prekindergarten expansion grant
+fund from the state general fund. Repeals certain provisions regarding
+the definitions of "eligible child", "extended enrollment period",
+"limited eligibility child", "priority enrollment period", "child care
+employee", and "child of a child care employee". Repeals or removes
+provision regarding prekindergarten vouchers for limited eligibility
+children and children of child care employees. Makes conforming
+changes.
+Effective:  July 1, 2025.
+Hamilton
+January 21, 2025, read first time and referred to Commi ttee on Family, Children and
+Human Affairs.
+2025 IN 1640—LS 6019/DI 110
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE BILL No. 1640
+A BILL FOR AN ACT to amend the Indiana Code concerning
+human services and to make an appropriation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 12-7-2-28.5, AS ADDED BY P.L.92-2024,
+2 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2025]: Sec. 28.5. "Child care employee", for purposes of
+4 IC 12-17.2-7.2, has the meaning set forth in IC 12-17.2-7.2-0.5.
+5 IC 12-14-31, means an individual who:
+6 (1) receives compensation as a full-time employee of an entity
+7 licensed or regulated under IC 12-17.2, as determined by the
+8 office of the secretary of family and social services; or
+9 (2) receives compensation as a part-time employee of an entity
+10 licensed or regulated under IC 12-17.2 while also pursuing
+11 postsecondary study or educational training in child care or
+12 early childhood education, as determined by the office of the
+13 secretary of family and social services.
+14 SECTION 2. IC 12-7-2-31.4 IS REPEALED [EFFECTIVE JULY
+15 1, 2025]. Sec. 31.4. "Child of a child care employee", for purposes of
+16 IC 12-17.2-7.2, has the meaning set forth in IC 12-17.2-7.2-0.6.
+17 SECTION 3. IC 12-7-2-79.5 IS ADDED TO THE INDIANA CODE
+2025 IN 1640—LS 6019/DI 110
+
+
+--- Page 3 ---
+2
+1 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+2 1, 2025]: Sec. 79.5. "Expansion fund", for purposes of
+3 IC 12-17.2-7.2, has the meaning set forth in IC 12-17.2-7.2-2.1.
+4 SECTION 4. IC 12-7-2-91, AS AMENDED BY P.L.152-2024,
+5 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+6 JULY 1, 2025]: Sec. 91. "Fund" means the following:
+7 (1) For purposes of IC 12-12-1-9, the fund described in
+8 IC 12-12-1-9.
+9 (2) For purposes of IC 12-15-20, the meaning set forth in
+10 IC 12-15-20-1.
+11 (3) For purposes of IC 12-17-12, the meaning set forth in
+12 IC 12-17-12-4.
+13 (4) For purposes of IC 12-17.2-7.2, the meaning set forth in
+14 IC 12-17.2-7.2-4.7.
+15 (5) (4) For purposes of IC 12-17.6, the meaning set forth in
+16 IC 12-17.6-1-3.
+17 (6) (5) For purposes of IC 12-21-9, the meaning set forth in
+18 IC 12-21-9-1.
+19 (7) (6) For purposes of IC 12-23-2, the meaning set forth in
+20 IC 12-23-2-1.
+21 (8) (7) For purposes of IC 12-23-18, the meaning set forth in
+22 IC 12-23-18-4.
+23 (9) (8) For purposes of IC 12-24-6, the meaning set forth in
+24 IC 12-24-6-1.
+25 (10) (9) For purposes of IC 12-24-14, the meaning set forth in
+26 IC 12-24-14-1.
+27 (11) (10) For purposes of IC 12-30-7, the meaning set forth in
+28 IC 12-30-7-3.
+29 SECTION 5. IC 12-7-2-143.3 IS ADDED TO THE INDIANA
+30 CODE AS A NEW SECTION TO READ AS FOLLOWS
+31 [EFFECTIVE JULY 1, 2025]: Sec. 143.3. "Prekindergarten fund",
+32 for purposes of IC 12-17.2-7.2, has the meaning set forth in
+33 IC 12-17.2-7.2-4.7.
+34 SECTION 6. IC 12-14-31-3, AS ADDED BY P.L.92-2024,
+35 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+36 JULY 1, 2025]: Sec. 3. A household that, at the time of the office of the
+37 secretary's initial determination of the household's income eligibility for
+38 purposes of entry into the CCDF program:
+39 (1) has a household income that does not exceed eighty-five
+40 percent (85%) of Indiana's state median income for the
+41 household's family size;
+42 (2) includes a child care employee; (as defined in
+2025 IN 1640—LS 6019/DI 110
+
+
+--- Page 4 ---
+3
+1 IC 12-17.2-7.2-0.5); and
+2 (3) otherwise meets federal eligibility requirements for the CCDF
+3 program;
+4 is eligible for assistance under the CCDF program.
+5 SECTION 7. IC 12-17.2-7.2-0.5 IS REPEALED [EFFECTIVE
+6 JULY 1, 2025]. Sec. 0.5. As used in this chapter, "child care employee"
+7 means an individual who:
+8 (1) receives compensation as a full-time employee of an entity
+9 licensed or regulated under this article, as determined by the
+10 office; or
+11 (2) recei ves compensation as a part-time employee of an entity
+12 licensed or regulated under this article while also pursuing
+13 postsecondary study or educational training in child care or early
+14 childhood education, as determined by the office.
+15 SECTION 8. IC 12-17.2-7.2-0.6 IS REPEALED [EFFECTIVE
+16 JULY 1, 2025]. Sec. 0.6. As used in this chapter, "child of a child care
+17 employee" means an individual who:
+18 (1) is at least four (4) years of age and less than five (5) years of
+19 age on August 1 of the state fiscal year for which a
+20 prekindergarten voucher is sought for the individual under the
+21 prekindergarten program;
+22 (2) is a resident of Indiana or otherwise has legal settlement in
+23 Indiana, as determined under IC 20-26-11;
+24 (3) receives qualified early education services from an eligible
+25 provider, as determined by the office;
+26 (4) has a parent or guardian who agrees to ensure that the child
+27 meets the attendance requirements determined by the office;
+28 (5) resides with a parent or guardian who is a child care
+29 employee, as determined by the office;
+30 (6) has a household income that does not exceed eighty-five
+31 percent (85%) of Indiana's state median income for the
+32 household's family size; and
+33 (7) meets the requirements of section 7.2(c) of this chapter.
+34 SECTION 9. IC 12-17.2-7.2-1, AS AMENDED BY P.L.201-2023,
+35 SECTION 138, IS AMENDED TO READ AS FOLLOWS
+36 [EFFECTIVE JULY 1, 2025]: Sec. 1. As used in this chapter, "eligible
+37 child" refers to an individual who:
+38 (1) is at least four (4) years of age and less than five (5) years of
+39 age on August 1 of the state fiscal year for which a grant is sought
+40 under the prekindergarten pilot program;
+41 (2) is a resident of Indiana or otherwise has legal settlement in
+42 Indiana, as determined under IC 20-26-11;
+2025 IN 1640—LS 6019/DI 110
+
+
+--- Page 5 ---
+4
+1 (3) is a member of a household with an annual income that does
+2 not exceed one hundred fifty percent (150%) of the federal
+3 poverty level;
+4 (4) (3) receives qualified early education services from an eligible
+5 provider, as determined by the office;
+6 (5) (4) has a parent or guardian who participates in a parental
+7 engagement and involvement component provided by the eligible
+8 provider;
+9 (6) (5) has a parent or guardian who agrees to ensure that the
+10 child meets the attendance requirements determined by the office;
+11 and
+12 (7) (6) meets the requirements under section 7.2(a) and 7.2(c)
+13 7.2(b) of this chapter.
+14 SECTION 10. IC 12-17.2-7.2-2, AS AMENDED BY P.L.92-2024,
+15 SECTION 13, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+16 JULY 1, 2025]: Sec. 2. As used in this chapter, "eligible provider"
+17 refers to a provider that satisfies the following conditions:
+18 (1) The provider is:
+19 (A) a:
+20 (i) child care center licensed under IC 12-17.2-4;
+21 (ii) child care home licensed under IC 12-17.2-5; or
+22 (iii) child care ministry registered under IC 12-17.2-6;
+23 that meets the standards of quality recognized by a Level 3 or
+24 Level 4 paths to QUALITY program rating;
+25 (B) a public school, including a charter school;
+26 (C) a nonpublic school that is accredited by the state board of
+27 education or a national or regional accreditation agency that is
+28 recognized by the state board of education; or
+29 (D) a nonpublic school that is accredited to provide qualified
+30 early education services by an accrediting agency approved by
+31 the office of the secretary.
+32 (2) The provider:
+33 (A) provides qualified early education services to eligible
+34 children; limited eligibility children, and children of child care
+35 employees;
+36 (B) complies with the agreement with the office concerning
+37 the delivery of qualified education services and the use of a
+38 prekindergarten voucher provided under this chapter; and
+39 (C) complies with CCDF provider eligibility standards in
+40 accordance with federal requirements for health and safety.
+41 SECTION 11. IC 12-17.2-7.2-2.1, AS ADDED BY P.L.268-2019,
+42 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+2025 IN 1640—LS 6019/DI 110
+
+
+--- Page 6 ---
+5
+1 JULY 1, 2025]: Sec. 2.1. As used in this chapter, "extended enrollment
+2 period" refers to the period set forth by the office beginning not later
+3 than June 1 of each calendar year. "expansion fund" refers to the
+4 prekindergarten expansion grant fund established by section 15 of
+5 this chapter.
+6 SECTION 12. IC 12-17.2-7.2-2.5 IS REPEALED [EFFECTIVE
+7 JULY 1, 2025]. Sec. 2.5. As used in this chapter, "limited eligibility
+8 child" refers to an individual who:
+9 (1) is at least four (4) years of age and less than five (5) years of
+10 age on August 1 of the state fiscal year for which a
+11 prekindergarten voucher is sought for the individual under the
+12 prekindergarten program;
+13 (2) is a resident of Indiana or otherwise has legal settlement in
+14 Indiana, as determined under IC 20-26-11;
+15 (3) receives qualified early education services from an eligible
+16 provider, as determined by the office;
+17 (4) has a parent or guardian who agrees to ensure that the child
+18 meets the attendance requirements determined by the office;
+19 (5) has a parent or guardian who participates in a parental
+20 engagement and involvement component provided by the eligible
+21 provider;
+22 (6) is a member of a household with an annual income that does
+23 not exceed one hundred eighty-five percent (185%) of the federal
+24 poverty level;
+25 (7) meets the requirements of section 7.2(b) and 7.2(c) of this
+26 chapter; and
+27 (8) is not an eligible child or a child of a child care employee.
+28 SECTION 13. IC 12-17.2-7.2-4.7, AS AMENDED BY
+29 P.L.246-2023, SECTION 9, IS AMENDED TO READ AS FOLLOWS
+30 [EFFECTIVE JULY 1, 2025]: Sec. 4.7. As used in this chapter, "fund"
+31 "prekindergarten fund" refers to the prekindergarten program fund
+32 established by section 13.5 of this chapter.
+33 SECTION 14. IC 12-17.2-7.2-5.7 IS REPEALED [EFFECTIVE
+34 JULY 1, 2025]. Sec. 5.7. As used in this chapter, "priority enrollment
+35 period" refers to the period set forth by the office beginning not later
+36 than April 1 of each calendar year, except for calenda r year 2024,
+37 during which the priority enrollment period may begin later than April
+38 1, 2024.
+39 SECTION 15. IC 12-17.2-7.2-6, AS AMENDED BY P.L.92-2024,
+40 SECTION 16, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+41 JULY 1, 2025]: Sec. 6. As used in this chapter, "qualified early
+42 education services" refers to a program of early education services that:
+2025 IN 1640—LS 6019/DI 110
+
+
+--- Page 7 ---
+6
+1 (1) is provided by an eligible provider to
+2 (A) an eligible child;
+3 (B) a limited eligibility child; or
+4 (C) a child of a child care employee;
+5 (2) includes a parental engagement and involvement component
+6 in the delivery of early education services that is based on the
+7 requirements and guidelines established by the office;
+8 (3) administers the kindergarten readiness assessment adopted by
+9 the state board of education;
+10 (4) aligns with the early learning development framework for
+11 prekindergarten approved by the department of education under
+12 IC 20-19-3-16; and
+13 (5) meets the design parameters for inclusion in the longitudinal
+14 study described in section 12 of this chapter, as determined by the
+15 office.
+16 SECTION 16. IC 12-17.2-7.2-7, AS AMENDED BY P.L.92-2024,
+17 SECTION 17, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+18 JULY 1, 2025]: Sec. 7. (a) The prekindergarten program is established
+19 to provide:
+20 (1) prekindergarten vouchers for qualified early education
+21 services in a manner consistent with how funds are distributed
+22 under the CCDF child care voucher program; and
+23 (2) grants for expansion plans as described in section 7.4(a)(2) of
+24 this chapter.
+25 (b) The office shall administer the prekindergarten program. The
+26 prekindergarten program may include:
+27 (1) eligible providers in Indiana; and
+28 (2) potential eligible providers or existing eligible providers as
+29 described in section 7.4 of this chapter.
+30 (c) Beginning July 1, 2020, the total number of prekindergarten
+31 vouchers provided during the immediately preceding state fiscal year
+32 shall include the number of prekindergarten vouchers issued under a
+33 preschool program established in March 2015 that operates in a
+34 consolidated city.
+35 (d) The prekindergarten program includes eligible providers in any
+36 county in Indiana.
+37 (e) Subject to the requirements of this chapter, the office shall
+38 determine:
+39 (1) the eligibility requirements, application process, and selection
+40 process for providing prekindergarten vouchers under the
+41 prekindergarten program and awarding grants under section 7.4
+42 of this chapter;
+2025 IN 1640—LS 6019/DI 110
+
+
+--- Page 8 ---
+7
+1 (2) the administration and reporting requirements for:
+2 (A) eligible providers; and
+3 (B) potential eligible providers or existing eligible providers;
+4 participating in the prekindergarten program; and
+5 (3) with the assistance of the early learning advisory committee,
+6 an appropriate outcomes based accountability system for:
+7 (A) eligible providers; and
+8 (B) potential eligible providers or existing eligible providers.
+9 (f) The office shall, subject to the availability of funding, determine
+10 the number of eligible children, limited eligibility children, and
+11 children of child care employees who will participate in the
+12 prekindergarten program.
+13 SECTION 17. IC 12-17.2-7.2-7.2, AS AMENDED BY P.L.92-2024,
+14 SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+15 JULY 1, 2025]: Sec. 7.2. (a) For an eligible child to qualify for a
+16 prekindergarten voucher under this chapter, the eligible child must
+17 reside with a parent or guardian who is:
+18 (1) working or attending a job training or an educational program;
+19 or
+20 (2) actively seeking employment, subject to the approval by the
+21 United States Department of Health and Human Services as
+22 provided in 45 CFR 98.21.
+23 (b) For a limited eligibility child to qualify for a prekindergarten
+24 voucher under this chapter, the limited eligibility child must reside with
+25 a parent or guardian who:
+26 (1) is working or attending a job training or an educational
+27 program;
+28 (2) is actively seeking employment, subject to the approval by the
+29 United States Department of Health and Human Services as
+30 provided in 45 CFR 98.21; or
+31 (3) receives Social Security Disability Insurance, Supplemental
+32 Security Income benefits, or disability benefits from the United
+33 States Department of Veterans Affairs.
+34 (c) (b) Before the office may provide a prekindergarten voucher to
+35 an eligible child a limited eligibility child, or a child of a child care
+36 employee under this chapter, the office shall require that a parent or
+37 guardian of the child agree to the following:
+38 (1) The child will attend the prekindergarten program of an
+39 eligible provider selected by the parent or guardian for the full
+40 duration of the prekindergarten program year.
+41 (2) The parent or guardian will not transfer to another
+42 prekindergarten program during the prekindergarten program
+2025 IN 1640—LS 6019/DI 110
+
+
+--- Page 9 ---
+8
+1 year.
+2 (3) The child will attend the prekindergarten program at least
+3 eighty-five percent (85%) of the days that the prekindergarten
+4 program is provided.
+5 (4) The parent or guardian will allow the child to participate in an
+6 external evaluation conducted by researchers, including the
+7 kindergarten readiness assessment and measuring of
+8 developmental and academic progress.
+9 (5) The parent or guardian will participate in family engagement
+10 and involvement activities offered by the selected prekindergarten
+11 program, including meetings with the child's teacher to discuss
+12 the child's progress or any other conference concerning the child
+13 that is requested by the eligible provider.
+14 (6) The parent or guardian will complete the necessary forms for
+15 the child to receive a student test number from the department of
+16 education.
+17 (7) The parent or guardian will send the child to kindergarten.
+18 (8) The parent or guardian will read to the child each week.
+19 (9) Any other condition the office determines is appropriate.
+20 (d) Priority shall be given to a child of a child care employee under
+21 this section.
+22 (e) (c) Priority may be given to an eligible or limited eligibility child
+23 under this section if a parent or guardian of the eligible or limited
+24 eligibility child is:
+25 (1) involved in activities that improve the parent's or guardian's
+26 education; or
+27 (2) involved in job training.
+28 SECTION 18. IC 12-17.2-7.2-7.3, AS AMENDED BY P.L.92-2024,
+29 SECTION 19, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+30 JULY 1, 2025]: Sec. 7.3. The office shall require, for an eligible
+31 provider to enroll in the prekindergarten program, that the eligible
+32 provider agree to the following:
+33 (1) Comply on a continuing basis with the requirements under this
+34 chapter and rules for participation established by the office.
+35 (2) Maintain eligibility under this chapter throughout the
+36 prekindergarten program year.
+37 (3) Report immediately any changes in eligibility status to the
+38 office, including the eligible provider's loss of national or regional
+39 accreditation.
+40 (4) Participate in any training and mandatory meetings required
+41 by the office.
+42 (5) Participate in all onsite visits conducted by the office,
+2025 IN 1640—LS 6019/DI 110
+
+
+--- Page 10 ---
+9
+1 including fiscal auditing activities with regard to the
+2 prekindergarten program and prekindergarten program activity
+3 monitoring.
+4 (6) Allow the family of an eligible child a limited eligibility child,
+5 or a child of a child care employee enrolled in the prekindergarten
+6 program of the eligible provider to visit at any time the
+7 prekindergarten program is in operation.
+8 (7) Maintain accurate online attendance records through the
+9 attendance portal for eligible children limited eligibility children,
+10 and children of child care employees enrolled in the
+11 prekindergarten program and submit attendance records as
+12 required by the office.
+13 (8) Offer parental engagement and involvement activities in the
+14 prekindergarten program of the eligible provider in alignment
+15 with the family engagement framework adopted by the early
+16 learning advisory committee established by IC 12-17.2-3.8-5.
+17 (9) Complete, within the period established by the office, the
+18 Indiana early childhood family engagement toolkit, including the
+19 family engagement self-assessment, adopted by the early learning
+20 advisory committee.
+21 (10) Share information on the family engagement self-assessment
+22 described in subdivision (9) as required by the office.
+23 (11) Participate in research studies as required by the office.
+24 (12) Enforce minimum attendance requirements of at least
+25 eighty-five percent (85%) of the days that the prekindergarten
+26 program of the eligible provider is offered to an eligible child. a
+27 limited eligibility child, or a child of a child care employee.
+28 (13) Inform the office that an eligible child a limited eligibility
+29 child, or a child of a child care employee has withdrawn from the
+30 prekindergarten program of the eligible provider not later than
+31 five (5) days after the child is withdrawn.
+32 (14) That retroactive repayment to the state may be required or
+33 future payments may be adjusted as a result of the withdrawal of
+34 an eligible child a limited eligibility child, or a child of a child
+35 care employee or changes in the law.
+36 (15) Maintain records of participation by the family of an eligible
+37 child a limited eligibility child, or a child of a child care employee
+38 in family engagement activities and submit records as required by
+39 the office.
+40 (16) Promote the social, emotional, and behavioral health of an
+41 eligible child a limited eligibility child, or a child of a child care
+42 employee and eliminate or severely limit the use of expulsion,
+2025 IN 1640—LS 6019/DI 110
+
+
+--- Page 11 ---
+10
+1 suspension, and other exclusionary discipline practices.
+2 (17) Use the exclusionary discipline practices described in
+3 subdivision (16) only as a last resort in extraordinary
+4 circumstances when there is a determination of a serious safety
+5 threat that cannot otherwise be reduced or eliminated by the
+6 provision of reasonable modifications.
+7 (18) Inform and receive approval from the office before the
+8 eligible provider expels, suspends, or uses other exclusionary
+9 discipline practices.
+10 (19) Assist a parent or guardian, upon request by the parent or
+11 guardian, in obtaining information from, referral to, or both
+12 information from and referral to, the public school that serves the
+13 attendance area in which the parent or guardian resides for an
+14 educational evaluation and determination of eligibility for special
+15 education services if developmental delays or reasons to suspect
+16 a disability are observed by the parent, guardian, or teacher of an
+17 eligible child a limited eligibility child, or a child of a child care
+18 employee during the prekindergarten program year.
+19 SECTION 19. IC 12-17.2-7.2-7.4, AS AMENDED BY
+20 P.L.246-2023, SECTION 13, IS AMENDED TO READ AS
+21 FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 7.4. (a) To qualify as
+22 a potential eligible provider or existing eligible provider, an applicant
+23 must:
+24 (1) provide an expansion plan to the office that details the
+25 potential eligible provider's or existing eligible provider's plan to:
+26 (A) increase the capacity of providers of qualified early
+27 education services to serve a greater number of eligible or
+28 limited eligibility children;
+29 (B) increase the number of providers of qualified early
+30 education services; or
+31 (C) increase the capacity as described in clause (A) and
+32 increase the number as described in clause (B);
+33 (2) comply with the agreement with the office concerning the plan
+34 under subdivision (1) and the use of a grant awarded under this
+35 chapter;
+36 (3) agree:
+37 (A) to operate as an eligible provider; or
+38 (B) that the applicant intends to operate as an eligible
+39 provider;
+40 (4) agree that the applicant will not use any grant funds awarded
+41 under this section for capital expenditures; and
+42 (5) comply with any other standards and procedures established
+2025 IN 1640—LS 6019/DI 110
+
+
+--- Page 12 ---
+11
+1 under this chapter.
+2 (b) Subject to subsections subsection (c), and (d), the office may
+3 award a grant to an applicant that meets the requirements of subsection
+4 (a).
+5 (c) The office may not use more than a total of twenty percent (20%)
+6 of the money in the fund each state fiscal year:
+7 (1) for grants awarded under this chapter to potential eligible
+8 providers and existing eligible providers for expansion plans; and
+9 (2) to meet any state match amounts required for a federal grant
+10 described in subsection (f).
+11 (d) (c) The office may not award grant funds under this section to an
+12 applicant for any of the following:
+13 (1) The purchase of land or a building.
+14 (2) The construction or expansion of a building.
+15 (e) (d) If a potential eligible provider or existing eligible provider
+16 fails to:
+17 (1) use the grant funds in accordance with the expansion plan
+18 described in subsection (a); or
+19 (2) comply with the agreement entered into with the office under
+20 subsection (a);
+21 the potential eligible provider or existing eligible provider shall repay
+22 to the office the total amount of the grant awarded to the potential
+23 eligible provider or existing eligible provider under this chapter.
+24 (f) (e) The office may use money in the expansion fund that is
+25 allocated for expansion plans under this section for a state fiscal year
+26 to meet any state match amounts required for a federal grant if the
+27 purpose of the federal grant is that the grant money be used for
+28 increasing:
+29 (1) the capacity;
+30 (2) the number; or
+31 (3) both the capacity and number;
+32 of providers of early education services for children four (4) years of
+33 age.
+34 SECTION 20. IC 12-17.2-7.2-7.8, AS AMENDED BY P.L.92-2024,
+35 SECTION 20, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+36 JULY 1, 2025]: Sec. 7.8. (a) The office shall make random onsite
+37 inspections each year, as determined necessary by the office, at the
+38 facility of:
+39 (1) an eligible provider that receives a prekindergarten voucher
+40 under this chapter; or
+41 (2) a potential eligible provider or existing eligible provider that
+42 receives a grant under section 7.4 of this chapter.
+2025 IN 1640—LS 6019/DI 110
+
+
+--- Page 13 ---
+12
+1 (b) The office may determine that an eligible provider is not eligible
+2 to receive a prekindergarten voucher under the prekindergarten
+3 program or that a potential eligible provider or existing eligible
+4 provider is not eligible to receive a grant under section 7.4 of this
+5 chapter if the eligible provider or the potential eligible provider or
+6 existing eligible provider:
+7 (1) fails to comply with this chapter; or
+8 (2) refuses to allow, during normal business hours, the office or
+9 an agent of the office to inspect the facility at which the eligible
+10 provider or potential eligible provider or existing eligible provider
+11 operates a child care program for eligible children. limited
+12 eligibility children, or children of child care employees.
+13 SECTION 21. IC 12-17.2-7.2-8, AS AMENDED BY P.L.92-2024,
+14 SECTION 21, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+15 JULY 1, 2025]: Sec. 8. (a) The office shall determine
+16 (1) which applicants shall be provided a:
+17 (A) prekindergarten voucher under this chapter; or
+18 (B) grant under section 7.4 of this chapter; and
+19 (2) subject to subsection (b) and to the availability of funding, the
+20 amount of each prekindergarten voucher or grant.
+21 (b) At least five percent (5%) but not more than fifty percent (50%)
+22 of the:
+23 (1) tuition for eligible or limited eligibility children under the
+24 prekindergarten program; or
+25 (2) expansion plan described in section 7.4(a) of this chapter;
+26 during the state fiscal year must be paid from donations, gifts, grants,
+27 bequests, and other funds received from a private entity or person, from
+28 the United States government, or from other sources (excluding funds
+29 from a prekindergarten voucher or grant provided under this chapter
+30 and excluding other state funding). The office may receive and
+31 administer grants on behalf of the prekindergarten program. The grants
+32 shall be distributed by the office to fulfill the requirements of this
+33 subsection.
+34 (c) (b) The amount of a prekindergarten voucher provided under the
+35 prekindergarten program to an eligible child: a limited eligibility child,
+36 or a child of a child care employee:
+37 (1) who attends a prekindergarten program full time must equal
+38 at least two thousand five hundred dollars ($2,500) during the
+39 state fiscal year; and
+40 (2) may not exceed six nine thousand eight hundred dollars
+41 ($6,800) ($9,000) from state money provided under this chapter
+42 during the state fiscal year.
+2025 IN 1640—LS 6019/DI 110
+
+
+--- Page 14 ---
+13
+1 SECTION 22. IC 12-17.2-7.2-8.1 IS REPEALED [EFFECTIVE
+2 JULY 1, 2025]. Sec. 8.1. (a) If funds are appropriated by the general
+3 assembly, prekindergarten vouchers provided to limited eligibility
+4 children may not exceed:
+5 (1) twenty percent (20%) of the amount appropriated for a
+6 particular state fiscal year if families with children four (4) years
+7 of age are on the waiting list for funds available under the CCDF;
+8 or
+9 (2) forty percent (40%) of the amount appropriated for a
+10 particular state fiscal year if there is no waiting list for children
+11 four (4) years of age for funds available under the CCDF.
+12 (b) During the priority enrollment period, the office shall provide
+13 prekindergarten vouchers to eligible children and children of child care
+14 employees in the prekindergarten program on a first-come, first-served
+15 basis. The office shall date stamp and reserve applications for limited
+16 eligibility children received during the priority enrollment period for
+17 processing during the extended enrollment period.
+18 (c) During the extended enrollment period, the office shall provide
+19 prekindergarten vouchers to eligible children, children of child care
+20 employees, and limited eligibility children in the prekindergarten
+21 program on a first-come, first-served basis to the extent of available
+22 funding and in accordance with the limit established by subsection (a).
+23 SECTION 23. IC 12-17.2-7.2-13, AS AMENDED BY P.L.92-2024,
+24 SECTION 25, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+25 JULY 1, 2025]: Sec. 13. (a) The office shall, before November 1 of
+26 each year, submit a report to the governor, the budget committee, the
+27 state board of education, the department of education, and, in an
+28 electronic format under IC 5-14-6, the general assembly regarding the
+29 prekindergarten program.
+30 (b) The report under subsection (a) must include the following:
+31 (1) The total number of children who received a prekindergarten
+32 voucher under the prekindergarten program for the immediately
+33 preceding state fiscal year, disaggregated by county.
+34 (2) The total amount of funds budgeted for and spent under the
+35 prekindergarten program during the immediately preceding state
+36 fiscal year.
+37 (3) The balance remaining in the prekindergarten fund and
+38 expansion fund at the end of the immediately preceding state
+39 fiscal year.
+40 SECTION 24. IC 12-17.2-7.2-13.1, AS AMENDED BY
+41 P.L.92-2024, SECTION 26, IS AMENDED TO READ AS FOLLOWS
+42 [EFFECTIVE JULY 1, 2025]: Sec. 13.1. The office shall post monthly
+2025 IN 1640—LS 6019/DI 110
+
+
+--- Page 15 ---
+14
+1 on the office's website the total enrollment of and number of
+2 prekindergarten vouchers awarded to
+3 (1) eligible children
+4 (2) limited eligibility children; and
+5 (3) children of child care employees;
+6 for each county that participates in the prekindergarten program.
+7 SECTION 25. IC 12-17.2-7.2-13.5, AS AMENDED BY
+8 P.L.92-2024, SECTION 27, IS AMENDED TO READ AS FOLLOWS
+9 [EFFECTIVE JULY 1, 2025]: Sec. 13.5. (a) The prekindergarten
+10 program fund is established to do the following:
+11 (1) Provide prekindergarten vouchers to eligible children limited
+12 eligibility children, and children of child care employees for
+13 qualified early education services under this chapter.
+14 (2) Carry out the longitudinal study described in section 12 of this
+15 chapter.
+16 (3) provide grants to potential eligible providers and existing
+17 eligible providers as set forth in section 7.4 of this chapter; and
+18 (4) (3) Make payments to reimburse costs incurred to provide
+19 in-home early education services under IC 12-17.2-7.5 in an
+20 amount that does not exceed one million dollars ($1,000,000)
+21 each state fiscal year.
+22 (b) The prekindergarten fund consists of:
+23 (1) money appropriated to the prekindergarten fund by the
+24 general assembly; and
+25 (2) grants or gifts to the prekindergarten fund.
+26 (c) The prekindergarten fund shall be administered by the office.
+27 (d) The expenses of administering the prekindergarten fund shall
+28 be paid from money in the prekindergarten fund.
+29 (e) Money in the prekindergarten fund is continuously
+30 appropriated for the purposes provided under this article.
+31 (f) The treasurer of state shall invest the money in the
+32 prekindergarten fund not currently needed to meet the obligations of
+33 the prekindergar ten fund in the same manner as other public funds
+34 may be invested.
+35 SECTION 26. IC 12-17.2-7.2-15 IS ADDED TO THE INDIANA
+36 CODE AS A NEW SECTION TO READ AS FOLLOWS
+37 [EFFECTIVE JULY 1, 2025]: Sec. 15. (a) The prekindergar ten
+38 expansion grant fund is established to provide grants to potential
+39 eligible providers and existing eligible providers as set forth in
+40 section 7.4 of this chapter.
+41 (b) The expansion fund consists of:
+42 (1) money appropriated to the expansion fund by the general
+2025 IN 1640—LS 6019/DI 110
+
+
+--- Page 16 ---
+15
+1 assembly; and
+2 (2) grants or gifts to the expansion fund.
+3 (c) The expansion fund shall be administered by the office.
+4 (d) The expenses of administering the expansion fund shall be
+5 paid from money in the expansion fund.
+6 (e) Money in the expansion fund is continuously appropriated
+7 for the purposes provided under this article.
+8 (f) The treasurer of state shall invest the money in the expansion
+9 fund not currently needed to meet the obligations of the expansion
+10 fund in the same manner as other public funds may be invested.
+11 SECTION 27. [EFFECTIVE JULY 1, 2025] (a) There is
+12 continuously appropriated to the prekindergar ten program fund
+13 established by IC 12-17.2-7.2-13.5, as amended by this act, from the
+14 state general fund for the state fiscal year beginning after:
+15 (1) June 30, 2025, and ending before July 1, 2026; and
+16 (2) June 30, 2026, and ending before July 1, 2027;
+17 an amount sufficient to carry out the purposes of the
+18 prekindergarten program fund, as amended by this act.
+19 (b) There is appropriated to the prekindergarten expansion
+20 grant fund established by IC 12-17.2-7.2-15, as added by this act,
+21 from the state general fund the following:
+22 (1) For the state fiscal year beginning after June 30, 2025, and
+23 ending before July 1, 2026, fifty million dollars ($50,000,000).
+24 (2) For the state fiscal year beginning after June 30, 2026, and
+25 ending before July 1, 2027, seventy-five million dollars
+26 ($75,000,000).
+27 (c) This SECTION expires July 1, 2028.
+2025 IN 1640—LS 6019/DI 110

@@ -1,0 +1,158 @@
+--- Page 1 ---
+ 
+Introduced Version
+SENATE BILL No. 370
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 12-15-13-10; IC 25-1-8.5.
+Synopsis:  Health care matters.  Requires Medicaid reimbursement for
+outpatient covered services at a hospital to be at the same
+reimbursement rate as that provided for the equivalent services at a
+physician's office. Provides exceptions. Requires specified reporting by
+hospitals and physicians to the office of the attorney general
+concerning: (1) a merger or acquisition of a physician group practice;
+and (2) employment of a physician. Requires the department of
+insurance to submit a report to the general assembly concerning the
+advisability and feasibility of expanding site neutral reimbursement to
+commercial health insurance. 
+Effective:  July 1, 2025.
+Buck
+January 13, 2025, read first time and referred to Commi ttee on Health and Provi der
+Services.
+2025 IN 370—LS 7136/DI 104
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+SENATE BILL No. 370
+A BILL FOR AN ACT to amend the Indiana Code concerning
+health.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 12-15-13-10 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2025]: Sec. 10. The office shall reimburse a
+4 hospital licensed under IC 16-21-2 for a Medicaid covered service
+5 that is provided in an outpatient setting at the same reimbursement
+6 rate as that provided at a physician's office for the equivalent
+7 covered outpatient service unless:
+8 (1) the hospital setting used technology only available in a
+9 hospital setting; or
+10 (2) there is an evidence based rationale for providing a
+11 different reimbursement rate.
+12 SECTION 2. IC 25-1-8.5-5 IS ADDED TO THE INDIANA CODE
+13 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+14 1, 2025]: Sec. 5. (a) A hospital shall, at least ninety (90) days before
+15 the hospital's merger with or acquisition of a physician group
+16 practice or a singular physician owned practice that provides
+17 outpatient services, notify in writing the office of the attorney
+2025 IN 370—LS 7136/DI 104
+
+
+--- Page 3 ---
+2
+1 general of the merger or acquisition.
+2 (b) The notice required under subsection (a) must be in the
+3 manner prescribed by the office of the attorney general.
+4 (c) The notice required under subsection (a) must include the
+5 following information concerning the hospital and the physician
+6 group practice or physician owned practice:
+7 (1) Business address and federal tax number.
+8 (2) Name and contact information of a representative of both
+9 parties.
+10 (3) Description of the physician group practice or physician
+11 owned practice.
+12 (4) Description of the merger or acquisition, including the
+13 anticipated timeline of the merger or acquisition.
+14 (5) A copy of any materials that have been submitted to a
+15 federal or state agency concerning the merger or acquisition.
+16 The notice submitted under this section must be certified before a
+17 notary public.
+18 (d) The office of the attorney general shall keep confidential all
+19 nonpublic information, and the confidential information may not
+20 be released to the public.
+21 (e) Not later than forty-five (45) days after the submission of a
+22 notice under subsection (a), the office of the attorney general:
+23 (1) shall review the information submitted with the notice;
+24 and
+25 (2) may analyze in writing any antitrust concerns with the
+26 merger or acquisition.
+27 The office of the attorney general shall provide any written
+28 analysis described in subdivision (2) to the person that submitted
+29 the notice under subsection (a).
+30 (f) The office of the attorney general may issue to a hospital or
+31 physician who has submitted a notice under this section a civil
+32 investigative demand under IC 4-6-3 for additional information.
+33 (g) Any information received or produced by the office of the
+34 attorney general under this section is confidential.
+35 SECTION 3. IC 25-1-8.5-6 IS ADDED TO THE INDIANA CODE
+36 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+37 1, 2025]: Sec. 6. (a) A hospital shall, at least ninety (90) days before
+38 the hospital's employment of or contract with a physician, notify
+39 the office of the attorney general of the transfer of the physician
+40 from independent practice into employment as an employee or
+41 contractor of the hospital.
+42 (b) The notice required under subsection (a) must be in the
+2025 IN 370—LS 7136/DI 104
+
+
+--- Page 4 ---
+3
+1 manner prescribed by the office of the attorney general.
+2 (c) The notice required under subsection (a) must include the
+3 following information concerning the hospital and the physician:
+4 (1) Business address and federal tax number.
+5 (2) Name and contact information of a representative of both
+6 parties.
+7 (3) Description of any specialty area of practice of the
+8 physician.
+9 (4) The anticipated timeline of the employment or contract.
+10 The notice submitted under this section must be certified before a
+11 notary public.
+12 (d) The office of the attorney general shall keep confidential all
+13 nonpublic information, and the confidential information may not
+14 be released to the public.
+15 (e) Not later than forty-five (45) days after the submission of a
+16 notice under subsection (a), the office of the attorney general:
+17 (1) shall review the information submitted with the notice;
+18 and
+19 (2) may analyze in writing any legal concerns with the
+20 employment or contract between the parties.
+21 (f) The office of the attorney general may issue to a hospital or
+22 physician who has submitted a notice under this section a civil
+23 investigative demand under IC 4-6-3 for additional information.
+24 (g) Any information recei ved or produced by the office of the
+25 attorney general under this section is confidential.
+26 SECTION 4. [EFFECTIVE JULY 1, 2025] (a) Before November
+27 1, 2026, the department of insurance, in consultation with the office
+28 of the secretary of family and social services and the office of the
+29 attorney general, shall prepare a report concerning whether the
+30 site neutral reimbursement limitations set forth in IC 12-15-13-10,
+31 as added by this act, should be expanded to apply to commercial
+32 health insurance. The department shall submit the report to the
+33 general assembly in an electronic format under IC 5-14-6.
+34 (b) The report must include the following:
+35 (1) The feasibility and advisability of expanding the
+36 reimbursement limitations described in subsection (a) to
+37 commercial health insurance.
+38 (2) Any projected cost savings to health consumers by
+39 expanding the reimbursement limitations to commercial
+40 health insurance.
+41 (3) Any other information deemed relevant by the department
+42 of insurance.
+2025 IN 370—LS 7136/DI 104
+
+
+--- Page 5 ---
+4
+1 (c) This SECTION expires December 31, 2026.
+2025 IN 370—LS 7136/DI 104

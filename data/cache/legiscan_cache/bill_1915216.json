@@ -1,0 +1,152 @@
+{
+  "bill_id": 1915216,
+  "change_hash": "9f2ee4c0e0c61df55ba3b082bf66c614",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/SB0446/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/senate/446/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-13",
+  "progress": [
+    {
+      "date": "2025-01-13",
+      "event": 1
+    },
+    {
+      "date": "2025-01-13",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "SB0446",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "S",
+  "body_id": 38,
+  "current_body": "S",
+  "current_body_id": 38,
+  "title": "Mental health and substance abuse coverage.",
+  "description": "Mental health and substance abuse coverage. Sets forth certain standards regarding reimbursement rates for providers of mental illness or substance abuse services. Provides that if a provider of health care services that provides both medical or surgical services and mental illness or substance abuse services is credentialed with an insurer or health maintenance organization for purposes of providing medical or surgical services, the provider must be considered automatically credentialed for purposes of providing mental illness or substance abuse services in instances under which the insurer provides coverage of mental illness or substance abuse services through a third party vendor.",
+  "pending_committee_id": 1321,
+  "committee": {
+    "committee_id": 1321,
+    "chamber": "S",
+    "chamber_id": 38,
+    "name": "Health and Provider Services"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-13",
+      "committee_id": 1321,
+      "chamber": "S",
+      "chamber_id": 38,
+      "name": "Health and Provider Services"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-13",
+      "action": "Authored by Senator Crider",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading: referred to Committee on Health and Provider Services",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 14193,
+      "person_hash": "j1exz1et",
+      "party_id": "2",
+      "state_id": 14,
+      "party": "R",
+      "role_id": 2,
+      "role": "Sen",
+      "name": "Michael Crider",
+      "first_name": "Michael",
+      "middle_name": "R.",
+      "last_name": "Crider",
+      "suffix": "",
+      "nickname": "Mike",
+      "district": "SD-028",
+      "ftm_eid": 10246093,
+      "votesmart_id": 135302,
+      "opensecrets_id": "",
+      "knowwho_pid": 390181,
+      "ballotpedia": "Michael_Crider",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3052315,
+      "date": "2025-01-13",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/SB0446/id/3052315",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/bills/SB0446/SB0446.01.INTR.pdf",
+      "text_size": 143896,
+      "text_hash": "1a1245042c3198e6ef68f62fe5353806",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 487513,
+      "date": "2025-01-13",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/SB0446/id/487513",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/bills/SB0446/fiscal-notes/SB0446.01.INTR.FN001.pdf",
+      "supplement_size": 60522,
+      "supplement_hash": "1c2cbaa3188f4c558db1c0f171d9436a",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

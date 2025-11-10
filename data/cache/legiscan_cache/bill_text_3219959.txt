@@ -1,0 +1,483 @@
+--- Page 1 ---
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE ENROLLED ACT No. 1689
+AN ACT to amend the Indiana Code concerning human services.
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1. IC 12-7-2-135.3 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 135.3. (a)
+"Ombudsman", for purposes of IC 12-10-13, has the meaning set forth
+in IC 12-10-13-4.5.
+(b) "Ombudsman", for purposes of IC 12-11-13, has the
+meaning set forth in IC 12-11-13-2.
+SECTION 2. IC 12-7-2-149.1, AS AMENDED BY P.L.10-2019,
+SECTION 55, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 149.1. "Provider" means the following:
+(1) For purposes of IC 12-10-7, the meaning set forth in
+IC 12-10-7-3.
+(2) For purposes of the following statutes, an individual, a
+partnership, a corporation, or a governmental entity that is
+enrolled in the Medicaid program under rules adopted under
+IC 4-22-2 by the office of Medicaid policy and planning:
+(A) IC 12-14-1 through IC 12-14-8.
+(B) IC 12-15, except IC 12-15-32, IC 12-15-33, and
+IC 12-15-34.
+(C) IC 12-17.6.
+(3) Except as provided in subdivisions (4) and (6), for purposes
+of IC 12-17.2, a person who operates a child care center or child
+care home under IC 12-17.2.
+HEA 1689 — CC 1
+
+
+--- Page 2 ---
+2
+(4) For purposes of IC 12-17.2-3.5, a person that:
+(A) provides child care; and
+(B) is directly paid for the provision of the child care under the
+federal Child Care and Development Fund voucher program
+administered under 45 CFR 98 and 45 CFR 99.
+The term does not include an individual who provides services to
+a person described in clauses (A) and (B), regardless of whether
+the individual receives compensation.
+(5) For purposes of IC 12-21-1 through IC 12-29-2, an
+organization:
+(A) that:
+(i) provides mental health services, as defined under 42
+U.S.C. 300x-2(c);
+(ii) provides addiction services; or
+(iii) provides children's mental health services;
+(B) that has entered into a provider agreement with the
+division of mental health and addiction under IC 12-21-2-7 to
+provide services in the least restrictive, most appropriate
+setting; and
+(C) that is operated by one (1) of the following:
+(i) A city, town, county, or other political subdivision of the
+state.
+(ii) An agency of the state or of the United States.
+(iii) A political subdivision of another state.
+(iv) A hospital owned or operated by a unit of government
+or a building authority that is organized for the purpose of
+constructing facilities to be leased to units of government.
+(v) A corporation incorporated under IC 23-7-1.1 (before its
+repeal August 1, 1991) or IC 23-17.
+(vi) An organization that is exempt from federal income
+taxation under Section 501(c)(3) of the Internal Revenue
+Code.
+(vii) A university or college.
+(6) For purposes of IC 12-17.2-2-10, the following:
+(A) A person described in subdivision (4).
+(B) A child care center licensed under IC 12-17.2-4.
+(C) A child care home licensed under IC 12-17.2-5.
+(7) For purposes of IC 12-11-13, an authorized provider entity
+that delivers services administered by the bureau of
+disabilities services.
+SECTION 3. IC 12-11-13-1 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 1. (a) Except as
+HEA 1689 — CC 1
+
+
+--- Page 3 ---
+3
+provided in subsection (b), this chapter applies only to an individual
+who:
+(1) has a developmental disability; and
+(2) receives services under a waiver under the federal home and
+community based services program. administered by the
+bureau.
+(b) This chapter does not apply to an individual served by the
+long term care ombudsman program established under
+IC 12-10-13.
+SECTION 4. IC 12-11-13-2 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 2. As used in this
+chapter, "ombudsman" refers to the statewide waiver bureau of
+disabilities services ombudsman established by section 3 of this
+chapter. The term includes individuals approved to act in the capacity
+of ombudsmen by the statewide waiver bureau of disabilities services
+ombudsman.
+SECTION 5. IC 12-11-13-3 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 3. The statewide waiver
+bureau of disabilities services ombudsman position is established
+within the division.
+SECTION 6. IC 12-11-13-7 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 7. (a) An ombudsman
+must be provided access to the following:
+(1) An individual described in section 1 of this chapter.
+(2) An entity that provides waiver services to an individual
+described in section 1 of this chapter.
+(3) Records of an individual described in section 1 of this chapter,
+including records held by an entity that provides services to the
+individual.
+(4) If an individual described in section 1 of this chapter is
+incapable of giving consent, as determined by the attending
+physician or as otherwise determined under state law, the name,
+address, and telephone number of the individual's legal
+representative.
+Except as provided in subsections (c) and (d), the ombudsman must
+obtain consent under subsection (b) before having access to the records
+described in subdivision (3).
+(b) Consent to have access to an individual's records shall be given
+in one (1) of the following forms:
+(1) In writing by the individual.
+(2) Orally by the individual in the presence of a witness.
+(3) In writing by the legal representative of the individual if:
+HEA 1689 — CC 1
+
+
+--- Page 4 ---
+4
+(A) the individual is incapable of giving consent, as
+determined by the attending physician or as otherwise
+determined under state law; and
+(B) the legal representative has the authority to give consent.
+(c) If consent to have access to an individual's records cannot be
+obtained under subsection (b), an ombudsman may inspect the records
+of the individual if the individual is incapable of giving consent, as
+determined by the attending physician or as otherwise determined
+under state law, and:
+(1) has no legal representative;
+(2) has a legal representative but the legal representative cannot
+be contacted within three (3) days; or
+(3) has a legal representative but the legal representative does not
+have the authority to give consent to have access to the records.
+(d) If an ombudsman has:
+(1) been denied access to an individual's records by the
+individual's legal representative;
+(2) reasonable cause to believe that the individual's legal
+representative is not acting in the best interests of the individual;
+and
+(3) received written approval from the state ombudsman;
+the ombudsman may inspect the records of the individual.
+SECTION 7. IC 12-11-13-8 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 8. A provider of waiver
+services or an employee of a provider of waiver services is immune
+from:
+(1) civil or criminal liability; and
+(2) actions taken under a professional disciplinary procedure;
+for the release or disclosure of records to the ombudsman under this
+chapter.
+SECTION 8. IC 12-11-13-10, AS AMENDED BY P.L.99-2007,
+SECTION 86, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 10. The ombudsman shall do the following:
+(1) Promote effective coordination among the following:
+(A) Programs that provide legal services for individuals with
+a developmental disability.
+(B) The division.
+(C) Providers of waiver services to individuals with
+developmental disabilities.
+(D) Providers of other necessary or appropriate services.
+(2) Ensure that the identity of an individual described in section
+1 of this chapter will not be disclosed without:
+HEA 1689 — CC 1
+
+
+--- Page 5 ---
+5
+(A) the individual's written consent; or
+(B) a court order.
+SECTION 9. IC 12-11-13-15 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 15. The division shall:
+(1) establish a statewide toll free telephone line continuously open
+to receive complaints regarding individuals described in section
+1 of this chapter; and
+(2) forward all complaints received from the toll free telephone
+line to the statewide waiver ombudsman.
+SECTION 10. IC 12-15-1-14.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 14.5. (a) The office of the
+secretary shall prepare a report on the provision of Medicaid
+services, including Medicaid home and community based waiver
+services, to recipients who have medically complex conditions.  The
+report must include the following, categorized by whether the
+recipient was less than, or at least, eighteen (18) years of age:
+(1) The number of recipients, by county, who received
+Medicaid services through:
+(A) the state plan;
+(B) a Medicaid waiver; or
+(C) services under both clause (A) and (B);  
+(2) A list of the specific services provided to the recipients, by
+county, and the number of recipients who received each
+service.
+(3) The median length of time recipients have received
+Medicaid, by county, through the following:
+(A) The state plan.
+(B) A Medicaid waiver.
+(C) Services under both clause (A) and (B).
+(b) Not later than September 1, 2025, and each September 1
+thereafter, the office of the secretary shall submit the report
+described in subsection (a) to the following:
+(1) The Medicaid advisory commission, established by
+IC 12-15-33-2.
+(2) The Medicaid oversight committee, in an electronic format
+under IC 5-14-6.
+(3) The budget committee.
+(4) The legislative council, in an electronic format under
+IC 5-14-6.
+(5) The division of disability and rehabilitative services
+advisory council established under IC 12-9-4.
+HEA 1689 — CC 1
+
+
+--- Page 6 ---
+6
+(c) The division of disability and rehabilitative services advisory
+council established under IC 12-9-4 shall provide the following
+recommendations to the division of disability and rehabilitative
+services to ensure the delivery of appropriate high quality services
+to recipients, including an evaluation of models of care for complex
+care assistants used in other states:
+(1) The potential benefits and risks to recipients and family
+caregivers.
+(2) Training and certification requirements.
+(3) Implementation challenges and strategies to address the
+challenges.
+(4) Any potential fiscal impact of implementing a complex
+care assistant program in Indiana.
+SECTION 11. IC 16-39-2-6, AS AMENDED BY HEA 1457-2025,
+SECTION 14, AND AS AMENDED BY HEA 1474-2025, SECTION
+43, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1,
+2025]: Sec. 6. (a) Without the consent of the patient, the patient's
+mental health record may only be disclosed as follows:
+(1) To individuals who meet the following conditions:
+(A) Are employed by:
+(i) the provider at the same facility or agency;
+(ii) a managed care provider (as defined in IC 12-7-2-127);
+or
+(iii) a health care provider or mental health care provider, if
+the mental health records are needed to provide health care
+or mental health services to the patient.
+(B) Are involved in the planning, provision, and monitoring of
+services.
+(2) To the extent necessary to obtain payment for services
+rendered or other benefits to which the patient may be entitled, as
+provided in IC 16-39-5-3.
+(3) To the patient's court appointed counsel and to the Indiana
+protection and advocacy services commission.
+(4) For research conducted in accordance with IC 16-39-5-3 and
+the rules of the division of mental health and addiction, the rules
+of the division of disability and rehabilitative services, the rules
+of the provider, or the rules of the Indiana archives and records
+administration and the oversight committee on public records.
+(5) To the division of mental health and addiction for the purpose
+of data collection, research, and monitoring managed care
+providers (as defined in IC 12-7-2-127) who are operating under
+a contract with the division of mental health and addiction.
+HEA 1689 — CC 1
+
+
+--- Page 7 ---
+7
+(6) To the extent necessary to make reports or give testimony
+required by the statutes pertaining to admissions, transfers,
+discharges, and guardianship proceedings.
+(7) To a law enforcement agency if any of the following
+conditions are met:
+(A) A patient escapes from a facility to which the patient is
+committed under IC 12-26.
+(B) The superintendent of the facility determines that failure
+to provide the information may result in bodily harm to the
+patient or another individual.
+(C) A patient commits or threatens to commit a crime on
+facility premises or against facility personnel.
+(D) A patient is in the custody of a law enforcement officer or
+agency for any reason and:
+(i) the information to be released is limited to medications
+currently prescribed for the patient or to the patient's history
+of adverse medication reactions; and
+(ii) the provider determines that the release of the
+medication information will assist in protecting the health,
+safety, or welfare of the patient.
+Mental health records released under this clause must be
+maintained in confidence by the law enforcement agency
+receiving them.
+(8) To a coroner or medical examiner, in the performance of the
+individual's duties.
+(9) To a school in which the patient is enrolled if the
+superintendent of the facility determines that the information will
+assist the school in meeting educational needs of the patient.
+(10) To the extent necessary to satisfy reporting requirements
+under the following statutes:
+(A) IC 12-10-3-10.
+(B) IC 12-24-17-5.
+(C) IC 16-41-2-3.
+(D) IC 16-49-3-3.
+(E) IC 16-49-4-5.
+(F) IC 16-49-6-6.
+(G) IC 16-49.5-2-6.
+(H) IC 16-50-1-8.
+(I) IC 31-25-3-2.
+(J) IC 31-33-5-4.
+(K) IC 34-30-16-2.
+(L) IC 35-46-1-13.
+HEA 1689 — CC 1
+
+
+--- Page 8 ---
+8
+(11) To the extent necessary to satisfy release of information
+requirements under the following statutes:
+(A) IC 12-24-11-2.
+(B) IC 12-24-12-3, IC 12-24-12-4, and IC 12-24-12-6.
+(C) IC 12-26-11.
+(12) To another health care provider in a health care emergency.
+(13) For legitimate business purposes as described in
+IC 16-39-5-3.
+(14) Under a court order under IC 16-39-3.
+(15) With respect to records from a mental health or
+developmental disability facility, to the United States Secret
+Service if the following conditions are met:
+(A) The request does not apply to alcohol or drug abuse
+records described in 42 U.S.C. 290dd-2 unless authorized by
+a court order under 42 U.S.C. 290dd-2(b)(2)(c).
+(B) The request relates to the United States Secret Service's
+protective responsibility and investigative authority under 18
+U.S.C. 3056, 18 U.S.C. 871, or 18 U.S.C. 879.
+(C) The request specifies an individual patient.
+(D) The director or superintendent of the facility determines
+that disclosure of the mental health record may be necessary
+to protect a person under the protection of the United States
+Secret Service from serious bodily injury or death.
+(E) The United States Secret Service agrees to only use the
+mental health record information for investigative purposes
+and not disclose the information publicly.
+(F) The mental health record information disclosed to the
+United States Secret Service includes only:
+(i) the patient's name, age, and address;
+(ii) the date of the patient's admission to or discharge from
+the facility; and
+(iii) any information that indicates whether or not the patient
+has a history of violence or presents a danger to the person
+under protection.
+(16) To the statewide waiver bureau of disabilities services
+ombudsman established under IC 12-11-13, in the performance
+of the ombudsman's duties.
+(b) If a licensed mental health professional, a licensed paramedic,
+a representative of a mobile integrated healthcare program (as
+described in IC 16-31-12), or a representative of a mental health
+community paramedicine program in the course of rendering a
+treatment intervention, determines that a patient may be a harm to
+HEA 1689 — CC 1
+
+
+--- Page 9 ---
+9
+himself or herself or others, the licensed mental health professional, the
+licensed paramedic, the representative of the mobile integrated
+healthcare program (as described in IC 16-31-12), or the representative
+of the mental health community paramedicine program may request a
+patient's individualized mental health safety plan from a psychiatric
+crisis center, psychiatric inpatient unit, or psychiatric residential
+treatment provider. Each psychiatric crisis center, psychiatric inpatient
+unit, and psychiatric residential treatment provider shall, upon request
+and without the consent of the patient, share a patient's individualized
+mental health safety plan that is in the standard format established by
+the division of mental health and addiction under IC 12-21-5-6 with the
+following individuals who demonstrate proof of licensure and commit
+to protecting the information in compliance with state and federal
+privacy laws:
+(1) A licensed mental health professional.
+(2) A licensed paramedic.
+(3) A representative of a mobile integrated healthcare program (as
+described in IC 16-31-12).
+(4) A representative of a mental health community paramedicine
+program.
+An individualized mental health safety plan disclosed under this
+subsection may be used only to support a patient's welfare and safety
+and is considered otherwise confidential information under applicable
+state and federal laws.
+(c) After information is disclosed under subsection (a)(15) and if the
+patient is evaluated to be dangerous, the records shall be interpreted in
+consultation with a licensed mental health professional on the staff of
+the United States Secret Service.
+(d) A person who discloses information under subsection (a)(7),
+(a)(15), or (b) in good faith is immune from civil and criminal liability.
+SECTION 12. IC 34-30-2.1-137, AS ADDED BY P.L.105-2022,
+SECTION 12, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 137. IC 12-11-13-8 (Concerning disclosure of
+records to the statewide waiver bureau of disabilities services
+ombudsman by providers of waiver services and employees of
+providers).
+SECTION 13. IC 34-30-2.1-138, AS ADDED BY P.L.105-2022,
+SECTION 12, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 138. IC 12-11-13-12 (Concerning the statewide
+waiver bureau of disabilities services ombudsman).
+SECTION 14. IC 35-52-12-2, AS ADDED BY P.L.169-2014,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+HEA 1689 — CC 1
+
+
+--- Page 10 ---
+10
+JULY 1, 2025]: Sec. 2. IC 12-11-13-16 defines a crime concerning
+statewide waiver bureau of disabilities services ombudsman.
+SECTION 15. [EFFECTIVE UPON PASSAGE] (a) As used in this
+SECTION, "advisory council" refers to the division of disability
+and rehabilitative services advisory council established under
+IC 12-9-4.
+(b) As used in this SECTION, "office" refers to the office of the
+secretary of family and social services established by IC 12-8-1.5-1.
+(c) The office shall provide to the advisory council a report, at
+an advisory council meeting, on the office's plan to provide services
+to individuals who require extraordinary care as follows:
+(1) Not later than ninety (90) days before the office requests
+approval from the United States Department of Health and
+Human Services for an amendment to a Medicaid home and
+community based services waiver concerning these services,
+the office shall:
+(A) present to the advisory council the office's proposed:
+(i) definition of "extraordinary care"; and
+(ii) method for determining whether an individual
+requires extraordinary care; and
+(B) receive feedback from the advisory council on the
+proposals described in clause (A).
+(2) Not later than sixty (60) days before the office requests
+approval from the United States Department of Health and
+Human Services for an amendment to a Medicaid home and
+community based services waiver involving these services, the
+office shall:
+(A) present to the advisory council the office's proposed
+Medicaid waiver amendment for the provision of services
+for individuals who require extraordinary care, including
+any information in the proposed amendment concerning:
+(i) a structured family caregiving service arrangement;
+or
+(ii) reimbursement for the provision of services by
+legally responsible individuals; and
+(B) receive feedback from the advisory council on the
+proposed amendment described in clause (A).
+(3) Not later than thirty (30) days before the office requests
+approval from the United States Department of Health and
+Human Services for an amendment to a Medicaid home and
+community based services waiver involving these services, the
+office shall present to the advisory council any changes the
+HEA 1689 — CC 1
+
+
+--- Page 11 ---
+11
+office made to the proposed amendment described in
+subdivision (2)(A) based on feedback from:
+(A) the advisory council; and
+(B) public comments.
+(d) At least five (5) days before each meeting described in
+subsection (c), the office shall provide to the advisory council
+written information the office intends to present at the meeting.
+(e) This SECTION expires July 1, 2026.
+SECTION 16. An emergency is declared for this act.
+HEA 1689 — CC 1
+
+
+--- Page 12 ---
+Speaker of the House of Representatives
+President of the Senate
+President Pro Tempore
+Governor of the State of Indiana
+Date: Time: 
+HEA 1689 — CC 1

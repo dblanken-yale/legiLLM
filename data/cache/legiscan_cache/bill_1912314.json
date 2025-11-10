@@ -1,0 +1,172 @@
+{
+  "bill_id": 1912314,
+  "change_hash": "51e52bb615ec3a8023c3a3a52ba46355",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/SB0339/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/senate/339/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-13",
+  "progress": [
+    {
+      "date": "2025-01-13",
+      "event": 1
+    },
+    {
+      "date": "2025-01-13",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "SB0339",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "S",
+  "body_id": 38,
+  "current_body": "S",
+  "current_body_id": 38,
+  "title": "Caregiver tax credit.",
+  "description": "Caregiver tax credit. Provides that a qualified taxpayer is entitled to a credit against the qualified taxpayer's state income tax liability in a taxable year equal to the lesser of: (1) the value of qualified services that the qualified taxpayer performed in the immediately preceding taxable year; or (2) $10,000 (or $5,000 in the case of a married individual filing a separate return). Provides that \"qualified services\" means services, as determined by the office of the secretary of family and social services (FSSA), that a qualified taxpayer performs in caring for an ill or aging qualified family member that the qualified taxpayer otherwise would have compensated a third-party caregiver to perform. Provides that the term does not include services that would otherwise be required to be performed by a licensed physician, a licensed nurse, or other medical professional. Requires the FSSA to: (1) develop criteria that a service must satisfy to be considered a qualified service; (2) derive a formula, using published industry data and standards, to determine the value of the qualified services performed by a qualified taxpayer during a taxable year; and (3) adopt any other guidelines necessary to allow or disallow a credit. Requires a qualified taxpayer to submit to the FSSA all relevant information regarding the performance of qualified services necessary for the FSSA to determine the value of the qualified services. Requires the FSSA to notify a qualified taxpayer in writing the value of the services that the qualified taxpayer performed for purposes of claiming the credit.",
+  "pending_committee_id": 1310,
+  "committee": {
+    "committee_id": 1310,
+    "chamber": "S",
+    "chamber_id": 38,
+    "name": "Appropriations"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-13",
+      "committee_id": 1310,
+      "chamber": "S",
+      "chamber_id": 38,
+      "name": "Appropriations"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-13",
+      "action": "Authored by Senator Young M",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading: referred to Committee on Appropriations",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 5597,
+      "person_hash": "0l06clv4",
+      "party_id": "2",
+      "state_id": 14,
+      "party": "R",
+      "role_id": 2,
+      "role": "Sen",
+      "name": "Michael Young",
+      "first_name": "R. Michael",
+      "middle_name": "",
+      "last_name": "Young",
+      "suffix": "",
+      "nickname": "Michael",
+      "district": "SD-035",
+      "ftm_eid": 6591643,
+      "votesmart_id": 4728,
+      "opensecrets_id": "",
+      "knowwho_pid": 208693,
+      "ballotpedia": "R._Michael_Young_(Indiana)",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3049021,
+      "date": "2025-01-10",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/SB0339/id/3049021",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/bills/SB0339/SB0339.01.INTR.pdf",
+      "text_size": 103174,
+      "text_hash": "8ee66613a03d8f4835c421d468bf2ffe",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 487264,
+      "date": "2025-01-10",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/SB0339/id/487264",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/bills/SB0339/fiscal-notes/SB0339.01.INTR.FN001.pdf",
+      "supplement_size": 61548,
+      "supplement_hash": "f42ea8c5e84754258b92cbd886d38cf0",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    },
+    {
+      "supplement_id": 487652,
+      "date": "2025-01-13",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #2: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/SB0339/id/487652",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/bills/SB0339/fiscal-notes/SB0339.01.INTR.FN002.pdf",
+      "supplement_size": 67887,
+      "supplement_hash": "43dfd82e7f6a1ddf4d2cf0bbacd1d134",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

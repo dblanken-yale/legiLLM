@@ -1,0 +1,213 @@
+{
+  "bill_id": 1915205,
+  "change_hash": "3e2b7589db1f1038a4081b7230a6e342",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/SB0435/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/senate/435/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-13",
+  "progress": [
+    {
+      "date": "2025-01-13",
+      "event": 1
+    },
+    {
+      "date": "2025-01-13",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "SB0435",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "S",
+  "body_id": 38,
+  "current_body": "S",
+  "current_body_id": 38,
+  "title": "Prohibition on copay accumulator adjustments.",
+  "description": "Prohibition on copay accumulator adjustments. Provides that under certain circumstances, the administrator of the state employee health plan shall include any amount paid by a covered individual or another person on behalf of the covered individual for a prescription drug when calculating a covered individual's overall contribution to an out-of-pocket maximum or cost sharing requirement under the covered individual's state employee health plan. Provides that under certain circumstances, a pharmacy benefit manager shall include any amount paid by a covered individual or another person on behalf of the covered individual for a prescription drug when calculating a covered individual's overall contribution to an out-of-pocket maximum or cost sharing requirement under the covered individual's health plan. Provides that under certain circumstances, an insurer who issues a policy of accident and sickness insurance shall include any amount paid by an insured or another person on behalf of the insured for a prescription drug when calculating an insured's overall contribution to an out-of-pocket maximum or cost sharing requirement under the insured's policy of accident and sickness insurance. Provides that under certain circumstances, a health maintenance organization shall include any amount paid by an enrollee or another person on behalf of the enrollee for a prescription drug when calculating an enrollee's overall contribution to an out-of-pocket maximum or cost sharing requirement under the enrollee's individual or group contract.",
+  "pending_committee_id": 1321,
+  "committee": {
+    "committee_id": 1321,
+    "chamber": "S",
+    "chamber_id": 38,
+    "name": "Health and Provider Services"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-13",
+      "committee_id": 1321,
+      "chamber": "S",
+      "chamber_id": 38,
+      "name": "Health and Provider Services"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-13",
+      "action": "Authored by Senator Hunley",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading: referred to Committee on Health and Provider Services",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 1
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Senators Ford J.D. and Yoder added as coauthors",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 0
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 23872,
+      "person_hash": "cw1rbt12",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 2,
+      "role": "Sen",
+      "name": "Andrea Hunley",
+      "first_name": "Andrea",
+      "middle_name": "",
+      "last_name": "Hunley",
+      "suffix": "",
+      "nickname": "",
+      "district": "SD-046",
+      "ftm_eid": 54902992,
+      "votesmart_id": 202027,
+      "opensecrets_id": "",
+      "knowwho_pid": 0,
+      "ballotpedia": "Andrea_Hunley",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    },
+    {
+      "people_id": 19709,
+      "person_hash": "1h70mo1k",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 2,
+      "role": "Sen",
+      "name": "J.D. Ford",
+      "first_name": "J.D.",
+      "middle_name": "",
+      "last_name": "Ford",
+      "suffix": "",
+      "nickname": "",
+      "district": "SD-029",
+      "ftm_eid": 44857990,
+      "votesmart_id": 178147,
+      "opensecrets_id": "",
+      "knowwho_pid": 484114,
+      "ballotpedia": "J.D._Ford",
+      "bioguide_id": "",
+      "sponsor_type_id": 2,
+      "sponsor_order": 2,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    },
+    {
+      "people_id": 22087,
+      "person_hash": "dcvlp4vo",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 2,
+      "role": "Sen",
+      "name": "Shelli Yoder",
+      "first_name": "Shelli",
+      "middle_name": "",
+      "last_name": "Yoder",
+      "suffix": "",
+      "nickname": "",
+      "district": "SD-040",
+      "ftm_eid": 17657992,
+      "votesmart_id": 135982,
+      "opensecrets_id": "",
+      "knowwho_pid": 395644,
+      "ballotpedia": "Shelli_Yoder",
+      "bioguide_id": "",
+      "sponsor_type_id": 2,
+      "sponsor_order": 3,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3052304,
+      "date": "2025-01-13",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/SB0435/id/3052304",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/bills/SB0435/SB0435.01.INTR.pdf",
+      "text_size": 115320,
+      "text_hash": "d939211acd351a8ac418fd783cff7adf",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 487502,
+      "date": "2025-01-13",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/SB0435/id/487502",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/bills/SB0435/fiscal-notes/SB0435.01.INTR.FN001.pdf",
+      "supplement_size": 68619,
+      "supplement_hash": "ed65b69586d3b299a1478271c747b7c4",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

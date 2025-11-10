@@ -1,0 +1,3049 @@
+--- Page 1 ---
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE ENROLLED ACT No. 1004
+AN ACT to amend the Indiana Code concerning health.
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1. IC 12-7-2-137.8 IS REPEALED [EFFECTIVE UPON
+PASSAGE]. Sec. 137.8. "Phase out period", for purposes of
+IC 12-15-44.5, has the meaning set forth in IC 12-15-44.5-1.
+SECTION 2. IC 12-15-1-18.5, AS ADDED BY P.L.203-2023,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 18.5. (a) The payer affordability penalty fund
+is established for the purpose of receiving fines collected under
+IC 16-21-6-3, and fines collected under IC 16-21-6-13, IC 16-21-19,
+IC 27-1-46.5, and IC 27-2-25.5 to be used for:
+(1) the state's share of the Medicaid program; and
+(2) a study of hospitals that are impacted by changes made in the
+disproportionate share hospital methodology payments set forth
+in Section 203 of the federal Consolidated Appropriations Act of
+2021.
+The office of the secretary shall perform the study and provide the
+results of the study described in subdivision (2) to the budget
+committee.
+(b) The fund shall be administered by the office of the secretary.
+(c) The expenses of administering the fund shall be paid from
+money in the fund.
+(d) The treasurer of state shall invest the money in the fund not
+currently needed to meet the obligations of the fund in the same
+manner  as other public money may be invested. Interest that accrues
+HEA 1004 — CC 1
+
+
+--- Page 2 ---
+2
+from these investments shall be deposited in the fund.
+(e) Money in the fund at the end of a state fiscal year does not revert
+to the state general fund.
+(f) Money in the fund is continually appropriated.
+SECTION 3. IC 12-15-16-1, AS AMENDED BY P.L.76-2018,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 1. (a) A provider that is an acute care hospital
+licensed under IC 16-21, a state mental health institution under
+IC 12-24-1-3, or a private psychiatric institution licensed under
+IC 12-25 is a disproportionate share provider if the provider meets
+either of the following conditions:
+(1) The provider's Medicaid inpatient utilization rate is at least
+one (1) standard deviation above the mean Medicaid inpatient
+utilization rate for providers receiving Medicaid payments in
+Indiana. However, the Medicaid inpatient utilization rate of
+providers whose low income utilization rate exceeds twenty-five
+percent (25%) must be excluded in calculating the statewide
+mean Medicaid inpatient utilization rate.
+(2) The provider's low income utilization rate exceeds twenty-five
+percent (25%).
+(b) An acute care hospital licensed under  IC 16-21 is a municipal
+disproportionate share provider if the hospital:
+(1) has a Medicaid utilization rate greater than one percent (1%);
+and
+(2) is established and operated under IC 16-22-2 or IC 16-23.
+(c) A community mental health center:
+(1) that is identified in IC 12-29-2-1;
+(2) for which a county provides funds under:
+(A) IC 12-29-1-7(b) before January 1, 2004; or
+(B) IC 12-29-2 after December 31, 2018;
+or from other county sources; and
+(3) that provides inpatient services to Medicaid patients;
+is a community mental health center disproportionate share provider if
+the community mental health center's Medicaid inpatient utilization
+rate is greater than one percent (1%).
+(d) A disproportionate share provider under IC 12-15-17 must have
+at least two (2) obstetricians who have staff privileges and who have
+agreed to provide obstetric services under the Medicaid program. For
+a hospital located in a rural area (as defined in Section 1886 of the
+Social Security Act), an obstetrician includes a physician with staff
+privileges at the hospital who has agreed to perform nonemergency
+obstetric procedures. However, this obstetric service requirement does
+HEA 1004 — CC 1
+
+
+--- Page 3 ---
+3
+not apply to a provider whose inpatients are predominantly individuals
+less than eighteen (18) years of age or that did not offer nonemergency
+obstetric services as of December 21, 1987.
+(e) The determination of a provider's status as a disproportionate
+share provider under this section shall be based on utilization and
+revenue data from the most recent year for which an audited cost report
+from the provider is on file with the office.
+(f) Except as provided in section 7.3 of this chapter, no payments
+shall be made to disproportionate share hospitals for any state
+fiscal year for which the state directed payment program under
+IC 16-21-10-8.5 is in effect.
+SECTION 4. IC 12-15-16-5 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE UPON PASSAGE]: Sec. 5. (a) The office
+may not implement this chapter, IC 12-15-17, IC 12-15-18,
+IC 12-15-19, or IC 12-15-20 until the federal Centers for Medicare and
+Medicaid Services has issued its approval of the amended state plan for
+medical assistance.
+(b) The office may determine not to continue to implement this
+chapter, IC 12-15-17, IC 12-15-18, IC 12-15-19, and IC 12-15-20 if
+federal financial participation is not available.
+(c) If federal financial participation is approved for less than all of
+the amounts paid into the Medicaid indigent care trust fund with
+respect to a fiscal year, the office may reduce payments attributable to
+that fiscal year under IC 12-15-19-1 by a percentage sufficient to
+compensate for the aggregate reduction in federal financial
+participation. If additional federal financial participation is
+subseq uently approved with respect to payments into the Medicaid
+indigent care trust fund for the same fiscal year, the office shall
+distribute such amounts using the percentage that was used to
+compensate for the prior reduction in federal financial participation.
+SECTION 5. IC 12-15-16-7, AS AMENDED BY P.L.108-2019,
+SECTION 195, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 7. (a) Except as provided in
+subsection (j) and sections 7.5 and section 7.7 of this chapter, this
+section applies to Medicaid disproportionate share payments for the
+state fiscal year beginning:
+(1) July 1, 2012, if hospital fees authorized under P.L.229-2011,
+SECTION 281 or authorized to be transferred and used for
+payments are used as state share dollars for the payments; and
+(2) July 1, 2013, and for each state fiscal year after, for which
+hospital fees authorized under IC 16-21-10 are used as state share
+dollars for the payments.
+HEA 1004 — CC 1
+
+
+--- Page 4 ---
+4
+(b) As used in this section, "hospital assessment fee committee"
+refers to the committee established by IC 16-21-10-7.
+(c) (b) As used in this section, "hospital specific limit" refers to the
+hospital specific limit provided under 42 U.S.C. 1396r-4(g).
+(d) (c) As used in this section, "municipal hospital payment amount"
+means, concerning a hospital established and operated under
+IC 16-22-2 or IC 16-23, an amount equal to the lesser of:
+(1) the hospital specific limit for the hospital for the state fiscal
+year; or
+(2) the hospital's net 2009 supplemental payment amount.
+(e) (d) As used in this section, "nongovernmental hospital" refers to
+a hospital that is licensed under IC 16-21-2, that is not a unit of state or
+local government, and is not owned or operated by a unit of state or
+local government.
+(f) As used in this section, "SECTION 281 hospital assessment fee
+committee" refers to the hospital assessment fee committee established
+by P.L.229-2011, SECTION 281, subsection (e).
+(g) (e) Subject to subsection (j), the following providers are
+eligible for Medicaid disproportionate share payments under this
+section:
+(1) A hospital or psychiatric institution described in Attachment
+4.19-A, Section III, page 6.1(a) of the Medicaid state plan in
+effect July 1, 2011.
+(2) A hospital that satisfies the following for the state fiscal year
+for which Medicaid disproportionate share payments are made
+under this section:
+(A) A nongovernmental hospital that:
+(i) has a Medicaid inpatient utilization rate for the state
+fiscal year that is at least equal to the mean Medicaid
+inpatient utilization rate as calculated for purposes of
+determining Medicaid disproportionate share eligibility, but
+does not equal or exceed one (1) standard deviation above
+the mean Medicaid inpatient utilization rate; and
+(ii) satisfies the obstetric service provisions of 42 U.S.C.
+1396r-4(d).
+(B) A hospital established and operated under IC 16-22-2 or
+IC 16-23 that:
+(i) has a Medicaid inpatient utilization rate for the state
+fiscal year greater than one percent (1%); and
+(ii) satisfies the obstetric service provisions of 42 U.S.C.
+1396r-4(d).
+(3) A nongovernmental hospital that satisfies the following for the
+HEA 1004 — CC 1
+
+
+--- Page 5 ---
+5
+state fiscal year for which Medicaid disproportionate share
+payments are made under this section:
+(A) The hospital has a Medicaid inpatient utilization rate for
+the state fiscal year that is less than the mean Medicaid
+inpatient utilization rate, as calculated for purposes of
+determining Medicaid disproportionate share eligibility, but is
+at least greater than one percent (1%).
+(B) The hospital satisfies the obstetric service provisions of 42
+U.S.C. 1396r-4(d).
+(h) (f) This subsection applies to a payment of Medicaid
+disproportionate share payments, if any, to hospitals described in
+subsect ion (g)(2) (e)(2) and (g)(3). (e)(3). For Medicaid
+disproportionate share payments for the state fiscal year beginning July
+1, 2012, the office subject to approval by the SECTION 281 hospital
+assessment fee committee, may develop and implement a Medicaid
+state plan amendment that provides Medicaid disproportionate share
+payments for the hospitals described in:
+(1) subsection (g)(2), (e)(2), as long as each hospital and
+psychiatric institution described in subsection (g)(1) (e)(1) has
+received a Medicaid disproportionate share payment for the state
+fiscal year in an amount equal to either:
+(A) the hospital specific limit; or
+(B) the municipal hospital payment amount;
+for the hospital or psychiatric institution for the state fiscal year;
+and
+(2) subsection (g)(3), (e)(3), as long as each hospital described in
+subsection (g)(2) (e)(2) has received a Medicaid disproportionate
+share payment for the state fiscal year in an amount equal to the
+hospital specific limit for the hospital for the state fiscal year.
+(i) (g) This subsection applies to a payment of Medicaid
+disproportionate share payments, if any, to hospitals described in
+subsect ion (g)(2) (e)(2) and (g)(3). (e)(3). For Medicaid
+disproportionate share payments for the state fiscal year beginning July
+1, 2013, and each state fiscal year thereafter under this section, the
+office subject to the approval by the hospital assessment fee committee,
+may develop and implement a Medicaid state plan amendment that:
+(1) renews, for state fiscal year beginning July 1, 2013, and each
+state fiscal year thereafter under this section, the Medicaid
+disproportionate share provisions of Attachment 4.19-A, Section
+III, page 6.1(a) of the Medicaid state plan in effect on July 1,
+2011;
+(2) provides Medicaid disproportionate share payments for the
+HEA 1004 — CC 1
+
+
+--- Page 6 ---
+6
+hospitals described in subsection (g)(2), (e)(2), as long as each
+hospital and psychiatric institution described in subsection (g)(1)
+(e)(1) has received a Medicaid disproportionate share payment for
+the state fiscal year in an amount equal to the:
+(A) hospital specific limit; or
+(B) municipal hospital payment amount;
+for the hospital or psychiatric institution for the state fiscal year;
+and
+(3) provides Medicaid disproportionate share payments for the
+hospitals described in subsection (g)(3), (e)(3), as long as each
+hospital described in subsection (g)(2) (e)(2) has received a
+Medicaid disproportionate share payment for the state fiscal year
+in an amount equal to the hospital specific limit of the hospital for
+the state fiscal year.
+(j) (h) This subsection does not apply to Medicaid disproportionate
+share payments made to hospitals described in subsection (g)(2)(B)
+(e)(2)(B) under Attachment 4.19-A, Section III, page 6.1(a) of the
+Medicaid state plan in effect on July 1, 2011, or any renewal. Nothing
+in this section:
+(1) requires that the hospitals described in subsection (g)(2) (e)(2)
+or (g)(3) (e)(3) receive Medicaid disproportionate share payments
+for a state fiscal year;
+(2) requires that the hospitals described in subsection (g)(2) (e)(2)
+or (g)(3) (e)(3) receive Medicaid disproportionate share payments
+for a state fiscal year in an amount equal to the respective hospital
+specific limits for the state fiscal year; or
+(3) prescribes how Medicaid disproportionate share payments are
+to be distributed among the hospitals described in:
+(A) subsection (g)(2); (e)(2); or
+(B) subsection (g)(3). (e)(3).
+(k) (i) Nothing in this section prohibits the use of unexpended
+federal Medicaid disproportionate share allotments for a state fiscal
+year under a program, authorized by the SECTION 281 hospital
+assessment fee committee or the hospital assessment fee committee, as
+long as each hospital listed in subsection (g)(1), (g)(2), (e)(1), (e)(2),
+and (g)(3) (e)(3) has received Medicaid disproportionate share
+payments for the state fiscal year equal to the hospital specific limit for
+the hospital for the state fiscal year.
+(j) This section does not apply for a state fiscal year for which
+the state directed payment program under IC 16-21-10-8.5 is in
+effect.
+SECTION 6. IC 12-15-16-7.3 IS ADDED TO THE INDIANA
+HEA 1004 — CC 1
+
+
+--- Page 7 ---
+7
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 7.3. (a) This section applies to
+disproportionate share payments for any state fiscal year during
+which the state directed payment program under IC 16-21-10-8.5
+is in effect.
+(b) The office may develop and implement a Medicaid state plan
+amendment that provides Medicaid disproportionate share
+payments for state mental health institutions under IC 12-24-1-3
+that qualify as a disproportionate share provider under section
+1(a) of this chapter.
+(c) The office shall develop and implement a Medicaid state plan
+amendment that provides Medicaid disproportionate share
+payments for hospitals pursuant to the following STEPS:
+STEP ONE: Each acute care hospital licensed under IC 16-21
+that qualifies as a disproportionate share provider under
+section 1(a) of this chapter, including acute care hospitals
+licensed under IC 16-21 and established and operated under
+IC 16-22-2, IC 16-22-8, or IC 16-23 that qualify as a
+disproportionate share provider under section 1(a) of this
+chapter, shall be paid a disproportionate share payment for
+the state fiscal year in the amount of one thousand dollars
+($1,000).
+STEP TWO: Of the state's disproportionate share payment
+allotment under 42 CFR 447.297 that remains for the state
+fiscal year following STEP ONE, and any applicable
+payments under subsection (b), disproportionate share
+payments shall be paid to municipal disproportionate share
+providers described in section 1(b) of this chapter, and to
+acute care hospitals licensed under IC 16-21 and established
+and operated under IC 16-22-8 that qualify as a
+disproportionate share provider under section 1(a) of this
+chapter, that fund the state's share of their disproportionate
+share payment for the state fiscal year through an
+intergovernmental transfer. Subject to subsection (d), each
+hospital's payment shall be an amount equal to its hospital
+specific limit for the state fiscal year calculated pursuant to 42
+U.S.C. 1396r-4(g).
+(d) If the total disproportionate share payments under STEP
+TWO of subsection (c) for a state fiscal year would be greater than
+the state's disproportionate share payment allotment under 42
+CFR 447.297 that remains following STEP ONE of subsection (c),
+and any applicable payments under subsection (b), the
+HEA 1004 — CC 1
+
+
+--- Page 8 ---
+8
+disproportionate share payments to each hospital eligible under
+STEP TWO shall be made on a pro rata basis, based on each
+hospital's hospital specific limit in relation to the remaining
+disproportionate share payment allotment.
+SECTION 7. IC 12-15-16-7.7, AS AMENDED BY P.L.156-2020,
+SECTION 55, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 7.7. (a) As used in this section, "CMS" refers
+to the federal Centers for Medicare and Medicaid Services.
+(b) As used in this section, "default plan" refers to a plan for
+distributing Medicaid disproportionate share payments for the state
+fiscal year beginning July 1, 2020, and, at the discretion of the hospital
+assessment fee committee, for any state fiscal year beginning after July
+1, 2020, and meets the requirements set forth in subsection (i).
+(c) (b) As used in this section, "disproportionate share payment
+plan" refers to a plan for distributing disproportionate share payments
+for the state fiscal year beginning July 1, 2020, and at the discretion of
+the hospital assessment fee committee, for any state fiscal year
+beginning after July 1, 2020, and that meets the requirements set forth
+in subsection (h). this section.
+(d) (c) As used in this section, "federal DSH allotment" refers to the
+allotment of federal disproportionate share funds calculated for the
+state under 42 U.S.C. 1396r-4.
+(e) As used in this section, "hospital assessment fee committee"
+refers to the committee established by IC 16-21-10-7.
+(f) (d) As used in this section, "reduced federal DSH allotment"
+refers to a federal DSH allotment for the state for the federal fiscal year
+beginning October 1, 2020, that, by operation of 42 U.S.C.
+1396r-4(f)(7), is less than the federal DSH allotment for the state for
+the federal fiscal year beginning October 1, 2018.
+(g) (e) As used in this section, "terminating event" refers to federal
+legislation (including an amendment to 42 U.S.C. 1396r-4), a
+regulation or sub-regulatory policy or directive issued by CMS, or a
+judicial ruling, that is enacted or issued on or before March 30, 2021,
+that:
+(1) cancels, or postpones to a subsequent federal fiscal year, a
+reduced federal DSH allotment; and
+(2) does not cause the state to incur a reduced federal DSH
+allotment.
+(h) (f) Subject to subsection (i), The hospital assessment fee
+committee office shall develop a disproportionate share payment plan.
+and submit the disproportionate share payment plan to the office. The
+following apply to the disproportionate share payment plan developed
+HEA 1004 — CC 1
+
+
+--- Page 9 ---
+9
+under this subsection:
+(1) The disproportionate share payment plan must:
+(A) specify the amount or amounts of disproportionate share
+payment adjustments to be paid to acute care hospitals
+licensed under IC 16-21-2 and private mental health
+institutions licensed under IC 12-25 for the state fiscal year
+beginning on or after July 1, 2020; or
+(B) specify the formula to be used by the office for purposes
+of determining the amount or amounts of disproportionate
+share payment adjustments to be paid to acute care hospitals
+license d under IC 16-21-2 and private mental health
+institutions licensed under IC 12-25 for the state fiscal year
+beginning on or after July 1, 2020.
+(2) In developing the disproportionate share payment plan, the
+hospital assessment fee committee office is not required to:
+(A) follow paragraphs 1 through 7 of Subsection A of Section
+III of Attachment 4.19-A of the Indiana Medicaid state plan in
+effect on January 1, 2019;
+(B) provide for disproportionate share payment adjustments to
+be paid to acute care hospitals licensed under IC 16-21-2 or
+private mental health institutions licensed under IC 12-25 that,
+for purposes of the state fiscal year beginning on or after July
+1, 2020, do not meet the definition of a "disproportionate share
+hospital" as set forth in Section II(E) of Attachment 4.19-A of
+the Indiana Medicaid state plan in effect on January 1, 2019;
+or
+(C) follow the provisions set forth in section 7.5 of this
+chapter.
+(3) In developing the disproportionate share payment plan, the
+hospital assessment fee committee office shall take into
+consideration the percentage of a hospital's patients whose health
+care coverage is provided by a governmental health care program.
+(i) If the hospital assessment fee committee is unable to develop a
+disproportionate share payment plan, the hospital assessment fee
+committee shall submit the default plan to the office. The following
+apply to the default plan:
+(1) The disproportionate share payments that would otherwise be
+paid to an acute care hospital under Step Two, Step Three, or Step
+Four of Subsection A of Section III of Attachment 4.19-A of the
+Indiana Medicaid state plan in effect on January 1, 2019, without
+the reduction provided for in section 7.5 of this chapter, shall be
+reduced by a single percentage that is applied uniformly to all
+HEA 1004 — CC 1
+
+
+--- Page 10 ---
+10
+hospitals described in this subdivision.
+(2) The percentage of the reduction in disproportionate share
+payments under subdivision (1) shall be the percentage
+determined by the hospital assessment fee committee to cause the
+total disproportionate share payments made to maximize the
+expenditure of, without exceeding, the reduced federal DSH
+allotment.
+If agreed to by the hospital assessment fee committee, the default plan
+may also include other terms and conditions that the committee
+determines to be necessary for the proper implementation and
+administration of the default plan.
+(j) (g) After the office submits the state plan amendment described
+in section 7.5 of this chapter, but before October 1, 2020, the office
+shall file with CMS and, if approved by CMS, the office shall
+implement, a proposed Medicaid state plan amendment that is based
+upon either the disproportionate share payment plan developed by the
+hospital assessment fee committee or the default plan submitted by the
+hospital assessment fee committee, office, subject to the following:
+(1) The proposed Medicaid state plan amendm ent referred to in
+this subse ction shall include language that, in the event a
+terminating event occurs after the Medicaid state plan amendment
+is approved by the CMS but before March 30, 2021, would
+operate to cause the state plan amendment to be immediately and
+automatically void and without effect, and to cause Subsection A
+of Section III of Attachment 4.19-A of the state's Medicaid state
+plan, in effect on January 1, 2019, to be immediately and
+automatically reinstated and effective.
+(2) Subdivision (1) does not prevent the office from submitting a
+subsequent Medicaid state plan amendment for approval by CMS
+after CMS's approval of the state plan amendment referenced in
+subdivision (1) and that applies to a state fiscal year beginning on
+or after July 1, 2021,  and that amends or replaces the state plan
+amendment described in this subsection.
+(k) Before filing the proposed Medicaid state plan amendment with
+CMS, the proposed Medicaid state plan amendment referenced in
+subsection (j) shall be submitted by the office to the hospital
+assessment fee committee for the committee's approval.
+(l) The hospital assessment fee committee shall coordinate with the
+office so that the disproportionate share payment plan, or the default
+plan, if applicable, is prepared and subm itted to the office under
+subsection (h) or (i), if applicable, and the committee's approval of the
+proposed state plan amendment under subsection (k), is obtained in
+HEA 1004 — CC 1
+
+
+--- Page 11 ---
+11
+sufficient time so as to enable the office to file the proposed Medicaid
+state plan amendment with CMS before October 1, 2020.
+(m) The office shall regularly update the hospital assessment fee
+committee regarding the status of the proposed Medicaid state plan
+amendment. All questions, proposals, directives, requirements, and
+other communications received by the office from CMS concerning the
+proposed Medicaid state plan amendment shall be provided to the
+committee within a reasonable time after receipt by the office. Upon
+request by the hospital assessment fee committee or the office, the
+office and the hospital assessment fee committee shall meet to confer
+concerning the proposed state plan amendment.
+(n) If:
+(1) a terminating event occurs before the office submits the
+proposed Medicaid state plan amendment to CMS under
+subsection (j), the hospital assessment fee committee and the
+office shall cease their work on the disproportionate share
+payment plan, or the default plan if applicable, and the proposed
+Medicaid state plan amendment, and the office shall not submit
+the proposed state plan amendment to CMS; or
+(2) a terminating event occurs after the office submits the
+proposed Medicaid state plan amendment to CMS under
+subsection (h), but before CMS approves a state plan amendment
+that implements the disproportionate share payment plan, or the
+default plan if applicable, the office shall immediately notify
+CMS of the office's intent to withdraw the proposed Medicaid
+state plan amendment and otherwise act so as to accomplish the
+immediate withdrawal of the proposed Medicaid state plan
+amendment.
+(o) In the event a provision of this section conflicts with another
+provision of this article, the provisions of this section shall control.
+SECTION 8. IC 12-15-18-5.1, AS AMENDED BY P.L.76-2018,
+SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 5.1. (a) For state fiscal years ending on or
+after June 30, 1998, the trustees and each municipal health and hospital
+corporation established under IC 16-22-8-6 are authorized to make
+intergovernmental transfers to the Medicaid indigent care trust fund in
+amounts to be determined jointly by the office and the trustees, and the
+office and each municipal health and hospital corporation.
+(b) The treasurer of state shall annually transfer from appropriations
+made for the division of mental health and addiction sufficient money
+to provide the state's share of payments under IC 12-15-16-6(c)(2).
+(c) The office shall coordinate the transfers from the trustees and
+HEA 1004 — CC 1
+
+
+--- Page 12 ---
+12
+each municipal health and hospital corporation established under
+IC 16-22-8-6 so that the aggregate intergovernmental transfers, when
+combined with federal matching funds:
+(1) produce payments to each hospital licensed under IC 16-21
+that qualifies as a disproportionate share provider under
+IC 12-15-16-1(a); and
+(2) both individually and in the aggregate do not exceed limits
+prescribed by the federal Centers for Medicare and Medicaid
+Services.
+The trustees and a municipal health and hospital corporation are not
+required to make intergovernmental transfers under this section. The
+trustees and a municipal health and hospital corporation may make
+additional transfers to the Medicaid indigent care trust fund to the
+extent necessary to make additional payments from the Medicaid
+indigent care trust fund apply to a prior federal fiscal year as provided
+in IC 12-15-19-1(b).
+(d) A municipal disproportionate share provider (as defined in
+IC 12-15-16-1) shall transfer to the Medicaid indigent care trust fund
+an amount determined jointly by the office and the municipal
+disproportionate share provider. A municipal disproportionate share
+provider is not required to make intergovernmental transfers under this
+section. A municipal disproportionate share provider may make
+additional transfers to the Medicaid indigent care trust fund to the
+extent necessary to make additional payments from the Medicaid
+indigent care trust fund apply to a prior federal fiscal year as provided
+in IC 12-15-19-1(b).
+(e) A county making a payment under:
+(1) IC 12-29-1-7(b) before January 1, 2004; or
+(2) IC 12-29-2 after December 31, 2018;
+or from other county sources to a community mental health center
+qualifying as a community mental health center disproportionate share
+provider shall certify that the payment represents expenditures that are
+eligible for federal financial participation under 42 U.S.C.
+1396b(w)(6)(A) and 42 CFR 433.51. The office shall assist a county in
+making this certification.
+(f) This section does not apply for a state fiscal year for which
+the state directed payment program under IC 16-21-10-8.5 is in
+effect.
+SECTION 9. IC 12-15-44.2-17, AS AMENDED BY P.L.213-2015,
+SECTION 134, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 17. (a) The healthy Indiana plan
+trust fund is established for the following purposes:
+HEA 1004 — CC 1
+
+
+--- Page 13 ---
+13
+(1) Administering a plan created by the general assembly to
+provide health insurance coverage for low income residents of
+Indiana under this chapter and IC 12-15-44.5.
+(2) Providing copayments, preventative care services, and
+premiums for individuals enrolled in the plan.
+(3) Funding tobacco use prevention and cessation programs,
+childhood immunization programs, and other health care
+initiatives designed to promote the general health and well being
+of Indiana residents.
+(4) Funding amounts necessary to match federal funds for
+purposes set forth in this section.
+The fund is separate from the state general fund.
+(b) The fund shall be administered by the office of the secretary of
+family and social services.
+(c) The expenses of administering the fund shall be paid from
+money in the fund.
+(d) The fund shall consist of the following:
+(1) Cigarette tax revenues designated by the general assembly to
+be part of the fund.
+(2) Other funds designated by the general assembly to be part of
+the fund.
+(3) Federal funds available for the purposes of the fund.
+(4) Gifts or donations to the fund.
+(e) The treasurer of state shall invest the money in the fund not
+currently needed to meet the obligations of the fund in the same
+manner as other public money may be invested.
+(f) Money must be appropriated before funds are available for use.
+(g) Money in the fund does not revert to the state general fund at the
+end of any fiscal year.
+(h) The fund is considered a trust fund for purposes of IC 4-9.1-1-7.
+Money may not be transferred, assigned, or otherwise removed from
+the fund by the state board of finance, the budget agency, or any other
+state agency unless the transfer, assignment, or removal is made in
+accordance with subsection (a)(4).
+(i) As used in this subsection, "costs of the healthy Indiana plan 2.0"
+includes the costs of all expenses set forth in
+IC 16-21-10-13.3(b)(1)(A) through IC 16-21-10-13.3(b)(1)(F).
+Notwithstanding subsection (a), funds on deposit in the fund beginning
+on the date the office implements the healthy Indiana plan 2.0 (IC
+12-15-44.5) and until the healthy Indiana plan 2.0 is terminated upon
+the completion of a phase out period shall be used exclusively for the
+following:
+HEA 1004 — CC 1
+
+
+--- Page 14 ---
+14
+(1) The state share of the costs of the healthy Indiana plan 2.0 that
+exceed other available funding sources in any given year.
+(2) The state share of the costs of the healthy Indiana plan 2.0
+incurred during a phase out period of the healthy Indiana plan 2.0.
+(3) (2) The state share of the expenses of the plan in effect under
+this chapter immediately before the implementation of the healthy
+Indiana plan 2.0 that were incurred in the regular course of the
+plan's operation.
+(j) As used in this subsection, "costs of the healthy Indiana plan 2.0"
+include the costs of all expenses set forth in IC 16-21-10-13.3(b)(1)(A)
+through IC 16-21-10-13.3(b)(1)(F). Upon implementation of the
+healthy Indiana plan 2.0 (IC 12-15-44.5), the entirety of the annual
+cigarette tax amounts designated to the fund by the general assembly
+shall be used exclusively to fund the state share of the costs of the
+healthy Indiana plan 2.0. including the state share of the costs of the
+healthy Indiana plan 2.0 incurred during a phase out period of the
+healthy Indiana plan 2.0. This subsection may not be construed to
+restrict the annual cigarette tax dollars annually appropriated by the
+general assembly for childhood immunization programs under
+subsection (a)(3).
+SECTION 10. IC 12-15-44.5-1 IS REPEALED [EFFECTIVE
+UPON PASSAGE]. Sec. 1. As used in this chapter, "phase out period"
+refers to the following periods:
+(1) The time during which a:
+(A) phase out plan;
+(B) demonstration expiration plan; or
+(C) similar plan approved by the United States Department of
+Health and Human Services;
+is in effect for the plan set forth in this chapter.
+(2) The time beginning upon the office's receipt of written notice
+by the United States Department of Health and Human Services
+of its decision to:
+(A) terminate or suspend the waiver demonstration for the
+plan; or
+(B) withdraw the waiver or expenditure authority for the plan;
+and ending on the effective date of the termination, suspension,
+or withdrawal of the waiver or expenditure authority.
+(3) The time beginning upon:
+(A) the office's determination to terminate the plan; or
+(B) the termination of the plan under section 4(b) of this
+chapter;
+if subdivisions (1) through (2) do not apply, and ending on the
+HEA 1004 — CC 1
+
+
+--- Page 15 ---
+15
+effective date of the termination of the plan.
+SECTION 11. IC 12-15-44.5-4, AS AMENDED BY P.L.30-2016,
+SECTION 29, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 4. (a) The plan:
+(1) is not an entitlement program; and
+(2) serves as an alternative to health care coverage under Title
+XIX of the federal Social Security Act (42 U.S.C. 1396 et seq.).
+(b) If either of the following occurs, the office shall terminate the
+plan in accordance with section 6(b) of this chapter:
+(1) The:
+(A) percentages of federal medical assistance available to the
+plan for coverage of plan participants described in Section
+1902(a)(10)(A)(i)(VIII) of the federal Social Security Act are
+less than the percentages provided for in Section
+2001(a)(3)(B) of the federal Patient Protection and Affordable
+Care Act; and
+(B) hospital assessment committee (IC 16-21-10), office, after
+considering the modification and the reduction in available
+funding, does not alter:
+(i) the formula established under IC 16-21-10-13.3(b)(1) to
+cover the amount of the reduction in federal medical
+assistance; or
+(ii) if applicable, the fee formula used to fund the
+reimbursement for inpatient and outpatient hospital
+servi ces under IC 16-21-10-8.5 to cover the amount of
+the reduction in federal medical assistance.
+For purposes of this subdivision, "coverage of plan participants"
+includes reimbursement, payments, contributions, and amounts
+referred to in IC 16-21-10-13.3(b)(1)(A),
+IC 16-21-10-13.3(b)(1)(C), and IC 16-21-10-13.3(b)(1)(D),
+including reimbursement, payments, contributions, and amounts
+incurred during a phase out period before termination of the
+plan.
+(2) The:
+(A) methodology of calculating the incremental fee set forth in
+IC 16-21-10-13.3 is modified in any way that results in a
+reduction in available funding;
+(B) hospital assessment fee committee (IC 16-21-10), office,
+after considering the modification and reduction in available
+funding, does not alter:
+(i) the formula established under IC 16-21-10-13.3(b)(1) to
+cover the amount of the reduction in fees; or
+HEA 1004 — CC 1
+
+
+--- Page 16 ---
+16
+(ii) if applicable, the fee formula used to fund the
+reimbursement for inpatient and outpatient hospital
+services under IC 16-21-10-8.5 to cover the amount of
+the reduction in fees; and
+(C) office does not use alternative financial support to cover
+the amount of the reduction in fees.
+(c) If the plan is terminated under subsection (b), the secretary may
+implement a plan for coverage of the affected population in a manner
+consistent with the healthy Indiana plan (IC 12-15-44.2 (before its
+repeal)) in effect on January 1, 2014:
+(1) subject to prior approval of the United States Department of
+Health and Human Services; and
+(2) without using funding from the incremental fee set forth in
+IC 16-21-10-13.3.
+(d) The office may not operate the plan in a manner that would
+obligate the state to financial participation beyond the level of state
+appropriations or funding otherwise authorized for the plan.
+(e) The office of the secretary shall submit annually to the budget
+committee an actuarial analysis of the plan that reflects a determination
+that sufficient funding is reasonably estimated to be available to
+operate the plan.
+SECTION 12. IC 12-15-44.5-4, AS AMENDED BY HEA
+1004-2025, SECTION 11, AND AS AMENDED BY SEA 2-2025,
+SECTION 10, IS CORRECTED AND AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 4. (a) The plan:
+(1) is not an entitlement program; and
+(2) serves as an alternative to health care coverage under Title
+XIX of the federal Social Security Act (42 U.S.C. 1396 et seq.);
+(3) except as provided in section 4.2(a) of this chapter, must not
+grant eligibility under the state Medicaid plan for medical
+assistance under 42 U.S.C. 1396a; and
+(4) must grant eligibility for the plan through an approved
+demonstration project under 42 U.S.C. 1315.
+(b) If either any of the following occurs, the office shall terminate
+the plan in accordance with section 6(b) of this chapter:
+(1) The:
+(A) percentages of federal medical assistance available to the
+plan for coverage of plan participants described in Section
+1902(a)(10)(A)(i)(VIII) of the federal Social Security Act are
+less than the percentages provided for in Section
+2001(a)(3)(B) of the federal Patient Protection and Affordable
+Care Act; and
+HEA 1004 — CC 1
+
+
+--- Page 17 ---
+17
+(B) hospital assessment committee (IC 16-21-10), office, after
+considering the modification and the reduction in available
+funding, does not alter:
+(i) the formula established under IC 16-21-10-13.3(b)(1) to
+cover the amount of the reduction in federal medical
+assistance; or
+(ii) if applicable, the fee formula used to fund the
+reimbursement for inpatient and outpatient hospital services
+under IC 16-21-10-8.5 to cover the amount of the reduction
+in federal medical assistance.
+For purposes of this subdivision, "coverage of plan participants"
+includes reimbursement, payments, contributions, and amounts
+referred to in IC 16-21-10-13.3(b)(1)(A),
+IC 16-21-10-13.3(b)(1)(C), and IC 16-21-10-13.3(b)(1)(D),
+including reimbursement, payments, contributions, and amounts
+incurred during a phase out period before termination of the plan.
+(2) The:
+(A) methodology of calculating the incremental fee set forth in
+IC 16-21-10-13.3 is modified in any way that results in a
+reduction in available funding;
+(B) hospital assessment fee committee (IC 16-21-10), office,
+after considering the modification and reduction in available
+funding, does not alter:
+(i) the formula established under IC 16-21-10-13.3(b)(1) to
+cover the amount of the reduction in fees; or
+(ii) if applicable, the fee formula used to fund the
+reimbursement for inpatient and outpatient hospital services
+under IC 16-21-10-8.5 to cover the amount of the reduction
+in fees; and
+(C) office does not use alternative financial support to cover
+the amount of the reduction in fees.
+(3) The Medicaid waiver approving the plan is revoked,
+rescinded, vacated, or otherwise altered in a manner that the
+state cannot comply with the requirements of this chapter.
+(c) If federal financial participation for recipients covered under
+the plan is less than ninety percent (90%), the office may terminate the
+plan in accordance with section 6(b) of this chapter.
+(c) (d) If the plan is terminated under subsection (b), the secretary
+may implement a plan for coverage of the affected population in a
+manner consistent with the healthy Indiana plan (IC 12-15-44.2 (before
+its repeal)) in effect on January 1, 2014:
+(1) subject to prior approval of the United States Department of
+HEA 1004 — CC 1
+
+
+--- Page 18 ---
+18
+Health and Human Services; and
+(2) without using funding from the incremental fee set forth in
+IC 16-21-10-13.3.
+(d) (e) The office may not operate the plan in a manner that would
+obligate the state to financial participation beyond the level of state
+appropriations or funding otherwise authorized for the plan.
+(e) (f) The office of the secretary shall submit annually to the budget
+committee an actuarial analysis of the plan that reflects a determination
+that sufficient funding is reasonably estimated to be available to
+operate the plan.
+SECTION 13. IC 12-15-44.5-6, AS AMENDED BY P.L.93-2024,
+SECTION 111, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 6. (a) For a state fiscal year
+beginning July 1, 2018, and before July 1, 2024, the office, after review
+by the state budget committee, may determine that no incremental fees
+collected under IC 16-21-10-13.3 are required to be deposited into the
+phase out trust fund established under section 7 of this chapter. This
+subsection expires July 1, 2024.
+(b) If the plan is to be terminated for any reason, the office shall,
+(1) if required, provide notice of termination of the plan to the
+United States Department of Health and Human Services and
+begin the process of phasing out the plan. or
+(2) if notice and a phase out plan is not required under federal
+law, notify the hospital assessment fee committee (IC 16-21-10)
+of the office's intent to terminate the plan and the plan shall be
+phased out under a procedure approved by the hospital
+assessment fee committee.
+The office may not submit any phase out plan to the United States
+Department of Health and Human Services or accept any phase out
+plan proposed by the Department of Health and Human Services
+without the prior approval of the hospital assessment fee committee.
+(c) Before submitting:
+(1) an extension of; or
+(2) a material amendment to;
+the plan to the United States Department of Health and Human
+Services, the office shall inform the Indiana Hospital Association of the
+extension or material amendment to the plan.
+SECTION 14. IC 16-18-2-281.5 IS REPEALED [EFFECTIVE
+UPON PASSAGE]. Sec. 281.5. "Phase out period", for purposes of
+IC 16-21-10, has the meaning set forth in IC 16-21-10-5.3.
+SECTION 15. IC 16-18-2-339.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+HEA 1004 — CC 1
+
+
+--- Page 19 ---
+19
+[EFFECTIVE UPON PASSAGE]: Sec. 339.5. "State directed
+payment program", for purposes of IC 16-21-10, has the meaning
+set forth in IC 16-21-10-5.7.
+SECTION 16. IC 16-21-6-3, AS AMENDED BY P.L.152-2024 ,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 3. (a) Each hospital shall file with the state
+department a report for the preceding fiscal year within one hundred
+twenty (120) days after the end of the hospital's fiscal year. For the
+filing of a report, the state department may grant an extension of the
+time to file the report if the hospital shows good cause for the
+extension. The report must contain the following:
+(1) A copy of the hospital's balance sheet, including a statement
+describing the hospital's total assets and total liabilities.
+(2) A copy of the hospital's income statement.
+(3) A statement of changes in financial position.
+(4) A statement of changes in fund balance.
+(5) Accountant notes pertaining to the report.
+(6) A copy of the hospital's report required to be filed annually
+under 42 U.S.C. 1395g, and other appropriate utilization and
+financial reports required to be filed under federal statutory law.
+(7) Net patient revenue and total number of paid claims, including
+providing the information as follows:
+(A) The net patient revenue and total number of paid claims
+for inpatient services for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including inpatient services
+provided to patients participating in a fully-funded health
+insurance plan or a self-funded health insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(B) The net patient revenue and total number of paid claims
+for outpatient services for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including outpatient services
+provided to patients participating in a fully-funded health
+insurance plan or a self-funded health insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(C) The total net patient revenue and total number of paid
+claims for:
+HEA 1004 — CC 1
+
+
+--- Page 20 ---
+20
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including the total net patient
+revenue for services provided to patients participating in a
+fully-funded health insurance plan or a self-funded health
+insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(8) Net patient revenue and total number of paid claims from
+facility fees, including providing the information as follows:
+(A) The net patient revenue and total number of paid claims
+for inpatient services from facility fees for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including inpatient services from
+facility fees provided to patients participating in a
+fully-funded health insurance plan or a self-funded health
+insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(B) The net patient revenue and total number of paid claims
+for outpatient services from facility fees for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including outpatient services
+from facility fees provided to patients participating in a
+fully-funded health insurance plan or a self-funded health
+insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(C) The total net patient revenue and total number of paid
+claims from facility fees for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including the total net patient
+revenue from facility fees provided to patients participating
+in a fully-funded health insurance plan or a self-funded
+health insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(9) Net patient revenue and total number of paid claims from
+professional fees, including providing the information as follows:
+HEA 1004 — CC 1
+
+
+--- Page 21 ---
+21
+(A) The net patient revenue and total number of paid claims
+for inpatient services from professional fees for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including inpatient services from
+professional fees provided to patients participating in a
+fully-funded health insurance plan or a self-funded health
+insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(B) The net patient revenue and total number of paid claims
+for outpatient services from professional fees for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including outpatient services
+from professional fees provided to patients participating in
+a fully-funded health insurance plan or a self-funded health
+insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(C) The total net patient revenue and total number of paid
+claims from professional fees for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including the total net patient
+revenue from professional fees provided to patients
+participating in a fully-funded health insurance plan or a
+self-funded health insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(10) A statement including:
+(A) Medicare gross revenue;
+(B) Medicaid gross revenue;
+(C) other revenue from state programs;
+(D) revenue from local government programs;
+(E) local tax support;
+(F) charitable contributions;
+(G) other third party payments;
+(H) gross inpatient revenue;
+(I) gross outpatient revenue;
+(J) contractual allowance;
+(K) any other deductions from revenue;
+HEA 1004 — CC 1
+
+
+--- Page 22 ---
+22
+(L) charity care provided;
+(M) itemization of bad debt expense; and
+(N) an estimation of the unreimbursed cost of subsidized
+health services.
+(11) A statement itemizing donations.
+(12) A statement describing the total cost of reimbursed and
+unreimbursed research.
+(13) A statement describing the total cost of reimbursed and
+unreimbursed education separated into the following categories:
+(A) Education of physicians, nurses, technicians, and other
+medical professionals and health care providers.
+(B) Scholarships and funding to medical schools, and other
+postsecondary educational institutions for health professions
+education.
+(C) Education of patients concerning diseases and home care
+in response to community needs.
+(D) Community health education through informational
+programs, publications, and outreach activities in response to
+community needs.
+(E) Other educational services resulting in education related
+costs.
+(b) The information in the report filed under subsection (a) must be
+provided from reports or audits certified by an independent certified
+public accountant or by the state board of accounts.
+(c) A hospital that fails to file the report required under subsection
+(a) by the date required shall pay to the state department a fine of one
+ten thousand dollars ($1,000 ) ($10,000) per day for which the report
+is past due. A fine under this subsection shall be deposited into the
+payer affordability penalty fund established by IC 12-15-1-18.5.
+SECTION 17. IC 16-21-6-3, AS AMENDED BY HEA 1004-2025,
+SECTION 16, AND AS AMENDED BY HEA 1666-2025, SECTION
+5, IS CORRECTED AND AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 3. (a) Each hospital shall file with
+the state department a report for the preceding fiscal year within one
+hundred twenty (120) days after the end of the hospital's fiscal year. For
+the filing of a report, the state department may grant an extension of the
+time to file the report if the hospital shows good cause for the
+extension. The report must contain the following:
+(1) A copy of the hospital's balance sheet, including a statement
+describing the hospital's total assets and total liabilities.
+(2) A copy of the hospital's income statement.
+(3) A statement of changes in financial position.
+HEA 1004 — CC 1
+
+
+--- Page 23 ---
+23
+(4) A statement of changes in fund balance.
+(5) Accountant notes pertaining to the report.
+(6) A copy of the hospital's report required to be filed annually
+under 42 U.S.C. 1395g, and other appropriate utilization and
+financial reports required to be filed under federal statutory law.
+(7) Net patient revenue and total number of paid claims, including
+providing the information as follows:
+(A) The net patient revenue and total number of paid claims
+for inpatient services for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including inpatient services
+provided to patients participating in a fully-funded health
+insurance plan or a self-funded health insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(B) The net patient revenue and total number of paid claims
+for outpatient services for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including outpatient services
+provided to patients participating in a fully-funded health
+insurance plan or a self-funded health insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(C) The total net patient revenue and total number of paid
+claims for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including the total net patient
+revenue for services provided to patients participating in a
+fully-funded health insurance plan or a self-funded health
+insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(8) Net patient revenue and total number of paid claims from
+facility fees, including providing the information as follows:
+(A) The net patient revenue and total number of paid claims
+for inpatient services from facility fees for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including inpatient services from
+HEA 1004 — CC 1
+
+
+--- Page 24 ---
+24
+facility fees provided to patients participating in a
+fully-funded health insurance plan or a self-funded health
+insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(B) The net patient revenue and total number of paid claims
+for outpatient services from facility fees for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including outpatient services
+from facility fees provided to patients participating in a
+fully-funded health insurance plan or a self-funded health
+insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(C) The total net patient revenue and total number of paid
+claims from facility fees for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including the total net patient
+revenue from facility fees provided to patients participating
+in a fully-funded health insurance plan or a self-funded
+health insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(9) Net patient revenue and total number of paid claims from
+professional fees, including providing the information as follows:
+(A) The net patient revenue and total number of paid claims
+for inpatient services from professional fees for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including inpatient services from
+professional fees provided to patients participating in a
+fully-funded health insurance plan or a self-funded health
+insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(B) The net patient revenue and total number of paid claims
+for outpatient services from professional fees for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including outpatient services
+HEA 1004 — CC 1
+
+
+--- Page 25 ---
+25
+from professional fees provided to patients participating in
+a fully-funded health insurance plan or a self-funded health
+insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(C) The total net patient revenue and total number of paid
+claims from professional fees for:
+(i) Medicare;
+(ii) Medicaid;
+(iii) commercial insurance, including the total net patient
+revenue from professional fees provided to patients
+participating in a fully-funded health insurance plan or a
+self-funded health insurance plan;
+(iv) self-pay; and
+(v) any other category of payer.
+(10) A statement including:
+(A) Medicare gross revenue;
+(B) Medicaid gross revenue;
+(C) other revenue from state programs;
+(D) revenue from local government programs;
+(E) local tax support;
+(F) charitable contributions;
+(G) other third party payments;
+(H) gross inpatient revenue;
+(I) gross outpatient revenue;
+(J) contractual allowance;
+(K) any other deductions from revenue;
+(L) charity care provided;
+(M) itemization of bad debt expense; and
+(N) an estimation of the unreimbursed cost of subsidized
+health services.
+(11) A statement itemizing donations.
+(12) A statement describing the total cost of reimbursed and
+unreimbursed research.
+(13) A statement describing the total cost of reimbursed and
+unreimbursed education separated into the following categories:
+(A) Education of physicians, nurses, technicians, and other
+medical professionals and health care providers.
+(B) Scholarships and funding to medical schools, and other
+postsecondary educational institutions for health professions
+education.
+(C) Education of patients concerning diseases and home care
+HEA 1004 — CC 1
+
+
+--- Page 26 ---
+26
+in response to community needs.
+(D) Community health education through informational
+programs, publications, and outreach activities in response to
+community needs.
+(E) Other educational services resulting in education related
+costs.
+(14) The name of each person or entity that has:
+(A) either:
+(i) an ownership interest of at least five percent (5%); or
+(ii) if the person is a practitioner of the hospital, any
+ownership interest;
+(B) a controlling interest; or
+(C) an interest as a private equity partner;
+in the hospital.
+(15) The business address  of each person or entity identified
+under subdivision (14). The business address must include a:
+(A) building number;
+(B) street name;
+(C) city name;
+(D) ZIP code; and
+(E) country name.
+The business address may not include a post office box number.
+(16) The business website, if applicable, of each person or entity
+identified under subdivision (14).
+(17) Any of the following identification numbers, if applicable, for
+a person or entity identified under subdivision (14):
+(A) National provider identifier (NPI).
+(B) Taxpayer identification number (TIN).
+(C) Employer identification number (EIN).
+(D) CMS certification number (CCN).
+(E) National Association of Insurance Commissioners (NAIC)
+identification number.
+(F) A personal identification number associated with a license
+issued by the department of insurance.
+A hospital may not include the Social Security number of any
+individual.
+(18) The ownership stake of each person or entity identified
+under subdivision (14).
+(b) The information in the report filed under subsection (a) must be
+provided from reports or audits certified by an independent certified
+public accountant or by the state board of accounts.
+(c) A hospital that fails to file the report required under subsection
+HEA 1004 — CC 1
+
+
+--- Page 27 ---
+27
+(a) by the date required shall pay to the state department a fine of one
+ten thousand dollars ($1,000) ($10,000) per day for which the report is
+past due. A fine under this subsection shall be deposited into the payer
+affordability penalty fund established by IC 12-15-1-18.5.
+SECTION 18. IC 16-21-6-13 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 13. (a) As used in this section,
+"nonprofit hospital system" refers only to those Indiana nonprofit
+hospital systems described in IC 16-21-18-2.
+(b) A nonprofit hospital system shall, before June 1 of each year,
+submit audited financial statements of the nonprofit hospital
+system to the state department for each year of the immediately
+preceding two (2) years.
+(c) The requirement under this section is in addition to any
+other reporting requirement under this title.
+(d) If a nonprofit hospital system fails to submit the audited
+financial statements before June 1 of any year, the state
+department shall fine the nonprofit hospital system ten thousand
+dollars ($10,000) per day for which the report is past due. A fine
+under this subsection shall be deposited into the payer affordability
+penalty fund established by IC 12-15-1-18.5.
+SECTION 19. IC 16-21-10-1 IS REPEALED [EFFECTIVE UPON
+PASSAGE]. Sec. 1. As used in this chapter, "committee" refers to the
+hospital assessment fee committee established by section 7 of this
+chapter.
+SECTION 20. IC 16-21-10-4, AS ADDED BY P.L.205-2013,
+SECTION 214, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 4. (a) As used in this chapter,
+"hospital" means either of the following:
+(1) A hospital (as defined in IC 16-18-2-179(b)) licensed under
+this article.
+(2) A private psychiatric hospital licensed under IC 12-25.
+(b) The term does not include the following:
+(1) A state mental health institution operated under IC 12-24-1-3.
+(2) A hospital:
+(A) designated by the Medicaid program as a long term care
+hospital;
+(B) that has an average inpatient length of stay that is greater
+than twenty-five (25) days, as determined by the office of
+Medicaid policy and planning under the Medicaid program;
+(C) that is a Medicare certified, freestanding rehabilitation
+hospital; or
+HEA 1004 — CC 1
+
+
+--- Page 28 ---
+28
+(D) that is a hospital operated by the federal government.
+(c) As used in this section, "physician owned hospital" means an
+acute care hospital licensed under IC 16-21-2 that has:
+(1) physician ownership; or
+(2) ownership by a legal entity with one hundred percent
+(100%) physician ownership;
+or ownership described in both subdivisions (1) and (2), and such
+ownership of the hospital is at least fifty-one percent (51%).
+(d) The office may, subject to approval from the United States
+Department of Health and Human Services, exclude any of the
+following from the term for purposes of this chapter:
+(1) A physician owned hospital.
+(2) A class of hospitals, as determined by the office.
+SECTION 21. IC 16-21-10-5.3 IS REPEALED [EFFECTIVE
+UPON PASSAGE]. Sec. 5.3. As used in this chapter, "phase out
+period" refers to the following periods:
+(1) The time during which a:
+(A) phase out plan;
+(B) demonstration expiration plan; or
+(C) similar plan approved by the United States Department of
+Health and Human Services;
+is in effect for the healthy Indiana plan set forth in IC 12-15-44.5.
+(2) The time beginning upon the office's receipt of written notice
+by the United States Department of Health and Human Services
+of its decision to:
+(A) terminate or suspend the waiver demonstration for the
+healthy Indiana plan; or
+(B) withdraw the waiver or expenditure authority for the plan;
+and ending on the effective date of the termination, suspension,
+or withdrawal of the waiver or expenditure authority.
+(3) The time beginning upon:
+(A) the office's determination to terminate the healthy Indiana
+plan; or
+(B) the termination of the plan under IC 12-15-44.5-4(b);
+if subdivisions (1) through (2) do not apply, and ending on the
+effective date of the termination of the healthy Indiana plan.
+SECTION 22. IC 16-21-10-5.7 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 5.7. As used in this chapter,
+"state directed payment program" means a payment arrangement
+under section 8.5 of this chapter and authorized under 42 CFR
+438.6(c) that allows the office to direct specific payments to a
+HEA 1004 — CC 1
+
+
+--- Page 29 ---
+29
+hospital by the managed care organizations that contract with the
+office to provide health coverage to Medicaid recipients.
+SECTION 23. IC 16-21-10-6, AS AMENDED BY P.L.213-2015,
+SECTION 141, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 6. (a) Subject to subsection (b)
+(d) and section 8(b) of this chapter, the office may assess a hospital
+assessment fee to hospitals during the fee period if the following
+conditions are met:
+(1) The fee may be used only for the purposes described in the
+following:
+(A) Section 8(c)(1) of this chapter.
+(B) Section 8.5 of this chapter.
+(B) (C) Section 9 of this chapter.
+(C) (D) Section 11 of this chapter.
+(D) (E) Section 13.3 of this chapter.
+(E) (F) Section 14 of this chapter.
+(2) The Medicaid state plan amendm ents and waiver requests
+required for the implementation of this chapter are submitted by
+the office to the United States Department of Health and Human
+Services before October 1, 2013.
+(3) The United States Department of Health and Human Services
+approves the Medicaid state plan amendments and waiver
+requests, or revisions of the Medicaid state plan amendments and
+waiver requests, described in subdivision (2):
+(A) not later than October 1, 2014; or
+(B) after October 1, 2014, if a date is established by the
+committee.
+(4) (2) The funds generated from the fee do not revert to the state
+general fund.
+(b) The office may request a waiver from the United States
+Department of Health and Human Services of the broad based and
+uniformity requirements set forth in 42 CFR 433.68 concerning the
+assessment under this chapter.
+(c) Subject to subsection (a), the office may assess a fee in an
+amount not to exceed the maximum amount permitted under
+federal law:
+(1) on a tiered basis among the hospitals; and
+(2) based on net patient revenue, inpatient days, or another
+methodology approved by the United States Department of
+Health and Human Services.
+(b) (d) The office shall stop collecting a fee, the programs described
+in section 8(a) of this chapter shall be reconciled and terminated
+HEA 1004 — CC 1
+
+
+--- Page 30 ---
+30
+subject to section 9(c) of this chapter, and the operation of section 11
+of this chapter, subject to section 11(d) and 11(e) of this chapter,
+ends subject to section 9(c) of this chapter, if any of the following
+occurs:
+(1) An appellate court makes a final determination that either:
+(A) the fee; or
+(B) any of the programs described in section 8(a) of this
+chapter;
+cannot be implemented or maintained.
+(2) The United States Department of Health and Human Services
+makes a final determination that the Medicaid state plan
+amendments or waivers submitted under this chapter are not
+approved or cannot be validly implemented.
+(3) The fee is not collected because of circumstances described in
+section 8(d) of this chapter.
+(c) (e) The office shall keep records of the fees collected by the
+office and report the amount of fees collected under this chapter to the
+budget committee.
+SECTION 24. IC 16-21-10-7 IS REPEALED [EFFECTIVE UPON
+PASSAGE]. Sec. 7. (a) The hospital assessment fee committee is
+established. The committee consists of the following four (4) voting
+members:
+(1) The secretary of family and social services appointed under
+IC 12-8-1.5-2 or the secretary's designee, who shall serve as the
+chair of the committee.
+(2) The budget director or the budget director's designee.
+(3) Two (2) individuals appointed by the governor from a list of
+at least four (4) individuals submitted by the Indiana Hospital
+Association.
+The committee members described in subdivision (3) serve at the
+pleasure of the governor. If a vacancy occurs among the members
+appointed under subdi vision (3), the governor shall appoint a
+replacement committee member from a list of at least two (2)
+individuals submitted by the Indiana Hospital Association.
+(b) The committee shall review any Medicaid state plan
+amendments, waiver requests, or revisions to any Medicaid state plan
+amendments or waiver requests, to implement or continue the
+implementation of this chapter for the purpose of establishing favorable
+review of the amendments, requests, and revisions by the United States
+Department of Health and Human Services. The committee shall also
+develop a disproportionate share payment plan or submit to the office
+the default plan, if applicable, as set forth in IC 12-15-16-7.5 and
+HEA 1004 — CC 1
+
+
+--- Page 31 ---
+31
+IC 12-15-16-7.7.
+(c) The committee shall meet at the call of the chair. The members
+serve without compensation.
+(d) A quorum consists of at least three (3) members. An affirmative
+vote of at least three (3) members of the committee is necessary to
+approve Medicaid state plan amendments, waiver requests, revisions
+to the Medicaid state plan or waiver requests, and the approvals and
+other determinations required of the committee under IC 12-15-44.5
+and section 13.3 of this chapter.
+(e) The following apply to the approvals and any other
+determinations required by the committee under IC 12-15-44.5 and
+section 13.3 of this chapter:
+(1) The committee shall be guided and subject to the intent of the
+general assembly in the passage of IC 12-15-44.5 and section 13.3
+of this chapter.
+(2) The chair of the committee shall report any approval and other
+determination by the committee to the budget committee.
+(3) If, in taking action, the committee's vote is tied, the committee
+shall follow the following procedure:
+(A) The chair of the committee shall notify the chairman of the
+budget committee of the tied vote and provide a summary of
+that matter that was the subject of the vote.
+(B) The chairman of the budget committee shall provide each
+committee member who voted an opportunity to appear before
+the budget committee to present information and materials to
+the budget committee concerning the matter that was the
+subject of the tied vote.
+(C) Following a presentation of the information and the
+materials described in clause (B), the budget committee may
+make recommendations to the committee concerning the
+matter that was the subject of the tied vote.
+SECTION 25. IC 16-21-10-8, AS AMENDED BY P.L.213-2015,
+SECTION 143, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 8. (a) This section does not
+apply to the use of the incremental fee described in section 13.3 of this
+chapt er. Subject to subsection (b), the office shall may develop the
+following programs designed to increase to the extent allowable under
+federal law, Medicaid reimbursement for inpatient and outpatient
+hospital services provided by a hospital to Medicaid recipients:
+(1) A program concerning reimbursement for the Medicaid
+fee-for-service program that, in the aggregate, will result in
+payments equivalent to the level of payment that would be paid
+HEA 1004 — CC 1
+
+
+--- Page 32 ---
+32
+under federal Medicare payment principles.
+(2) A program concerning reimbursement for the Medicaid risk
+based managed care program that, in the aggregate, will result in
+payments equivalent to the level of payment that would be paid
+under federal Medicare payment principles, and up to any
+reimbursement approved under a state directed payment
+program set forth in section 8.5 of this chapter.
+(b) The office shall not submit to the United States Department of
+Health and Human Services any Medicaid state plan amendments,
+waiver requests, or revisions to any Medicaid state plan amendments
+or waiver requests, to implement or continue the implementation of this
+chap ter until the committee has reviewed and approved the
+amendm ents, waivers, or revisions described in this subsection and
+office has submitted a written report to the budget committee
+concerning the amendments, waivers, or revisions described in this
+subsection, including the following:
+(1) The methodology to be used by the office in calculating the
+increased Medicaid reimbursement under the programs described
+in subsection (a).
+(2) The methodology to be used by the office in calculating,
+imposing, or collecting the fee, or any other matter relating to the
+fee.
+(3) The determination of Medicaid disproportionate share
+allotments under section 11 of this chapter (subject to section
+11(d) and 11(e) of this chapter) that are to be funded by the fee,
+including the formula for distributing the Medicaid
+disproportionate share allotments.
+(4) The distribution to private psychiatric institutions under
+section 13 of this chapter.
+(c) This subsection applies to the programs described in subsection
+(a). The state share dollars for the programs must consist of the
+following:
+(1) Fees paid under this chapter.
+(2) The hospital care for the indigent funds allocated under
+section 10 of this chapter.
+(3) Other sources of state share dollars available to the office,
+excluding intergovernmental transfers of funds made by or on
+behalf of a hospital.
+The money described in subdivisions (1) and (2) may be used only to
+fund the part of the payments that exceed the Medicaid reimbursement
+rates in effect on June 30, 2011.
+(d) This subsection applies to the programs described in subsection
+HEA 1004 — CC 1
+
+
+--- Page 33 ---
+33
+(a). If the state is unable to maintain the funding under subsection
+(c)(3) for the payments at Medicaid reimbursement levels in effect on
+June 30, 2011, because of budgetary constraints, the office shall reduce
+inpatient and outpatient hospital Medicaid reimbursement rates under
+subsection (a)(1) or (a)(2) or request approval from the committee and
+the United States Department of Health and Human Services to
+increase the fee to prevent a decrease in Medicaid reimbursement for
+hospital services. If
+(1) the committee:
+(A) does not approve a reimbursement reduction; or
+(B) does not approve an increase in the fee; or
+(2) the United States Department of Health and Human Services
+does not approve an increase in the fee,
+the office shall cease to collect the fee and the programs described in
+subsection (a) are terminated.
+SECTION 26. IC 16-21-10-8.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 8.5. (a) Subject to subsection
+(b), beginning July 1, 2025, or thereafter, the office may implement
+a state directed payment program in which payments are made for
+inpatient and outpatient hospital services as follows:
+(1) Subject to available state share funding and federal
+medical assistance available to the plan for coverage of plan
+participants described in Section 1902(a)(10)(A)(i)(VIII) of
+the federal Social Security Act in effect on January 1, 2025,
+the reimbursement rates for inpatient and outpatient hospital
+services under the state directed payment program may be
+established at a rate greater than Medicare equivalent
+reimbursement rates, but may not exceed the maximum
+reimbursement rates established by federal law.
+(2) The office may implement the state directed payment
+program through the establishment of classes of hospitals
+with different rates of reimbursement among the classes, as
+set forth in subsection (c), and in a manner that is consistent
+with federal law.
+(3) Before January 1, 2026, the office shall apply to the United
+States Department of Health and Human Services for the
+review and approval of a state directed payment program.
+The office may receive input from hospitals and other
+interested parties in the development of the documentation
+submitted with the application under this subdivision.
+(4) The office may not implement the state directed payment
+HEA 1004 — CC 1
+
+
+--- Page 34 ---
+34
+program without the approval of the United States
+Department of Health and Human Services. To the extent
+allowed by the United States Department of Health and
+Human Services, the office shall implement the state directed
+payment program on or after July 1, 2025.
+(5) The office may not implement a fee under the state
+directed payment program without the approval of the fee by
+the United States Department of Health and Human Services,
+including any waiver related to the fee, to fund the state share
+of the payments under the state directed payment program.
+To the extent allowed by the United States Department of
+Health and Human Services, the office shall use the fee to
+fund the state directed payment program on or after July 1,
+2025.
+(6) The office shall make payments under the state directed
+payment program to managed care organizations that
+contract with the office to provide medical assistance to
+Medicaid recipients as follows:
+(A) Except as provided in clause (B), capitation payments
+at levels necessary to pay inpatient and outpatient hospital
+services at reimbur sement rates equal to the
+reimbursement rates established under subdivision (1).
+The fee must be used to pay the state share of the part of
+the capitation payments that fund the portion of the
+reimbursement rates that exceed the reimbursement rates
+in effect on June 30, 2011. However, the fees collected
+under this section and sections 8 and 13.3 of this chapter
+may not fund the state share of the capitation payments of
+the managed care assessment fee under IC 27-1-50.3.
+(B) For plan enrollees described in section 13.3(b)(1)(A) of
+this chapter, capitation payments at a level sufficient to
+pay inpatient and outpatient hospital services at
+reimbursement rates equal to the reimbursement rates
+established by subdivision (1). The incremental fee shall
+fund the entire state share of these capitation payments.
+However, the fees collected under this section and sections
+8 and 13.3 of this chapter may not fund the state share of
+the capitation payments of the managed care assessment
+fee under IC 27-1-50.3.
+(b) The office may only implement a state directed payment
+program under this section if the budget committee has conducted
+a review of the state directed payment program.
+HEA 1004 — CC 1
+
+
+--- Page 35 ---
+35
+(c) The classes of hospitals may be constructed as follows:
+(1) Class 1 hospitals consist of critical access hospitals and
+rural hospitals.
+(2) Class 2 hospitals consist of a hospital licensed under
+IC 16-21-2 that is not described in subdivision (1) and that is:
+(A) established and governed under IC 16-22-2, IC 16-22-8,
+or IC 16-23; or
+(B) an Indiana nonprofit hospital system that has a net
+patient revenue derived in Indiana of less than two billion
+dollars ($2,000,000,000), as determined by the hospital's
+most recently submitted audited financial statement.
+(3) Class 3 hospitals consist of psychiatric hospitals,
+rehabilitative hospitals, and acute long term care hospitals
+and that are not described in subdivision (1) or (2).
+(4) Class 4 hospitals consist of any hospital not described in
+subdivision (1) through (3) and that are subject to this
+chapter.
+SECTION 27. IC 16-21-10-9, AS AMENDED BY P.L.213-2015,
+SECTION 144, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 9. (a) This section is effective
+upon implementation of the fee. The hospital Medicaid fee fund is
+established for the purpose of holding fees collected under section 6 of
+this chapter, excluding the part of the fee used for purposes of section
+13.3 if of this chapter, that are not necessary to match federal funds.
+(b) The office shall administer the fund.
+(c) Money in the fund at the end of a state fiscal year attributable to
+fees collected to fund the programs described in section 8 of this
+chapter does not revert to the state general fund. However, money
+remaining in the fund after the cessation of the collection of the fee
+under section 6(b) 6(d) of this chapter shall be used for the payments
+described in sections 8(a) and 11 of this chapter (subject to section
+11(d) and 11(e) of this chapter). Any money not required for the
+payments described in sections 8(a) and 11 of this chapter (subject to
+section 11(d) and 11(e) of this chapter) after the cessation of the
+collection of the fee under section 6(b) 6(d) of this chapter shall be
+distributed to the hospitals on a pro rata basis based upon the fees paid
+by each hospital for the state fiscal year that ended immediately before
+the cessation of the collection of the fee under section 6(b) 6(d) of this
+chapter.
+(d) The treasurer of state shall invest the money in the fund not
+currently needed to meet the obligations of the fund in the same
+manner as other public funds may be invested. Interest that accrues
+HEA 1004 — CC 1
+
+
+--- Page 36 ---
+36
+from these investments shall be deposited in the fund.
+SECTION 28. IC 16-21-10-10, AS ADDED BY P.L.205-2013,
+SECTION 214, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 10. This section:
+(1) is effective upon implementation of the fee; and
+(2) does not apply to funds under IC 12-16-17.
+Notwithstanding any other law, the part of the amounts appropriated
+for or transferred to the hospital care for the indigent program for the
+state fiscal year beginning July 1, 2013, and each state fiscal year
+thereafter that are not required to be paid to the office by law shall be
+used exclusively as state share dollars for the payments described in
+sections 8(a) and 11 of this chapter. Any hospital care for the indigent
+funds that are not required for the payments described in sections 8(a)
+and 11 of this chapter after the cessation of the collection of the fee
+under section 6(b) 6(d) of this chapter shall be used for the state share
+dollars of the payments in IC 12-15-20-2(8)(G)(ii) through
+IC 12-15-20-2(8)(G)(x).
+SECTION 29. IC 16-21-10-11, AS AMENDED BY P.L.30-2016,
+SECTION 38, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 11. (a) This section:
+(1) does not apply to the incremental fee described in section 13.3
+of this chapter;
+(2) is effective upon the implementation of the fee described in
+section 6 of this chapter, excluding the part of the fee used for
+purposes of section 13.3 of this chapter; and
+(3) applies to the Medicaid disproportionate share payments for
+the state fiscal year beginning July 1, 2013, and each state fiscal
+year thereafter.
+(b) Subject to subsections (d) and (e), the state share dollars used
+to fund disproportionate share payments to acute care hospitals
+license d under IC 16-21-2 that qualify as disproportionate share
+providers or municipal disproportionate share providers under
+IC 12-15-16-1(a) or IC 12-15-16-1(b) shall be paid with money
+collected through the fee and the hospital care for the indigent dollars
+described in section 10 of this chapter.
+(c) Subject to subsections (d) and (e), the federal Medicaid
+disproportionate share allotments for the state fiscal years beginning
+July 1, 2013, and each state fiscal year thereafter shall be allocated in
+their entirety to acute care hospitals licensed under IC 16-21-2 that
+qualify as disproportionate share providers or municipal
+disproportionate share providers under IC 12-15-16-1(a) or
+IC 12-15-16-1(b). No part of the federal disproportionate share
+HEA 1004 — CC 1
+
+
+--- Page 37 ---
+37
+allotments applicable for disproportionate share payments for the state
+fiscal year beginning July 1, 2013, and each state fiscal year thereafter
+may be allocated to institutions for mental disease or other mental
+health facilities, as defined by applicable federal law.
+(d) Subsections (b) and (c) do not apply for any state fiscal year
+for which the state directed payment program established under
+section 8.5 of this chapter is in effect.
+(e) For any state fiscal year for which the state directed payment
+program established under section 8.5 of this chapter is in effect,
+the state share of the disproportionate share payments described
+in STEP ONE of IC 12-15-16-7.3(c) shall be funded by the fee.
+SECTION 30. IC 16-21-10-13.3, AS AMENDED BY P.L.93-2024,
+SECTION 128, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 13.3. (a) This section is
+effective beginning February 1, 2015. As used in this section, "plan"
+refers to the healthy Indiana plan established in IC 12-15-44.5.
+(b) Subject to subsections (c) through (e), the incremental fee under
+this section may be used to fund the state share of the expenses
+specified in this subsection if, after January 31, 2015, but before the
+collection of the fee under this section, the following occur:
+(1) The committee office establishes a fee formula to be used to
+fund the state share of the Medicaid program or the following
+expenses described in this subdivision:
+(A) The state share of the capitated payments made to a
+managed care organization that contracts with the office to
+provide health coverage under the plan to plan enrollees other
+than plan enrollees who are eligible for the plan under Section
+1931 of the federal Social Security Act, including portions of
+the capitation attributed to a state directed payment
+program under section 8.5 of this chapter.
+(B) The state share of capitated payments described in clause
+(A) for plan enrollees who are eligible for the plan under
+Section 1931 of the federal Social Security Act that are limited
+to the difference between:
+(i) the capitation rates effective September 1, 2014,
+developed using Medicaid reimbursement rates; and
+(ii) the capitation rates applicable for the plan developed
+using the plan's Medicare reimbursement rates described in
+IC 12-15-44.5-5(a)(2), or higher reimbursement amounts
+for any state fiscal year for which the state directed
+payment program established under section 8.5 of this
+chapter is in effect.
+HEA 1004 — CC 1
+
+
+--- Page 38 ---
+38
+(C) The state share of the state's contributions to plan enrollee
+accounts.
+(D) The state share of amounts used to pay premiums for a
+premium assistance plan implemented under
+IC 12-15-44.2-20.
+(E) The state share of the costs of increasing reimbursement
+rates for physician services provided to individuals enrolled in
+Medicaid programs other than the plan, but not to exceed the
+difference between the Medicaid fee schedule for a physician
+service that was in effect before the implementation of the plan
+and the amount equal to seventy-five percent (75%) of the
+previous year federal Medicare reimbursement rate for a
+physician service. The incremental fee may not be used for the
+amount that exceeds seventy-five percent (75%) of the federal
+Medicare reimbursement rate for a physician service.
+(F) The state share of the state's administrative costs that, for
+purposes of this clause, may not exceed one hundred seventy
+dollars ($170) per person per plan enrollee per year, and
+adjusted annually by the Consumer Price Index.
+(2) The committee office approves a process to be used for
+reconciling:
+(A) the state share of the costs of the plan;
+(B) the amounts used to fund the state share of the costs of the
+plan; and
+(C) the amount of fees assessed for funding the state share of
+the costs of the plan.
+For purposes of this subdivision, "costs of the plan" includes the
+costs of the expenses listed in subdivision (1)(A) through (1)(F).
+The fees collected under for the purposes of subdivision (1)(A)
+through (1)(F) shall be deposited into the incremental hospital fee fund
+established by section 13.5 of this chapter. The fees used for purposes
+of funding the state share of expenses listed in subdivision (1)(A)
+through (1)(F) may not be used to fund expenses incurred on or after
+the commencement of a phase out period of the plan.
+(c) For each state fiscal year for which the fee authorized by this
+section is used to fund the state share of the expenses described in
+subsection (b)(1), the amount of fees shall be reduced by:
+(1) the amount of funds annually designated by the general
+assembly to be deposited in the healthy Indiana plan trust fund
+established by IC 12-15-44.2-17; less
+(2) the annual cigarette tax funds annually appropriated by the
+general assembly for childhood immunization programs under
+HEA 1004 — CC 1
+
+
+--- Page 39 ---
+39
+IC 12-15-44.2-17(a)(3).
+(d) The incremental fee described in this section may not:
+(1) be assessed before July 1, 2016; and
+(2) be assessed or collected on or after the beginning of a phase
+out period termination of the plan.
+(e) This section is not intended to and may not be construed to
+change or affect any component of the programs established under
+section 8 of this chapter.
+SECTION 31. IC 16-21-10-13.5, AS AMENDED BY P.L.30-2016,
+SECTION 41, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 13.5. (a) The incremental hospital fee fund is
+established for the purpose of holding fees collected under section 13.3
+of this chapter.
+(b) The office shall administer the fund.
+(c) Money in the fund consists of the following:
+(1) Fees collected under section 13.3 of this chapter.
+(2) Donations, gifts, and money received from any other source.
+(3) Interest accrued under this section.
+(d) Money in the fund may be used only for the following:
+(1) To fund exclusively the state share of the expenses listed in
+section 13.3(b)(1)(A) through 13.3(b)(1)(F) of this chapter.
+(2) To refund hospitals in the same manner as described in
+subsection (g) as soon as reasonably possible after the beginning
+of a phase out period of the termination of the healthy Indiana
+plan.
+(3) To fund the Medicaid program.
+(e) Money remaining in the fund at the end of a state fiscal year
+does not revert to the state general fund.
+(f) The treasurer of state shall invest the money in the fund not
+currently needed to meet the obligations of the fund in the same
+manner as other public funds may be invested. Interest that accrues
+from these investments shall be deposited in the fund.
+(g) Upon the beginning of a phase out period of the termination of
+the healthy Indiana plan, money collected under section 13.3 of this
+chapter and any accrued interest remaining in the fund shall be
+distributed to the hospitals on a pro rata basis based upon the fees
+authorized by this chapter that were paid by each hospital for the state
+fiscal year that ended immediately before the beginning of the phase
+out period. termination of the healthy Indiana plan.
+SECTION 32. IC 16-21-10-14, AS AMENDED BY P.L.213-2015,
+SECTION 150, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 14. (a) This section does not
+HEA 1004 — CC 1
+
+
+--- Page 40 ---
+40
+apply to the use of the incremental fee described in section 13.3 of this
+chapter.
+(b) The fees collected under section 8 of this chapter may be used
+only as described in this chapter or to pay the state's share of the cost
+for Medicaid services provided under the federal Medicaid program
+(42 U.S.C. 1396 et seq.) as follows:
+(1) Twenty-eight and five-tenths percent (28.5%) may be used by
+the office for Medicaid expenses.
+(2) Seventy-one and five-tenths percent (71.5%) to hospitals.
+(c) Subject to budget committee review, for any state fiscal year
+for which the managed care assessment fee under IC 27-1-50.3 is
+assessed in an amount that is at least equal to the net amount set
+forth in subsection (b)(1), the fee may be used to fund a state
+directed payment, as described in section 8.5 of this chapter.
+SECTION 33. IC 16-21-10-19, AS ADDED BY P.L.205-2013 ,
+SECTION 214, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 19. Payments for the programs
+described in section 8(a) of this chapter are limited to claims for dates
+of services provided during the fee period and that are timely filed with
+the office or a contractor of the office. Payments for the programs
+described in section 8(a) of this chapt er and payments to hospitals in
+accordance  with section 11 of this chapter (subject to section 11(d)
+and 11(e) of this chapter) may occur at any time, including after
+collection of the fee is stopped under section 6(b) 6(d) of this chapter,
+to the extent the funding provided for the payments by this chapter is
+available under section 9(c) of this chapter. Payments for the program
+described in section 13 of this chapter may occur at any time, including
+after the collection of the fee is stopped under section 6(b) 6(d) of this
+chapter, subject to the reconciliation and termination of the program
+required by section 6(b) 6(d) of this chapter.
+SECTION 34. IC 16-21-10-21, AS AMENDED BY P.L.201-2023,
+SECTION 148, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 21. This chapter expires June
+30, 2025. 2027.
+SECTION 35. IC 16-21-18 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]:
+Chapter 18. Hospital Statewide Average Rate Study and Pricing
+Sec. 1. Except as provided in section 2 of this chapter, as used in
+this chapter, "hospital" refers to a hospital licensed under
+IC 16-21-2.
+Sec. 2. For purposes of this chapter, "Indiana nonprofit hospital
+HEA 1004 — CC 1
+
+
+--- Page 41 ---
+41
+system" means a hospital that:
+(1) is organized as a nonprofit corporation or a charitable
+trust under Indiana law or the laws of any other state or
+country and that is:
+(A) eligible for tax exempt bond financing; or
+(B) exempt from state or local taxes;
+(2) is licensed under IC 16-21-2;
+(3) filed jointly one (1) hospital audited financial statement
+with the Indiana department of health in 2021; and
+(4) has an annual patient service revenue derived in Indiana
+of at least two billion dollars ($2,000,000,000) based on the
+hospital system's most recently submitted audited financial
+statements submitted under IC 16-21-6-13. As used in this
+subdivision, "patient service revenue" includes similar terms,
+including net patient service revenue and patient care service
+revenue.
+Sec. 3. As used in this chapter, "prices" means the amounts that
+are paid for patient care services.
+Sec. 4. (a) The office of management and budget shall develop
+a methodology to conduct the study of commercial:
+(1) inpatient hospital prices; and
+(2) outpatient hospital prices;
+including using Indiana hospital pricing data from calendar years
+2023 and 2024 to determine Indiana's statewide average inpatient
+and outpatient hospital prices.
+(b) The office of management and budget shall present the
+methodology to the budget committee for review.
+Sec. 5. (a) Before June 30, 2026, the office of management and
+budget shall conduct the study described in section 4 of this
+chapter, using the methodology that was reviewed by the budget
+committee.
+(b) The office of management and budget shall submit a report
+to the governor and to the general assembly in an electronic format
+under IC 5-14-6 of the office of management and budget's findings
+under the study.
+Sec. 6. A hospital shall provide the office of management and
+budget in:
+(1) the manner prescribed by the office of management and
+budget; and
+(2) a timely manner;
+with any data requested by the office of management and budget
+to conduct a study required under this chapter.
+HEA 1004 — CC 1
+
+
+--- Page 42 ---
+42
+Sec. 7. (a) Not later than June 30, 2029, an Indiana nonprofit
+hospital system's aggr egate average inpatient and outpatient
+hospital prices shall at least be equal to or less than the statewide
+average inpatient and outpatient hospital prices determined by the
+office of management and budget under this chapter.
+(b) If the Indiana nonprofit hospital system violates subsection
+(a), the Indiana nonprofit hospital system shall forfeit its nonprofit
+status for purposes of IC 6 for at least one (1) year.
+(c) An Indiana nonprofit hospital system that forfeits its status
+as a nonprofit hospital under subsection (b) may reestablish the
+Indiana nonprofit hospital system's nonprofit tax exempt status
+under IC 6 if the office of management and budget determines that
+the Indiana nonprofit hospital system's average inpatient and
+outpatient hospital prices comply with this section.
+(d) An Indiana nonprofit hospital system's forfeiture of its
+status as a nonprofit hospital under this section is subject to
+IC 4-21.5.
+SECTION 36. IC 16-21-19 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]:
+Chapter 19. Nonprofit Hospital Reporting
+Sec. 1. As used in this chapter, "nonprofit hospital" means a
+hospital that is organized as a nonprofit corporation or a
+charitable trust under Indiana law or the laws of any other state or
+country.
+Sec. 2. (a) Before October 1 of each year, every nonprofit
+hospital shall provide the state department with the entirety of the
+Schedule H portion of the nonprofit hospital's previous taxable
+year's federal Form 990, including the following forms and the
+itemized data used to complete these forms:
+(1) Federal form 990, Schedule H, Part I, 7(a), financial
+assistance at cost, work sheet 1 or other similar
+documentation, or its successor form or schedule.
+(2) Federal form 990, Schedule H, Part I, 7(b), Medicaid,
+worksheet 3, column a, or its successor form or schedule.
+(3) Federal form 990, Schedule H, Part I, 7(c), costs of other
+means-tested government programs, worksheet 3, column b,
+or its successor form or schedule.
+(4) Federal form 990, Schedule H, Part I, 7(e), community
+health improvement services and community benefit
+operations, worksheet 4 or other similar documentation, or its
+successor form or schedule.
+HEA 1004 — CC 1
+
+
+--- Page 43 ---
+43
+(5) Federal form 990, Schedule H, Part I, 7(f), health
+professions education, worksheet 5 or other similar
+documentation, or its successor form or schedule.
+(6) Federal form 990, Schedule H, Part I, 7(g), subsidized
+health services, worksheet 6 or other similar documentation,
+or its successor form or schedule.
+(7) Federal form 990, Schedule H, Part I, 7(h), research,
+worksheet 7 or other similar documentation, or its successor
+form or schedule.
+(8) Federal form 990, Schedule H, Part I, 7(i), cash and in kind
+contributions for community benefit, worksheet 8, or its
+successor form or schedule.
+(9) Federal form 990, Schedule H, Part II, community
+building activities, lines 1 through 9, or its successor form or
+schedule, and including specific initiatives and related net
+expenses for each line.
+(10) Federal form 990, Schedule H, Part III, section A, bad
+debt expense, lines 2 through 3, or its successor form or
+schedule, and including calculations to support the data
+entered.
+(11) Federal form 990, Schedule H, Part III, section B,
+Medicare, lines 5 through 7, or its successor form or schedule,
+and including calculations to support the data entered.
+(b) Not later than November 1 of each year, the state
+department shall submit the forms provided by a nonprofit
+hospital under subsection (a) to the health care cost oversight task
+force (established by IC 2-5-47-3) in an electronic format under
+IC 5-14-6 and in a manner that allows for publication of the forms
+on the general assembly's website.
+Sec. 3. Prior to providing information described in section 2 of
+this chapter, a nonprofit hospital may only make redactions with
+regard to:
+(1) personally identifiable information; and
+(2) information required to remain confidential under the
+federal Health Insurance Portability and Accountability Act
+(HIPAA).
+Sec. 4. If a nonprofit hospital fails to submit the forms required
+under section 2 of this chapter before October 1 of any year, the
+state department shall fine the nonprofit hospital system ten
+thousand dollars ($10,000) per day for which the forms are past
+due. A fine under this section shall be deposited into the payer
+affordability penalty fund established by IC 12-15-18.5.
+HEA 1004 — CC 1
+
+
+--- Page 44 ---
+44
+SECTION 37. IC 16-51-1-1, AS ADDED BY P.L.203-2023,
+SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 1. (a) This chapter applies to an Indiana
+nonprofit hospital system.
+(b) This chapter does not apply to the following:
+(1) A hospital licensed under IC 16-21-2 that is operated by:
+(A) a county;
+(B) a city pursuant to IC 16-23; or
+(C) the health and hospital corporation established under
+IC 16-22-8.
+(2) A critical access hospital that meets the criteria under 42 CFR
+485.601 through 42 CFR 485.647.
+(3) A rural health clinic (as defined in 42 U.S.C. 1396d(l)(1)).
+(4) A federally qualified health center (as defined in 42 U.S.C.
+1396d(l)(2)(B)).
+(5) An oncology treatment facility, even if owned or operated by
+a hospital.
+(6) A health facility licensed under IC 16-28.
+(7) A community mental health center certified under
+IC 12-21-2-3(5)(C).
+(8) A private mental health institution licensed under IC 12-25,
+including a service facility location for a private mental health
+institution and reimbursed as a hospital-based outpatient service
+site.
+(9) A facility that:
+(A) has a place of service code 20, as published in the place
+of service code set maintained by the federal Centers for
+Medicare and Medicaid Services; and
+(B) is located in a municipality with a population of less
+than twenty thousand (20,000).
+(9) (10) Services provided for the treatment of individuals with
+psychiatric disorders or chronic addiction disorders in:
+(A) any part of a hospital, whether or not a distinct part; or
+(B) an outpatient off campus site that is within thirty-five (35)
+miles of a hospital.
+(10) (11) Billing under the Medicare program or a Medicare
+advantage plan.
+(11) (12) Billing under the Medicaid program.
+SECTION 38. IC 27-1-15.6-13.5, AS ADDED BY P.L.50-2020,
+SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 13.5. (a) This section applies only to the
+following:
+HEA 1004 — CC 1
+
+
+--- Page 45 ---
+45
+(1) A An individual, group, franchise, or blanket policy of
+accident and sickness insurance, as defined in IC 27-8-5-1.
+However, this section does not apply to the types of insurance and
+coverage described in IC 27-8-5-2.5(a).
+(2) A An individual or group health maintenance organization
+contract entered into under IC 27-13.
+(b) As used in this section, "third party administrator" means
+a person who:
+(1) is licensed under IC 27-1-25; and
+(2) administers a policy of accident and sickness insurance
+described in subsection (a)(1) or a health maintenance
+organization contract described in subsection (a)(2).
+(b) (c) Except as provided in subsection (e), (f), an insurer that
+issues an insurance p olicy, or a health maintenance organization that
+enters into a health maintenance organization contract, or a third
+party administrator shall disclose to the policyholder or subscriber in
+a separate written notification:
+(1) any commission, service fee, or brokerage fee that has been or
+will be paid to an insurance producer for selling, soliciting, or
+negotiating the policy or contract; and
+(2) whether the amount disclosed under subdivision (1) is based
+on a percentage of total plan premiums or a flat per member fee.
+(c) (d) An insurer, or a health maintenance organization, or a third
+party administrator shall provide a copy of the written notification
+described in subsection (b) (c) to the policyholder or subscriber:
+(1) when the insurance policy is issued or the contract is entered
+into; and
+(2) each time the insurance policy or contract is renewed.
+(d) (e) Each copy of a written notification described in subsection
+(b) (c) must include a signature line on which the policyholder may
+sign to acknowledge receiving the written notification.
+(e) (f) This section does not require the disclosure to the
+policyholder of a commission, service fee, or brokerage fee in
+connection with the issuance of an insurance policy if a federal law or
+regulation requires disclosure of the commission, service fee, or
+brokerage fee to the policyholder.
+(g) An insurer, a health maintenance organization, and a third
+party administrator shall submit the information described in
+subsection (c) to the executive director of the all payer claims data
+base established under IC 27-1-44.5 for inclusion in the data base.
+(h) The department shall perform an examination under
+IC 27-1-3.1 for any alleged violation of this section.
+HEA 1004 — CC 1
+
+
+--- Page 46 ---
+46
+SECTION 39. IC 27-1-15.6-13.6 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 13.6. (a) This section applies
+to the sale, solicitation, or negotiation by an insurance producer of
+the following:
+(1) A policy of accident and sickness insurance (as defined in
+IC 27-8-5-1) issued on a group, a franchise, or a blanket basis.
+However, this section does not apply to the types of insurance
+and coverage described in IC 27-8-5-2.5(a).
+(2) A group health maintenance organization contract entered
+into under IC 27-13.
+(b) An insurance producer shall comply with 29 U.S.C.
+1108(b)(2).
+(c) Before or at the time of sale of a group policy, an insurance
+producer and a third party administrator shall do the following:
+(1) Provide the plan sponsor with a statement from the
+insurer or health maintenance organization that discloses the
+amount that will be paid to the insurance producer or third
+party administrator for the sale of the group policy. The plan
+sponsor shall sign the statement in acknowledgment of receipt
+of the statement.
+(2) Disclose any additional fees other than those disclosed
+under subdivision (1) that the insurance producer or third
+party administrator may receive, including any planning fee.
+(d) Before January 1, 2026, the department shall establish a
+process for a person to report a violation of this section.
+(e) Upon receiving a report of a violation under this section, the
+department shall:
+(1) issue a notice to the insurance producer of the report of a
+violation of this section;
+(2) investigate the report; and
+(3) if the department determines that the insurance producer
+has violated this section at least three (3) times in a twelve (12)
+month period, the commissioner shall assess the insurance
+producer with an appropriate penalty set forth in section 12
+of this chapter.
+SECTION 40. IC 27-1-24.5-25, AS AMENDED BY P.L.152-2024,
+SECTION 12, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 25. (a) A contract holder may, one (1) time in
+a calendar year and not earlier than six (6) months following a
+previously requested audit, request an audit of compliance with the
+contract. If requested by the contract holder, the audit shall include full
+HEA 1004 — CC 1
+
+
+--- Page 47 ---
+47
+disclosure of the following data specific to the contract holder:
+(1) Rebate amounts secured on prescription drugs, whether
+product specific or general rebates, that were provided by a
+pharmaceutical manufacturer. The information provided unde r
+this subdivision must identify the prescription drugs by
+therapeutic category.
+(2) Pharmaceutical and device claims received by the pharmacy
+benefit manager on any of the following:
+(A) The CMS-1500 form or its successor form.
+(B) The HCFA-1500 form or its successor form.
+(C) The HIPAA X12 837P electronic claims transaction for
+professional services, or its successor transaction.
+(D) The HIPAA X12 837I institutional form or its successor
+form.
+(E) The CMS-1450 form or its successor form.
+(F) The UB-04 form or its successor form.
+The forms or transaction may be modified as necessary to comply
+with the federal Health Insurance Portability and Accountability
+Act (HIPAA) (P.L. 104-191) or to redact a trade secret (as defined
+in IC 24-2-3-2).
+(3) Pharmaceutical and device claims payments or electronic
+funds transfer or remittance advice notices provided by the
+pharmacy benefit manager as ASC X12N 835 files or a successor
+format. The files may be modified as necessary to comply with
+the federal Health Insurance Portability and Accountability Act
+(HIPAA) (P.L. 104-191) or to redact a trade secret (as defined in
+IC 24-2-3-2). In the event that paper claims are provided, the
+pharmacy benefit manager shall convert the paper claims to the
+ASC X12N 835 electronic format or a successor format.
+(4) Any other revenue and fees derived by the pharmacy benefit
+manager from the contract, including all direct and indirect
+remuneration from pharmaceutical manufacturers regardless of
+whether the remuneration is classified as a rebate, fee, or another
+term.
+(b) A pharmacy benefit manager may not impose the following:
+(1) Fees for:
+(A) requesting an audit under this section; or
+(B) selecting an auditor other than an auditor designated by the
+pharmacy benefit manager.
+(2) Conditions that would restrict a contract holder's right to
+conduct an audit under this section, including restrictions on the:
+(A) time period of the audit;
+HEA 1004 — CC 1
+
+
+--- Page 48 ---
+48
+(B) number of claims analyzed;
+(C) type of analysis conducted;
+(D) data elements used in the analysis; or
+(E) selection of an auditor as long as the auditor:
+(i) does not have a conflict of interest;
+(ii) meets a threshold for liability insurance specified in the
+contract between the parties;
+(iii) does not work on a contingent fee basis; and
+(iv) does not have a history of breaching nondisclosure
+agreements.
+(c) A pharmacy benefit manager shall disclose, upon request from
+a contract holder, to the contract holder the actual amounts directly or
+indirectly paid by the pharmacy benefit manager to the pharmacist or
+pharmacy for the drug and for pharmacist services related to the drug.
+(d) A pharmacy benefit manager shall provide notice to a contract
+holder contracting with the pharmacy benefit manager of any
+consideration, including direct or indirect remuneration, that the
+pharmacy benefit manag er receives from a pharmaceutical
+manufacturer or group purchasing organization for formulary
+placement or any other reason.
+(e) The commissioner may establish a procedure to release
+information from an audit performed by the department to a contract
+holder that has requested an audit under this section in a manner that
+does not violate confidential or proprietary information laws.
+(f) A contract that is entered into, issued, amended, or renewed after
+June 30, 2024, may not contain a provision that violates this section.
+(g) A pharmacy benefit manager shall:
+(1) obtain any information requested in an audit under this section
+from a group purchasing organization or other partner entity of
+the pharmacy benefit manager; and
+(2) confirm receipt of a request for an audit under this section
+provide claims data to the contract holder not later than ten (10)
+fifteen (15) business days after the information or claims data is
+requested.
+(h) Information provided in an audit under this section must be
+provided in accordance with the federal Health Insurance Portability
+and Accountability Act (HIPAA) (P.L. 104-191).
+SECTION 41. IC 27-1-24.6 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]:
+Chapter 24.6. Disclosure of Negotiated Rate
+Sec. 1. This chapter applies to generic drugs covered under a
+HEA 1004 — CC 1
+
+
+--- Page 49 ---
+49
+health plan after December 31, 2025.
+Sec. 2. As used in this chapter, "generic drug" has the meaning
+set forth in IC 27-1-24.5-4.
+Sec. 3. As used in this chapter, "health plan" means the
+following:
+(1) A state employee health plan (as described in IC 5-10-8-7).
+(2) A policy of accident and sickness insurance (as defined in
+IC 27-8-5-1). However, the term does not include the
+coverages described in IC 27-8-5-2.5(a).
+(3) An individual contract (as defined in IC 27-13-1-21) or a
+group contract (as defined in IC 27-13-1-16) that provides
+coverage for basic health care services (as defined in
+IC 27-13-1-4.
+Sec. 4. As used in this chapter, "national average drug
+acquisition cost" means the average price pharmacies pay for a
+prescription drug. The term does not include a dispensing fee or a
+professional fee.
+Sec. 5. As used in this chapter, "plan sponsor" means:
+(1) an employer or organization that offers health insurance
+coverage to its employees or members under a health plan; or
+(2) for purposes of an individual policy of accident and
+sickness insurance or an individual contract, the policyholder.
+Sec. 6. A health plan must provide the amount of the national
+average drug acquisition cost for a generic drug to the plan
+sponsor.
+SECTION 42. IC 27-1-24.7 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]:
+Chapter 24.7. Disclosure of Rebates
+Sec. 1. This chapter applies to an agreement between a
+pharmacy benefit manager and a health plan regarding
+prescription drugs that is entered into, renewed, or renegotiated
+after Decem ber 31, 2025. This chapter does not apply to a health
+plan, with point of sale rebates, if at least eighty-five percent (85%)
+of the estimated rebates are deducted from the cost of prescription
+drugs dispensed at a pharmacy or via mail order before a covered
+individual's cost sharing requirement is determined.
+Sec. 2. As used in this chapter, "covered individual" means an
+individual who is entitled to coverage under a health plan.
+Sec. 3. As used in this chapter, "health plan" means the
+following:
+(1) A state employee health plan (as described in IC 5-10-8-7).
+HEA 1004 — CC 1
+
+
+--- Page 50 ---
+50
+(2) A policy of accident and sickness insurance (as defined in
+IC 27-8-5-1).
+(3) An individual contract (as defined in IC 27-13-1-21) and a
+group contract (as defined in IC 27-13-1-16).
+(4) Any other plan or program that provides payment,
+reimbursement, or indemnification to a covered individual for
+the cost of prescription drugs.
+Sec. 4. As used in this chapter, "policyholder" means an
+individual in whose name a health plan is held.
+Sec. 5. As used in this chapter, "prescription drug" means a
+controlled substance or a legend drug (as defined in
+IC 16-18-2-199).
+Sec. 6. (a) As used in this chapter, "rebate" means a discount or
+other price concession that is:
+(1) based on the use of a prescription drug; and
+(2) paid by a manufacturer or a third party to a pharmacy
+benefit manager (as defined in IC 27-1-24.5- 12), pharmacy
+servi ces administrative organ ization (as defined in
+IC 27-1-24.5-15), or pharmacy (as defined in IC 27-1-24.5-11)
+after a claim has been processed and paid at a pharmacy.
+(b) The term includes an incentive and a disbursement.
+Sec. 7. An agreement to which this chapter applies must contain
+a contractual provision that requires the pharmacy benefit
+manager to provide on an annual basis, not later than sixty (60)
+days after the end of each policy year, a notice to a policyholder
+that states the following:
+(1) An explanation of what a rebate is.
+(2) An explanation of how rebates accrue to a health plan
+from a manufacturer.
+(3) The aggregate amount of rebates for all prescription drugs
+dispensed or administered to covered individuals on the
+policyholder's health plan that accrued to the health plan
+during the previous policy year. This information may not
+include any information about an individual prescription
+drug, including the name, manufacturer, quantity, or dosage
+of a prescription drug.
+The notice required by this section may be provided by first class
+mail or electronic mail.
+SECTION 43. IC 27-1-36.8 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]:
+Chapter 36.8. Hospital Health Care Provider Contracts
+HEA 1004 — CC 1
+
+
+--- Page 51 ---
+51
+Sec. 1. This chapter applies to a hospital health care provider
+contract entered into, amended, or renewed after June 30, 2025.
+Sec. 2. (a) As used in this chapter, "health carrier" means an
+entity that enters into a contract to:
+(1) provide health care services;
+(2) deliver health care services;
+(3) arrange for health care services; or
+(4) pay for or reimburse any of the cost of health care
+services.
+(b) The term includes the following:
+(1) An employee welfare benefit plan (as defined in 29 U.S.C.
+1002 et seq.).
+(2) A policy of accident and sickness insurance (as defined in
+IC 27-8-5-1(a)).
+(3) An individual contract (as defined in IC 27-13-1-21) or a
+group contract (as defined in IC 27-13-1-16) with a health
+maintenance organization.
+(4) A multiple employer welfare arrangement (as defined in
+IC 27-1-34-1).
+(5) An employee benefit plan that is subject to the federal
+Employee Retirement Income Security Act of 1974 (29 U.S.C.
+1001 et seq.), including any third party administrator or an
+employee benefit plan.
+(6) An administrator (as defined in IC 27-1-25-1(a)) that is
+licensed under IC 27-1-25.
+Sec. 3. As used in this chapter, "hospital" means a hospital
+licensed under IC 16-21.
+Sec. 4. As used in this chapter, "hospital health care provider
+contract" means an agreement between a hospital and a health
+carrier concerning terms and conditions of reimbursement for
+health care services provided to an individual under any of the
+following:
+(1) An employee welfare benefit plan (as defined in 29 U.S.C.
+1002 et seq.).
+(2) A policy of accident and sickness insurance (as defined in
+IC 27-8-5-1(a)).
+(3) An individual contract (as defined in IC 27-13-1-21) or a
+group contract (as defined in IC 27-13-1-16) with a health
+maintenance organization.
+(4) A multiple employer welfare arrangement (as defined in
+IC 27-1-34-1).
+(5) An employee benefit plan that is subject to the federal
+HEA 1004 — CC 1
+
+
+--- Page 52 ---
+52
+Employee Retirement Income Security Act of 1974 (29 U.S.C.
+1001 et seq.), including any third party administrator or an
+employee benefit plan.
+Sec. 5. A hospital may not enter into a hospital health care
+provider contract that includes a provision that links to or
+negotiates reimbursement or terms under a separate:
+(1) hospital health care provider contract; or
+(2) product.
+SECTION 44. IC 27-1-37-6.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 6.5. (a) As used in this section,
+"health plan" means any of the following that provides coverage
+for health care services:
+(1) A policy of accident and sickness insurance (as defined in
+IC 27-8-5-1). However, the term does not include the
+coverages described in IC 27-8-5-2.5(a).
+(2) A contract with a health maintenance organization (as
+defined in IC 27-13-1-19) that provides coverage for basic
+health care services (as defined in IC 27-13-1-4).
+(b) Before July 1, 2026, the office of management and budget
+shall study the effect, including the fiscal impact, of requiring
+physician reimbursement rates under a commercial health plan to
+be at a minimum rate.
+(c) The office of management and budget shall report the
+findings of the study under this section to:
+(1) the governor; and
+(2) the general assembly in an electronic format under
+IC 5-14-6.
+(d) This section expires December 31, 2026.
+SECTION 45. IC 27-1-44.5-2, AS AMENDED BY P.L.190-2023,
+SECTION 19, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 2. As used in this chapter, "health payer"
+includes the following:
+(1) Medicare.
+(2) Medicaid or a managed care organization (as defined in
+IC 12-7-2-126.9) that has contracted with Medicaid to provide
+services to a Medicaid recipient.
+(3) An insurer that issues a policy of accident and sickness
+insurance (as defined in IC 27-8-5-1), except for the following
+types of coverage:
+(A) Accident only, credit, dental, vision, long term care, or
+disability income insurance.
+HEA 1004 — CC 1
+
+
+--- Page 53 ---
+53
+(B) Coverage issued as a supplement to liability insurance.
+(C) Automobile medical payment insurance.
+(D) A specified disease policy.
+(E) A policy that provides indemnity benefits not based on any
+expense incurred requirements, including a plan that provides
+coverage for:
+(i) hospital confinement, critical illness, or intensive care; or
+(ii) gaps for deductibles or copayments.
+(F) Worker's compensation or similar insurance.
+(G) A student health plan.
+(H) A supplemental plan that always pays in addition to other
+coverage.
+(4) A health maintenance organization (as defined in
+IC 27-13-1-19).
+(5) A pharmacy benefit manager (as defined in IC 27-1-24.5-12).
+(6) An administrator (as defined in IC 27-1-25-1).
+(7) A multiple employer welfare arrangement (as defined in
+IC 27-1-34-1).
+(8) An employee benefit plan that is subject to the federal
+Employee Retirement Income Security Act of 1974 (29 U.S.C.
+1001 et seq.), including a third party administrator of an employee
+benefit plan.
+(9) A state employee health plan (as defined in IC 5-10-8-6.7(a)).
+(10) An insurance producer, for purposes of the required
+reporting under IC 27-1-15.6-13.6.
+(10) (11) Any other person identified by the commissioner for
+participation in the data base described in this chapter.
+SECTION 46. IC 27-1-46.5 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]:
+Chapter 46.5. Direct to Employer Health Care Arrangements
+Sec. 1. As used in this chapter, "direct to employer health care
+arrangement" means an arrangement between:
+(1) a hospital;
+(2) a hospital system;
+(3) an Indiana nonprofit hospital system; or
+(4) a narrow network of hospitals;
+and an employer that provides health care benefits for covered
+services under an employee benefits plan.
+Sec. 2. As used in this chapter, "full Medicare" refers to the
+amount the Medicare program pays for a covered service,
+including all hospital-specific Medicare adjustments.
+HEA 1004 — CC 1
+
+
+--- Page 54 ---
+54
+Sec. 3. (a) As used in this chapter and except as provided in
+subsection (b), "hospital" means an acute care hospital licensed
+under IC 16-21.
+(b) The term does not include the following:
+(1) A hospital specifically intended to diagnose, care, and treat
+the following:
+(A) Individuals with a mental illness (as defined in
+IC 12-7-2-117.6).
+(B) Individuals with a developmental disability (as defined
+in IC 12-7-2-61).
+(2) A hospital designated by the Medicaid program as a long
+term care hospital.
+(3) A hospital that is a Medicare certified, freestanding
+rehabilitation hospital.
+(4) A hospital that is operated by the federal government.
+(5) A critical access hospital.
+(6) A rural emergency hospital.
+Sec. 4. As used in this chapter, "hospital system" means one (1)
+or more hospitals, all of which are related by direct or indirect
+common control or ownership.
+Sec. 5. As used in this chapter, "Indiana nonprofit hospital
+system" means a hospital system that:
+(1) is organ ized as a nonprofit corporation or a charitable
+trust under Indiana law or the laws of any other state or
+country and that is:
+(A) eligible for tax exempt bond financing; or
+(B) exempt from state or local taxes;
+(2) filed jointly one (1) audited financial statement with the
+Indiana department of health in the preceding calendar year;
+and
+(3) has an annual net patient service revenue derived in
+Indiana of at least two billion dollars ($2,000,000,000), based
+on the hospital system's most recently submitted audited
+financial statement filed with the Indiana department of
+health. As used in this subdivision, "patient service revenue"
+includes similar terms, including net patient service revenue
+and patient care service revenue.
+Sec. 6. As used in this chapter, "narrow network" means an
+arrangement that limits the hospitals that a covered individual may
+use to obtain covered services under an employee benefit plan.
+Sec. 7. As used in this chapter, "prices" means the amounts that
+are paid for patient care services.
+HEA 1004 — CC 1
+
+
+--- Page 55 ---
+55
+Sec. 8. As used in this chapter, "third party administrator"
+means an individual or entity that performs administrative services
+for a direct to employer health care arrangement.
+Sec. 9. (a) Beginning September 1, 2025, an Indiana nonprofit
+hospital system shall offer a direct to employer health care
+arrangement that is at or below a benchmark of two hundred sixty
+percent (260%) of full Medicare.
+(b) The benchmark described in subsection (a) shall be
+calculated by taking the sum of:
+(1) hospital inpatient facility prices; and
+(2) hospital outpatient facility prices;
+expressed as a percentage of full Medicare.
+(c) An Indiana nonprofit hospital system meets the
+requirements of subsection (a) by doing any of the following:
+(1) Offering a direct to employer health care arrangement
+that is at or below a benchmark of two hundred sixty percent
+(260%) of full Medicare at each individual hospital within the
+Indiana nonprofit hospital system.
+(2) Offering a direct to employer health care arrangement
+that is at or below a benchmark of two hundred sixty percent
+(260%) of full Medicare as an Indiana nonprofit hospital
+system.
+(3) Participating in a narrow network of hospitals to offer a
+direct to employer health care arrangement that is at or below
+a benchmark of two hundred sixty percent (260%) of full
+Medicare.
+(d) Beginning October 1, 2025, and before every October 1
+thereafter, an Indiana nonprofit hospital system shall cooperate
+with an audit by the Indiana department of health to determine
+compliance with this section.
+(e) The Indiana department of health shall assess an Indiana
+nonprofit hospital system that the Indiana department of health
+determines through an audit has violated this section with a civil
+penalty of ten thousand dollars ($10,000) per day per hospital for
+which the Indiana nonprofit hospital system is unable to
+demonstrate compliance with this section. A fine collected under
+this subsection shall be deposited into the payer affordability
+penalty fund established by IC 12-15-1-18.5.
+Sec. 10. (a) Beginning September 1, 2026, a hospital that is not
+a part of an Indiana nonprofit hospital system shall offer a direct
+to employer health care arrangement that is at or below a
+benchmark of two hundred sixty percent (260%) of full Medicare.
+HEA 1004 — CC 1
+
+
+--- Page 56 ---
+56
+(b) The benchmark described in subsection (a) shall be
+calculated by taking the sum of:
+(1) hospital inpatient facility prices;
+(2) hospital outpatient facility prices; and
+(3) professional fee for services provided to a patient by an
+employed qualified practitioner;
+expressed as a percentage of full Medicare.
+(c) A hospital meets the requirements of subsection (a) by doing
+any of the following:
+(1) Offering a direct to employer health care arrangement
+that is at or below a benchmark of two hundred sixty percent
+(260%) of full Medicare as an individual hospital.
+(2) Offering a direct to employer health care arrangement
+that is at or below a benchmark of two hundred sixty percent
+(260%) of full Medicare as a hospital system.
+(3) Participating in a narrow network of hospitals to offer a
+direct to employer health care arrangement that is at or below
+a benchmark of two hundred sixty percent (260%) of full
+Medicare.
+(d) Beginning October 1, 2026, and before every October 1
+thereafter, a hospital shall cooperate with an audit by the Indiana
+department of health to determine compliance with this section.
+(e) The Indiana department of health shall assess a hospital that
+the Indiana department of health determines through an audit has
+violated this section with a civil penalty of ten thousand dollars
+($10,000) per day per hospital that is unable to demonstrate
+compliance with this section. A fine collected under this subsection
+shall be deposited into the payer affordability penalty fund
+established by IC 12-15-1-18.5.
+Sec. 11. (a) Not later than thirty (30) days after a request by a
+contract holder of a direct to employer health care arrangement,
+a third party administrator that has contracted to administer a
+direct to employer health care arran gement shall provide claims
+data to the contract holder. The claims data must include the
+following:
+(1) The effective date of coverage.
+(2) The total number of covered individuals.
+(3) The total monthly earned premium.
+(4) The total monthly dollar value of paid claims, regardless
+of the period in which the claims were incurred.
+(5) The:
+(A) beginning and end date of the period for which claims
+HEA 1004 — CC 1
+
+
+--- Page 57 ---
+57
+were paid; and
+(B) percentage of claims that were paid in:
+(i) less than thirty (30) days;
+(ii) thirty (30) days to sixty (60) days;
+(iii) sixty-one (61) to ninety (90) days; and
+(iv) over ninety (90) days.
+(6) The reserve value as of the beginning of the period and the
+reserve value as of the date through which the paid claims
+data was obtained.
+(7) A description of each  large or catastrophic claim
+exceeding fifty thousand dollars ($50,000), including:
+(A) the diagnosis;
+(B) the dollar amount of the claim;
+(C) whether the claim is opened or closed; and
+(D) the length of time the claim was open.
+(8) Any other claims data requested by the contract holder.
+(b) Information provided under this section must be provided
+in accordance with the federal Health Insurance Portability and
+Accountability Act, including 45 CFR Part 160 and Part 164,
+Subparts A and E.
+(c) Before January 1, 2026, the department shall establish a
+process for a contract holder of a direct to employer health care
+arrangement to file a complaint with the department that a third
+party administrator violated this section. The department shall
+conduct an examination under IC 27-1-3.1 upon receiving a
+complaint under this subsection.
+SECTION 47. IC 27-1-50.3 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]:
+Chapter 50.3. Managed Care Assessment Fee
+Sec. 1. The following definitions apply throughout this chapter:
+(1) "Business day" means a day other than Saturday or
+Sunday, or a legal holiday listed in IC 1-1-9-1.
+(2) "Commissioner" refers to the insurance commissioner
+appointed under IC 27-1-1-2.
+(3) "Department" refers to the department of insurance
+created by IC 27-1-1-1.
+(4) "Fee" refers to the fee on managed care organizations
+authorized by this chapter.
+(5) "Managed care organization" means an organization that
+holds a certificate of authority, license, or other similar
+authorization issued by the department and that is a managed
+HEA 1004 — CC 1
+
+
+--- Page 58 ---
+58
+care organization for purposes of 42 U.S.C.
+1396b(w)(7)(A)(viii) and 42 CFR 433.56(a)(8). The term does
+not include an organization that only offers a policy, plan, or
+coverage set forth in IC 27-8-5-2.5(a).
+(6) "Office" refers to the office of Medicaid policy and
+planning established by IC 12-8-6.5-1.
+(7) "Secretary" refers to the secretary of family and social
+services appointed under IC 12-8-1.5-2.
+(8) "State's share" means the portion of allowable Medicaid
+expenses funded by the state, by other units of government,
+or, as permitted by federal Medicaid laws, by other entities
+other than the federal government.
+Sec. 2. (a) Subject to subsections (b) and (c) and this chapter, a
+fee is authorized.
+(b) The fee may not be assessed without approval from the
+United States Department of Health and Human Services.
+(c) The assessment of the fee shall cease upon the United States
+Department of Health and Human Services' determination that the
+fee is no longer a permissible health care related tax that is eligible
+for federal financial participation.
+Sec. 3. The office may, subject to section 6 of this chapter, assess
+a fee upon managed care organizations to support administration
+of the state Medicaid program.
+Sec. 4. The fee collected under this chapter may only be used to
+pay the state's share of the cost of Medicaid services provided
+under the Medicaid program (42 U.S.C. 1396 et seq.).
+Sec. 5. (a) Not later than May 30, 2025, and after consulting with
+the secretary or the secretary's designee regarding compliance
+with 42 U.S.C. 1396b(w)(7)(A)(viii) and 42 CFR 433.56(a)(8) and
+the types of managed care organizations recognized under Indiana
+law, the commissioner or the commissioner's designee shall provide
+the secretary or the secretary's designee with a list of the managed
+care organizations that hold a certificate of authority, license, or
+other similar authorization issued by the department and that are
+managed care organizations for purposes of 42 U.S.C.
+1396b(w)(7)(A)(viii) and 42 CFR 433.56(a)(8).
+(b) The commissioner or the commissioner's designee shall
+update this list to the secretary or the secretary's designee not
+sooner than one hundred twenty (120) days, and not later than
+ninety (90) days, from the start of each state fiscal year for which
+the fee is assessed.
+Sec. 6. (a) The fee must meet the requirements of the federal
+HEA 1004 — CC 1
+
+
+--- Page 59 ---
+59
+Medicaid statutes and regulations for permissible health care
+related taxes.
+(b) The office may request a waiver from the United States
+Department of Health and Human Services of the broad based and
+uniformity requirements under 42 CFR 433.68 relating to the
+assessment under this chapter.
+(c) Subject to subsection (a):
+(1) the office may assess the fee on a tiered basis among the
+managed care organizations; and
+(2) the office may assess the fee based on member months,
+premium revenue, or any other methodology approved by the
+United States Department of Health and Human Services.
+Sec. 7. The office shall submit a written request to the United
+States Department of Health and Human Services for approval of
+the managed care assessment fee on or after June 30, 2025. Subject
+to the requirements of this chapter, the office is authorized to
+negotiate with the United States Department of Health and Human
+Services regard ing the terms and conditions for the
+implementation and maintenance of the fee.
+Sec. 8. (a) A managed care organization that is assessed under
+this chapter for a state fiscal year shall pay the assessment in
+monthly installments, each equaling one-twelfth (1/12) of the
+assessment for the state fiscal year, on the first business day of each
+calendar month of the state fiscal year.
+(b) Not later than thirty (30) days before the start of each state
+fiscal year, the office shall notify each managed care organization
+of the managed care organization's annual assessment and the
+installment due dates for the assessment.
+Sec. 9. (a) The managed  care assessment fee holding fund is
+established for the purpose of holding the fees collected under this
+chapter.
+(b) The office shall administer the fund.
+(c) Money in the fund consists of the following:
+(1) Fees collected under this chapter, including penalty
+payments under section 11 of this chapter.
+(2) Donations, gifts, appropriations by the general assembly,
+and money received from any other source.
+(3) Interest accrued under this section.
+(d) Money remaining in the fund at the end of a state fiscal year
+reverts to the state general fund.
+(e) The treasurer of state shall invest the money in the fund not
+currently needed to meet the obligations of the fund in the same
+HEA 1004 — CC 1
+
+
+--- Page 60 ---
+60
+manner as other public funds may be invested. Interest that
+accrues from these investments shall be deposited in the fund.
+Sec. 10. (a) A managed care organization that is liable for an
+assessment under this chapter shall keep accurate and complete
+records and pertinent documents that are relevant to the
+organization's assessment under this chapter, as may be required
+by the department or the office.
+(b) The department or the office may audit all records necessary
+to ensure compliance with this chapter and make adjustments to
+assessment amounts previously calculated based on the results of
+the audit.
+Sec. 11. (a) For good cause shown by a managed care
+organization due to financial or other difficulties, as determined by
+the office, the office is authorized to grant grace periods, of up to
+thirty (30) days, for the managed care organization's payment of
+an installment payment due under this chapter.
+(b) If a managed care organization that is liable for an
+assessment under this chapter fails to make an installment
+payment by the payment's due date, and no grace period has been
+granted to the managed care organization for the payment of the
+installment payment, the managed care organization shall pay a
+penalty of ten percent (10%) of the amount of the installment
+payment not paid, plus ten percent (10%) of the portion remaining
+unpaid on the last day of every thirty (30) day period thereafter.
+These penalty payments shall be deposited into the managed care
+assessment fee holding fund.
+(c) If a managed care organization that is liable for an
+assessment under this chapter is granted a grace period but fails to
+make its installment payment by the end of the grace period, the
+managed care organization shall pay a penalty of five percent (5%)
+of the amount of the installment payment not paid, plus five
+percent (5%) of the portion remaining unpaid on the last day of
+every thirty (30) day period thereafter. These penalty payments
+shall be deposited into the managed care assessment fee holding
+fund.
+(d) Notwithstanding subsections (b) and (c), with respect to a
+managed care organization that has a comprehensive risk contract
+with the office under IC 12-15 that fails to make an installment
+payment not later than sixty (60) days after the due date or, if
+applicable, not later than sixty (60) days after the end of a grace
+period, the office may additionally impose a contractual sanction
+allowed against the managed care organization, and may terminate
+HEA 1004 — CC 1
+
+
+--- Page 61 ---
+61
+the contract with the office.
+(e) Notwithstanding subsections (b) through (d), with respect to
+a managed care organization that fails to make an installment
+payment not later than sixty (60) days after the due date or, if
+applicable, not later than sixty (60) days after the end of a grace
+period, the department may suspend or revoke, after notice and
+hearing, the managed care organization's certificate of authority,
+license, or other authority to operate in Indiana.
+Sec. 12. The office may adopt rules under IC 4-22-2 to
+implement this chapter.
+SECTION 48. IC 27-2-25.5-1, AS ADDED BY P.L.203-2023,
+SECTION 22, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 1. (a) Not more than twice annually four (4)
+times per calendar year for a contract holder, a third party
+administrator, an insurer (as defined in IC 27-1-2-3(x)) that issues a
+policy of accident and sickness insurance (as defined in
+IC 27-8-5-1(a)), or a health maintenance organization (as defined in
+IC 27-13-1-19) that has contracted to administer a self-funded group
+plan or a fully insured group plan shall provide claims data to the
+contract holder for which the contract was entered into not later than
+fifteen (15) business days from a request for the claims data. The
+claims data must include the following:
+(1) The effective date of coverage.
+(2) The total number of covered individuals.
+(3) The total monthly earned premium.
+(4) The total monthly dollar value of paid claims, regardless of the
+period in which the claims were incurred.
+(5) The:
+(A) beginning and ending date of the period for which claims
+were paid; and
+(B) percentage of claims that were paid in:
+(i) less than thirty (30) days;
+(ii) thirty (30) days to sixty (60) days;
+(iii) sixty-one (61) days to ninety (90) days; and
+(iv) over ninety (90) days.
+(6) For groups insuring at least one hundred (100) employees:
+(A) the reserve value as of the beginning of the period; and
+(B) the reserve value as of the date through which the paid
+claims data was obtained.
+(7) A description of each large or catastrophic claim exceeding
+fifty thousand dollars ($50,000), including:
+(A) the diagnosis;
+HEA 1004 — CC 1
+
+
+--- Page 62 ---
+62
+(B) the dollar amount of the claim;
+(C) whether the claim is opened or closed; and
+(D) the length of time the claim was open.
+(8) Any other claims data requested by the contract holder.
+(b) The department may prescribe the format and manner for the
+submission of the data described in subsection (a) with the purpose of
+ensuring that the information is provided in an easily readable manner.
+(c) Information provided under this section must be provided in
+accordance with the federal Health Insurance Portability and
+Accountability Act, including 45 CFR Part 160 and Part 164, Subparts
+A and E.
+(d) The department shall perform an examination under
+IC 27-1-3.1 for any alleged violation of this section.
+SECTION 49. IC 27-2-25.5-4, AS ADDED BY P.L.152-2024,
+SECTION 16, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 4. (a) A plan sponsor that contracts with a
+third party administrator, the office of the secretary of family and social
+services that contracts with a managed care organization (as defined in
+IC 12-7-2-126.9)  to provide services to a Medicaid recipient, or the
+state personnel department that contracts with a prepaid health care
+delivery plan under IC 5-10-8-7(c) to provide group health coverage for
+state employees may, one (1) time in a calendar year and not earlier
+than six (6) months following a previously requested audit, request an
+audit of compliance with the contract. If requested by the plan sponsor,
+office of the secretary of family and social services, or state personnel
+department, the audit shall include full disclosure of the following
+concerning data specific to the plan sponsor, office of the secretary, or
+state personnel department:
+(1) Claims data described in section 1 of this chapter.
+(2) Claims received by the third party administrator, managed
+care organization, or prepaid health care delivery plan on any of
+the following:
+(A) The CMS-1500 form or its successor form.
+(B) The HCFA-1500 form or its successor form.
+(C) The HIPAA X12 837P electronic claims transaction for
+professional services, or its successor transaction.
+(D) The HIPAA X12 837I institutional form or its successor
+form.
+(E) The CMS-1450 form or its successor form.
+(F) The UB-04 form or its successor form.
+The forms or transaction may be modified as necessary to comply
+with the federal Health Insurance Portability and Accountability
+HEA 1004 — CC 1
+
+
+--- Page 63 ---
+63
+Act (HIPAA) (P.L. 104-191) or to redact a trade secret (as defined
+in IC 24-2-3-2).
+(3) Claims payments, electronic funds transfer, or remittance
+advice notices provided by the third party administrator, managed
+care organization, or prepaid health care delivery plan as ASC
+X12N 835 files or a successor format. The files may be modified
+only as necessary to comply with the federal Health Insurance
+Portability and Accountability Act (HIPAA) (P.L. 104-191) or to
+redact a trade secret (as defined in IC 24-2-3-2). In the event that
+paper claims are provided, the third party administrator, managed
+care organization, or prepaid health care delivery plan shall
+convert the paper claims to the ASC X12N 835 electronic format
+or a successor format.
+(4) Any fees charged to the plan sponsor, office of the secretary
+of family and social services, or state personnel department
+related to plan administration and claims processing, including
+renegotiation fees, access fees, repricing fees, or enhanced review
+fees.
+(b) A third party administrator, managed care organization, or
+prepaid health care delivery plan may not impose:
+(1) fees for:
+(A) requesting an audit under this section; or
+(B) selecting an auditor other than an auditor designated by the
+third party administrator, managed care organization, or
+prepaid health care delivery plan; or
+(2) conditions that would restrict a party's right to conduct an
+audit under this section, including restrictions on the:
+(A) time period of the audit;
+(B) number of claims analyzed;
+(C) type of analysis conducted;
+(D) data elements used in the analysis; or
+(E) selection of an auditor as long as the auditor:
+(i) does not have a conflict of interest;
+(ii) meets a threshold for liability insurance specified in the
+contract between the parties;
+(iii) does not work on a contingent fee basis; and
+(iv) does not have a history of breaching nondisclosure
+agreements.
+(c) A third party administrator, managed care organization, or
+prepaid health care delivery plan shall confirm receipt of a request for
+an audit under this section to the plan sponsor, office of the secretary
+of family and social services, or state personnel department provide
+HEA 1004 — CC 1
+
+
+--- Page 64 ---
+64
+claims data to the contract holder not later than ten (10) fifteen (15)
+business days after the information claims data is requested.
+(d) Information provided in an audit under this section must be
+provided in accordance with the federal Health Insurance Portability
+and Accountability Act (HIPAA) (P.L. 104-191).
+(e) A contract that is entered into, issued, amended, or renewed after
+June 30, 2024, may not contain a provision that violates this section.
+(f) A violation of this section is an unfair or deceptive act or practice
+in the business of insurance under IC 27-4-1-4.
+(g) The department may also adopt rules under IC 4-22-2 to set forth
+fines for a violation under this section.
+SECTION 50. IC 27-8-5-1.7 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 1.7. (a) This section applies to a policy of
+accident and sickness insurance issued on an individual, a group,
+a franchise, or a blanket basis, including a policy issued by an
+assessment company or a fraternal benefit society.
+(b) A filer under section 1.5 of this chapter shall file the
+following information with the commissioner as part of the filing
+under this chapter:
+(1) The change in hospital reimbursement for inpatient and
+outpatient services from the preceding calendar year.
+(2) The impact of the change described in subdivision (1) to
+policy premiums.
+(c) The department shall annually submit a report to:
+(1) the general assembly, in an electronic format under
+IC 5-14-6; and
+(2) the governor;
+summarizing the information submitted to the department under
+subsection (b).
+SECTION 51. IC 27-13-20-1.3 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 1.3. (a) A health maintenance
+organization shall file the following information with the
+commissioner as part of the filing under this chapter:
+(1) The change in hospital reimbursement for inpatient and
+outpatient services from the preceding calendar year.
+(2) The impact of the change described in subdivision (1) to
+policy premiums.
+(b) The department shall annually submit a report to:
+(1) the general assembly, in an electronic format under
+IC 5-14-6; and
+HEA 1004 — CC 1
+
+
+--- Page 65 ---
+65
+(2) the governor;
+summarizing the information submitted to the department under
+subsection (a).
+SECTION 52. [EFFECTIVE UPON PASSAGE] (a) As used in this
+SECTION, "preprint" means the document required to be
+submitted to the United States Department of Health and Human
+Services that implements the prior approval process for a state
+directed payment arrangement described in 42 CFR 438.6(c).
+(b) The office of the secretary of family and social services shall
+amend 405 IAC 1-8-5 and 405 IAC 1-10.5-7 to reflect the
+amendments in this act and any Medicaid state plan amendment,
+Medicaid waiver, or preprint submitted for purposes of 42 CFR
+438.6(c):
+(1) submitted to the budget committee in accordance with
+IC 12-15-1.3-17.5; and
+(2) approved by the United States Department of Health and
+Human Services.
+The office of the secretary may adopt the changes required by this
+subsection as provisional rules or interim rules in the manner set
+forth in IC 4-22-2.
+(c) The administrative rules amended under subsection (b) are
+effective and may be retroactive to the date the United States
+Department of Health and Human Services approved a Medicaid
+state plan amendment or Medicaid waiver described in subsection
+(b).
+(d) Notwithstanding the expiration dates in IC 4-22-2, if the
+office of the secretary adopts the changes to the administrative
+rules as required in subsection (b) through a provisional or an
+interim rule, the provisional or interim rule expires not later than
+the earlier of the following:
+(1) The date on which a rule that supersedes the provisional
+or interim rule is adopted by the office of the secretary under
+IC 4-22-2-19.7 through IC 4-22-2-36.
+(2) July 1, 2027.
+(e) This SECTION expires July 1, 2027.
+SECTION 53. An emergency is declared for this act.
+HEA 1004 — CC 1
+
+
+--- Page 66 ---
+Speaker of the House of Representatives
+President of the Senate
+President Pro Tempore
+Governor of the State of Indiana
+Date: Time: 
+HEA 1004 — CC 1

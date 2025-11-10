@@ -1,0 +1,123 @@
+--- Page 1 ---
+*SB0242.1*
+February 7, 2025
+SENATE BILL No. 242
+_____
+DIGEST OF  SB 242 (Updated February 5, 2025 12:34 pm - DI 1 04)
+Citations Affected:  IC 12-15.
+Synopsis:  Payment for Medicaid physician services. Requires the
+office of Medicaid policy and planning (office) or a managed care
+organization to promptly cover physician services rendered in a
+hospital emergency department by a physician who has entered into a
+provider agreement with the office or managed care organization,
+without limiting what constitutes an emergency medical condition.
+Specifies considerations that must be made in determining whether the
+prudent layperson standard has been met. Prohibits any delay in or
+denial of compensation to the physician unless the cause of the delay
+or denial is specifically provided for in: (1) the Medicaid managed care
+law; (2) an administrative rule adopted under the Medicaid managed
+care law; (3) the federal administrative rules on Medicaid managed
+care; or (4) the provider agreement. Prohibits a managed care
+organization from denying an emergency services claim solely because
+the claim code is not listed on the autopay list.
+Effective:  July 1, 2025.
+Johns on T, Busch
+January 13, 2025, read first time and referred to Commi ttee on Health and Provi der
+Services.
+February 6, 2025, amended, reported favorably — Do Pa ss; reassigned to Commi ttee on
+Appropriations.
+SB 242—LS 6673/DI 147
+
+
+--- Page 3 ---
+February 7, 2025
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provi sion is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+SENATE BILL No. 242
+A BILL FOR AN ACT to amend the Indiana Code concerning
+human services.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 12-15-12-24 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2025]: Sec. 24. (a) This section applies after
+4 June 30, 2026.
+5 (b) As used in this section, "office" refers to the office of
+6 Medicaid policy and planning established by IC 12-8-6.5-1.
+7 (c) If:
+8 (1) a physician has entered into a provider agreement with:
+9 (A) the office; or
+10 (B) a managed care organization;
+11 under IC 12-15-11-4(a) for the provision of physician services;
+12 and
+13 (2) the physician, subject to the provider agreement referred
+14 to in subdivision (1), provides physician services to individuals
+15 participating in the state Medicaid program;
+16 the office or the managed care organization shall cover physician
+17 services rendered in a hospital emergency department without
+SB 242—LS 6673/DI 147
+
+
+--- Page 4 ---
+2
+1 limiting what constitutes an emergency medical condition based
+2 solely on the diagnosis code. Any determination of whether the
+3 prudent layperson standard has been met must be based on the
+4 relevant medical documentation, with a focus on the symptoms
+5 presented by the individual, and not solely based on the final
+6 diagnosis.
+7 (d) A physician's compensation under subsection (c) shall not be
+8 delayed due to the retrospective review of the medical services
+9 provided or for any other reason unless the cause of the delay is
+10 specifically provided for in:
+11 (1) this article;
+12 (2) a rule adopted under this article;
+13 (3) 42 CFR 438; or
+14 (4) the provider agreement referred to in subsection (c)(1).
+15 (e) A physician shall not be denied compensation for physician
+16 services rendered in the emergency department of a hospital to
+17 which subsection (c) applies unless the cause of the denial is
+18 specifically provided for in:
+19 (1) this article;
+20 (2) a rule adopted under this article;
+21 (3) 42 CFR 438; or
+22 (4) the provider agreement referred to in subsection (c)(1).
+23 (f) A managed care organization:
+24 (1) may not deny a claim solely because the claim code is not
+25 included on the office's autopay list; and
+26 (2) shall consider each claim based on the prudent layperson
+27 standard.
+SB 242—LS 6673/DI 147
+
+
+--- Page 5 ---
+3
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Health and Provider
+Services, to which was referred Senate Bill No. 242, has had the same
+under consideration and begs leave to report the same back to the
+Senate with the recommendation that said bill be AMENDED as
+follows:
+Page 1, line 16, delete "promptly" and insert "cover physician
+services rendered in a hospital emergency department without
+limiting what constitutes an emergency medical condition based
+solely on the diagnosis code. Any determination of whether the
+prudent layperson standard has been met must be based on the
+relevant medical documentation, with a focus on the symptoms
+presented by the individual, and not solely based on the final
+diagnosis.".
+Page 1, delete line 17.
+Page 2, delete lines 1 through 4.
+and when so amended that said bill do pass and be reassigned to the
+Senate Committee on Appropriations.
+(Reference is to SB 242 as introduced.)
+CHARBONNEAU, Chairperson
+Committee Vote: Yeas 12, Nays 0.
+SB 242—LS 6673/DI 147

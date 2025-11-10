@@ -1,0 +1,212 @@
+--- Page 1 ---
+ 
+Introduced Version
+HOUSE BILL No. 1310
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 16-18-2-109.1; IC 16-31-2-9.5; IC 16-41-17.5.
+Synopsis:  Statewide stroke plan. Requires the Indiana department of
+health (state department) to include Indiana hospitals certified as a
+thrombectomy-capable stroke center in certain lists maintained by the
+state department concerning certified stroke centers. Amends the list
+of entities that certify stroke centers. Requires a hospital certified as a
+thrombectomy-capable stroke center to provide certain information to
+the state department. Prohibits a health care facility from advertising
+that the facility is a thrombectomy-capable stroke center unless the
+facility is certified by a specified entity. Requires the state department
+to establish and implement a statewide stroke plan. Sets forth
+requirements of the plan and requirements for certain health care
+providers to report stroke data. Requires the state department to
+establish a data base for the reported data and sets forth additional
+requirements. Requires the state department to annually report certain
+stroke data to the governor and the executive director of the legislative
+services agency. 
+Effective:  July 1, 2025.
+Andrade,  Barrett,  Haggard,
+Hamilton
+January 13, 2025, read first time and referred to Commi ttee on Public Health.
+2025 IN 1310—LS 6557/DI 147
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE BILL No. 1310
+A BILL FOR AN ACT to amend the Indiana Code concerning
+health.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 16-18-2-109.1, AS AMENDED BY P.L.32-2021,
+2 SECTION 36, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2025]: Sec. 109.1. "Emergency medical dispatch agency", for
+4 purposes of IC 16-31-3.5 and IC 16-41-17.5, has the meaning set forth
+5 in IC 16-31-3.5-1. IC 16-31-3.5-1(c).
+6 SECTION 2. IC 16-31-2-9.5, AS ADDED BY P.L.138-2017,
+7 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+8 JULY 1, 2025]: Sec. 9.5. (a) Before July 1, 2018, The commission shall
+9 do the following:
+10 (1) Adopt rules under IC 4-22-2 concerning protocols for the
+11 identification, transport, and treatment of stroke patients by
+12 personnel providing emergency medical services. The rules must
+13 include standards for stroke triage and transport protocols to be
+14 implemented by regional and local emergency medical services
+15 entities and programs to promote the efficiency and quality of
+16 care for stroke patients based on evidence based science and
+17 nationally recognized guidelines.
+2025 IN 1310—LS 6557/DI 147
+
+
+--- Page 3 ---
+2
+1 (2) Adopt and distribute a nationally recognized stroke
+2 assessment tool to personnel providing emergency medical
+3 services.
+4 (b) Before July 1, 2018, October 1, 2025, the state department shall
+5 do the following:
+6 (1) Compile and maintain a list of Indiana hospitals that are
+7 certified as a comprehensive stroke center, a primary stroke
+8 center, or an acute stroke ready hospital, or a
+9 thrombectomy-capable stroke center by one (1) of the
+10 following:
+11 (A) The American Heart Association.
+12 (B) The Joint Commission.
+13 (C) DNV GL.
+14 (D) The Healthcare Facilities Accreditation Program. The
+15 Accreditation Commission for Health Care.
+16 (E) A nationally recognized organization that provides:
+17 (i) comprehensive stroke center hospital certification;
+18 (ii) primary stroke center hospital certification; or
+19 (iii) acute stroke ready hospital certification; or
+20 (iv) thrombectomy-capable stroke center certification;
+21 for stroke care and that has been approved by the commission.
+22 (2) Compile and maintain a list of Indiana network participating
+23 hospitals that have a written agreement to transfer a stroke patient
+24 to a certified primary stroke center, certified comprehensive
+25 stroke center, or certified acute stroke ready hospital, or certified
+26 thrombectomy-capable stroke center for stroke treatment
+27 therapies that the network participating hospital is not capable of
+28 providing.
+29 (c) A hospital that is certified under subsection (b)(1) shall:
+30 (1) provide the state department with the certification
+31 information, including a copy of the actual certification and the
+32 date the certification is set to expire; and
+33 (2) notify the state department not more than forty-eight (48)
+34 hours after the hospital's certification has been suspended,
+35 revoked, or lowered in the stroke care status level.
+36 (d) A hospital that is an Indiana network participating hospital under
+37 subsection (b)(2) must provide the state department with a copy of the
+38 written transfer agreement.
+39 (e) A health care facility may not advertise that the facility is a
+40 certified comprehensive stroke center, a primary stroke center, or an
+41 acute stroke ready hospital, or a thrombectomy-capable stroke
+42 center, unless the facility has been certified by an entity set forth in
+2025 IN 1310—LS 6557/DI 147
+
+
+--- Page 4 ---
+3
+1 subsection (b)(1). A health care facility that violates this subsection is
+2 subject to the penalties set forth in IC 16-21-5.
+3 (f) The commission and the state department shall enter into a
+4 memorandum of understanding to share information to implement this
+5 section.
+6 SECTION 3. IC 16-41-17.5 IS ADDED TO THE INDIANA CODE
+7 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+8 JULY 1, 2025]:
+9 Chapter 17.5. Prevention and Treatment Programs: Statewide
+10 Stroke Plan
+11 Sec. 1. (a) The state department shall establish and implement
+12 a statewide stroke plan for the purpose of achieving continuous
+13 quality improvements in stroke response and treatment in Indiana.
+14 (b) The state department shall coordinate with national health
+15 organizations that specialize in stroke quality improvement in the
+16 establishment of the statewide plan.
+17 Sec. 2. The statewide plan required under section 1 of this
+18 chapter must include the following:
+19 (1) A statewide stroke data base that compiles information
+20 and statistics on stroke care in Indiana, in accordance with
+21 stroke consensus metrics developed and approved by the
+22 American Heart Associ ation, the American Stroke
+23 Association, the Centers for Disease Control and Prevention,
+24 and the Joint Commission.
+25 (2) Use of the Get With The Guidelines-Stroke program
+26 maintained by the American Heart Association and the
+27 American Stroke Association or a nationally recognized data
+28 set platform that includes strong confidentiality standards
+29 under subdivision (1) and this subdivision.
+30 (3) Transfer of a stroke patient to the closest appropriate
+31 facility for stroke treatment.
+32 Sec. 3. (a) A hospital that is licensed under IC 16-21 and
+33 certified as a:
+34 (1) comprehensive stroke center;
+35 (2) thrombectomy-capable stroke center; or
+36 (3) primary stroke center;
+37 as described in IC 16-31-2-9.5(b) shall report to the state
+38 department data concerning each stroke case and the treatment of
+39 these individuals in Indiana with a confirmed diagnosis of a stroke.
+40 A hospital described under this subsection that provides
+41 mechanical endovascular thrombectomy shall report data
+42 concerning the process, any complications, and outcomes of the
+2025 IN 1310—LS 6557/DI 147
+
+
+--- Page 5 ---
+4
+1 procedure.
+2 (b) The following may report the data described in subsection
+3 (a) to the state department:
+4 (1) A hospital that is licensed under IC 16-21 and that is
+5 certified as an acute stroke ready hospital.
+6 (2) An emergency medical dispatch agency.
+7 (c) The state department shall do the following:
+8 (1) Develop and maintain a data base for the storage of data
+9 reported under this section.
+10 (2) Establish a proced ure for hospitals and emergency
+11 medical dispatch agencies to report the data under this
+12 section.
+13 (3) Encourage and facilitate the sharing of information and
+14 data by health care providers and health care systems for the
+15 purpose of improving the quality of care provided to stroke
+16 patients in Indiana.
+17 (4) Establish a data oversight process and plan for the
+18 purpose of achieving quality improvement in the treatment
+19 and care of individuals who have experienced a stroke
+20 through the following:
+21 (A) Analysis of the data reported and included in the
+22 stroke data base.
+23 (B) Identification of potential interventions to improve
+24 stroke care in certain geographic regions of Indiana.
+25 (C) Determination of recommendations to improve stroke
+26 care in Indiana.
+27 Sec. 4. The state department shall establish and disseminate
+28 evidence based treatment and community based care guidelines for
+29 health care providers that provide follow-up care for a patient who
+30 received acute treatment for a stroke upon the patient's hospital
+31 discharge.
+32 Sec. 5. (a) Before June 30 of each year, the state department
+33 shall report the following to the governor and, in an electronic
+34 format under IC 5-14-6, the executive director of the legislative
+35 services agency:
+36  (1) Information concerning the stroke data collected under
+37 this chapter for the previous calendar year.
+38 (2) Any recommendations of the state department to improve
+39 stroke care in Indiana.
+40 (b) The state department shall post the report required under
+41 subsection (a) on the state department's website.
+42 Sec. 6. Nothing in this chapter may be construed to require the
+2025 IN 1310—LS 6557/DI 147
+
+
+--- Page 6 ---
+5
+1 disclosure of confidential health information in violation of the
+2 federal Health Insurance Portability and Accountability Act.
+2025 IN 1310—LS 6557/DI 147

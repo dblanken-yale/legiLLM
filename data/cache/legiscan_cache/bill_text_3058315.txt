@@ -1,0 +1,221 @@
+--- Page 1 ---
+ 
+Introduced Version
+HOUSE BILL No. 1620
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 16-18-2.5; IC 16-51-2; IC 27-8-44.
+Synopsis:  Disclosure of artificial intelligence use in health care.
+Requires a health care provider to disclose to a patient the provider's
+use of artificial intelligence technology to: (1) make or inform any
+decision involved in the provision of health care to the patient; or (2)
+generate any part of a communication to the patient regarding the
+patient's health care. Requires an insurer that provides accident and
+sickness coverage to disclose to an insured the insurer's use of artificial
+intelligence technology to: (1) make or inform any decision involved
+in the provision of the coverage to the insured; or (2) generate any part
+of a communication to the insured regarding the coverage.
+Effective:  July 1, 2025.
+King
+January 21, 2025, read first time and referred to Commi ttee on Public Health.
+2025 IN 1620—LS 7128/DI 119
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE BILL No. 1620
+A BILL FOR AN ACT to amend the Indiana Code concerning
+health.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 16-18-2-160, AS AMENDED BY P.L.50-2021,
+2 SECTION 14, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2025]: Sec. 160. (a) "Health care", for purposes of IC 16-36-1
+4 and IC 16-51-2.5, has the meaning set forth in IC 16-36-1-1.
+5 (b) "Health care", for purposes of IC 16-36-7, has the meaning set
+6 forth in IC 16-36-7-9.
+7 SECTION 2. IC 16-18-2-163, AS AMENDED BY
+8 P.L.179-2022(ss), SECTION 4, IS AMENDED TO READ AS
+9 FOLLOWS [EFFECTIVE JULY 1, 2025 ]: Sec. 163. (a) Except as
+10 provided in subsect ion (c), "health care provider", for purposes of
+11 IC 16-21 and IC 16-41, means any of the following:
+12 (1) An individual, a partnership, a corporation, a professional
+13 corporation, a facility, or an institution licensed or legally
+14 authorized by this state to provide health care or professional
+15 services as a licensed physician, a psychiatric hospital, a hospital,
+16 a health facility, an emergency ambulance service (IC 16-31-3),
+17 a dentist, a registered or licensed practical nurse, a midwife, an
+2025 IN 1620—LS 7128/DI 119
+
+
+--- Page 3 ---
+2
+1 optometrist, a pharmacist, a podiatrist, a chiropractor, a physical
+2 therapist, a respiratory care practitioner, an occupational therapist,
+3 a psychologist, a paramedic, an emergency medical technician, an
+4 advanced emergency medical technician, an athletic trainer, or a
+5 person who is an officer, employee, or agent of the individual,
+6 partnership, corporation, professional corporation, facility, or
+7 institution acting in the course and scope of the person's
+8 employment.
+9 (2) A college, university, or junior college that provides health
+10 care to a student, a faculty member, or an employee, and the
+11 governing board or a person who is an officer, employee, or agent
+12 of the college, university, or junior college acting in the course
+13 and scope of the person's employment.
+14 (3) A blood bank, community mental health center, community
+15 intellectual disability center, community health center, or migrant
+16 health center.
+17 (4) A home health agency (as defined in IC 16-27-1-2).
+18 (5) A health maintenance organization (as defined in
+19 IC 27-13-1-19).
+20 (6) A health care organization whose members, shareholders, or
+21 partners are health care providers under subdivision (1).
+22 (7) A corporation, partnership, or professional corporation not
+23 otherwise qualified under this subsection that:
+24 (A) provides health care as one (1) of the corporation's,
+25 partnership's, or professional corporation's functions;
+26 (B) is organized or registered under state law; and
+27 (C) is determined to be eligible for coverage as a health care
+28 provider under IC 34-18 for the corporation's, partnership's, or
+29 professional corporation's health care function.
+30 Coverage for a health care provider qualified under this subdivision is
+31 limited to the health care provider's health care functions and does not
+32 extend to other causes of action.
+33 (b) "Health care provider", for purposes of IC 16-35, has the
+34 meaning set forth in subsection (a). However, for purposes of IC 16-35,
+35 the term also includes a health facility (as defined in section 167 of this
+36 chapter).
+37 (c) "Health care provider", for purposes of IC 16-32-5, IC 16-36-5,
+38 IC 16-36-6, and IC 16-41-10, and IC 16-51-2.5, means an individual
+39 licensed or authorized by this state to provide health care or
+40 professional services as:
+41 (1) a licensed physician;
+42 (2) a registered nurse;
+2025 IN 1620—LS 7128/DI 119
+
+
+--- Page 4 ---
+3
+1 (3) a licensed practical nurse;
+2 (4) an advanced practice registered nurse;
+3 (5) a certified nurse midwife;
+4 (6) a paramedic;
+5 (7) an emergency medical technician;
+6 (8) an advanced emergency medical technician;
+7 (9) an emergency medical responder, as defined by section 109.8
+8 of this chapter;
+9 (10) a licensed dentist;
+10 (11) a home health aide, as defined by section 174 of this chapter;
+11 or
+12 (12) a licensed physician assistant.
+13 The term includes an individual who is an employee or agent of a
+14 health care provider acting in the course and scope of the individual's
+15 employment.
+16 (d) "Health care provider", for purposes of IC 16-36-7, has the
+17 meaning set forth in IC 16-36-7-12.
+18 (e) "Health care provider", for purposes of IC 16-40-4, means any
+19 of the following:
+20 (1) An individual, a partnership, a corporation, a professional
+21 corporation, a facility, or an institution licensed or authorized by
+22 the state to provide health care or professional services as a
+23 licensed physician, a psychiatric hospital, a hospital, a health
+24 facility, an emergency ambulance service (IC 16-31-3), an
+25 ambulatory outpatient surgical center, a dentist, an optometrist, a
+26 pharmacist, a podiatrist, a chiropractor, a psychologist, or a
+27 person who is an officer, employee, or agent of the individual,
+28 partnership, corporation, professional corporation, facility, or
+29 institution acting in the course and scope of the person's
+30 employment.
+31 (2) A blood bank, laboratory, community mental health center,
+32 community intellectual disability center, community health
+33 center, or migrant health center.
+34 (3) A home health agency (as defined in IC 16-27-1-2).
+35 (4) A health maintenance organization (as defined in
+36 IC 27-13-1-19).
+37 (5) A health care organization whose members, shareholders, or
+38 partners are health care providers under subdivision (1).
+39 (6) A corporation, partnership, or professional corporation not
+40 otherwise specified in this subsection that:
+41 (A) provides health care as one (1) of the corporation's,
+42 partnership's, or professional corporation's functions;
+2025 IN 1620—LS 7128/DI 119
+
+
+--- Page 5 ---
+4
+1 (B) is organized or registered under state law; and
+2 (C) is determined to be eligible for coverage as a health care
+3 provider under IC 34-18 for the corporation's, partnership's, or
+4 professional corporation's health care function.
+5 (7) A person that is designated to maintain the records of a person
+6 described in subdivisions (1) through (6).
+7 (f) "Health care provider", for purposes of IC 16-45-4, has the
+8 meaning set forth in 47 CFR 54.601(a).
+9 SECTION 3. IC 16-51-2.5 IS ADDED TO THE INDIANA CODE
+10 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+11 JULY 1, 2025]:
+12 Chapter 2.5. Disclosure of Use of Artificial Intelligence in
+13 Provision of Health Care
+14 Sec. 1. As used in this chapter, "artificial intelligence" has the
+15 meaning set forth in 15 U.S.C. 9401.
+16 Sec. 2. As used in this chapter, "chat bot" means a computer
+17 program that simulates written or spoken human conversation in
+18 response to written or spoken input.
+19 Sec. 3. As used in this chapter, "health care" has the meaning
+20 set forth in IC 16-36-1-1.
+21 Sec. 4. As used in this chapter, "health care provider" has the
+22 meaning set forth in IC 16-18-2-163(c).
+23 Sec. 5. A health care provider that:
+24 (1) provides health care to an individual; and
+25 (2) uses artificial intelligence technology to:
+26 (A) make or inform any decision involved in the provision
+27 of the health care to the individual; or
+28 (B) generate any part of a communication to the individual
+29 regarding the health care, including through a chat bot;
+30 shall disclose the use of the artificial intelligence technology to the
+31 individual.
+32 SECTION 4. IC 27-8-44 IS ADDED TO THE INDIANA CODE AS
+33 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+34 1, 2025]:
+35 Chapter 44. Disclosure of Use of Artificial Intelligence in
+36 Provision of Accident and Sickness Insurance
+37 Sec. 1. As used in this chapter, "artificial intelligence" has the
+38 meaning set forth in 15 U.S.C. 9401.
+39 Sec. 2. As used in this chapter, "chat bot" means a computer
+40 program that simulates written or spoken human conversation in
+41 response to written or spoken input.
+42 Sec. 3. As used in this chapter, "coverage" has the meaning set
+2025 IN 1620—LS 7128/DI 119
+
+
+--- Page 6 ---
+5
+1 forth in IC 27-2-25-1.
+2 Sec. 4. As used in this chapter, "insured" means an individual
+3 who is entitled to coverage under a policy of accident and sickness
+4 insurance.
+5 Sec. 5. As used in this chapter, "insurer" means a person that
+6 issues a policy of accident and sickness insurance.
+7 Sec. 6. As used in this chapter, "policy of accident and sickness
+8 insurance" has the meaning set forth in IC 27-8-5-1.
+9 Sec. 7. An insurer that:
+10 (1) provides coverage to an insured under a policy of accident
+11 and sickness insurance; and
+12 (2) uses artificial intelligence technology to:
+13 (A) make or inform any decision involved in the provision
+14 of the coverage to the insured; or
+15 (B) generate any part of a communication to the insured
+16 regarding the coverage, including through a chat bot;
+17 shall disclose the use of the artificial intelligence technology to the
+18 insured.
+2025 IN 1620—LS 7128/DI 119

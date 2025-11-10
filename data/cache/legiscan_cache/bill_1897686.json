@@ -1,0 +1,152 @@
+{
+  "bill_id": 1897686,
+  "change_hash": "2f29691d2f95310470ce9c4466993fa2",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/HB1062/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/house/1062/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-08",
+  "progress": [
+    {
+      "date": "2025-01-08",
+      "event": 1
+    },
+    {
+      "date": "2025-01-08",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "HB1062",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "H",
+  "body_id": 37,
+  "current_body": "H",
+  "current_body_id": 37,
+  "title": "Coverage for certain cancer prescriptions.",
+  "description": "Coverage for certain cancer prescriptions. Prohibits a state employee health plan, a policy of accident and sickness insurance, and a health maintenance organization that provides coverage for advanced, metastatic cancer and associated conditions from requiring that, before providing coverage for a prescription drug, the insured fail to successfully respond to a different prescription drug or prove a history of failure of a different prescription drug.",
+  "pending_committee_id": 1294,
+  "committee": {
+    "committee_id": 1294,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Insurance"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-08",
+      "committee_id": 1294,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Insurance"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-08",
+      "action": "Authored by Representative Pryor",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-08",
+      "action": "First reading: referred to Committee on Insurance",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 5543,
+      "person_hash": "1bb9qtmc",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Cherrish Pryor",
+      "first_name": "Cherrish",
+      "middle_name": "S.",
+      "last_name": "Pryor",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-094",
+      "ftm_eid": 6488685,
+      "votesmart_id": 72993,
+      "opensecrets_id": "",
+      "knowwho_pid": 201620,
+      "ballotpedia": "Cherrish_Pryor",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3034503,
+      "date": "2024-12-19",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/HB1062/id/3034503",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1062/HB1062.01.INTR.pdf",
+      "text_size": 103901,
+      "text_hash": "565221fd1f8c8c0e2c3990b5c58843e2",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 485117,
+      "date": "2024-12-19",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/HB1062/id/485117",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1062/fiscal-notes/HB1062.01.INTR.FN001.pdf",
+      "supplement_size": 49026,
+      "supplement_hash": "bc1d7a58c1f430ce4691a99507132e3a",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

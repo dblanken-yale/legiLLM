@@ -1,0 +1,159 @@
+{
+  "bill_id": 1915172,
+  "change_hash": "f527add7261278e05082da07ffe8d5b6",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/SB0234/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/senate/234/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-13",
+  "progress": [
+    {
+      "date": "2025-01-13",
+      "event": 1
+    },
+    {
+      "date": "2025-01-13",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "SB0234",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "S",
+  "body_id": 38,
+  "current_body": "S",
+  "current_body_id": 38,
+  "title": "Medicaid matters.",
+  "description": "Medicaid matters. Requires the office of the secretary of family and social services (office) to report specified Medicaid data to the Medicaid oversight committee. Requires the office to receive and review data from specified federal and state agencies concerning Medicaid recipients to determine whether circumstances have changed that affect Medicaid eligibility for recipients. Prohibits the office from accepting self-attestations of certain information in the administration of the Medicaid program. Requires the office to apply for a Medicaid state plan amendment to remove references to coverage under the Medicaid plan of a certain population. Requires the office to establish: (1) performance standards for hospitals that make presumptive eligibility determinations and sets out action for when hospitals do not comply with the standards; and (2) an appeals procedure for hospitals that dispute the violation determination. Modifies eligibility categories and requirements for the healthy Indiana plan (plan). Specifies limitations for enrollment in the plan.",
+  "pending_committee_id": 1321,
+  "committee": {
+    "committee_id": 1321,
+    "chamber": "S",
+    "chamber_id": 38,
+    "name": "Health and Provider Services"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-13",
+      "committee_id": 1321,
+      "chamber": "S",
+      "chamber_id": 38,
+      "name": "Health and Provider Services"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-13",
+      "action": "Authored by Senators Johnson T and Charbonneau",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading: referred to Committee on Health and Provider Services",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 1
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Senator Charbonneau removed as second author",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 0
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 23875,
+      "person_hash": "9flwydrb",
+      "party_id": "2",
+      "state_id": 14,
+      "party": "R",
+      "role_id": 2,
+      "role": "Sen",
+      "name": "Tyler Johnson",
+      "first_name": "Tyler",
+      "middle_name": "",
+      "last_name": "Johnson",
+      "suffix": "",
+      "nickname": "",
+      "district": "SD-014",
+      "ftm_eid": 54638600,
+      "votesmart_id": 201927,
+      "opensecrets_id": "",
+      "knowwho_pid": 0,
+      "ballotpedia": "Tyler_Johnson_(Indiana)",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3052271,
+      "date": "2025-01-13",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/SB0234/id/3052271",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/bills/SB0234/SB0234.01.INTR.pdf",
+      "text_size": 321665,
+      "text_hash": "9126a6ee421b5f7543bafe123e1fc91b",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 487469,
+      "date": "2025-01-13",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/SB0234/id/487469",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/bills/SB0234/fiscal-notes/SB0234.01.INTR.FN001.pdf",
+      "supplement_size": 65570,
+      "supplement_hash": "601f7c1b3a96095d0a05fafa92c8feeb",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

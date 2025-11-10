@@ -1,0 +1,172 @@
+{
+  "bill_id": 1914850,
+  "change_hash": "3ae43595a789af58691b8bd2bf23cd62",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/HB1409/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/house/1409/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-13",
+  "progress": [
+    {
+      "date": "2025-01-13",
+      "event": 1
+    },
+    {
+      "date": "2025-01-13",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "HB1409",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "H",
+  "body_id": 37,
+  "current_body": "H",
+  "current_body_id": 37,
+  "title": "Anatomical gifts.",
+  "description": "Anatomical gifts. Requires a person who makes certain anatomical gifts to: (1) designate on a form prescribed by the state board of funeral and cemetery service the funeral home licensee to whom custodial care of the decedent's body will be granted following the recovery of the donated organ or tissue; and (2) submit the designation to the appropriate procurement organization. Requires a procurement organization to provide notice and certain information to the designated funeral home licensee before the body of the decedent subject to the anatomical gift is transported and recovery of the donated organs or tissue begins.",
+  "pending_committee_id": 1296,
+  "committee": {
+    "committee_id": 1296,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Judiciary"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-13",
+      "committee_id": 1296,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Judiciary"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-13",
+      "action": "Authored by Representative Genda",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading: referred to Committee on Judiciary",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 24486,
+      "person_hash": "yhaej8zq",
+      "party_id": "2",
+      "state_id": 14,
+      "party": "R",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Mark Genda",
+      "first_name": "Mark",
+      "middle_name": "J.",
+      "last_name": "Genda",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-041",
+      "ftm_eid": 54902813,
+      "votesmart_id": 201968,
+      "opensecrets_id": "",
+      "knowwho_pid": 0,
+      "ballotpedia": "Mark_Genda",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3051950,
+      "date": "2025-01-13",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/HB1409/id/3051950",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1409/HB1409.01.INTR.pdf",
+      "text_size": 130699,
+      "text_hash": "b0adf647857ceebaf83fd51992f18b38",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 487426,
+      "date": "2025-01-13",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/HB1409/id/487426",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1409/fiscal-notes/HB1409.01.INTR.FN001.pdf",
+      "supplement_size": 58676,
+      "supplement_hash": "a24b3e271decd68eadd8012e051cecab",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    },
+    {
+      "supplement_id": 488513,
+      "date": "2025-01-15",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #2: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/HB1409/id/488513",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1409/fiscal-notes/HB1409.01.INTR.FN002.pdf",
+      "supplement_size": 58308,
+      "supplement_hash": "f461b07fe6bd389dba16a249cba9b86d",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

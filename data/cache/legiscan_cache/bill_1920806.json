@@ -1,0 +1,152 @@
+{
+  "bill_id": 1920806,
+  "change_hash": "6ac4249960251912604188a7972c4924",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/HB1590/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/house/1590/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-21",
+  "progress": [
+    {
+      "date": "2025-01-21",
+      "event": 1
+    },
+    {
+      "date": "2025-01-21",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "HB1590",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "H",
+  "body_id": 37,
+  "current_body": "H",
+  "current_body_id": 37,
+  "title": "Emergency medical services.",
+  "description": "Emergency medical services. Specifies that county local income taxes for emergency medical services may be used to pay costs incurred for the provision of emergency medical services by an emergency medical services provider organization (EMSPO). Provides that an employee of an EMSPO who is engaged in emergency medical services is eligible to participate in training funded by the regional public safety training fund. Specifies that an EMSPO may collaborate in the dissemination of information concerning public and private grant opportunities related to improving outcomes for stroke patients. Requires the Indiana emergency medical services commission (commission) to include EMSPOs when seeking funding opportunities for the support of emergency medical services. Authorizes the commission to award mobile integration health care grants to EMSPOs.",
+  "pending_committee_id": 1306,
+  "committee": {
+    "committee_id": 1306,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Veterans Affairs and Public Safety"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-21",
+      "committee_id": 1306,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Veterans Affairs and Public Safety"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-21",
+      "action": "Authored by Representative Barrett",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-21",
+      "action": "First reading: referred to Committee on Veterans Affairs and Public Safety",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 20010,
+      "person_hash": "5qplu60u",
+      "party_id": "2",
+      "state_id": 14,
+      "party": "R",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Bradford Barrett",
+      "first_name": "Bradford",
+      "middle_name": "J.",
+      "last_name": "Barrett",
+      "suffix": "",
+      "nickname": "Brad",
+      "district": "HD-056",
+      "ftm_eid": 44857917,
+      "votesmart_id": 178180,
+      "opensecrets_id": "",
+      "knowwho_pid": 655460,
+      "ballotpedia": "Bradford_Barrett",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3057937,
+      "date": "2025-01-15",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/HB1590/id/3057937",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1590/HB1590.01.INTR.pdf",
+      "text_size": 130425,
+      "text_hash": "d033bf2e84037e4f2c5e6750726862dc",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 488933,
+      "date": "2025-01-15",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/HB1590/id/488933",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1590/fiscal-notes/HB1590.01.INTR.FN001.pdf",
+      "supplement_size": 69301,
+      "supplement_hash": "75947dc747b0901d626445e5351d9544",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

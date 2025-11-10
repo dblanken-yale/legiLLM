@@ -1,0 +1,229 @@
+--- Page 1 ---
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE ENROLLED ACT No. 1081
+AN ACT to amend the Indiana Code concerning business and other
+associations.
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1. IC 16-37-1-10, AS AMENDED BY HEA 1148-2025,
+SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 10. (a) Information contained in a birth record is
+confidential and may be disclosed only in accordance with this article.
+(b) Except as provided in section 7.5 of this chapter and subsections
+(c) and (d), the records and files of the division of the state department
+concerning vital statistics are subject to this article and rules of the
+state department. Data contained in the records and files may be
+disclosed only as follows:
+(1) The state registrar shall permit inspection of the records or
+issue a  certified copy of a certificate or part of a certificate only
+if the state registrar is satisfied of the following:
+(A) That the applicant has a direct interest in the matter
+recorded. An applicant for a certificate of death has a direct
+interest in the certificate of death if the applicant is a
+beneficiary of the deceased's individual retirement
+account, retirement account, brokerage transfer on death
+account, annuity, or life insurance policy.
+(B) That the information is necessary for the determination of
+personal or property rights or for compliance with state or
+federal law.
+HEA 1081 — CC 1
+
+
+--- Page 2 ---
+2
+The state registrar's decision is subject to review by the state
+department or a court under this section.
+(2) The state department may disclose identifiable vital statistics
+information to a legitimate researcher, if the researcher complies
+with the following requirements:
+(A) The researcher states in writing to the state department the
+purpose, including:
+(i) any intent to publish findings;
+(ii) the nature of the data sought;
+(iii) the personal information that would be required; and
+(iv) the safeguards that will be taken to protect the identity
+of the data subjects.
+(B) The researcher executes an agreement with the state
+department, on a form approved by the oversight committee on
+public records established under IC 5-15-5.1-18, that:
+(i) incorporates safeguards for protection of individual data
+subjects;
+(ii) defines the scope of the research project; and
+(iii) informs the resear cher that failure to abide by
+conditions of the approved agreement constitutes a breach
+of contract and could result in civil litigation by any data
+subject.
+(C) The researcher agrees to pay any direct or indirect costs of
+the research.
+The state department shall determine whether the proposed
+safeguards are adequat e to prevent the identity of an individual
+data subject from being known before approving the agreement.
+Upon execution of an agreement described in this subdivision, the
+state department shall maintain a copy of the agreement for the
+duration of the agreement's effective date.
+(3) In any extraordinary case that the state registrar determines is
+a direct tangible and legitimate public interest.
+(c) Notwithstanding subsection (b)(1) through (b)(3), a certificate
+of death received by a local health department (as defined in
+IC 16-18-2-211) or the state department is a public record that, upon
+request, must be made available for inspection and copying if:
+(1) the copy made of the certificate of death is not a certified
+copy;
+(2) any Social Security number that appears on the certificate of
+death is redacted; and
+(3) any charge or fee that is due under section 9, 11, or 11.5 of
+this chapter is collected.
+HEA 1081 — CC 1
+
+
+--- Page 3 ---
+3
+(d) The birth record of an adopted child remains subject to the
+confidentiality provisions of IC 31-19 regarding the release of adoption
+information.
+(e) The state registrar may deny a request to inspect or copy a record
+concerning vital statistics that is in the state registrar's possession if the
+state registrar has a reasonable suspicion that releasing the record may
+result in fraud or identity theft.
+SECTION 2. IC 23-17-25.7 IS ADDED TO THE INDIANA CODE
+AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]:
+Chapter 25.7. Charitable Organization Beneficiary Bequest
+Protections
+Sec. 1. The following definitions apply throughout this chapter:
+(1) "Charitable organization" means any entity that is:
+(A) recognized as tax exempt under Section 501(c)(3) of the
+Internal Revenue Code; and
+(B) organized under IC 23-17-3.
+(2) "Deceased" means a person who has:
+(A) died; and
+(B) designated a charitable organization as the beneficiary
+of an individual retirement account, retirement account,
+brokerage transfer on death account, annuity, or life
+insurance policy.
+(3) "Financial institution" means any:
+(A) bank;
+(B) trust company;
+(C) corporate fiduciary;
+(D) savings association;
+(E) credit union;
+(F) savings bank;
+(G) bank of discount and deposit;
+(H) industrial loan and investment company; or
+(I) investment company;
+organized or reorgan ized under Indiana law, the law of
+another state (as defined in IC 28-2-17-19), or United States
+law.
+Sec. 2. If a charitable organization is designated as the
+beneficiary of an individual retirement account, retirement
+account, brokerage transfer on death account, annuity, or life
+insurance policy, a financial institution or insurance company in
+control of the funds shall do the following:
+(1) Transfer the funds directly to the charitable organization
+HEA 1081 — CC 1
+
+
+--- Page 4 ---
+4
+upon receipt of an affidavit submitted by the charitable
+organization that contains the following information:
+(A) A statement by the charitable organization confirming
+that it is tax exempt under Section 501(c)(3) of the Internal
+Revenue Code.
+(B) A copy of a corporate resolution authorizing the
+acceptance of the transferred funds.
+(C) An Internal Revenue Service Form W-9 for
+identification.
+(D) A copy of:
+(i) the deceased's death certificate; or
+(ii) other documentation that is authorized by the
+financial institution or insurance company to prove that
+the deceased has died.
+(2) Shall not require:
+(A) personal information, including the Social Security
+number, home address, and date of birth, of any employee,
+officer, or agent of the charitable organization; or
+(B) the charitable organization to open an account or
+otherwise become a customer of the financial institution or
+insurance company;
+as a condition of transferring the funds.
+(3) If the financial institution or insurance company notifies
+the charitable organization of the fact that the charitable
+organization has been designated as the beneficiary of the
+deceased's individual retirement account, retirement account,
+brokerage transfer on death account, annuity, or life
+insurance policy, the financial institution or insurance
+company must provide the name of the deceased to the
+charitable organization.
+Sec. 3. (a) A financial institution or insurance company that
+receives the affidavit described in section 2(1) of this chapter shall:
+(1) comply with the requirements of section 2 of this chapter;
+or
+(2) provide to the charitable organization that submitted the
+affidavit described in section 2(1) of this chapter a reasonable
+justification for not complying with the requirements of
+section 2 of this chapter;
+not later than sixty (60) days after receiving the affidavit.
+(b) It is a reasonable justification for not complying with the
+requirements of section 2 of this chapter if compliance would cause
+a financial institution to violate:
+HEA 1081 — CC 1
+
+
+--- Page 5 ---
+5
+(1) 12 U.S.C. 1829b, 12 U.S.C. 1951-1960, 31 U.S.C.
+5311-5314, 31 U.S.C. 5316-5336, 31 CFR 1000-1099, or any
+other federal law or regulation;
+(2) the rules of a self-regulatory organization registered under
+the federal Securities Exchange Act of 1934 (15 U.S.C. 78); or
+(3) the laws of this state.
+(c) If compliance with the requirements of section 2 of this
+chapter would cause a violation of a federal law described in
+subsection (b), the financial institution shall include in its
+reasonable justification a request to the charitable organization to
+provide the information required to comply with the federal law
+described in subsection (b).
+(d) If a financial institution or insurance company fails to
+comply or provide a reasonable justification for not complying
+with the requirements of section 2 of this chapter not later than
+sixty (60) days after receiving the affidavit described in section 2(1)
+of this chapter, a court may:
+(1) award the charitable organization damages sustained due
+to the delay in receiving the funds under section 2 of this
+chapter;
+(2) award the charitable organization court costs, including
+attorney's fees; and
+(3) impose a civil penalty on the financial institution or
+insurance company in an amount not less than five hundred
+dollars ($500) and not more than ten thousand dollars
+($10,000) per incident.
+Sec. 4. A charitable organization may bring an action in court
+under section 3(d) of this chapter or file a complaint with the
+applicable primary regulator with jurisdiction over a financial
+institution or an insurance company if the charitable organization
+believes that a financial institution or insurance company is not
+complying with this chapter. If a charitable organization files a
+complaint, the applicable primary regulator shall investigate the
+complaint. The applicable primary regulator may impose a civil
+penalty on the financial institution or insurance company in an
+amount not less than five hundred dollars ($500) and not more
+than ten thousand dollars ($10,000) per incident.
+HEA 1081 — CC 1
+
+
+--- Page 6 ---
+Speaker of the House of Representatives
+President of the Senate
+President Pro Tempore
+Governor of the State of Indiana
+Date: Time: 
+HEA 1081 — CC 1

@@ -1,0 +1,882 @@
+--- Page 1 ---
+ 
+Introduced Version
+HOUSE BILL No. 1030
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 1-1-2-2.5; IC 11-13-9-1; IC 33-32-3-1;
+IC 33-40; IC 34-39-3-1; IC 35-36; IC 35-37; IC 35-38; IC 35-50-2.
+Synopsis:  Repeal of the death penalty. Repeals the law concerning the
+imposition and execution of death sentences and makes conforming
+amendments. Specifies that if a person was sentenced to death and is
+awaiting execution of the death sentence, the person's death sentence
+is commuted to a sentence of life imprisonment without parole.
+Provides that when a defendant is charged with a murder for which the
+state seeks a sentence of life imprisonment without parole, the
+defendant may file a petition alleging that the defendant is an
+individual with an intellectual disability. Provides that if a defendant
+who is determined to be an individual with an intellectual disability is
+convicted of murder, the court may sentence the defendant only to a
+fixed term of imprisonment.
+Effective:  July 1, 2025.
+Morris , Judy,  Teshka
+January 8, 2025, read first time and referred to Commi ttee on Courts and Criminal Code.
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE BILL No. 1030
+A BILL FOR AN ACT to amend the Indiana Code concerning
+criminal law and procedure.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 1-1-2-2.5, AS ADDED BY P.L.142-2020,
+2 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2025]: Sec. 2.5. (a) This section applies to every crime in
+4 which proof that a person has a prior conviction or judgment for an
+5 infraction increases:
+6 (1) the class or level of the crime;
+7 (2) the penalty for the crime from a misdemeanor to a felony; or
+8 (3) the penalty for an infraction to a misdemeanor or felony.
+9 (b) This section does not apply to a sentencing provision that
+10 increases the penalty that may be imposed for an infraction or crime
+11 but does not increase:
+12 (1) the class or level of the crime;
+13 (2) the penalty for the crime from a misdemeanor to a felony; or
+14 (3) the penalty for an infraction to a misdemeanor or felony;
+15 including IC 35-50-2-8 (habitual offenders), IC 35-50-2-9 (death
+16 penalty (murder sentencing), IC 9-30-15.5 (habitual vehicular
+17 substance offender), and IC 35-50-2-14 (repeat sexual offender).
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 3 ---
+2
+1 (c) This section does not apply to a crime that contains a specific
+2 lookback period for a prior conviction or judgment for an infraction.
+3 (d) Subject to subsection (e), and except as provided in subsection
+4 (f), a prior conviction or a prior judgment for an infraction increases the
+5 class or level of the crime, the penalty for the crime from a
+6 misdemeano r to a felony, or the penalty for an infraction to a
+7 misdemeanor or felony only if the current crime was committed not
+8 later than twelve (12) years from the date the defendant was:
+9 (1) convicted of the prior crime, if the defendant was not
+10 sentenced to a term of incarceration or probation;
+11 (2) adjudicated to have committed the infraction; or
+12 (3) released from a term of incarceration, probation, or parole
+13 (whichever occurs later) imposed for the prior conviction;
+14 whichever occurred last.
+15 (e) If a crime described in subsection (a) requires proof of more than
+16 one (1) criminal conviction or judgment for an infraction, the increased
+17 penalty applies only if the current crime was committed not later than
+18 twelve (12) years from the date the defendant was:
+19 (1) convicted of one (1) of the prior crimes, if the person was not
+20 sentenced to a term of incarceration or probation;
+21 (2) adjudicated to have committed one (1) of the infractions; or
+22 (3) released from a term of incarceration, probation, or parole
+23 (whichever occurs later) imposed for one (1) of the prior
+24 convictions;
+25 whichever occurred last.
+26 (f) This section does not apply if the crime described in subsection
+27 (a) is one (1) or more of the following:
+28 (1) A crime of violence (as defined by IC 35-50-1-2).
+29 (2) A crime that results in bodily injury or death to a victim.
+30 (3) A sex offense (as defined by IC 11-8-8-5.2).
+31 (4) Domestic battery (IC 35-42-2-1.3).
+32 (5) Strangulation (IC 35-42-2-9).
+33 (6) Operating while intoxicated with a prior conviction for
+34 operating while intoxicated that resulted in death, serious bodily
+35 injury, or catastrophic injury (IC 9-30-5-3(b)).
+36 (7) Dealing in cocaine or a narcotic drug (IC 35-48-4-1).
+37 (8) Dealing in methamphetamine (IC 35-48-4-1.1).
+38 (9) Manufacturing methamphetamine (IC 35-48-4-1.2).
+39 (10) Dealing in a sched ule I, II, or III controlled substance (IC
+40 35-48-4-2).
+41 (g) If there is a conflict between a provision in this section and
+42 another provision of the Indiana Code, this section controls.
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 4 ---
+3
+1 SECTION 2. IC 11-13-9-1, AS ADDED BY P.L.119-2008,
+2 SECTION 11, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2025]: Sec. 1. This chapter does not apply to the following:
+4 (1) An inmate who receives a sentence of death or life
+5 imprisonment without parole under IC 35-50-2.
+6 (2) An inmate who has committed an offense described in
+7 IC 11-8-8-4.5.
+8 (3) A person convicted of a crime of violence (as defined in
+9 IC 35-50-1-2).
+10 SECTION 3. IC 33-32-3-1, AS AMENDED BY P.L.78-2014,
+11 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+12 JULY 1, 2025]: Sec. 1. (a) The clerk shall endorse the time of filing on
+13 each writing required to be filed in the office of the clerk.
+14 (b) The clerk shall carefully preserve in the office of the clerk all
+15 records and writings pertaining to the clerk's official duties.
+16 (c) The clerk shall procure, at the expense of the county, all
+17 necessary judges' appearance, bar, judgment, and execution dockets,
+18 order books, and final record books.
+19 (d) The clerk shall enter in proper record books all orders,
+20 judgments, and decrees of the court.
+21 (e) Not more than fifteen (15) days after the cases are finally
+22 determined, the clerk shall enter in final record books a complete
+23 record of:
+24 (1) all cases involving the title to land;
+25 (2) all criminal cases in which the punishment is death or
+26 imprisonment, except where a nolle prosequi is entered or an
+27 acquittal is had; and
+28 (3) all other cases, at the request of either party and upon payment
+29 of the costs.
+30 SECTION 4. IC 33-40-5-4, AS AMENDED BY P.L.111-2024,
+31 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+32 JULY 1, 2025]: Sec. 4. (a) The commission shall do the following:
+33 (1) Make recommendations to the supreme court concerning
+34 standards for indigent defense services provided for defendants
+35 against whom the state has sought the death sentence under
+36 IC 35-50-2-9, including the following:
+37 (A) Determining indigency and eligibility for legal
+38 representation.
+39 (B) Selection and qualifications of attorneys to represent
+40 indigent defendants at public expense.
+41 (C) Determining conflicts of interest.
+42 (D) Investigative, clerical, and other support services
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 5 ---
+4
+1 necessary to provide adequate legal representation.
+2 (2) (1) Adopt guidelines and standards for indigent defense
+3 services under which the counties will be eligible for
+4 reimbursement under IC 33-40-6, including the following:
+5 (A) Determining indigency and the eligibility for legal
+6 representation.
+7 (B) The issuance and enforcement of orders requiring the
+8 defendant to pay for the costs of court appointed legal
+9 representation under IC 33-40-3.
+10 (C) The use and expenditure of funds in the county
+11 supplemental public defender services fund established under
+12 IC 33-40-3-1.
+13 (D) Qualifications of attorneys to represent indigent
+14 defendants at public expense.
+15 (E) Compensation rates for salaried, contractual, and assigned
+16 counsel.
+17 (F) Minimum and maximum caseloads of public defender
+18 offices and contract attorneys.
+19 (G) Requirements concerning the creation and operation of a
+20 multicounty public defender's office created under an
+21 interlocal agreement as described in IC 33-40-7-3.5.
+22 (3) (2) Make recommendations concerning the delivery of
+23 indigent defense services in Indiana, including the funding and
+24 delivery of indigent defense services for juveniles.
+25 (4) (3) Make an annual report to the governor, the general
+26 assembly, and the supreme court on the operation of the public
+27 defense fund.
+28 (5) (4) Make a report not later than December 1, 2029, to the
+29 legislative council and the budget committee concerning the up
+30 to forty percent (40%) reimbursement from the public defense
+31 fund for indigent defense services for misdemeanor cases under
+32 IC 33-40-6-4(d), IC 33-40-6-4(c), IC 33-40-6-5(c), and
+33 IC 33-40-7-11(d).
+34 (b) The commission must provide data and statistics concerning
+35 how the reimbursement has impacted attorney appointment rates, jail
+36 population, trial rates, and case outcomes in the report under subsection
+37 (a)(5).
+38 (c) The report to the general assembly under subsection (a)(4) and
+39 to the legislative council under subsection (a)(5) must be in an
+40 electronic format under IC 5-14-6.
+41 (d) The commission shall not:
+42 (1) receive any additional appropriations from the general
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 6 ---
+5
+1 assembly for misdemeanor reimbursement; or
+2 (2) reimburse a county other than a county described in
+3 IC 33-40-6-4(d) IC 33-40-6-4(c) for misdemeanor
+4 reimbursement;
+5 before July 1, 2029.
+6 SECTION 5. IC 33-40-6-4, AS AMENDED BY P.L.111-2024,
+7 SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+8 JULY 1, 2025]: Sec. 4.(a) For purposes of this section, the term
+9 "county auditor" includes a person who:
+10 (1) is the auditor of a county that is a member of a multicounty
+11 public defender's office; and
+12 (2) is responsible for the receipt, disbursement, and accounting of
+13 all monies distributed to the multicounty public defender's office.
+14 (b) A county auditor may submit on a quarterly basis a certified
+15 request to the Indiana commission on court appointed attorneys for
+16 reimbursement from the public defense fund for an amount equal to
+17 fifty percent (50%) of the county's expenditures for indigent defense
+18 services provided to a defendant against whom the death sentence is
+19 sought under IC 35-50-2-9.
+20 (c) (b) Except as provided in subsection (d), (c), a county auditor
+21 may submit on a quarterly basis a certified request to the Indiana
+22 commission on court appointed attorneys for reimbursement from the
+23 public defense fund for an amount equal to forty percent (40%) of the
+24 county's or multicounty public defender's office's expenditures for
+25 indigent defense services provided in all noncapital cases except
+26 misdemeanors.
+27 (d) (c) This subsection applies to a county that is one (1) of up to
+28 twelve (12) counties that shall be selected by the Indiana commission
+29 on court appointed attorneys based on population and geographic
+30 diversity. A county auditor may submit on a quarterly basis a certified
+31 request to the Indiana commission on court appointed attorneys for
+32 reimbursement from the public defense fund for an amount that is up
+33 to forty percent (40%) of the county's or multicounty public defender's
+34 office's expenditures for indigent defense services provided in
+35 misdemeanor cases. This subsection expires June 30, 2029.
+36 (e) (d) The Indiana commission on court appointed attorneys may
+37 substitute a county described in subsection (d) (c) with a county with
+38 similar population and geographic characteristics if the county
+39 described in subsection (d) (c) declines to participate in the
+40 misdemeanor reimbursement. If a county is substituted under this
+41 subsection, the Indiana commission on court appointed attorneys shall
+42 publish on its website the replacement county.
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 7 ---
+6
+1 (f) (e) A request under this section from a county described in
+2 IC 33-40-7-1(5) may be limited to expenditures for indigent defense
+3 services provided by a particular division of a court.
+4 (g) (f) A county auditor shall submit quarterly to the Indiana
+5 commission on court appointed attorneys information to be included in
+6 the report under IC 33-40-5-4(a)(5) IC 33-40-5-4(a)(4) regarding
+7 reimbursements requested and received from the public defense fund
+8 for the county's expenditures for indigent defense services provided
+9 under subsections (b) and (c). and (d).
+10 SECTION 6. IC 33-40-6-5, AS AMENDED BY THE TECHNICAL
+11 CORRECTIONS BILL OF THE 2025 GENERAL ASSEMBLY, IS
+12 AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2025]:
+13 Sec. 5. (a) As used in this section, "commission" means the Indiana
+14 commission on court appointed attorneys established by IC 33-40-5-2.
+15 (b) Except as provided under subsection (c) and section 6 of this
+16 chapter, upon certification by a county auditor and a determination by
+17 the commission that the request is in compliance with the guidelines
+18 and standards set by the commission, the commission shall quarterly
+19 authorize an amount of reimbursement due the county or multicounty
+20 public defender's office
+21 (1) that is equal to fifty percent (50%) of the county's or
+22 multicounty public defender's office's certified expenditures for
+23 indigent defense services provided for a defendant against whom
+24 the death sentence is sought under IC 35-50-2-9; and
+25 (2) except as provided in subsection (c), that is equal to forty
+26 percent (40%) of the county's or multicounty public defender's
+27 office's certified expenditures for defense services provided in
+28 noncapital all cases except misdemeanors.
+29 The commission shall then certify to the state comptroller the amount
+30 of reimbursement owed to a county or multicounty public defender's
+31 office under this chapter.
+32 (c) This subsection applies to a county that is one (1) of up to twelve
+33 (12) counties that shall be selected by the Indiana commission on court
+34 appointed attorneys based on population and geographic diversity.
+35 Upon certification by a county auditor and a determination by the
+36 commission that the request is in compliance with the guidelines and
+37 standards set by the commission, the commission may quarterly
+38 authorize an amount of reimbursement due the county or multicounty
+39 public defender's office that is up to forty percent (40%) of the county's
+40 or multicounty public defender's office's certified expenditures for
+41 defense services provided in misdemeanor cases. This subsection
+42 expires June 30, 2029.
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 8 ---
+7
+1 (d) The Indiana commission on court appointed attorneys may
+2 substitute a county described in subsect ion (c) with a county with
+3 similar population and geographic characteristics if the county
+4 described in subsection (c) declines to participate in the misdemeanor
+5 reimbursement. If a county is substituted under this subsection, the
+6 commission shall publish on its website the replacement county.
+7 (e) Upon receiving certification from the commission, the state
+8 comptroller shall issue a warrant to the treasurer of state for
+9 disbursement to the county or multicounty public defender's office of
+10 the amount certified.
+11 (f) The commission shall include in its report under
+12 IC 33-40-5-4(a)(5) IC 33-40-5-4(a)(4) information regarding requested
+13 reimbursements and amounts certified for reimbursements to each
+14 county or multicounty public defender's office under subsections (b)
+15 and (c).
+16 SECTION 7. IC 33-40-6-6 IS AMENDED TO READ AS
+17 FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 6. The commission
+18 shall give priority to certified claims for reimbursement in capital
+19 cases. If the balance in the public defense fund is not adequate to fully
+20 reimburse all certified claims, in noncapital cases, the commission
+21 shall prorate the reimbursement of certified claims. in noncapital cases.
+22 SECTION 8. IC 33-40-7-11, AS AMENDED BY P.L.111-2024,
+23 SECTION 15, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+24 JULY 1, 2025]: Sec. 11. (a) For purposes of this section, the term
+25 "county auditor" includes a person who:
+26 (1) is the auditor of a county that is a member of a multicounty
+27 public defender's office described in section 3.5 of this chapter;
+28 and
+29 (2) is responsible for the receipt, disbursement, and accounting of
+30 all monies distributed to the multicounty public defender's office.
+31 (b) A county public defender board or the joint board of a
+32 multicounty public defender's office shall submit a written request for
+33 reimbursement to the county auditor. The request must set forth the
+34 total of the county's or multicounty public defender's office's
+35 expenditures for indigent defense services to the county auditor and
+36 may be limited in a county described in section 1(5) of this chapter to
+37 expendi tures for indigent defense services provided by a particular
+38 division of a court. The county auditor shall review the request and
+39 certify the total of the county's or multicounty's expenditures for
+40 indigent defense services to the Indiana commission on court appointed
+41 attorneys.
+42 (c) Except as provided i n subsection (d), upon certification by the
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 9 ---
+8
+1 Indiana commission on court appointed attorneys that the county's or
+2 multicounty public defender's office's indigent defense services meet
+3 the commission's standards, the state comptroller shall issue a warrant
+4 to the treasurer of state for disbursement to the county of a sum equal
+5 to forty percent (40%) of the county's or multicounty public defender's
+6 office's certified expenditures for indigent defense services provided in
+7 noncapital all cases except misdemeanors.
+8 (d) This subsection applies to a county that is one (1) of up to twelve
+9 (12) counties that shall be selected by the Indiana commission on court
+10 appointed attorneys based on population and geographic diversity.
+11 Upon certification by the Indiana commission on court appointed
+12 attorneys that the county's or multicounty public defender's office's
+13 indigent defense services meet the commission's standards, the state
+14 comptroller shall issue a warrant to the treasurer of state for
+15 disbursement to the county of a sum that is up to forty percent (40%)
+16 of the county's or multicounty public defender's office's certified
+17 expenditures for indigent defense services provided for misdemeanor
+18 cases. This subsection expires June 30, 2029.
+19 (e) If a county's indigent defense services fail to meet the standards
+20 adopted by the Indiana commission on court appointed attorneys, the
+21 Indiana commission on court appointed attorneys shall notify the
+22 county public defender board or the joint board of a multicounty public
+23 defender's office and the county fiscal body of the failure to comply
+24 with the commission's standards. Unless the county or multicounty
+25 public defender board corrects the deficiencies to comply with the
+26 standards not more than ninety (90) days after the date of the notice,
+27 the county's or multicounty's eligibility for reimbursement from the
+28 public defense fund terminates at the close of that fiscal year.
+29 (f) A county or multicounty public defender's office shall submit to
+30 the Indiana commission on court appointed attorneys information to be
+31 included in the annual  report under IC 33-40-5-4(a)(5)
+32 IC 33-40-5-4(a)(4) regarding expenses reported to the county auditor
+33 for reimbursement by the Indiana commission on court appointed
+34 attorneys.
+35 SECTION 9. IC 34-39-3-1 IS AMENDED TO READ AS
+36 FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 1. (a) Evidence of a
+37 final judgment that:
+38 (1) is entered after a trial or upon a plea of guilty; and
+39 (2) adjudges a person guilty of a crime punishable by death or
+40 imprisonment of more than one (1) year;
+41 shall be admissible in a civil action to prove any fact essential to
+42 sustaining the judgment, and is not excluded from admission as hearsay
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 10 ---
+9
+1 regardless of whether the declarant is available as a witness.
+2 (b) The pendency of an appeal may be shown but does not affect the
+3 admissibility of evidence under this section.
+4 SECTION 10. IC 35-36-2-5, AS AMENDED BY P.L.161-2018 ,
+5 SECTION 119, IS AMENDED TO READ AS FOLLOWS
+6 [EFFECTIVE JULY 1, 2025]: Sec. 5. (a) Except as provided by
+7 subsection (e), whenever a defendant is found guilty but mentally ill at
+8 the time of the crime or enters a plea to that effect that is accepted by
+9 the court, the court shall sentence the defendant in the same manner as
+10 a defendant found guilty of the offense.
+11 (b) Before sentencing the defendant under subsection (a), the court
+12 shall require the defendant to be evaluated by a physician licensed
+13 under IC 25-22.5 who practices psychiatric medicine, a licensed
+14 psychologist, or a community mental health center (as defined in
+15 IC 12-7-2-38). However, the court may waive this requirement if the
+16 defendant was evaluated by a physician licensed under IC 25-22.5 who
+17 practices psychiatric medicine, a licensed psychologist, or a community
+18 mental health center and the evaluation is contained in the record of the
+19 defendant's trial or plea agreement hearing.
+20 (c) If a defendant who is found guilty but mentally ill at the time of
+21 the crime is committed to the department of correction, the defendant
+22 shall be further evaluated and then treated in such a manner as is
+23 psychiatrically indicated for the defendant's mental illness. Treatment
+24 may be provided by:
+25 (1) the department of correction; or
+26 (2) the division of mental health and addiction after transfer under
+27 IC 11-10-4.
+28 (d) If a defendant who is found guilty but mentally ill at the time of
+29 the crime is placed on probation, the court may, in accordance with
+30 IC 35-38-2-2.3, require that the defendant undergo treatment.
+31 (e) As used in this subsection, "individual with an intellectual
+32 disability" means an individual who, before becoming twenty-two (22)
+33 years of age, manifests:
+34 (1) significantly subaverage intellectual functioning; and
+35 (2) substantial impairment of adaptive behavior;
+36 that is documented in a court ordered evaluative report. If a court
+37 determines under IC 35-36-9 that a defendant who is charged with a
+38 murder for which the state seeks a death sentence of life imprisonment
+39 without parole is an individual with an intellectual disability, the court
+40 shall sentence the defendant under IC 35-50-2-3(a).
+41 (f) If a defendant is found guilty but mentally ill, the court shall
+42 transmit any information required by the office of judicial
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 11 ---
+10
+1 administration to the office of judicial administration for transmission
+2 to the NICS (as defined in IC 35-47-2.5-2.5) in accordance with
+3 IC 33-24-6-3.
+4 SECTION 11. IC 35-36-9-1 IS AMENDED TO READ AS
+5 FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 1. This chapter applies
+6 when a defendant is charged with a murder for which the state seeks a
+7 death sentence of life imprisonment without parole under
+8 IC 35-50-2-9.
+9 SECTION 12. IC 35-36-9-6, AS AMENDED BY P.L.117-2015,
+10 SECTION 52, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+11 JULY 1, 2025]: Sec. 6. If the court determines that the defendant is an
+12 individual with an intellectual disability under section 5 of this chapter,
+13 the part of the state's charging instrument filed under IC 35-50-2-9(a)
+14 that seeks a death sentence of life imprisonment without parole
+15 against the defendant shall be dismissed.
+16 SECTION 13. IC 35-37-1-3, AS AMENDED BY P.L.158-2013,
+17 SECTION 392, IS AMENDED TO READ AS FOLLOWS
+18 [EFFECTIVE JULY 1, 2025]: Sec. 3. (a) In prosecutions for murder
+19 where the death penalty is sought, the defendant may challenge,
+20 peremptorily, twenty (20) jurors.
+21 (b) (a) In prosecutions for murder where the death penalty is not
+22 sought, and or Level 1, Level 2, Level 3, Level 4, or Level 5 felonies,
+23 the defendant may challenge, peremptorily, ten (10) jurors.
+24 (c) (b) In prosecutions for all other crimes, the defendant may
+25 challenge, peremptorily, five (5) jurors.
+26 (d) (c) When several defendants are tried together, they must join in
+27 their challenges.
+28 SECTION 14. IC 35-37-1-5 IS AMENDED TO READ AS
+29 FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 5. (a) The following are
+30 good causes for challenge to any person called as a juror in any
+31 criminal trial:
+32 (1) That the person was a member of the grand jury that found the
+33 indictment.
+34 (2) That the person has formed or expressed an opinion as to the
+35 guilt or innocence of the defendant. However, such an opinion is
+36 subject to subsection (b).
+37 (3) If the state is seeking a death sentence, that the person
+38 entertains such conscientious opinions as would preclude the
+39 person from recommending that the death penalty be imposed.
+40 (4) (3) That the person is related within the fifth degree to the
+41 person alleged to be the victim of the offense charged, to the
+42 person on whose complaint the prosecution was instituted, or to
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 12 ---
+11
+1 the defendant.
+2 (5) (4) That the person has served on a trial jury which was sworn
+3 in the same case against the same defendant, and which jury was
+4 discharged after hearing the evidence, or rendered a verdict which
+5 was set aside.
+6 (6) (5) That the person served as a juror in a civil case brought
+7 against the defendant for the same act.
+8 (7) (6) That the person has been subpoenaed in good faith as a
+9 witness in the case.
+10 (8) (7) That the person is a mentally incompetent person.
+11 (9) (8) That the person is an alien.
+12 (10) (9) That the person has been called to sit on the jury at the
+13 person's own solicitation or that of another.
+14 (11) (10) That the person is biased or prejudiced for or against the
+15 defendant.
+16 (12) (11) That the person does not have the qualifications for a
+17 juror prescribed by law.
+18 (13) (12) That, from defective sight or hearing, ignorance of the
+19 English language, or other cause, the person is unable to
+20 comprehend the evidence and the instructions of the court.
+21 (14) (13) That the person has a personal interest in the result of
+22 the trial.
+23 (15) (14) If the person is not a member of the regular panel, that
+24 the person has served on a jury within twelve (12) months
+25 immediately preceding the trial.
+26 (b) If a person called as a juror states that the person has formed or
+27 expressed an opinion as to the guilt or innocence of the defendant, the
+28 court or the parties shall proceed to examine the juror on oath as to the
+29 grounds of the juror's opinion. If the juror's opinion appears to have
+30 been founded upon reading newspaper statements, communications,
+31 comments, reports, rumors, or hearsay, and if:
+32 (1) the juror's opinion appears not to have been founded upon:
+33 (A) conversation with a witness of the transaction;
+34 (B) reading reports of a witness testimony; or
+35 (C) hearing a witness testify;
+36 (2) the juror states on oath that the juror feels able,
+37 notwithstanding the juror's opinion, to render an impartial verdict
+38 upon the law and evidence; and
+39 (3) the court is satisfied that the juror will render an impartial
+40 verdict;
+41 the court may admit the juror as competent to serve in the case.
+42 SECTION 15. IC 35-37-5-6 IS AMENDED TO READ AS
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 13 ---
+12
+1 FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 6. (a) If a judge of a
+2 court of record in any other state, which by its laws has made provision
+3 for commanding a prisoner within that state to attend and testify in this
+4 state, certifies under the seal of the court that:
+5 (1) there is a criminal prosecution pending in such court or that a
+6 grand jury investigation has commenced;
+7 (2) a person confined by the department of correction (other than
+8 a person awaiting execution of a sentence of death) is a material
+9 witness in such prosecution or investigation; and
+10 (3) his the prisoner's presence is required for a specified number
+11 of days;
+12 a judge of a court with jurisdiction to try felony cases in the county
+13 where the person is confined, after notice to the attorney general, shall
+14 fix a time and place for a hearing and shall order the person having
+15 custody of the prisoner to produce him the prisoner at the hearing.
+16 (b) If at such hearing the judge determines that the prisoner is a
+17 material and necessary witness in the requesting state, the judge shall
+18 issue an order directing that the prisoner attend the court where the
+19 prosecution or investigation is pending, upon such terms and
+20 conditions as the judge prescribes, including:
+21 (1) provision for the return of the prisoner at the conclusion of his
+22 the prisoner's testimony;
+23 (2) proper safeguards on his the prisoner's custody; and
+24 (3) proper financial reimbursement or other payment by the
+25 demanding jurisdiction for all expenses incurred in the production
+26 and return of the prisoner.
+27 (c) The attorney general is authorized to enter into agreements with
+28 authorities of the demanding jurisdiction to insure ensure proper
+29 compliance with the order of the court.
+30 (d) If:
+31 (1) a criminal action is pending in a court of record of this state by
+32 reason of the filing of an indictment or affidavit or by reason of
+33 the commencement of a grand jury proceeding or investigation;
+34 (2) there is reasonable cause to believe that a person confined in
+35 a correctional institution or prison of another state (other than a
+36 person awaiting execution of a sentence of death or one confined
+37 as mentally ill) possesses information material to such criminal
+38 action;
+39 (3) the attendance of such person as a witness in such action is
+40 desired by a party; and
+41 (4) the state in which such person is confined possesses a statute
+42 equivalent to this section;
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 14 ---
+13
+1 a judge of the court in which such action is pending may issue a
+2 certificate certifying all such facts and that the attendance of such
+3 person as a witness in such court is required for a specified number of
+4 days. Such a certificate may be issued upon application of either the
+5 state or defendant demonstrating all the facts specified in this section.
+6 (e) Upon issuing such a certificate, the court may deliver it to a
+7 court of such other state which, pursuant to the laws thereof, is
+8 authorized to undertake legal action for the delivery of such prisoners
+9 to this state as witnesses.
+10 SECTION 16. IC 35-38-4-6, AS AMENDED BY P.L.106-2010,
+11 SECTION 13, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+12 JULY 1, 2025]: Sec. 6. (a) An appeal to the supreme court or to the
+13 court of appeals from a judgment of conviction does not stay the
+14 execution of the sentence, unless
+15 (1) the punishment is to be death; or
+16 (2) the judgment is for a fine and costs (including fees) only, in
+17 which case the execution of the sentence may be stayed by an
+18 order of the court.
+19 (b) If the punishment is to be imprisonment and a fine and costs
+20 (including fees), the execution of the sentence as to the fine and costs
+21 (including fees) only may be stayed by the court.
+22 (c) In the case of an appeal from a judgment in a capital case, the
+23 order of suspension must specify the day until which the execution of
+24 the sentence is stayed.
+25 SECTION 17. IC 35-38-6 IS REPEALED [EFFECTIVE JULY 1,
+26 2025]. (Execution of Death Sentence).
+27 SECTION 18. IC 35-50-2-3, AS AMENDED BY P.L.117-2015,
+28 SECTION 56, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+29 JULY 1, 2025]: Sec. 3. (a) A person who commits murder shall be
+30 imprisoned for a fixed term of between forty-five (45) and sixty-five
+31 (65) years, with the advisory sentence being fifty-five (55) years. In
+32 addition, the person may be fined not more than ten thousand dollars
+33 ($10,000).
+34 (b) Notwithstanding subsection (a), a person who was
+35 (1) at least eighteen (18) sixteen (16) years of age at the time the
+36 murder was committed may be sentenced to
+37 (A) death; or
+38 (B) life imprisonment without parole and
+39 (2) at least sixteen (16) years of age but less than eighteen (18)
+40 years of age at the time the murder was committed may be
+41 sentenced to life imprisonment without parole;
+42 under section 9 of this chapter unless a court determines under
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 15 ---
+14
+1 IC 35-36-9 that the person is an individual with an intellectual
+2 disability.
+3 SECTION 19. IC 35-50-2-3.5 IS ADDED TO THE INDIANA
+4 CODE AS A NEW SECTION TO READ AS FOLLOWS
+5 [EFFECTIVE JULY 1, 2025]: Sec. 3.5. If a person:
+6 (1) was sentenced to death under Indiana law on or before
+7 July 1, 2025; and
+8 (2) is awaiting execution of the death sentence on July 1, 2025;
+9 the person's death sentence shall be commuted to a sentence of life
+10 imprisonment without parole.
+11 SECTION 20. IC 35-50-2-9, AS AMENDED BY P.L.65-2016,
+12 SECTION 40, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 JULY 1, 2025]: Sec. 9. (a) The state may seek either a death sentence
+14 or a sentence of life imprisonment without parole for murder by
+15 alleging, on a page separate from the rest of the charging instrument,
+16 the existence of at least one (1) of the aggravating circumstances listed
+17 in subsection (b). In the sentencing hearing after a person is convicted
+18 of murder, the state must prove beyond a reasonable doubt the
+19 existence of at least one (1) of the aggravating circumstances alleged.
+20 However, the state may not proceed against a defendant under  this
+21 section if a court determines at a pretrial hearing under IC 35-36-9 that
+22 the defendant is an individual with an intellectual disability.
+23 (b) The aggravating circumstances are as follows:
+24 (1) The defendant committed the murder by intentionally killing
+25 the victim while committing or attempting to commit any of the
+26 following:
+27 (A) Arson (IC 35-43-1-1).
+28 (B) Burglary (IC 35-43-2-1).
+29 (C) Child molesting (IC 35-42-4-3).
+30 (D) Criminal deviate conduct (IC 35-42-4-2) (before its
+31 repeal).
+32 (E) Kidnapping (IC 35-42-3-2).
+33 (F) Rape (IC 35-42-4-1).
+34 (G) Robbery (IC 35-42-5-1).
+35 (H) Carjacking (IC 35-42-5-2) (before its repeal).
+36 (I) Criminal organization activity (IC 35-45-9-3).
+37 (J) Dealing in cocaine or a narcotic drug (IC 35-48-4-1).
+38 (K) Criminal confinement (IC 35-42-3-3).
+39 (2) The defendant committed the murder by the unlawful
+40 detonation of an explosive with intent to injure a person or
+41 damage property.
+42 (3) The defendant committed the murder by lying in wait.
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 16 ---
+15
+1 (4) The defendant who committed the murder was hired to kill.
+2 (5) The defendant committed the murder by hiring another person
+3 to kill.
+4 (6) The victim of the murder was a corrections employee,
+5 probation officer, parole officer, community corrections worker,
+6 home detention officer, fireman, firefighter, judge, or law
+7 enforcement officer, and either:
+8 (A) the victim was acting in the course of duty; or
+9 (B) the murder was motivated by an act the victim performed
+10 while acting in the course of duty.
+11 (7) The defendant has been convicted of another murder.
+12 (8) The defendant has committed another murder, at any time,
+13 regardless of whether the defendant has been convicted of that
+14 other murder.
+15 (9) The defendant was:
+16 (A) under the custody of the department of correction;
+17 (B) under the custody of a county sheriff;
+18 (C) on probation after receiving a sentence for the commission
+19 of a felony; or
+20 (D) on parole;
+21 at the time the murder was committed.
+22 (10) The defendant dismembered the victim.
+23 (11) The defendant:
+24 (A) burned, mutilated, or tortured the victim; or
+25 (B) decapitated or attempted to decapitate the victim;
+26 while the victim was alive.
+27 (12) The victim of the murder was less than twelve (12) years of
+28 age.
+29 (13) The victim was a victim of any of the following offenses for
+30 which the defendant was convicted:
+31 (A) A battery offense included in IC 35-42-2 committed before
+32 July 1, 2014, as a Class D felony or as a Class C felony, or a
+33 battery offense included in IC 35-42-2 committed after June
+34 30, 2014, as a Level 6 felony, a Level 5 felony, a Level 4
+35 felony, or a Level 3 felony.
+36 (B) Kidnapping (IC 35-42-3-2).
+37 (C) Criminal confinement (IC 35-42-3-3).
+38 (D) A sex crime under IC 35-42-4.
+39 (14) The victim of the murder was listed by the state or known by
+40 the defendant to be a witness against the defendant and the
+41 defendant committed the murder with the intent to prevent the
+42 person from testifying.
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 17 ---
+16
+1 (15) The defendant  committed the murder by intentionally
+2 discharging a firearm (as defined in IC 35-47-1-5):
+3 (A) into an inhabited dwelling; or
+4 (B) from a vehicle.
+5 (16) The victim of the murder was pregnant and the murder
+6 resulted in the intentional killing of a fetus that has attained
+7 viability (as defined in IC 16-18-2-365).
+8 (17) The defendant knowingly or intentionally:
+9 (A) committed the murder:
+10 (i) in a building primarily used for an educational purpose;
+11 (ii) on school property; and
+12 (iii) when students are present; or
+13 (B) committed the murder:
+14 (i) in a building or other structure owned or rented by a state
+15 educational institution or any other public or private
+16 postsecondary educational institution and primarily used for
+17 an educational purpose; and
+18 (ii) at a time when classes are in session.
+19 (18) The murder is committed:
+20 (A) in a building that is primarily used for religious worship;
+21 and
+22 (B) at a time when persons are present for religious worship or
+23 education.
+24 (c) The mitigating circumstances that may be considered under this
+25 section are as follows:
+26 (1) The defendant has no significant history of prior criminal
+27 conduct.
+28 (2) The defendant was under the influence of extreme mental or
+29 emotional disturbance when the murder was committed.
+30 (3) The victim was a participant in or consented to the defendant's
+31 conduct.
+32 (4) The defendant was an accomplice in a murder committed by
+33 another person, and the defendant's participation was relatively
+34 minor.
+35 (5) The defendant acted under the substantial domination of
+36 another person.
+37 (6) The defendant's capacity to appreciate the criminality of the
+38 defendant's conduct or to conform that conduct to the
+39 requirements of law was substantially impaired as a result of
+40 mental disease or defect or of intoxication.
+41 (7) The defendant was less than eighteen (18) years of age at the
+42 time the murder was committed.
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 18 ---
+17
+1 (8) Any other circumstances appropriate for consideration.
+2 (d) If the defendant was convicted of murder in a jury trial, the jury
+3 shall reconvene for the sentencing hearing. If the trial was to the court,
+4 or the judgment was entered on a guilty plea, the court alone shall
+5 conduct the sentencing hearing. The jury or the court may consider all
+6 the evidence introduced at the trial stage of the proceedings, together
+7 with new evidence presented at the sentencing hearing. The court shall
+8 instruct the jury concerning the statutory penalties for murder and any
+9 other offenses for which the defendant was convicted, the potential for
+10 consecutive or concurrent sentencing, and the availability of
+11 educational credit, good time credit, and clemency. The court shall
+12 instruct the jury that, in order for the jury to recommend to the court
+13 that the death penalty or life imprisonment without parole should be
+14 imposed, the jury must find at least one (1) aggravating circumstance
+15 beyond a reasonable doubt as described in subsection (l) (h) and shall
+16 provide a special verdict form for each aggravating circumstance
+17 alleged. The defendant may present any additional evidence relevant
+18 to:
+19 (1) the aggravating circumstances alleged; or
+20 (2) any of the mitigating circumstances listed in subsection (c).
+21 (e) For a defendant sentenced after June 30, 2002, except as
+22 provided by IC 35-36-9, if the hearing is by jury, the jury shall
+23 recommend to the court whether the death penalty or life imprisonment
+24 without parole or neither, should be imposed. The jury may recommend
+25 (1) the death penalty; or
+26 (2) life imprisonment without parole
+27 only if it makes the findings described in subsection (l). (h). If the jury
+28 reaches a sentencing recommendation, the court shall sentence the
+29 defendant accordingly. After a court pronounces sentence, a
+30 representative of the victim's family and friends may present a
+31 statement regarding the impact of the crime on family and friends. The
+32 impact statement may be submitted in writing or given orally by the
+33 representative. The statement shall be given in the presence of the
+34 defendant.
+35 (f) If a jury is unable to agree on a sentence recommendation after
+36 reasonable deliberations, the court shall discharge the jury and proceed
+37 as if the hearing had been to the court alone.
+38 (g) If the hearing is to the court alone, except as provided by
+39 IC 35-36-9, the court shall
+40 (1) sentence the defendant to death; or
+41 (2) impose a term of life imprisonment without parole
+42 only if it makes the findings described in subsection (l). (h).
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 19 ---
+18
+1 (h) If a court sentences a defendant to death, the court shall order
+2 the defendant's execution to be carried out not later than one (1) year
+3 and one (1) day after the date the defendant was convicted. The
+4 supreme court has exclusive jurisdiction to stay the execution of a
+5 death sentence. If the supreme court stays the execution of a death
+6 sentence, the supreme court shall order a new date for the defendant's
+7 execution.
+8 (i) If a person sentenced to death by a court files a petition for
+9 post-conviction relief, the court, not later than ninety (90) days after the
+10 date the petition is filed, shall set a date to hold a hearing to consider
+11 the petition. If a court does not, within the ninety (90) day period, set
+12 the date to hold the hearing to consider the petition, the court's failure
+13 to set the hearing date is not a basis for additional post-conviction
+14 relief. The attorney general shall answer the petition for post-conviction
+15 relief on behalf of the state. At the request of the attorney general, a
+16 prosecuting attorney shall assist the attorney general. The court shall
+17 enter written findings of fact and conclusions of law concerning the
+18 petition not later than ninety (90) days after the date the hearing
+19 concludes. However, if the court determines that the petition is without
+20 merit, the court may dismiss the petition within ninety (90) days
+21 without conducting a hearing under this subsection.
+22 (j) A death sentence is subject to automatic review by the supreme
+23 court. The review, which shall be heard under rules adopted by the
+24 supreme court, shall be given priority over all other cases. The supreme
+25 court's review must take into consideration all claims that the:
+26 (1) conviction or sentence was in violation of the:
+27 (A) Constitution of the State of Indiana; or
+28 (B) Constitution of the United States;
+29 (2) sentencing court was without jurisdiction to impose a
+30 sentence; and
+31 (3) sentence:
+32 (A) exceeds the maximum sentence authorized by law; or
+33 (B) is otherwise erroneous.
+34 If the supreme court cannot complete its review by the date set by the
+35 sentencing court for the defendant's execution under subsection (h), the
+36 supreme court shall stay the execution of the death sentence and set a
+37 new date to carry out the defendant's execution.
+38 (k) A person who has been sentenced to death and who has
+39 completed state post-conviction review proceedings may file a written
+40 petition with the supreme court seeking to present new evidence
+41 challenging the person's guilt or the appropriateness of the death
+42 sentence if the person serves notice on the attorney general. The
+2025 IN 1030—LS 6470/DI 92
+
+
+--- Page 20 ---
+19
+1 supreme court shall determine, with or without a hearing, whether the
+2 person has presented previously undiscovered evidence that
+3 undermines confidence in the conviction or the death sentence. If
+4 necessary, the supreme court may remand the case to the trial court for
+5 an evidentiary hearing to consider the new evidence and its effect on
+6 the person's conviction and death sentence. The supreme court may not
+7 make a determination in the person's favor nor make a decision to
+8 remand the case to the trial court for an evidentiary hearing without
+9 first providing the attorney general with an opportunity to be heard on
+10 the matter.
+11 (l) (h) Before a sentence may be imposed under this section, the
+12 jury, in a proceeding under subsection (e), or the court, in a proceeding
+13 under subsection (g), must find that:
+14 (1) the state has proved beyond a reasonable doubt that at least
+15 one (1) of the aggravating circumstances listed in subsection (b)
+16 exists; and
+17 (2) any mitigating circumstances that exist are outweighed by the
+18 aggravating circumstance or circumstances.
+2025 IN 1030—LS 6470/DI 92

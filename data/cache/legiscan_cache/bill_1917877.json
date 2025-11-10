@@ -1,0 +1,152 @@
+{
+  "bill_id": 1917877,
+  "change_hash": "8f97c5a956650903176ec94e8c805e65",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/HB1475/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/house/1475/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-21",
+  "progress": [
+    {
+      "date": "2025-01-21",
+      "event": 1
+    },
+    {
+      "date": "2025-01-21",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "HB1475",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "H",
+  "body_id": 37,
+  "current_body": "H",
+  "current_body_id": 37,
+  "title": "Hospice program for veterans.",
+  "description": "Hospice program for veterans. Requires the Indiana Veterans' Home, not later than July 1, 2026, to establish a hospice program for veterans.",
+  "pending_committee_id": 1306,
+  "committee": {
+    "committee_id": 1306,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Veterans Affairs and Public Safety"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-21",
+      "committee_id": 1306,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Veterans Affairs and Public Safety"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-21",
+      "action": "Authored by Representative Pack",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-21",
+      "action": "First reading: referred to Committee on Veterans Affairs and Public Safety",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 22017,
+      "person_hash": "19df8d4e",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Renee Pack",
+      "first_name": "Renee",
+      "middle_name": "",
+      "last_name": "Pack",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-092",
+      "ftm_eid": 48871585,
+      "votesmart_id": 189699,
+      "opensecrets_id": "",
+      "knowwho_pid": 731222,
+      "ballotpedia": "Renee_Pack",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3054916,
+      "date": "2025-01-14",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/HB1475/id/3054916",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1475/HB1475.01.INTR.pdf",
+      "text_size": 72276,
+      "text_hash": "b35673d6a456f6ccdfd61d5a53e4f421",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 488109,
+      "date": "2025-01-14",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/HB1475/id/488109",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1475/fiscal-notes/HB1475.01.INTR.FN001.pdf",
+      "supplement_size": 62108,
+      "supplement_hash": "5c6b1350553e95b31811631cfe1375e7",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

@@ -1,0 +1,152 @@
+{
+  "bill_id": 1900136,
+  "change_hash": "89bc39c70b52825794bb4366fac458e8",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/SB0117/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/senate/117/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-08",
+  "progress": [
+    {
+      "date": "2025-01-08",
+      "event": 1
+    },
+    {
+      "date": "2025-01-08",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "SB0117",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "S",
+  "body_id": 38,
+  "current_body": "S",
+  "current_body_id": 38,
+  "title": "Compassionate release.",
+  "description": "Compassionate release. Allows certain convicted persons who have a chronic medical condition or are terminally ill or gravely disabled to file a petition for sentence modification, without the consent of the prosecuting attorney. Defines \"chronic medical condition\" and \"terminally ill or gravely disabled\" for purposes of filing a petition for sentence modification. Specifies that a court may not, without the consent of the prosecuting attorney, reduce or suspend a convicted person's sentence: (1) that was not authorized by a plea agreement; or (2) that is below the sentence that the court was authorized to impose at the time of sentencing. Provides certain criteria that the court must consider when ruling on a petition for sentence modification. Allows the court to grant or deny a petitioner's request for sentence modification, summarily dismiss the petition, or hold a hearing.",
+  "pending_committee_id": 2692,
+  "committee": {
+    "committee_id": 2692,
+    "chamber": "S",
+    "chamber_id": 38,
+    "name": "Corrections & Criminal Law"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-08",
+      "committee_id": 2692,
+      "chamber": "S",
+      "chamber_id": 38,
+      "name": "Corrections & Criminal Law"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-08",
+      "action": "Authored by Senator Pol",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-08",
+      "action": "First reading: referred to Committee on Corrections and Criminal Law",
+      "chamber": "S",
+      "chamber_id": 38,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 23013,
+      "person_hash": "94izuboz",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 2,
+      "role": "Sen",
+      "name": "Rodney Pol",
+      "first_name": "Rodney",
+      "middle_name": "",
+      "last_name": "Pol",
+      "suffix": "Jr.",
+      "nickname": "",
+      "district": "SD-004",
+      "ftm_eid": 0,
+      "votesmart_id": 200559,
+      "opensecrets_id": "",
+      "knowwho_pid": 790232,
+      "ballotpedia": "Rodney_Pol_Jr.",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3036617,
+      "date": "2024-12-30",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/SB0117/id/3036617",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/bills/SB0117/SB0117.01.INTR.pdf",
+      "text_size": 116362,
+      "text_hash": "84f127fe2835307125995cb30d5a7785",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 485517,
+      "date": "2024-12-30",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/SB0117/id/485517",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/senate/bills/SB0117/fiscal-notes/SB0117.01.INTR.FN001.pdf",
+      "supplement_size": 66383,
+      "supplement_hash": "c33f5252807ac1b8e033dd3c14516d6c",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

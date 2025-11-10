@@ -1,0 +1,220 @@
+{
+  "bill_id": 1900708,
+  "change_hash": "bc71e7f466a25463fb5a590804b3fccb",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/HB1082/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/house/1082/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-08",
+  "progress": [
+    {
+      "date": "2025-01-08",
+      "event": 1
+    },
+    {
+      "date": "2025-01-08",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "HB1082",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "H",
+  "body_id": 37,
+  "current_body": "H",
+  "current_body_id": 37,
+  "title": "Coverage for living organ donors.",
+  "description": "Coverage for living organ donors. Prohibits an insurer that issues a policy of life insurance, disability insurance, or long term care insurance from taking certain actions with respect to the coverage of individuals who are living organ donors. Specifies that certain actions constitute an unfair and deceptive act and practice in the business of insurance when taken against a living organ donor by an insurer.",
+  "pending_committee_id": 1294,
+  "committee": {
+    "committee_id": 1294,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Insurance"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-08",
+      "committee_id": 1294,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Insurance"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-08",
+      "action": "Coauthored by Representative Abbott",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-08",
+      "action": "Authored by Representative Mayfield",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-08",
+      "action": "First reading: referred to Committee on Insurance",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 1
+    },
+    {
+      "date": "2025-01-09",
+      "action": "Representative Hamilton added as coauthor",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 14441,
+      "person_hash": "xhwozmq1",
+      "party_id": "2",
+      "state_id": 14,
+      "party": "R",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Peggy Mayfield",
+      "first_name": "Peggy",
+      "middle_name": "",
+      "last_name": "Mayfield",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-060",
+      "ftm_eid": 10885729,
+      "votesmart_id": 136026,
+      "opensecrets_id": "",
+      "knowwho_pid": 395885,
+      "ballotpedia": "Peggy_Mayfield",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    },
+    {
+      "people_id": 19647,
+      "person_hash": "ldihpg36",
+      "party_id": "2",
+      "state_id": 14,
+      "party": "R",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "David Abbott",
+      "first_name": "David",
+      "middle_name": "",
+      "last_name": "Abbott",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-018",
+      "ftm_eid": 44857908,
+      "votesmart_id": 84404,
+      "opensecrets_id": "",
+      "knowwho_pid": 654968,
+      "ballotpedia": "David_Abbott_(Indiana)",
+      "bioguide_id": "",
+      "sponsor_type_id": 2,
+      "sponsor_order": 2,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    },
+    {
+      "people_id": 18543,
+      "person_hash": "qzgvyoto",
+      "party_id": "1",
+      "state_id": 14,
+      "party": "D",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Carey Hamilton",
+      "first_name": "Carey",
+      "middle_name": "",
+      "last_name": "Hamilton",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-087",
+      "ftm_eid": 15301806,
+      "votesmart_id": 174304,
+      "opensecrets_id": "",
+      "knowwho_pid": 595670,
+      "ballotpedia": "Carey_Hamilton",
+      "bioguide_id": "",
+      "sponsor_type_id": 2,
+      "sponsor_order": 3,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3037245,
+      "date": "2024-12-31",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/HB1082/id/3037245",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1082/HB1082.01.INTR.pdf",
+      "text_size": 182705,
+      "text_hash": "197267edf19d6b833f2d4d916b81dc44",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 485689,
+      "date": "2024-12-31",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/HB1082/id/485689",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1082/fiscal-notes/HB1082.01.INTR.FN001.pdf",
+      "supplement_size": 63732,
+      "supplement_hash": "db191c619553b2903ebfd3c3f01c158c",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

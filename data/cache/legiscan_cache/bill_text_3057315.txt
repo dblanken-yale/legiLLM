@@ -1,0 +1,999 @@
+--- Page 1 ---
+ 
+Introduced Version
+SENATE BILL No. 522
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 5-10-8; IC 5-16-16; IC 11-8; IC 11-10-3.5;
+IC 11-12-4-1; IC 12-15-5; IC 16-18-2; IC 16-35-12; IC 16-41-17.5;
+IC 27-8; IC 27-13-7.
+Synopsis:  Maternal health matters. Prohibits step therapy protocol for
+prescription drugs prescribed for the treatment of postpartum mental
+health conditions. Requires a state employee health plan, a policy of
+accident and sickness insurance, and a health maintenance organization
+contract to provide coverage for: (1) postpartum mental health
+conditions; (2) a tubal ligation procedure; and (3) a vasectomy
+procedure; for certain individuals. Establishes a grant program to
+promote the installation of lactation rooms in public buildings.
+Requires the Indiana housing and community development authority
+(IHCDA) to administer the grant program. Authorizes public agencies
+to apply for grants. Establishes the Officer Breann Leath Memorial
+Prison Nursery (nursery) within a correctional facility determined by
+the commissioner of the department of correction (DOC). Specifies the
+criteria for operation, design, and implementation of the nursery and
+minimum standards that govern the nursery. Requires the DOC to
+provide an annual report to the legislative council concerning the
+nursery. Amends the statute requiring the DOC to adopt rules
+governing minimum standards for county jails to include the provision
+of menstrual discharge collection devices to inmates. Establishes the
+incarcerated women's maternal health fund to provide funds to support
+the nursery. Provides for Medicaid reimbursement for certified medical
+interpretation services for Medicaid recipients who have limited
+English proficiency when receiving Medicaid covered services from a
+Medicaid provider. Requires Medicaid pregnancy services to include
+reimbursement for doula services. Establishes the telephone assistance
+line for mothers program for the purpose of providing a telephone
+(Continued next page)
+Effective:  July 1, 2025.
+Hunley,  Yoder,  Jackson L
+January 16, 2025, read first time and referred to Committee on Health and Provi der
+Services.
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 2 ---
+Digest Continued
+assistance line for mothers who are experiencing behavioral health
+issues to connect with health care practitioners to obtain behavioral
+health resources. Establishes the stillbirth prevention through fetal
+movement pilot program (program) for the purpose of providing
+evidence based information on the importance of tracking fetal
+movement in the third trimester of pregnancy to prevent stillbirths, to
+be administered by the Indiana department of health (state department).
+Allows the state department to award grants to increase education and
+the distribution of materials on tracking fetal movement in the third
+trimester of pregnancy. Requires grantees to report specified
+information on a quarterly and annual basis. Creates a fund and
+appropriates $250,000 for the program. Expires the program on
+December 31, 2027. Appropriates $5,000,000 to the IHCDA for
+deposit in the lactation room grant fund. Makes a continuing
+appropriation. 
+2025 IN 522—LS 7371/DI 104
+ 2025 IN 522—LS 7371/DI 104
+
+
+--- Page 3 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+SENATE BILL No. 522
+A BILL FOR AN ACT to amend the Indiana Code concerning
+health and to make an appropriation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 5-10-8-17, AS AMENDED BY THE TECHNICAL
+2 CORRECTIONS BILL OF THE 2025 GENERAL ASSEMBLY, IS
+3 AMENDED TO READ AS FOLLOWS [EFFECTIVE JULY 1, 2025]:
+4 Sec. 17. (a) As used in this section, "covered individual" means an
+5 individual entitled to coverage under a state employee health plan.
+6 (b) As used in this section, "preceding prescription drug" means a
+7 prescription drug that, according to a step therapy protocol, must be:
+8 (1) first used to treat a covered individual's condition; and
+9 (2) as a result of the treatment under subdivision (1), determined
+10 to be inappropriate to treat the covered individual's condition;
+11 as a condition of coverage under a state employee health plan for
+12 succeeding treatment with another prescription drug.
+13 (c) As used in this section, "protocol exception" means a
+14 determination by a state employee health plan that, based on a review
+15 of a request for the determination and any supporting documentation:
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 4 ---
+2
+1 (1) a step therapy protocol is not medically appropriate for
+2 treatment of a particular covered individual's condition; and
+3 (2) the state employee health plan will:
+4 (A) not require the covered individual's use of a preceding
+5 prescription drug under the step therapy protocol; and
+6 (B) provide immediate coverage for another prescription drug
+7 that is prescribed for the covered individual.
+8 (d) As used in this section, "state employee health plan" refers to the
+9 following that provide coverage for prescription drugs:
+10 (1) A self-insurance program established under section 7(b) of
+11 this chapter.
+12 (2) A contract with a prepaid health care delivery plan that is
+13 entered into or renewed under section 7(c) of this chapter.
+14 The term includes a person that administers prescription drug benefits
+15 on behalf of a state employee health plan.
+16 (e) As used in this section, "step therapy protocol" means a protocol
+17 that specifies, as a condition of coverage under a state employee health
+18 plan, the order in which certain prescription drugs must be used to treat
+19 a covered individual's condition.
+20 (f) As used in this section, "urgent care situation" means a covered
+21 individual's injury or condition about which the following apply:
+22 (1) If medical care or treatment is not provided earlier than the
+23 time frame generally considered by the medical profession to be
+24 reasonable for a nonurgent situation, the injury or condition could
+25 seriously jeopardize the covered individual's:
+26 (A) life or health; or
+27 (B) ability to regain maximum function;
+28 based on a prudent layperson's judgment.
+29 (2) If medical care or treatment is not provided earlier than the
+30 time frame generally considered by the medical profession to be
+31 reasonable for a nonurgent situation, the injury or condition could
+32 subject the covered individual to severe pain that cannot be
+33 adequately managed, based on the covered individual's treating
+34 health care provider's judgment.
+35 (g) A state employee health plan shall publish on the state employee
+36 health plan's Internet web site, website, and provide to a covered
+37 individual in writing, a procedure for the covered individual's use in
+38 requesting a protocol exception. The procedure must include the
+39 following provisions:
+40 (1) A description of the manner in which a covered individual
+41 may request a protocol exception.
+42 (2) That the state employee health plan shall make a
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 5 ---
+3
+1 determination concerning a protocol exception request, or an
+2 appeal of a denial of a protocol exception request, not more than:
+3 (A) in an urgent care situation, one (1) business day after
+4 receiving the request or appeal; or
+5 (B) in a nonurgent care situation, three (3) business days after
+6 receiving the request or appeal.
+7 (3) That a protocol exception will be granted if any of the
+8 following apply:
+9 (A) A preceding prescription drug is contraindicated or will
+10 likely cause an adverse reaction or physical or mental harm to
+11 the covered individual.
+12 (B) A preceding prescription drug is expected to be
+13 ineffective, based on both of the following:
+14 (i) The known clinical characteristics of the covered
+15 individual.
+16 (ii) Known characteristics of the preceding prescription
+17 drug, as found in sound clinical evidence.
+18 (C) The covered individual has previously received:
+19 (i) a preceding prescription drug; or
+20 (ii) another prescription drug that is in the same
+21 pharmacologic class or has the same mechanism of action as
+22 a preceding prescription drug;
+23 and the prescription drug was discontinued due to lack of
+24 efficacy or effectiveness, diminished effect, or an adverse
+25 event.
+26 (D) Based on clinical appropriateness, a preceding
+27 prescription drug is not in the best interest of the covered
+28 individual because the covered individual's use of the
+29 preceding prescription drug is expected to:
+30 (i) cause a significant barrier to the covered individual's
+31 adherence to or compliance with the covered individual's
+32 plan of care;
+33 (ii) worsen a comorbid condition of the covered individual;
+34 or
+35 (iii) decrease the covered individual's ability to achieve or
+36 maintain reasonable functional ability in performing daily
+37 activities.
+38 (4) That when a protocol exception is granted, the state employee
+39 health plan shall notify the covered individual and the covered
+40 individual's health care provider of the authorization for coverage
+41 of the prescription drug that is the subject of the protocol
+42 exception.
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 6 ---
+4
+1 (5) That if:
+2 (A) a protocol exception request; or
+3 (B) an appeal of a denied protocol exception request;
+4 results in a denial of the protocol exception, the state employee
+5 health plan shall provide to the covered individual and the
+6 treating health care provider notice of the denial, including a
+7 detailed, written explanation of the reason for the denial and the
+8 clinical rationale that supports the denial.
+9 (6) That the state employee health plan may request a copy of
+10 relevant documentation from the covered individual's medical
+11 record in support of a protocol exception.
+12 (h) A state employee health plan may not require step therapy
+13 protocol for a prescription drug that is prescribed for the
+14 treatment of a postpartum mental health condition (as defined in
+15 section 27 of this chapter).
+16 SECTION 2. IC 5-10-8-27 IS ADDED TO THE INDIANA CODE
+17 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+18 1, 2025]: Sec. 27. (a) This section applies to a state employee health
+19 plan that is established, entered into, amended, or renewed after
+20 June 30, 2025.
+21 (b) As used in this section, "covered individual" means an
+22 individual entitled to coverage under a state employee health plan.
+23 (c) As used in this section, "postpartum mental health
+24 condition" means a mental health condition that occurs:
+25 (1) during pregnancy or after childbirth; and
+26 (2) as a result of pregnancy or childbirth.
+27 The term includes postpartum depression.
+28 (d) As used in this section, "state employee health plan" means
+29 the following:
+30 (1) A self-insurance program established under section 7(b) of
+31 this chapter.
+32 (2) A contract for prepaid health care services entered into
+33 under section 7(c) of this chapter.
+34 (e) A state employee health plan must provide coverage for:
+35 (1) a postpartum mental health condition screening for a
+36 covered individual; and
+37 (2) postpartum mental health condition treatment for a
+38 covered individual, which includes prescription drugs used to
+39 treat a postpartum mental health condition.
+40 SECTION 3. IC 5-10-8-28 IS ADDED TO THE INDIANA CODE
+41 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+42 1, 2025]: Sec. 28. (a) This section applies to a state employee health
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 7 ---
+5
+1 plan that is established, entered into, amended, or renewed after
+2 June 30, 2025.
+3 (b) As used in this section, "covered individual" means an
+4 individual entitled to coverage under a state employee health plan.
+5 (c) As used in this section, "state employee health plan" means
+6 the following:
+7 (1) A self-insurance program established under section 7(b) of
+8 this chapter.
+9 (2) A contract for prepaid health care services entered into
+10 under section 7(c) of this chapter.
+11 (d) As used in this section, "tubal ligation procedure" means a
+12 surgical procedure that involves severing and tying the fallopian
+13 tubes.
+14 (e) As used in this section, "vasec tomy procedure" means a
+15 surgical procedure that involves cutting and sealing part of each
+16 vas deferens.
+17 (f) A state employee health plan shall provide coverage for a
+18 tubal ligation procedure for a covered individual.
+19 (g) A state employee health plan shall provide coverage for a
+20 vasectomy procedure for a covered individual.
+21 SECTION 4. IC 5-16-16 IS ADDED TO THE INDIANA CODE AS
+22 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+23 1, 2025]:
+24 Chapter 16. Grant Program for the Installation of Lactation
+25 Rooms in Public Buildings
+26 Sec. 1. This chapter applies to a public agency.
+27 Sec. 2. As used in this chapter, "authority" refers to the Indiana
+28 housing and community development authority created by
+29 IC 5-20-1-3.
+30 Sec. 3. As used in this chapter, "fund" refers to the lactation
+31 room grant fund established by section 10 of this chapter.
+32 Sec. 4. As used in this chapter, "grant program" refers to the
+33 grant program for the installation of lactation rooms established
+34 by section 7 of this chapter.
+35 Sec. 5. As used in this chapter, "lactation room" means a room
+36 designated and equipped for the purpose of allowing mothers to
+37 nurse or express breast milk in a clean and private setting within
+38 a public building.
+39 Sec. 6. As used in this chapter, "public agency" has the meaning
+40 set forth in IC 5-30-1-11.
+41 Sec. 7. The grant program for the installation of lactation rooms
+42 is established to provide grants to public agencies to offset costs
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 8 ---
+6
+1 incurred in the installation of lactation rooms when constructing
+2 or renovating public buildings.
+3 Sec. 8. (a) The authority shall administer the grant program.
+4 The authority shall do the following:
+5 (1) Adopt guidelines to determine standards for awarding
+6 grants under this chapter, including standards for
+7 determining whether a lactation room complies with section
+8 9 of this chapter and any other applicable governmental or
+9 other nationally recognized standards that apply to the
+10 provision of lactation rooms in public buildings.
+11 (2) Prepare and supervise the issuance of public information
+12 concerning the grant program.
+13 (3) Prescribe the form for and regulate the submission of
+14 applications for grants under this chapter.
+15 (b) A public agency may apply in the manner prescribed by the
+16 authority for a grant under this chapter to offset costs incurred in
+17 the installation of a lactation room in a public building managed by
+18 the public agency.
+19 Sec. 9. A lactation room installed by a public agency that
+20 receives a grant under this chapter must meet the following
+21 standards:
+22 (1) The space must be shielded from view and free from
+23 intrusion of others.
+24 (2) The room must be functional, with a private space with a
+25 place to sit and a flat surface, other than the floor, on which
+26 to place a breast pump and other supplies.
+27  (3) The room must provide the following:
+28 (A) Access to electricity for the use of a breast pump.
+29 (B) Good lighting.
+30 (C) A comfortable temperature.
+31 (D) Proper ventilation.
+32 Sec. 10. (a) The lactation room grant fund is established to
+33 provide grants under this chapter. The authority shall administer
+34 the fund.
+35 (b) The fund consists of:
+36 (1) money appropriated to the fund by the general assembly;
+37 (2) money received from state or federal grants or programs
+38 for the purposes of this chapter; and
+39 (3) donations, gifts, and money received from any other
+40 source, including transfers from other funds or accounts.
+41 (c) The treasurer of state shall invest the money in the fund not
+42 currently needed to meet the obligations of the fund in the same
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 9 ---
+7
+1 manner as other public funds may be invested.
+2 (d) Money in the fund at the end of a state fiscal year does not
+3 revert to the state general fund but remains in the fund to be used
+4 exclusively for purposes of this chapter.
+5 (e) Money in the fund is continuously appropriated for the
+6 purposes of this chapter.
+7 SECTION 5. IC 11-8-1-8.9 IS ADDED TO THE INDIANA
+8 CODE AS A NEW SECTION TO READ AS FOLLOWS
+9 [EFFECTIVE JULY 1, 2025]: Sec. 8.9. "Nursery" has the meaning
+10 set forth in IC 11-10-3.5-1.
+11 SECTION 6. IC 11-8-2-16 IS ADDED TO THE INDIANA CODE
+12 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+13 1, 2025]: Sec. 16. (a) As used in this section, "fund" refers to the
+14 incarcerated women's maternal health fund established by
+15 subsection (b).
+16 (b) The incarcerated women's maternal health fund is
+17 established to provide funds to support the Officer Breann Leath
+18 Memorial Prison Nursery established by IC 11-10-3.5-5.
+19 (c) The fund consists of the following:
+20 (1) Appropriations made by the general assembly.
+21 (2) Gifts, bequests, donations, contributions, and grants from
+22 any public or private source.
+23 (d) The department shall administer the fund.
+24 (e) The expenses of administering the fund shall be paid from
+25 money in the fund.
+26 (f) The treasurer of state shall invest the money in the fund not
+27 currently needed to meet the obligations of the fund in the same
+28 manner as other public money may be invested. Interest that
+29 accrues from these investments shall be deposited in the fund.
+30 (g) Money in the fund at the end of a state fiscal year does not
+31 revert to the state general fund.
+32 (h) Money in the fund is continuously appropriated to carry out
+33 the purposes of the fund.
+34 SECTION 7. IC 11-10-3.5-1, AS ADDED BY P.L.78-2022,
+35 SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+36 JULY 1, 2025]: Sec. 1. The following definitions apply throughout this
+37 chapter:
+38 (1) "Correctional facility" has the meaning set forth in
+39 IC 5-1.2-2-11.
+40 (2) "Nursery" means the Officer Breann Leath Memorial
+41 Prison Nursery established by section 5 of this chapter.
+42 (2) (3) "Pregnant inmate" means a confined person who is
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 10 ---
+8
+1 pregnant.
+2 (3) (4) "Restraints" means any mechanical device used to control
+3 the movement of a pregnant inmate's body or limbs, including
+4 handcuffs, leg shackles, and belly chains.
+5 SECTION 8. IC 11-10-3.5-5 IS ADDED TO THE INDIANA CODE
+6 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+7 1, 2025]: Sec. 5. (a) The Officer Breann Leath Memorial Prison
+8 Nursery is established within a correctional facility determined by
+9 the commissioner.
+10 (b) The department shall operate the nursery and shall ensure
+11 that the operation, design, and implementation of the nursery is
+12 undertaken with the consultation and guidance of subject matter
+13 experts, who are not employed by the department or a vendor of
+14 the department, from the following fields:
+15 (1) Maternal health.
+16 (2) Public health.
+17 (3) Pediatrics.
+18 (4) Child development.
+19 (c) To implement this section, the department shall adopt rules
+20 under IC 4-22-2 that contain the following minimum standards:
+21 (1) Policies and procedures to augment the operation, design,
+22 and implementation criteria established with subject matter
+23 experts under subsection (a).
+24 (2) Policies and procedures that require the nursery to be
+25 made available to appropriate inmates to facilitate the care of
+26 an inmate's child up to the age of thirty (30) months.
+27 (3) Policies and procedures that prohibit the use of an
+28 incarcerated mother's parenting style as grounds for
+29 punishment or discipline. This subdivision does not prohibit
+30 the imposition of discipline or punishment if an incarcerated
+31 mother's conduct is reasonably likely to:
+32 (A) cause harm or injury to the child; or
+33 (B) pose a threat to or endanger the well-being of the child.
+34 (d) Before September 30 of each year, the department shall
+35 report to the legislative council, in an electronic format under
+36 IC 5-14-6, the following information for the preceding state fiscal
+37 year:
+38 (1) The number of pregnant inmates in custody of the
+39 department.
+40 (2) The number of inmates considered for placement, and the
+41 number of inmates actually placed, in the nursery.
+42 SECTION 9. IC 11-12-4-1, AS AMENDED BY P.L.56-2023,
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 11 ---
+9
+1 SECTION 82, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+2 JULY 1, 2025]: Sec. 1. (a) As used in this section, "menstrual
+3 discharge collection devices" means:
+4 (1) tampons;
+5 (2) panty liners;
+6 (3) menstrual cups;
+7 (4) sanitary napkins; and
+8 (5) other similar tangible personal property designed to
+9 promote hygiene in connection with the human menstrual
+10 cycle.
+11 (b) The department shall adopt under IC 4-22-2 minimum standards
+12 for county jails governing the following:
+13 (1) General physical and environmental conditions.
+14 (2) Services and programs to be provided to confined persons.
+15 (3) Procedures for the care and control of confined persons that
+16 are necessary to ensure the health and safety of confined persons,
+17 the security of the jail, and public safety. and
+18 (4) The restraint of pregnant inmates. Rules adopted under this
+19 subdivision must be consistent with IC 11-10-3.5.
+20 (5) The provision of menstrual discharge collection devices to
+21 inmates who menstruate. Rules adopted under this
+22 subdivision must require the provision of menstrual discharge
+23 collection devices, in an appropriate quantity and at no cost,
+24 to an inmate that seeks a menstrual discharge collection
+25 device.
+26 However, the department may not adopt any standard that prohibits the
+27 placement of more than one (1) prisoner in a prisoner cell that has
+28 thirty-five (35) square feet or more of floor space per prisoner.
+29 (b) (c) The standards must be sufficiently flexible to foster the
+30 development of new and improved practices and to accommodate local
+31 needs and circumstances. The standards must be consistent with the
+32 laws of Indiana and the rules of the Indiana department of health and
+33 the fire prevention and building safety commission.
+34 (c) (d) The commissioner shall select a committee of not less than
+35 five (5) county sheriffs to consult with the department before and
+36 during the drafting of the proposed minimum standards. County
+37 sheriffs shall be selected from the various classes of counties to ensure
+38 that densely, moderately, and sparsely populated counties are
+39 represented. Each county sheriff is entitled to the minimum salary per
+40 diem as provided in IC 4-10-11-2.1 for each day engaged in the official
+41 business of the committee and to reimbursement for traveling and other
+42 expenses, as provided in the state travel policies and procedures
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 12 ---
+10
+1 established by the Indiana department of administration and approved
+2 by the budget agency.
+3 (d) (e) At least sixty (60) days before setting the date for a public
+4 hearing under IC 4-22-2, the department shall forward copies of the
+5 proposed minimum standards to each county sheriff and each board of
+6 county commissioners and shall solicit their views and suggestions.
+7 SECTION 10. IC 12-15-5-7, AS ADDED BY P.L.35-2019,
+8 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+9 JULY 1, 2025]: Sec. 7. (a) Pregnancy services provided under this
+10 article may shall include reimbursement for doula services.
+11 (b) The office may shall apply for any state plan amendment or
+12 waiver necessary to implement this section.
+13 (c) The office may shall adopt rules under IC 4-22-2 to implement
+14 this section.
+15 SECTION 11. IC 12-15-5-16.5 IS ADDED TO THE INDIANA
+16 CODE AS A NEW SECTION TO READ AS FOLLOWS
+17 [EFFECTIVE JULY 1, 2025]: Sec. 16.5. (a) As used in this section,
+18 "certified medical interpretation services" does not include sign
+19 language interpretation services.
+20 (b) Subject to the approval under subsection (e), the office of the
+21 secretary shall reimburse for the provision of certified medical
+22 interpretation services for Medicaid recipients who have limited
+23 English proficiency when receiving Medicaid covered services from
+24 a Medicaid provider.
+25 (c) The office of the secretary shall ensure that any contract for
+26 the provision of certified medical interpretation services allows a
+27 Medicaid provider to access scheduling for the service.
+28 (d) The office of the secretary shall establish a community
+29 advisory committee to advise on the provision of certified medical
+30 interpretation services. The advisory committee must consist of
+31 stakeholders and Medicaid health care providers.
+32 (e) The office of the secretary shall apply to the United States
+33 Department of Health and Human Services for any state plan
+34 amendment or waiver necessary to implement this section.
+35 SECTION 12. IC 16-18-2-294.5, AS AMENDED BY P.L.208-2015,
+36 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+37 JULY 1, 2025]: Sec. 294.5. (a) "Program", for purposes of
+38 IC 16-35-12, has the meaning set forth in IC 16-35-12-1.
+39 (a) (b) "Program", for purposes of IC 16-40-4, has the meaning set
+40 forth in IC 16-40-4-3.
+41 (b) (c) "Program", for purposes of IC 16-41-7.5, has the meaning set
+42 forth in IC 16-41-7.5-2.
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 13 ---
+11
+1 (d) "Program", for purposes of IC 16-41-17.5, has the meaning
+2 set forth in IC 16-41-17.5-1.
+3 (c) (e) "Program", for purposes of IC 16-47-1, has the meaning set
+4 forth in IC 16-47-1-3.
+5 SECTION 13. IC 16-18-2-341, AS AMENDED BY P.L.31-2019,
+6 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+7 JULY 1, 2025]: Sec. 341. "Stillbirth", for purposes of IC 16-37,
+8 IC 16-41-17.5, and IC 16-49-6, means a birth after twenty (20) weeks
+9 of gestation that is not a live birth.
+10 SECTION 14. IC 16-35-12 IS ADDED TO THE INDIANA CODE
+11 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+12 JULY 1, 2025]:
+13 Chapter 12. Telephone Assistance Line for Mothers
+14 Sec. 1. As used in this chapter, "program" refers to the
+15 telephone assistance line for mothers program established under
+16 section 2 of this chapter.
+17 Sec. 2. (a) The state department shall establish and administer
+18 the telephone assistance line for mothers program for the purpose
+19 of helping mothers who are experiencing behavioral health issues
+20 to connect with health care providers to obtain behavioral health
+21 resources.
+22 (b) The state department shall employ at least the following for
+23 the program:
+24 (1) A psychiatrist licensed under IC 25-22.5.
+25 (2) A psychologist licensed under IC 25-33.
+26 Sec. 3. The program must include the operation of a dedicated
+27 telephone number Monday through Friday from at least 8 a.m.
+28 until 5 p.m. that serves as the entry point to the program for health
+29 care providers to be able to connect available services to a mother
+30 with behavioral health concerns. Services must include the
+31 following:
+32 (1) An immediate clinical consultation over the telephone.
+33 (2) An expedited face-to-face behavioral health consultation.
+34 (3) Care coordination for assistance with referrals to
+35 community behavioral health services.
+36 Sec. 4. The state department shall provide professional
+37 continuing education on behavioral health matters for health care
+38 providers employed by the program.
+39 SECTION 15. IC 16-41-17.5 IS ADDED TO THE INDIANA
+40 CODE AS A NEW CHAPTER TO READ AS FOLLOWS
+41 [EFFECTIVE JULY 1, 2025]:
+42 Chapter 17.5. Prevention and Treatment Programs: Stillbirth
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 14 ---
+12
+1 Prevention Through Fetal Movement Pilot Program
+2 Sec. 1. As used in this chapter, "program" refers to the stillbirth
+3 prevention through fetal movement pilot program established by
+4 section 2 of this chapter.
+5 Sec. 2. The stillbirth prevention through fetal movement pilot
+6 program is established for the purpose of providing evidence based
+7 information on the importance of tracking fetal movement in the
+8 third trimester of pregnancy to prevent stillbirths in Indiana.
+9 Sec. 3. (a) The state department shall establish a grant as part
+10 of the program. The state department may award a grant to be
+11 used for the following:
+12 (1) Developing and distributing evidence based education
+13 materials about the importance of tracking fetal movement in
+14 the third trimester of pregnancy to the following that provide
+15 education to maternal health providers:
+16 (A) Community organizations.
+17 (B) Hospitals.
+18 (C) Birthing centers.
+19 (D) Maternal health providers.
+20 (E) State educational institutions that educate maternal
+21 health providers.
+22 (2) Providing maternal health providers and expectant
+23 parents in Indiana with access to free evidence based
+24 educational materials on fetal movement tracking, including
+25 brochures, posters, continuing education materials, and
+26 digital resources.
+27 (3) Assisting in raising awareness with health care providers
+28 concerning the following:
+29 (A) Materials described in subdivisions (1) and (2).
+30 (B) The importance of tracking fetal movement in the third
+31 trimester of pregnancy through an education campaign
+32 and by offering at least three (3) webinars or conferences
+33 per year.
+34 (C) The availability of free education materials described
+35 in this subsection.
+36 (b) A grant recipient shall provide the state department with the
+37 following information on at least a quarterly basis:
+38 (1) The number of educational materials distributed by the
+39 grantee, broken down by ZIP code and type of facility or
+40 organization that received the materials within Indiana.
+41 (2) The number of fetal movement tracking application
+42 downloads attributed to the program, broken down by ZIP
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 15 ---
+13
+1 code within Indiana.
+2 (3) The number of health care providers that participated in
+3 any training program, webinar, conference, or other
+4 awareness events provided by the grantee.
+5 (c) A grant recipient shall provide the state department with the
+6 following information on an annual basis concerning how the pilot
+7 program has affected the fetal death rates in Indiana, dividing the
+8 information of the rates by race and ZIP code within Indiana.
+9 Sec. 4. (a) The stillbirth prevention through fetal movement
+10 pilot program  fund is established for the purpose of providing
+11 evidence based information on the importance of tracking fetal
+12 movement in the third trimester of pregnancy to prevent stillbirths
+13 in Indiana. The fund shall be administered by the state department.
+14 (b) The expenses of administering the fund shall be paid from
+15 money in the fund.
+16 (c) The treasurer of state shall invest money in the fund not
+17 currently needed to meet the obligations of the fund in the same
+18 manner as other public money may be invested. Interest that
+19 accrues from these investments shall be deposited in the fund.
+20 (d) Money in the fund consists of appropriations, gifts, grants,
+21 and donations from public or private sources. Money in the fund
+22 at the end of a state fiscal year does not revert to the state general
+23 fund.
+24 Sec. 5. This chapter expires December 31, 2027.
+25 SECTION 16. IC 27-8-5-30, AS ADDED BY P.L.19-2016,
+26 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+27 JULY 1, 2025]: Sec. 30. (a) As used in this section, "insured" means an
+28 individual who is entitled to coverage under a policy of accident and
+29 sickness insurance.
+30 (b) As used in this section, "insurer" refers to an insurer that issues
+31 a policy of accident and sickness insurance. The term includes a person
+32 that administers prescription drug benefits on behalf of an insurer.
+33 (c) As used in this section, "policy of accident and sickness
+34 insurance" means a policy of accident and sickness insurance that
+35 provides coverage for prescription drugs.
+36 (d) As used in this section, "preceding prescription drug" means a
+37 prescription drug that, according to a step therapy protocol, must be:
+38 (1) first used to treat an insured's condition; and
+39 (2) as a result of the treatment under subdivision (1), determined
+40 to be inappropriate to treat the insured's condition;
+41 as a condition of coverage under a policy of accident and sickness
+42 insurance for succeeding treatment with another prescription drug.
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 16 ---
+14
+1 (e) As used in this section, "protocol exception" means a
+2 determination by an insurer that, based on a review of a request for the
+3 determination and any supporting documentation:
+4 (1) a step therapy protocol is not medically appropriate for
+5 treatment of a particular insured's condition; and
+6 (2) the insurer will:
+7 (A) not require the insured's use of a preceding prescription
+8 drug under the step therapy protocol; and
+9 (B) provide immediate coverage for another prescription drug
+10 that is prescribed for the insured.
+11 (f) As used in this section, "step therapy protocol" means a protocol
+12 that specifies, as a condition of coverage under a policy of accident and
+13 sickness insurance, the order in which certain prescription drugs must
+14 be used to treat an insured's condition.
+15 (g) As used in this section, "urgent care situation" means an
+16 insured's injury or condition about which the following apply:
+17 (1) If medical care or treatment is not provided earlier than the
+18 time frame generally considered by the medical profession to be
+19 reasonable for a nonurgent situation, the injury or condition could
+20 seriously jeopardize the insured's:
+21 (A) life or health; or
+22 (B) ability to regain maximum function;
+23 based on a prudent layperson's judgment.
+24 (2) If medical care or treatment is not provided earlier than the
+25 time frame generally considered by the medical profession to be
+26 reasonable for a nonurgent situation, the injury or condition could
+27 subject the insured to severe pain that canno t be adequately
+28 managed, based on the insured's treating health care provider's
+29 judgment.
+30 (h) An insurer shall publish on the insurer's Internet web site,
+31 website, and provide to an insured in writing, a procedure for the
+32 insured's use in requesting a protocol exception. The procedure must
+33 include the following provisions:
+34 (1) A description of the manner in which an insured may request
+35 a protocol exception.
+36 (2) That the insurer shall make a determination concerning a
+37 protocol exception request, or an appeal of a denial of a protocol
+38 exception request, not more than:
+39 (A) in an urgent care situation, one (1) business day after
+40 receiving the request or appeal; or
+41 (B) in a nonurgent care situation, three (3) business days after
+42 receiving the request or appeal.
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 17 ---
+15
+1 (3) That a protocol exception will be granted if any of the
+2 following apply:
+3 (A) A precedi ng prescription drug is contraindicated or will
+4 likely cause an adverse reaction or physical or mental harm to
+5 the insured.
+6 (B) A preceding prescription drug is expected to be
+7 ineffective, based on both of the following:
+8 (i) The known clinical characteristics of the insured.
+9 (ii) Known characteristics of the preceding prescription
+10 drug, as found in sound clinical evidence.
+11 (C) The insured has previously received:
+12 (i) a preceding prescription drug; or
+13 (ii) another prescription drug that is in the same
+14 pharmacologic class or has the same mechanism of action as
+15 a preceding prescription drug;
+16 and the prescription drug was discontinued due to lack of
+17 efficacy or effectiveness, diminished effect, or an adverse
+18 event.
+19 (D) Based on clinical appropriateness, a preceding
+20 prescription drug is not in the best interest of the insured
+21 because the insured's use of the preceding prescription drug is
+22 expected to:
+23 (i) cause a significant barrier to the insured's adherence to or
+24 compliance with the insured's plan of care;
+25 (ii) worsen a comorbid condition of the insured; or
+26 (iii) decrease the insured's ability to achieve or maintain
+27 reasonable functional ability in performing daily activities.
+28 (4) That when a protocol exception is granted, the insurer shall
+29 notify the insured and the insured's health care provider of the
+30 authorization for coverage of the prescription drug that is the
+31 subject of the protocol exception.
+32 (5) That if:
+33 (A) a protocol exception request; or
+34 (B) an appeal of a denied protocol exception request;
+35 results in a denial of the protocol exception, the insurer shall
+36 provide to the insured and the treating health care provider notice
+37 of the denial, including a detailed, written explanation of the
+38 reason for the denial and the clinical rationale that supports the
+39 denial.
+40 (6) That the insurer may request a copy of relevant documentation
+41 from the insured's medical record in support of a protocol
+42 exception.
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 18 ---
+16
+1 (i) An insurer may not require step therapy protocol for a
+2 prescription drug that is prescribed for the treatment of a
+3 postpartum mental health condition (as defined in IC 27-8-41-4).
+4 SECTION 17. IC 27-8-40 IS ADDED TO THE INDIANA CODE
+5 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+6 JULY 1, 2025]:
+7 Chapter 40. Covera ge for Tubal Ligation and Vasectomy
+8 Procedures
+9 Sec. 1. This chapter applies to a policy of accident and sickness
+10 insurance that is issued, delivered, amended, or renewed after June
+11 30, 2025.
+12 Sec. 2. As used in this chapter, "insured" means an individual
+13 entitled to coverage under a policy of accident and sickness
+14 insurance.
+15 Sec. 3. As used in this chapter, "policy of accident and sickness
+16 insurance" has the meaning set forth in IC 27-8-5-1.
+17 Sec. 4. As used in this chapter, "tubal ligation procedure"
+18 means a surgical procedure that involves severing and tying the
+19 fallopian tubes.
+20 Sec. 5. As used in this chapter, "vasectomy procedure" means
+21 a surgical procedure that involves cutting and sealing part of each
+22 vas deferens.
+23 Sec. 6. A policy of accident and sickness insurance shall provide
+24 coverage for a tubal ligation procedure for an insured.
+25 Sec. 7. A policy of accident and sickness insurance shall provide
+26 coverage for a vasectomy procedure for an insured.
+27 SECTION 18. IC 27-8-41 IS ADDED TO THE INDIANA CODE
+28 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+29 JULY 1, 2025]:
+30 Chapter 41. Coverage for Postpartum Mental Health Condition
+31 Screening and Treatment
+32 Sec. 1. This chapter applies to a policy of accident and sickness
+33 insurance that is issued, delivered, amended, or renewed after June
+34 30, 2025.
+35 Sec. 2. As used in this chapter, "insured" means an individual
+36 entitled to coverage under a policy of accident and sickness
+37 insurance.
+38 Sec. 3. As used in this chapter, "policy of accident and sickness
+39 insurance" has the meaning set forth in IC 27-8-5-1.
+40 Sec. 4. As used in this chapter, "postpartum mental health
+41 condition" means a mental health condition that occurs:
+42 (1) during pregnancy or after childbirth; and
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 19 ---
+17
+1 (2) as a result of pregnancy or childbirth.
+2 The term includes postpartum depression.
+3 Sec. 5. A policy of accident and sickness insurance must provide
+4 coverage for:
+5 (1) a postpartum mental health condition screening for an
+6 insured; and
+7 (2) postpartum mental health condition treatment for an
+8 insured, which includes prescription drugs used to treat a
+9 postpartum mental health condition.
+10 SECTION 19. IC 27-13-7-23, AS ADDED BY P.L.19-2016,
+11 SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+12 JULY 1, 2025]: Sec. 23. (a) As used in this section, "group contract"
+13 refers to a group contract that provides coverage for prescription drugs.
+14 (b) As used in this section, "health maintenance organization" refers
+15 to a health maintenance organization that provides coverage for
+16 prescription drugs. The term includes the following:
+17 (1) A limited service health maintenance organization.
+18 (2) A person that administers prescription drug benefits on behalf
+19 of a health maintenance organization or a limited service health
+20 maintenance organization.
+21 (c) As used in this section, "individual contract" refers to an
+22 individual contract that provides coverage for prescription drugs.
+23 (d) As used in this section, "preceding prescription drug" means a
+24 prescription drug that, according to a step therapy protocol, must be:
+25 (1) first used to treat an enrollee's condition; and
+26 (2) as a result of the treatment under subdivision (1), determined
+27 to be inappropriate to treat the enrollee's condition;
+28 as a condition of coverage under an individual contract or a group
+29 contract for succeeding treatment with another prescription drug.
+30 (e) As used in this section, "protocol exception" means a
+31 determination by a health maintenance organization that, based on a
+32 review of a request for the determination and any supporting
+33 documentation:
+34 (1) a step therapy protocol is not medically appropriate for
+35 treatment of a particular enrollee's condition; and
+36 (2) the health maintenance organization will:
+37 (A) not require the enrollee's use of a preceding prescription
+38 drug under the step therapy protocol; and
+39 (B) provide immediate coverage for another prescription drug
+40 that is prescribed for the enrollee.
+41 (f) As used in this section, "step therapy protocol" means a protocol
+42 that specifies, as a condition of coverage under an individual contract
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 20 ---
+18
+1 or a group contract, the order in which certain prescription drugs must
+2 be used to treat an enrollee's condition.
+3 (g) As used in this section, "urgent care situation" means an
+4 enrollee's injury or condition about which the following apply:
+5 (1) If medical care or treatment is not provided earlier than the
+6 time frame generally considered by the medical profession to be
+7 reasonable for a nonurgent situation, the injury or condition could
+8 seriously jeopardize the enrollee's:
+9 (A) life or health; or
+10 (B) ability to regain maximum function;
+11 based on a prudent layperson's judgment.
+12 (2) If medical care or treatment is not provided earlier than the
+13 time frame generally considered by the medical profession to be
+14 reasonable for a nonurgent situation, the injury or condition could
+15 subject the enrollee to severe pain that cannot be adequately
+16 managed, based on the enrollee's treating health care provider's
+17 judgment.
+18 (h) A health maintenance organization shall publish on the health
+19 maintenance organization's Internet web site, website, and provide to
+20 an enrollee in writing, a procedure for the enrollee's use in requesting
+21 a protocol exception. The procedure must include the following
+22 provisions:
+23 (1) A description of the manner in which an enrollee may request
+24 a protocol exception.
+25 (2) That the health maintenance organization shall make a
+26 determination concerning a protocol exception request , or an
+27 appeal of a denial of a protocol exception request, not more than:
+28 (A) in an urgent care situation, one (1) business day after
+29 receiving the request or appeal; or
+30 (B) in a nonurgent care situation, three (3) business days after
+31 receiving the request or appeal.
+32 (3) That a protocol exception will be granted if any of the
+33 following apply:
+34 (A) A preceding prescription drug is contraindicated or will
+35 likely cause an adverse reaction or physical or mental harm to
+36 the enrollee.
+37 (B) A preceding prescription drug is expected to be
+38 ineffective, based on both of the following:
+39 (i) The known clinical characteristics of the enrollee.
+40 (ii) Known characteristics of the preceding prescription
+41 drug, as found in sound clinical evidence.
+42 (C) The enrollee has previously received:
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 21 ---
+19
+1 (i) a preceding prescription drug; or
+2 (ii) another prescription drug that is in the same
+3 pharmacologic class or has the same mechanism of action as
+4 a preceding prescription drug;
+5 and the prescription drug was discontinued due to lack of
+6 efficacy or effectiveness, diminished effect, or an adverse
+7 event.
+8 (D) Based on clinical appropriateness, a precedi ng
+9 prescription drug is not in the best interest of the enrollee
+10 because the enrollee's use of the preceding prescription drug
+11 is expected to:
+12 (i) cause a significant barrier to the enrollee's adherence to
+13 or compliance with the enrollee's plan of care;
+14 (ii) worsen a comorbid condition of the enrollee; or
+15 (iii) decrease the enrollee's ability to achieve or maintain
+16 reasonable functional ability in performing daily activities.
+17 (4) That when a protocol exception is granted, the health
+18 maintenance organization shall notify the enrollee and the
+19 enrollee's health care provider of the authorization for coverage
+20 of the prescription drug that is the subject of the protocol
+21 exception.
+22 (5) That if:
+23 (A) a protocol exception request; or
+24 (B) an appeal of a denied protocol exception request;
+25 results in a denial of the protocol exception, the health
+26 maintenance organization shall provide to the enrollee and the
+27 treating health care provider notice of the denial, including a
+28 detailed, written explanation of the reason for the denial and the
+29 clinical rationale that supports the denial.
+30 (6) That the insurer may request a copy of relevant documentation
+31 from the insured's medical record in support of a protocol
+32 exception.
+33 (i) A health maintenance organization may not require step
+34 therapy protocol for a prescription drug that is prescribed for the
+35 treatment of a postpartum mental health condition (as defined in
+36 section 29(b) of this chapter).
+37 SECTION 20. IC 27-13-7-29 IS ADDED TO THE INDIANA
+38 CODE AS A NEW SECTION TO READ AS FOLLOWS
+39 [EFFECTIVE JULY 1, 2025]: Sec. 29. (a) This section applies to an
+40 individual contract and a group contract that is entered into,
+41 delivered, amended, or renewed after June 30, 2025.
+42 (b) As used in this section, "postpartum mental health
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 22 ---
+20
+1 condition" means a mental health condition that occurs:
+2 (1) during pregnancy or after childbirth; and
+3 (2) as a result of pregnancy or childbirth.
+4 The term includes postpartum depression.
+5 (c) An individual contract or a group contract must provide
+6 coverage for:
+7 (1) a postpartum mental health condition screening for an
+8 enrollee; and
+9 (2) postpartum mental health condition treatment for an
+10 enrollee, which includes prescription drugs used to treat a
+11 postpartum mental health condition.
+12 SECTION 21. IC 27-13-7-30 IS ADDED TO THE INDIANA
+13 CODE AS A NEW SECTION TO READ AS FOLLOWS
+14 [EFFECTIVE JULY 1, 2025]: Sec. 30. (a) This section applies to an
+15 individual contract and a group contract that is entered into,
+16 delivered, amended, or renewed after June 30, 2025.
+17 (b) As used in this section, "tubal ligation procedure" means a
+18 surgical procedure that involves severing and tying the fallopian
+19 tubes.
+20 (c) As used in this section, "vasectomy procedure" means a
+21 surgical procedure that involves cutting and sealing part of each
+22 vas deferens.
+23 (d) An individual contract or a group contract shall provide
+24 coverage for a tubal ligation procedure for an enrollee.
+25 (e) An individual contract or a group contract shall provide
+26 coverage for a vasectomy procedure for an enrollee.
+27 SECTION 22. [EFFECTIVE JULY 1, 2025] (a) There is
+28 appropriated to the stillbirth prevention through fetal movement
+29 pilot program fund established by IC 16-41-17.5-4, as added by this
+30 act:
+31 (1) for the state fiscal year beginning July 1, 2025, and ending
+32 June 30, 2026, one hundred twenty-five thousand dollars
+33 ($125,000); and
+34 (2) for the state fiscal year beginning July 1, 2026, and ending
+35 June 30, 2027, one hundred twenty-five thousand dollars
+36 ($125,000);
+37 from the state general fund for use by the Indiana department of
+38 health to carry out the purposes of IC 16-41-17.5, as added by this
+39 act.
+40 (b) This SECTION expires July 1, 2027.
+41 SECTION 23. [EFFECTIVE JULY 1, 2025] (a) There is
+42 appropriated from the state general fund five million dollars
+2025 IN 522—LS 7371/DI 104
+
+
+--- Page 23 ---
+21
+1 ($5,000,000) to the Indiana housing and community development
+2 authority for deposit in the lactation room grant fund established
+3 by IC 5-16-16-10, as added by this act, for the period beginning
+4 July 1, 2025, and ending June 30, 2026.
+5 (b) This SECTION expires January 1, 2027.
+2025 IN 522—LS 7371/DI 104

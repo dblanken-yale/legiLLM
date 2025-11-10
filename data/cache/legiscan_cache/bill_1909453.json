@@ -1,0 +1,170 @@
+{
+  "bill_id": 1909453,
+  "change_hash": "aaaacce73323d90ccd217d8977643c49",
+  "session_id": 2143,
+  "session": {
+    "session_id": 2143,
+    "state_id": 14,
+    "year_start": 2025,
+    "year_end": 2025,
+    "prefile": 0,
+    "sine_die": 1,
+    "prior": 0,
+    "special": 0,
+    "session_tag": "Regular Session",
+    "session_title": "2025 Regular Session",
+    "session_name": "2025 Regular Session"
+  },
+  "url": "https://legiscan.com/IN/bill/HB1274/2025",
+  "state_link": "https://iga.in.gov/legislative/2025/bills/house/1274/details",
+  "completed": 0,
+  "status": 1,
+  "status_date": "2025-01-13",
+  "progress": [
+    {
+      "date": "2025-01-13",
+      "event": 9
+    },
+    {
+      "date": "2025-01-13",
+      "event": 1
+    },
+    {
+      "date": "2025-01-13",
+      "event": 9
+    }
+  ],
+  "state": "IN",
+  "state_id": 14,
+  "bill_number": "HB1274",
+  "bill_type": "B",
+  "bill_type_id": "1",
+  "body": "H",
+  "body_id": 37,
+  "current_body": "H",
+  "current_body_id": 37,
+  "title": "Health finance matters.",
+  "description": "Health finance matters. Adds capital projects, technology upgrades, and operational expenses for certain county hospitals to the definition of \"public safety\" for purposes of local income tax revenue use. Increases the maximum local income tax that may be imposed in certain counties if a tax rate is adopted for purposes related to certain hospitals located in the county. Establishes the rural hospital clinically integrated network grant program to provide grants to rural hospital clinically integrated networks. Establishes the Indiana rural hospital and critical health care services fund (rural health care services fund) for the purpose of awarding grants to certain rural hospitals. Provides that the Indiana department of health (state department) administers the rural health care services fund. Establishes the following: (1) The health workforce student loan repayment program (program). (2) The health workforce advisory board (advisory board). (3) The health workforce student loan repayment program fund (repayment program fund) for the purpose of providing funds to repay outstanding student loans of certain health providers who meet the program requirements. Provides that the state department shall administer the program and repayment program fund. Establishes: (1) the imposition of fees at the time a license is issued or renewed for certain health profession licenses; and (2) qualifications to receive a student loan repayment award under the program. Provides that, beginning July 1, 2025, the state department and each board included in the program may award a student loan repayment to an eligible applicant who is a provider licensed by the board. Provides that money in the repayment program fund is continuously appropriated. Repeals provisions concerning the following: (1) The primary care physician loan forgiveness program. (2) The mental health services development programs. (3) The dental underserved area and minority recruitment program. Urges the legislative council to assign to an appropriate interim study committee the task of studying topics related to the rural health care services fund. Urges the legislative council to assign to an appropriate study committee the task of studying certain topics related to health care services.",
+  "pending_committee_id": 1307,
+  "committee": {
+    "committee_id": 1307,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Ways and Means"
+  },
+  "referrals": [
+    {
+      "date": "2025-01-13",
+      "committee_id": 1300,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Public Health"
+    },
+    {
+      "date": "2025-01-13",
+      "committee_id": 1307,
+      "chamber": "H",
+      "chamber_id": 37,
+      "name": "Ways and Means"
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-01-13",
+      "action": "Reassigned to Committee on Public Health",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 1
+    },
+    {
+      "date": "2025-01-13",
+      "action": "Authored by Representative Manning",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading: referred to Committee on Ways and Means",
+      "chamber": "H",
+      "chamber_id": 37,
+      "importance": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "people_id": 20012,
+      "person_hash": "8my3v3rv",
+      "party_id": "2",
+      "state_id": 14,
+      "party": "R",
+      "role_id": 1,
+      "role": "Rep",
+      "name": "Ethan Manning",
+      "first_name": "Ethan",
+      "middle_name": "",
+      "last_name": "Manning",
+      "suffix": "",
+      "nickname": "",
+      "district": "HD-023",
+      "ftm_eid": 44858049,
+      "votesmart_id": 175321,
+      "opensecrets_id": "",
+      "knowwho_pid": 398182,
+      "ballotpedia": "Ethan_Manning",
+      "bioguide_id": "",
+      "sponsor_type_id": 1,
+      "sponsor_order": 1,
+      "committee_sponsor": 0,
+      "committee_id": 0,
+      "state_federal": 0
+    }
+  ],
+  "sasts": [],
+  "subjects": [],
+  "texts": [
+    {
+      "doc_id": 3046388,
+      "date": "2025-01-09",
+      "type": "Introduced",
+      "type_id": 1,
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/text/HB1274/id/3046388",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1274/HB1274.01.INTR.pdf",
+      "text_size": 352641,
+      "text_hash": "90d8829a4910536234692da347717157",
+      "alt_bill_text": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_text_size": 0,
+      "alt_text_hash": ""
+    }
+  ],
+  "votes": [],
+  "amendments": [],
+  "supplements": [
+    {
+      "supplement_id": 486883,
+      "date": "2025-01-09",
+      "type": "Fiscal Note",
+      "type_id": 1,
+      "title": "Fiscal Note",
+      "description": "Fiscal Note #1: Introduced",
+      "mime": "application/pdf",
+      "mime_id": 2,
+      "url": "https://legiscan.com/IN/supplement/HB1274/id/486883",
+      "state_link": "https://iga.in.gov/pdf-documents/124/2025/house/bills/HB1274/fiscal-notes/HB1274.01.INTR.FN001.pdf",
+      "supplement_size": 98110,
+      "supplement_hash": "41147782317118d02a1ea2c819744092",
+      "alt_supplement": 0,
+      "alt_mime": "",
+      "alt_mime_id": 0,
+      "alt_state_link": "",
+      "alt_supplement_size": 0,
+      "alt_supplement_hash": ""
+    }
+  ],
+  "calendar": []
+}

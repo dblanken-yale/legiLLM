@@ -1,0 +1,400 @@
+--- Page 1 ---
+ 
+Introduced Version
+HOUSE BILL No. 1428
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 16-18; IC 27-2-30; IC 34-30-2.1.
+Synopsis:  Freedom of conscience in health care. Provides that a health
+care provider, health care entity, and a health carrier may not be
+required to provide or refer an individual for a health care service that
+violates the conscience of the health care provider, health care entity,
+or health carrier. Establishes an exception for a health carrier. Specifies
+that a health care provider, health care entity, or a health carrier may
+not be subject to discrimination and certain other acts and liability for
+declining to provide the health care service. Establishes a civil action
+for a violation of these provisions. Provides that a person who prevails
+in a civil action is entitled to certain relief.
+Effective:  July 1, 2025.
+Miller D
+January 21, 2025, read first time and referred to Commi ttee on Public Health.
+2025 IN 1428—LS 7029/DI 104
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE BILL No. 1428
+A BILL FOR AN ACT to amend the Indiana Code concerning
+health.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 16-18-2-68.8 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2025]: Sec. 68.8. "Conscience", for purposes
+4 of IC 16-18-5, has the meaning set forth in IC 16-18-5-1.
+5 SECTION 2. IC 16-18-2-160.5, AS AMENDED BY P.L.3-2008,
+6 SECTION 107, IS AMENDED TO READ AS FOLLOWS
+7 [EFFECTIVE JULY 1, 2025]: Sec. 160.5. (a) "Health care entity",
+8 for purposes of IC 16-18-5, has the meaning set forth in
+9 IC 16-18-5-2.
+10 (b) "Health care entity", for purposes of IC 16-41-42.1, has the
+11 meaning set forth in IC 16-41-42.1-1.
+12 SECTION 3. IC 16-18-2-163, AS AMENDED BY
+13 P.L.179-2022(ss), SECTION 4, IS AMENDED TO READ AS
+14 FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 163. (a) Except as
+15 provided in subsection (c), "health care provider", for purposes of
+16 IC 16-21 and IC 16-41, means any of the following:
+17 (1) An individual, a partnership, a corporation, a professional
+2025 IN 1428—LS 7029/DI 104
+
+
+--- Page 3 ---
+2
+1 corporation, a facility, or an institution licensed or legally
+2 authorized by this state to provide health care or professional
+3 services as a licensed physician, a psychiatric hospital, a hospital,
+4 a health facility, an emergency ambulance service (IC 16-31-3),
+5 a dentist, a registered or licensed practical nurse, a midwife, an
+6 optometrist, a pharmacist, a podiatrist, a chiropractor, a physical
+7 therapist, a respiratory care practitioner, an occupational therapist,
+8 a psychologist, a paramedic, an emergency medical technician, an
+9 advanced emergency medical technician, an athletic trainer, or a
+10 person who is an officer, employee, or agent of the individual,
+11 partnership, corporation, professional corporation, facility, or
+12 institution acting in the course and scope of the person's
+13 employment.
+14 (2) A college, university, or junior college that provides health
+15 care to a student, a faculty member, or an employee, and the
+16 governing board or a person who is an officer, employee, or agent
+17 of the college, university, or junior college acting in the course
+18 and scope of the person's employment.
+19 (3) A blood bank, community mental health center, community
+20 intellectual disability center, community health center, or migrant
+21 health center.
+22 (4) A home health agency (as defined in IC 16-27-1-2).
+23 (5) A health maintenance organization (as defined in
+24 IC 27-13-1-19).
+25 (6) A health care organization whose members, shareholders, or
+26 partners are health care providers under subdivision (1).
+27 (7) A corporation, partnership, or professional corporation not
+28 otherwise qualified under this subsection that:
+29 (A) provides health care as one (1) of the corporation's,
+30 partnership's, or professional corporation's functions;
+31 (B) is organized or registered under state law; and
+32 (C) is determined to be eligible for coverage as a health care
+33 provider under IC 34-18 for the corporation's, partnership's, or
+34 professional corporation's health care function.
+35 Coverage for a health care provider qualified under this subdivision is
+36 limited to the health care provider's health care functions and does not
+37 extend to other causes of action.
+38 (b) "Health care provider", for purposes of IC 16-35, has the
+39 meaning set forth in subsection (a). However, for purposes of IC 16-35,
+40 the term also includes a health facility (as defined in section 167 of this
+41 chapter).
+42 (c) "Health care provider", for purposes of IC 16-32-5, IC 16-36-5,
+2025 IN 1428—LS 7029/DI 104
+
+
+--- Page 4 ---
+3
+1 IC 16-36-6, and IC 16-41-10 means an individual licensed or
+2 authorized by this state to provide health care or professional services
+3 as:
+4 (1) a licensed physician;
+5 (2) a registered nurse;
+6 (3) a licensed practical nurse;
+7 (4) an advanced practice registered nurse;
+8 (5) a certified nurse midwife;
+9 (6) a paramedic;
+10 (7) an emergency medical technician;
+11 (8) an advanced emergency medical technician;
+12 (9) an emergency medical responder, as defined by section 109.8
+13 of this chapter;
+14 (10) a licensed dentist;
+15 (11) a home health aide, as defined by section 174 of this chapter;
+16 or
+17 (12) a licensed physician assistant.
+18 The term includes an individual who is an employee or agent of a
+19 health care provider acting in the course and scope of the individual's
+20 employment.
+21 (d) "Health care provider", for purposes of IC 16-36-7, has the
+22 meaning set forth in IC 16-36-7-12.
+23 (e) "Health care provider", for purposes of IC 16-40-4, means any
+24 of the following:
+25 (1) An individual, a partnership, a corporation, a professional
+26 corporation, a facility, or an institution licensed or authorized by
+27 the state to provide health care or professional services as a
+28 licensed physician, a psychiatric hospital, a hospital, a health
+29 facility, an emergency ambulance service (IC 16-31-3), an
+30 ambulatory outpatient surgical center, a dentist, an optometrist, a
+31 pharmacist, a podiatrist, a chiropractor, a psychologist, or a
+32 person who is an officer, employee, or agent of the individual,
+33 partnership, corporation, professional corporation, facility, or
+34 institution acting in the course and scope of the person's
+35 employment.
+36 (2) A blood bank, laboratory, community mental health center,
+37 community intellectual disability center, community health
+38 center, or migrant health center.
+39 (3) A home health agency (as defined in IC 16-27-1-2).
+40 (4) A health maintenance organization (as defined in
+41 IC 27-13-1-19).
+42 (5) A health care organization whose members, shareholders, or
+2025 IN 1428—LS 7029/DI 104
+
+
+--- Page 5 ---
+4
+1 partners are health care providers under subdivision (1).
+2 (6) A corporation, partnership, or professional corporation not
+3 otherwise specified in this subsection that:
+4 (A) provides health care as one (1) of the corporation's,
+5 partnership's, or professional corporation's functions;
+6 (B) is organized or registered under state law; and
+7 (C) is determined to be eligible for coverage as a health care
+8 provider under IC 34-18 for the corporation's, partnership's, or
+9 professional corporation's health care function.
+10 (7) A person that is designated to maintain the records of a person
+11 described in subdivisions (1) through (6).
+12 (f) "Health care provider", for purposes of IC 16-45-4, has the
+13 meaning set forth in 47 CFR 54.601(a).
+14 (g) "Health care provider", for purposes of IC 16-18-5, has the
+15 meaning set forth in IC 16-18-5-3.
+16 SECTION 4. IC 16-18-2-163.7 IS ADDED TO THE INDIANA
+17 CODE AS A NEW SECTION TO READ AS FOLLOWS
+18 [EFFECTIVE JULY 1, 2025]: Sec. 163.7. "Health care service", for
+19 purposes of IC 16-18-5, has the meaning set forth in IC 16-18-5-4.
+20 SECTION 5. IC 16-18-5 IS ADDED TO THE INDIANA CODE AS
+21 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+22 1, 2025]:
+23 Chapter 5. Health Care Freedom of Conscience
+24 Sec. 1. As used in this chapter, "conscience" means religious,
+25 moral, or ethical beliefs or principles.
+26 Sec. 2. As used in this chapter, "health care entity" means an
+27 entity, a partnership, a corporation, a professional corporation, a
+28 facility, or an institution licensed or legally authorized by this state
+29 to provide a health care service.
+30 Sec. 3. (a) As used in this chapter, "health care provider" means
+31 an individual licensed or authorized by this state to provide health
+32 care services.
+33 (b) The term includes an individual who is an employee or agent
+34 of a health care provider acting in the course and scope of the
+35 individual's employment.
+36 Sec. 4. As used in this chapter, "health care service" means any
+37 health care related service, treatment, or proced ure to maintain,
+38 diagnose, or treat an individual's physical or mental condition.
+39 Sec. 5. (a) A health care provider may not be required to:
+40 (1) perform;
+41 (2) provide;
+42 (3) participate in; or
+2025 IN 1428—LS 7029/DI 104
+
+
+--- Page 6 ---
+5
+1 (4) refer an individual for;
+2 a health care service that violates the health care provider's
+3 conscience.
+4 (b) A health care provider may not be subject to any of the
+5 following for declining to perform, provide, participate in, or refer
+6 an individual for a health care service described in subsection (a):
+7 (1) Discrimination, including denial of, revocation of, or
+8 disqualification for:
+9 (A) licensure, staff privileges, board certification, or career
+10 specialty;
+11 (B) a grant, contract, or other program; or
+12 (C) a residency or other training opportunity.
+13 (2) Adverse employment action, including termination of
+14 employment, transfer, demotion, reassignment to a different
+15 shift, or loss or reduction of wages or benefits.
+16 (3) Adverse administrative action.
+17 (4) Disciplinary or retaliatory action.
+18 (5) Criminal, administrative, or civil liability.
+19 Sec. 6. (a) A health care entity may not be required to perform,
+20 provide, participate in, or refer an individual for a health care
+21 service that violates the health care entity's conscience, as
+22 determined by the entity's existing or proposed:
+23 (1) guidelines;
+24 (2) mission statement;
+25 (3) constitution;
+26 (4) bylaws;
+27 (5) articles of incorporation;
+28 (6) regulations; or
+29 (7) other documents.
+30 (b) A health care entity that:
+31 (1) declines to perform, provide, participate in, or refer an
+32 individual for a health care service described in subsection
+33 (a);
+34 (2) discloses to the patient, in writing, that the health care
+35 entity reserves the right to decline to perform, provide,
+36 participate in, or refer the patient for a health care service
+37 that violates the health care entity's conscience; and
+38 (3) obtains written consent from the patient before the patient
+39 is admitted to the health care entity's facility;
+40 may not be criminally prosecuted or held administratively or
+41 civilly liable for refusing to perform, provide, participate in, or
+42 refer the patient for the health care service.
+2025 IN 1428—LS 7029/DI 104
+
+
+--- Page 7 ---
+6
+1 (c) A health care entity or a prospective health care entity may
+2 not be subject to any of the following for declining to perform,
+3 provide, participate in, or refer an individual for a health care
+4 service described in subsection (a):
+5 (1) Discrimination.
+6 (2) Denial of, revocation of, or disqualification for:
+7 (A) licensure;
+8 (B) staff privileges;
+9 (C) a grant; or
+10 (D) any form of aid, assistance, benefit, or privilege.
+11 (3) Denial of authorization to establish, expand, improve,
+12 acquire, affiliate, or merge with the health care entity.
+13 Sec. 7. (a) A person injured by a violation of this chapter may
+14 bring an action against the person that violated this chapter.
+15 (b) It is not a defense in an action under this chapter that a
+16 violation was necessary to prevent additional burden or expense on
+17 a health care provider, a health care entity, an individual, or a
+18 patient.
+19 (c) A person  whose rights have been violated by a violation of
+20 this chapter may assert the violation or impending violation as a
+21 claim or defense in a judicial, administrative, or other proceeding.
+22 Sec. 8. A prevailing plaintiff in an action brought under section
+23 7 of this chapter is entitled to the following:
+24 (1) Injunctive relief.
+25 (2) The greater of:
+26 (A) an amount not to exceed three (3) times the actual
+27 damages sustained; or
+28 (B) liquidated damages of five thousand dollars ($5,000).
+29 (3) Court costs and reasonable attorney's fees.
+30 (4) Any other appropriate relief determined by the court.
+31 SECTION 6. IC 27-2-30 IS ADDED TO THE INDIANA CODE AS
+32 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+33 1, 2025]:
+34 Chapter 30. Health Care Freedom of Conscience
+35 Sec. 1. This chapter applies to a policy or a contract issued,
+36 entered into, delivered, amended, or renewed by a health carrier
+37 after June 30, 2025.
+38 Sec. 2. As used in this chapter, "conscience" means religious,
+39 moral, or ethical beliefs or principles.
+40 Sec. 3. As used in this chapter, "health care service" means any
+41 health care related service, treatment, or procedure to maintain,
+42 diagnose, or treat an individual's physical or mental condition. The
+2025 IN 1428—LS 7029/DI 104
+
+
+--- Page 8 ---
+7
+1 term includes a patient referral for a health care service.
+2 Sec. 4. (a) As used in this chapter, "health carrier" means an
+3 entity:
+4 (1) that is subject to this title and the administrative rules
+5 adopted under this title; and
+6 (2) that enters into a contract to:
+7 (A) provide health care services;
+8 (B) deliver health care services;
+9 (C) arrange for health care services; or
+10 (D) pay for or reimburse any of the costs of health care
+11 services.
+12 (b) The term includes the following:
+13 (1) An insurer, as defined in IC 27-1-2-3(x), that issues a
+14 policy of accident and sickness insurance, as defined in
+15 IC 27-8-5-1(a).
+16 (2) A health maintenance organization, as defined in
+17 IC 27-13-1-19.
+18 (3) An administrator (as defined in IC 27-1-25-1(a)) that is
+19 licensed under IC 27-1-25.
+20 (4) A state employee health plan offered under IC 5-10-8.
+21 (5) A short term insurance plan (as defined in IC 27-8-5.9-3).
+22 (6) Any other entity that provides a plan of health insurance,
+23 health benefits, or health care services.
+24 (c) The term does not include:
+25 (1) an insurer that issues a policy of accident and sickness
+26 insurance;
+27 (2) a limited service health maintenance organization (as
+28 defined in IC 27-13-34-4); or
+29 (3) an administrator;
+30 that only provides coverage for, or processes claims for, dental or
+31 vision care services.
+32 Sec. 5. (a) Except as required by federal law, but
+33 notwithstanding any other provision of this title, a health carrier
+34 may not be required to provide, deliver, arrange for, pay for,
+35 reimburse any of the costs of, or refer an individual for a health
+36 care service that violates the health carrier's conscience, as
+37 determined by the health carrier's existing or proposed:
+38 (1) guidelines;
+39 (2) mission statement;
+40 (3) constitution;
+41 (4) bylaws;
+42 (5) articles of incorporation;
+2025 IN 1428—LS 7029/DI 104
+
+
+--- Page 9 ---
+8
+1 (6) regulations; or
+2 (7) other documents.
+3 (b) A health carrier that declines to provide, deliver, arrange
+4 for, pay for, reimburse any of the costs of, or refer an individual
+5 for a health care service described in subsection (a) may not be
+6 held civilly or criminally liable for declining to provide, deliver,
+7 arrange for, pay for, or reimburse any of the costs of a health care
+8 service.
+9 Sec. 6. A health carrier or prospective health carrier may not be
+10 subject to any of the following for declining to provide, deliver,
+11 arrange for, pay for, reimburse any of the costs of, or refer an
+12 individual for a health care service that violates the conscience of
+13 the health carrier or prospective health carrier:
+14 (1) Discrimination.
+15 (2) Denial of, revocation of, or disqualification for:
+16 (A) licensure;
+17 (B) a grant; or
+18 (C) any form of aid, assistance, benefit, or privilege.
+19 (3) Denial of authorization to establish, expand, improve,
+20 acquire, affiliate, or merge with the health carrier.
+21 (4) Criminal or civil liability.
+22 Sec. 7. (a) A person injured by a violation of this chapter may
+23 bring an action against the person that violated this chapter.
+24 (b) It is not a defense in an action under this chapter that a
+25 violation was necessary to prevent additional burden or expense on
+26 a health care provider, a health care entity, an individual, or a
+27 patient.
+28 (c) A person  whose rights have been violated by a violation of
+29 this chapter may assert the violation or impending violation as a
+30 claim or defense in a judicial, administrative, or other proceeding.
+31 Sec. 8. A prevailing plaintiff in an action brought under section
+32 7 of this chapter is entitled to the following:
+33 (1) Injunctive relief.
+34 (2) The greater of:
+35 (A) an amount not to exceed three (3) times the actual
+36 damages sustained; or
+37 (B) liquidated damages of five thousand dollars ($5,000).
+38 (3) Court costs and reasonable attorney's fees.
+39 (4) Any other appropriate relief determined by the court.
+40 SECTION 7. IC 34-30-2.1-195.5 IS ADDED TO THE INDIANA
+41 CODE AS A NEW SECTION TO READ AS FOLLOWS
+42 [EFFECTIVE JULY 1, 2025]: Sec. 195.5. IC 16-18-5-5 (Concerning
+2025 IN 1428—LS 7029/DI 104
+
+
+--- Page 10 ---
+9
+1 a health care provider or a health care entity that declines to
+2 provide a health care service that violates the conscience of the
+3 health care provider or health care entity).
+4 SECTION 8. IC 34-30-2.1-420.5 IS ADDED TO THE INDIANA
+5 CODE AS A NEW SECTION TO READ AS FOLLOWS
+6 [EFFECTIVE JULY 1, 2025]: Sec. 420.5. IC 27-2-30-6 (Concerning
+7 a health carrier that declines to provide a health care service that
+8 violates the conscience of the health carrier or prospective health
+9 carrier).
+2025 IN 1428—LS 7029/DI 104

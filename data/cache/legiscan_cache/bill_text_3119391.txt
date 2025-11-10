@@ -1,0 +1,402 @@
+--- Page 1 ---
+*HB1152.1*
+February 13, 2025
+HOUSE BILL No. 1152
+_____
+DIGEST OF  HB 1152 (Updated February 12, 2025 9:38 am - DI 1 19)
+Citations Affected:  IC 31-9; IC 31-33.
+Synopsis:  Child fatality information. Provides that the department of
+child services (department) shall disclose to the public certain
+information regarding child fatalities or near fatalities. Provides that,
+upon request, the department may provide additional information
+regarding cases of child fatalities or near fatalities subject to certain
+requirements. Makes technical and conforming changes.
+Effective:  July 1, 2025.
+Lauer,  DeVon,  McGuire,  Jack son C
+January 8, 2025, read first time and referred to Committee on Family, Children and Human
+Affairs.
+February 13, 2025, amended, reported — Do Pa ss.
+HB 1152—LS 6902/DI 148
+
+
+--- Page 3 ---
+February 13, 2025
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provi sion is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE BILL No. 1152
+A BILL FOR AN ACT to amend the Indiana Code concerning
+family law and juvenile law.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 31-9-2-81.7 IS ADDED TO THE INDIANA CODE
+2 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2025]: Sec. 81.7. "Near fatality", for purposes of IC 31-33-18.5,
+4 means a severe childhood injury or condition that is certified by a
+5 physician as being life threatening.
+6 SECTION 2. IC 31-33-18-1, AS AMENDED BY P.L.77-2023,
+7 SECTION 8, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+8 JULY 1, 2025]: Sec. 1. (a) Except as provided in section 1.5 of this
+9 chapter and IC 31-33-18.5, the following are confidential:
+10 (1) Reports made under this article (or IC 31-6-11 before its
+11 repeal).
+12 (2) Any other information, documents, reports, pictures, videos,
+13 images, or recordings obtained, possessed, produced, or created
+14 by:
+15 (A) the division of family resources;
+16 (B) the local office;
+17 (C) the department; or
+HB 1152—LS 6902/DI 148
+
+
+--- Page 4 ---
+2
+1 (D) the department of child services ombudsman established
+2 by IC 4-13-19-3;
+3 concerning a child or family with whom the department has
+4 received a report or referral or has been involved with during any
+5 stage of the department's investigation, including post-assessment
+6 or post-adoption activity.
+7 (b) Except as provided in section 1.5 of this chapter and
+8 IC 31-33-18.5, all records held by:
+9 (1) the division of family resources;
+10 (2) a local office;
+11 (3) the department;
+12 (4) a local child fatality review team established under
+13 IC 16-49-2;
+14 (5) the statewide child fatality review committee established
+15 under IC 16-49-4; or
+16 (6) the department of child services ombudsman established by
+17 IC 4-13-19-3;
+18 regarding the death of a child determined to be a result of abuse,
+19 abandonment, or neglect are confidential and may not be disclosed.
+20 SECTION 3. IC 31-33-18-1.5, AS AMENDED BY P.L.77-2023,
+21 SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+22 JULY 1, 2025]: Sec. 1.5. (a) This section applies to records held by:
+23 (1) a local office;
+24 (2) the department; or
+25 (3) the department of child services ombudsman established by
+26 IC 4-13-19-3;
+27 regarding a child whose death or near fatality may have been the result
+28 of abuse, abandonment, or neglect.
+29 (b) For purposes of subsection (a), a child's death or near fatality
+30 may have been the result of abuse, abandonment, or neglect if:
+31 (1) an entity described in subsection (a) determines that the child's
+32 death or near fatality is the result of abuse, abandonment, or
+33 neglect; or
+34 (2) a prosecuting attorney files:
+35 (A) an indictment or information; or
+36 (B) a complaint alleging the commission of a delinquent act;
+37 that, if proven, would cause a reasonable person to believe that
+38 the child's death or near fatality may have been the result of
+39 abuse, abandonment, or neglect.
+40 Upon the request of any person, or upon its own motion, the court
+41 exercising juvenile jurisdiction in the county in which the child's death
+42 or near fatality occurred shall determine whether the allegations
+HB 1152—LS 6902/DI 148
+
+
+--- Page 5 ---
+3
+1 contained in the indictment, information, or complaint described in
+2 subdivision (2), if proven, would cause a reasonable person to believe
+3 that the child's death or near fatality may have been the result of abuse,
+4 abandonment, or neglect.
+5 (c) If the juvenile court finds that the child's death or near fatality
+6 was the result of abuse, abandonment, or neglect, the court shall make
+7 written findings and provide a copy of the findings and the indictment,
+8 information, or complaint described under subsec tion (b)(2) to the
+9 department.
+10 (d) As used in this section:
+11 (1) "case" means:
+12 (A) any intake report or other documentation such as a referral
+13 or other matter received or generated by the department;
+14 (B) any investigation or assessment conducted by the
+15 department; or
+16 (C) ongoing involvement between the department and a child
+17 or family that is the result of:
+18 (i) a program of informal adjustment; or
+19 (ii) a child in need of services action;
+20 for which related records and documents have not been expunged
+21 as required by law or by a court at the time the department is
+22 notified of a fatality or near fatality;
+23 (2) "contact" means in person communication about a case in
+24 which:
+25 (A) the child who is the victim of a fatality or near fatality is
+26 alleged to be a victim; or
+27 (B) the perpetrator of the fatality or near fatality is alleged to
+28 be the perpetrator;
+29 (3) "identifying information" means information that identifies an
+30 individual, including an individual's:
+31 (A) name, address, date of birth, occupation, place of
+32 employment, and telephone number;
+33 (B) employer identification number, mother's maiden name,
+34 Social Security number, or any identification number issued by
+35 a governmental entity;
+36 (C) unique biometric data, including the individual's
+37 fingerprint, voice print, or retina or iris image;
+38 (D) unique electronic identification number, address, or
+39 routing code;
+40 (E) telecommunication identifying information; or
+41 (F) telecommunication access device, including a card, a plate,
+42 a code, an account number, a personal identification number,
+HB 1152—LS 6902/DI 148
+
+
+--- Page 6 ---
+4
+1 an electronic serial number, a mobile identification number, or
+2 another telecommunications service or device or means of
+3 account access;
+4 (4) "life threatening" means an injury or condition that is
+5 categorized as "serious" or "critical" in patient hospital records;
+6 and
+7 (5) "near fatality" means a severe childhood injury or condition
+8 that is certified by a physician as being life threatening.
+9 (e) This subsection does not apply to records concerning a child
+10 fatality or near fatality that the department is required to publish
+11 under IC 31-33-18.5. Unless:
+12 (1) a police investigation or criminal prosecution is ongoing; or
+13 (2) information in a record is otherwise confidential under state
+14 or federal law;
+15 a record described in subsection (a) that has been redacted in
+16 accordance with this section is not confidential and may be disclosed
+17 to any person who requests the record. The person requesting the
+18 record may be required to pay the reasonable expenses of copying the
+19 record.
+20 (f) When a person requests a record described in subsection (a), the
+21 entity having control of the record shall immediately transmit a copy of
+22 the record to the court exercising juvenile jurisdiction in the county in
+23 which the death or near fatality of the child occurred. However, if the
+24 court requests that the entity having control of a record transmit the
+25 original record, the entity shall transmit the original record.
+26 (g) Upon receipt of the record described in subsection (a), the court
+27 shall, within thirty (30) days, redact the record to exclude:
+28 (1) identifying information described in subsection (d)(3)(B)
+29 through (d)(3)(F) of a person; and
+30 (2) all identifying information of a child less than eighteen (18)
+31 years of age.
+32 (h) The court shall disclose the record redacted in accordance with
+33 subsection (g) to any person who requests the record, if the person has
+34 paid:
+35 (1) to the entity having control of the record, the reasonable
+36 expenses of copying under IC 5-14-3-8; and
+37 (2) to the court, the reasonable expenses of copying the record.
+38 (i) The data and information in a record disclosed under this section
+39 must include the following:
+40 (1) A summary of the report of abuse or neglect and a factual
+41 description of the contents of the report.
+42 (2) The age and gender of the child.
+HB 1152—LS 6902/DI 148
+
+
+--- Page 7 ---
+5
+1 (3) The cause of the fatality or near fatality, if the cause has been
+2 determined.
+3 (4) Whether the department had any contact with the child or the
+4 perpetrator before the fatality or near fatality, and, if the
+5 department had contact, the following:
+6 (A) The frequency of the contact with the child or the
+7 perpetrator before the fatality or near fatality and the date on
+8 which the last contact occurred before the fatality or near
+9 fatality.
+10 (B) A summary of the status of the child's case at the time of
+11 the fatality or near fatality, including:
+12 (i) whether the child's case was closed by the department
+13 before the fatality or near fatality; and
+14 (ii) if the child's case was closed as described under item (i),
+15 the date of closure and the reasons that the case was closed.
+16 (j) The court's determination under subsection (g) that certain
+17 identifying information or other information is not relevant to
+18 establishing the facts and circumstances leading to the death or near
+19 fatality of a child is not admissible in a criminal proceeding or civil
+20 action.
+21 SECTION 4. IC 31-33-18-5, AS ADDED BY P.L.48-2012,
+22 SECTION 40, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+23 JULY 1, 2025]: Sec. 5. (a) Except as provided in IC 31-33-18.5, an
+24 audio recording of a telephone call to the child abuse hotline is
+25 confidential and may be released only upon court order.
+26 (b) An audio recording of a report of child abuse or neglect that is
+27 the subject of a complaint made to a prosecuting attorney under
+28 IC 31-33-22-3 shall be released without a court order to the prosecuting
+29 attorney upon written request of the prosecuting attorney.
+30 SECTION 5. IC 31-33-18.5 IS ADDED TO THE INDIANA CODE
+31 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+32 JULY 1, 2025]:
+33 Chapter 18.5. Child Fatalities Public Transparency
+34 Sec. 1. This chapter applies to the following:
+35 (1) Reports made under this article (or IC 31-6-11 before its
+36 repeal).
+37 (2) Any other information obtained, reports written, or
+38 photographs taken concerning the reports in the possession
+39 of:
+40 (A) the division of family resources;
+41 (B) the local office;
+42 (C) the department; or
+HB 1152—LS 6902/DI 148
+
+
+--- Page 8 ---
+6
+1 (D) the department of child services ombudsman
+2 established by IC 4-13-19-3.
+3 Sec. 2. (a) Notwithstanding IC 31-33-18, the department shall
+4 promptly provide information to the public regarding a case of
+5 child abuse or neglect that has resulted in a child fatality or near
+6 fatality.
+7 (b) Subject to subsection (d), the department shall provide
+8 preliminary information as follows:
+9 (1) In the case of a child fatality, the department's disclosure
+10 must include the following:
+11 (A) The deceased child's name, age, and gender.
+12 (B) The county or general location of the residence for the
+13 child who has died.
+14 (C) The fact that a child suffered a fatality as the result of
+15 abuse or neglect.
+16 (D) Following an arrest for the fatality, the name, age, and
+17 general location of the alleged perpetrator's residence,
+18 unless the disclosure would violate the privacy of a victim.
+19 (E) Whether there have been reports or any current or
+20 past cases of abuse or neglect involving the child or the
+21 alleged perpetrator.
+22 (F) Actions taken by the department in response to the
+23 fatality.
+24 (G) A detailed synopsis of earlier reports or cases of abuse
+25 or neglect involving the child or the alleged perpetrator
+26 and of the actions taken or determinations made by the
+27 department in response to the earlier reports or cases.
+28 (2) In the case of a child's near fatality, the department's
+29 disclosure must include the following:
+30  (A) The child's age and gender.
+31 (B) The county or general location of the residence for the
+32 child who has suffered a near fatality.
+33 (C) The fact that a child suffered a near fatality as the
+34 result of abuse or neglect.
+35 (D) Following an arrest for the near fatality, the name, age,
+36 and general location of the alleged perpetrator's residence,
+37 unless the disclosure would violate the privacy of a victim.
+38 (E) Whether there have been reports or any current or
+39 past cases of abuse or neglect involving the child or the
+40 alleged perpetrator.
+41 (F) Actions taken by the department in response to the
+42 near fatality.
+HB 1152—LS 6902/DI 148
+
+
+--- Page 9 ---
+7
+1 (G) A detailed synopsis of earlier reports or cases of abuse
+2 or neglect involving the child or the alleged  perpetrator
+3 and of the actions taken or determinations made by the
+4 department in response to the earlier reports or cases.
+5 (c) Subject to subsection (d), if additional information is
+6 requested by a person under this chapter:
+7 (1) before releasing additional information, the department
+8 shall notify the prosecuting attorney;
+9 (2) the prosecuting attorney shall promptly notify the
+10 department if the prosecuting attorney believes the release
+11 would cause a specific, material harm to a criminal
+12 investigation or prosecution; and
+13 (3) after consulting with the prosecuting attorney, the
+14 department shall produce to the requestor as much additional
+15 information as possible about a child abuse or neglect case
+16 under this chapter.
+17 (d) The department must take precautions to protect the
+18 identity of:
+19 (1) a person who reports child abuse or neglect; and
+20 (2) any potential child abuse or neglect victim of an alleged
+21 perpetrator.
+22 Sec. 3. Not later than ninety (90) days after the date on which
+23 the department's report for a case involving a fatality or a near
+24 fatality is completed, the department shall provide to the public a
+25 summary report that includes the following:
+26 (1) Any actions taken by the department in response to the
+27 case, including changes in policies or practices that have been
+28 made to address any issues raised in the review of the case.
+29 (2) Information prescribed in section 4 of this chapter.
+30 Sec. 4. If the summary report involves a child who was residing
+31 in the child's home at the time of the child's fatality or near
+32 fatality, the summary report must contain the following:
+33 (1) Whether the department was providing services to the
+34 child, a member of the child's family, or the alleged
+35 perpetrator at the time of the child fatality or near fatality. If
+36 services were provided, the date on which the last contact
+37 occurred between the entity providing services and the person
+38 receiving the services before the fatality or near fatality.
+39 (2) Whether the child, a member of the child's family, or the
+40 alleged perpetrator was the subject of a department report at
+41 the time of the child fatality or near fatality.
+42 (3) Whether there was an open child in need of services case
+HB 1152—LS 6902/DI 148
+
+
+--- Page 10 ---
+8
+1 for the child or a member of the child's family at the time of
+2 the child fatality or near fatality.
+3 (4) All:
+4 (A) involvement of:
+5 (i) the child's parent, guardian, or custodian; and
+6 (ii) the alleged perpetrator;
+7 in a situation for which a department report, whether
+8 substantiated or unsubstantiated, was made within the
+9 preceding five (5) years of the child fatality or near
+10 fatality; and
+11 (B) services provided to the child or the child's family
+12 within the preceding five (5) years of the child fatality or
+13 near fatality.
+14 (5) Any investigation by the department for a report
+15 concerning the child, a member of the child's family, or the
+16 alleged perpetrator since the child fatality or near fatality.
+17 (6) Any services provided to:
+18 (A) the child since the child's near fatality; or
+19 (B) the child's family since the child fatality or near
+20 fatality.
+HB 1152—LS 6902/DI 148
+
+
+--- Page 11 ---
+9
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Family, Children and Human
+Affairs, to which was referred House Bill 1152, has had the same under
+consideration and begs leave to report the same back to the House with
+the recommendation that said bill be amended as follows:
+Page 1, delete lines 1 through 5, begin a new paragraph and insert:
+"SECTION 1. IC 31-9-2-81.7 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 81.7. "Near fatality", for
+purposes of IC 31-33-18.5, means a severe childhood injury or
+condition that is certified by a physician as being life threatening.".
+Page 6, line 7, delete "The department" and insert "Subject to
+subsection (d), the department".
+Page 7, delete lines 5 through 6, begin a new paragraph and insert:
+"(c) Subject to subsection (d), if additional information is
+requested by a person under this chapter:
+(1) before releasing additional information, the department
+shall notify the prosecuting attorney;
+(2) the prosecuting attorney shall promptly notify the
+department if the prosecuting attorney believes the release
+would cause a specific, material harm to a criminal
+investigation or prosecution; and
+(3) after consulting with the prosecuting attorney, the
+department shall produce to the requestor as much additional
+information as possible about a child abuse or neglect case
+under this chapter.
+(d) The department must take precautions to protect the
+identity of:
+(1) a person who reports child abuse or neglect; and
+(2) any potential child abuse or neglect victim of an alleged
+perpetrator.".
+and when so amended that said bill do pass.
+(Reference is to HB 1152 as introduced.)
+DEVON
+Committee Vote: yeas 11, nays 0.
+HB 1152—LS 6902/DI 148

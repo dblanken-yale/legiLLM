@@ -1,0 +1,314 @@
+--- Page 1 ---
+ 
+Introduced Version
+SENATE BILL No. 485
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 16-21-10; IC 27-1-50.3.
+Synopsis:  Managed care assessment fee. Provides for the assessment
+of a fee on managed care organizations to pay the state's share of the
+cost of Medicaid services provided under the Medicaid program.
+Changes the use of hospital assessment fees in state fiscal years in
+which a managed care assessment fee is imposed. Extends the law
+governing the hospital assessment fee to June 30, 2027.
+Effective:  Upon passage.
+Doriot,  Johns on T
+January 13, 2025, read first time and referred to Commi ttee on Health and Provider
+Services.
+2025 IN 485—LS 7527/DI 51
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+SENATE BILL No. 485
+A BILL FOR AN ACT to amend the Indiana Code concerning
+insurance.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 16-21-10-14, AS AMENDED BY P.L.213-2015,
+2 SECTION 150, IS AMENDED TO READ AS FOLLOWS
+3 [EFFECTIVE UPON PASSAGE]: Sec. 14. (a) This section does not
+4 apply to the use of the incremental fee described in section 13.3 of this
+5 chapter.
+6 (b) Subject to subsections (c) and (d), the fees collected under
+7 section 8 of this chapter may be used only as described in this chapter
+8 or to pay the state's share of the cost for Medicaid services provided
+9 under the federal Medicaid program (42 U.S.C. 1396 et seq.)  as
+10 follows:
+11 (1) Twenty-eight and five-tenths percent (28.5%) may be used by
+12 the office for Medicaid expenses.
+13 (2) Seventy-one and five-tenths percent (71.5%) to hospitals.
+14 (c) Subject to subsection (d), this section does not apply for any
+15 state fiscal year for which the managed care assessment fee under
+16 IC 27-1-50.3 is assessed.
+17 (d) With respect to the first state fiscal year for which the
+2025 IN 485—LS 7527/DI 51
+
+
+--- Page 3 ---
+2
+1 managed care assessment fee under IC 27-1-50.3 is assessed, any
+2 fees described in subsection (b)(1) that were collected for that state
+3 fiscal year before the assessment of the managed care assessment
+4 fee for that state fiscal year shall be used to fund the state's share
+5 of the reimbursement described in section 8(a)(2) of this chapter.
+6 SECTION 2. IC 16-21-10-21, AS AMENDED BY P.L.201-2023,
+7 SECTION 148, IS AMENDED TO READ AS FOLLOWS
+8 [EFFECTIVE UPON PASSAGE]: Sec. 21. This chapter expires June
+9 30, 2025. 2027.
+10 SECTION 3. IC 27-1-50.3 IS ADDED TO THE INDIANA CODE
+11 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+12 UPON PASSAGE]:
+13 Chapter 50.3. Managed Care Assessment Fee
+14 Sec. 1. The following definitions apply throughout this chapter.
+15 (1) "Approval of the state directed payment programs"
+16 means CMS's approval of the state directed payment
+17 program described in IC 16-21-10-8 and the state directed
+18 payment program described in IC 16-21-10-13.3.
+19 (2) "Business day" means a day other than Saturday or
+20 Sunday, or a legal holiday listed in IC 1-1-9-1.
+21 (3) "CMS" refers to the federal Centers for Medicare and
+22 Medicaid Services.
+23 (4) "Commissioner" refers to the insurance commissioner
+24 appointed under IC 27-1-1-2.
+25 (5) "Department" refers to the department of insurance
+26 created by IC 27-1-1-1.
+27 (6) "Fee" refers to the fee on managed care organizations
+28 authorized by this chapter.
+29 (7) "Managed care organization" means an organization that
+30 holds a certificate of authority, license, or other similar
+31 authorization issued by the department and that is a managed
+32 care organization for purposes of 42 U.S.C.
+33 1396b(w)(7)(A)(viii) and 42 CFR 433.56(a)(8).
+34 (8) "Office" refers to the office of Medicaid policy and
+35 planning established by IC 12-8-6.5-1.
+36 (9) "Secretary" refers to the secretary of family and social
+37 services appointed under IC 12-8-1.5-2.
+38 (10) "State directed payments" means the payments made
+39 under the state directed payment program described in
+40 IC 16-21-10-8, and the payments made under the state
+41 directed payment program described in IC 16-21-10-13.3.
+42 (11) "State's share" means the portion of allowable Medicaid
+2025 IN 485—LS 7527/DI 51
+
+
+--- Page 4 ---
+3
+1 expenses funded by the state, by other units of government,
+2 or, as permitted by federal Medicaid laws, by other entities
+3 other than the federal government.
+4 Sec. 2. (a) Subject to subsections (b) and (c) and this chapter, a
+5 fee is authorized. The fee shall be assessed for each state fiscal year
+6 for which state directed payments are made to hospitals.
+7 (b) The fee may not be assessed without approval from CMS.
+8 (c) The assessment of the fee shall cease upon CMS's
+9 determination that the fee is no longer a permissible health care
+10 related tax that is eligible for federal financial participation.
+11 Sec. 3. For each of the state fiscal years described in section 2(a)
+12 of this chapter, the office, subject to section 6 of this chapter, shall
+13 assess a fee upon managed care organizations in an aggregate
+14 amount equal to twenty-eight and five-tenths percent (28.5%) of
+15 the fees assessed under IC 16-21-10 for the state fiscal year,
+16 excluding the fees collected under IC 16-21-10-13.3.
+17 Sec. 4. The fee collected under this chapter only may be used to
+18 pay the state's share of the cost of Medicaid services provided
+19 under the Medicaid program (42 U.S.C. 1396 et seq.).
+20 Sec. 5. Not later than May 30, 2025, and after consulting with
+21 the secretary or the secretary's designee regarding compliance
+22 with 42 U.S.C. 1396b(w)(7)(A)(viii) and 42 CFR 433.56(a)(8) and
+23 the types of managed care organizations recognized under Indiana
+24 law, the commissioner or the commissioner's designee shall provide
+25 the secretary or the secretary's designee with a list of the managed
+26 care organizations that hold a certificate of authority, license, or
+27 other similar authorization issued by the department and that are
+28 managed care organizations for purposes of 42 U.S.C.
+29 1396b(w)(7)(A)(viii) and 42 CFR 433.56(a)(8). Thereafter, the
+30 commissioner or the commissioner's designee shall update this list
+31 to the secretary or the secretary's designee not sooner than one
+32 hundred twenty (120) days, and not later than ninety (90) days,
+33 from the start of each state fiscal year for which the fee is assessed.
+34 Sec. 6. (a) The fee must meet the requirements of the federal
+35 Medicaid statutes and regulations for permissible health care
+36 related taxes.
+37 (b) The office may request a waiver from CMS of the broad
+38 based and uniformity requirements under 42 CFR 433.68 as
+39 amended, relating to the assessment under this chapter.
+40 (c) Subject to subsection (a):
+41 (1) the office may assess the fee on a tiered basis among the
+42 managed care organizations; and
+2025 IN 485—LS 7527/DI 51
+
+
+--- Page 5 ---
+4
+1 (2) the office may assess the fee based on member months,
+2 premium revenue, or any other methodology approved by
+3 CMS.
+4 Sec. 7. (a) The managed care assessment fee committee is
+5 established. The committee consists of the following five (5)
+6 members:
+7 (1) The secretary, or the secretary's designee, who shall serve
+8 as chair of the committee.
+9 (2) The commissioner or the commissioner's designee.
+10 (3) The budget director or the budget director's designee.
+11 (4) One (1) member from a managed care organization that
+12 has a comprehensive risk contract with the office under
+13 IC 12-15, appointed by the governor from a list of at least
+14 three (3) individuals submitted by the Insurance Institute of
+15 Indiana.
+16 (5) One (1) member from a managed care organization that
+17 does not have a comprehensive risk contract with the office
+18 under IC 12-15, appointed by the governor from a list of at
+19 least three (3) individuals submitted by the Insurance Institute
+20 of Indiana.
+21 (b) The committee shall meet at the call of the chair. The
+22 members shall serve without compensation.
+23 (c) The committee shall provide recommendations to the
+24 secretary, or the secretary's designee, regarding all matters
+25 pertaining to the assessment of the fee, including recommendations
+26 regarding the matters referenced in section 6(b) and 6(c) of this
+27 chapter and section 9(d) through 9(f) of this chapter.
+28 Sec. 8. The office shall submit a written request to CMS for
+29 approval of the managed care assess ment fee not later than June
+30 30, 2025. Subject to the requirements of this chapter, the office is
+31 authorized to negotiate with CMS regarding the terms and
+32 conditions for the implementation and maintenance of the fee.
+33 Sec. 9. (a) Pursuant to section 2 of this chapter, the fee shall be
+34 asses sed for each state fiscal year for which state directed
+35 payments are made to hospitals.
+36 (b) With respect to the first state fiscal year for which state
+37 directed payments are paid to hospitals, the assessment payable by
+38 a managed care organization for that state fiscal year shall be
+39 prorated and due and payable in equal monthly installments on the
+40 first business day of each calendar month that follows the date such
+41 state directed payments are first paid to hospitals. The office shall
+42 notify each managed care organization of its assessment and its
+2025 IN 485—LS 7527/DI 51
+
+
+--- Page 6 ---
+5
+1 installment due dates as soon as reasonably possible following
+2 CMS's approval of the state directed payment programs. The
+3 assessment payable by a managed care organization under this
+4 subsection shall be subject to the reconciliation process set forth in
+5 subsections (d), (e), and (f).
+6 (c) Except for the circumstances described in subsection (a), the
+7 assessment payable by a managed care organ ization for a state
+8 fiscal year shall be due and payable in monthly installments, each
+9 equaling one-twelfth (1/12) of the assessment for the state fiscal
+10 year, on the first business day of each calendar month of the state
+11 fiscal year. The office shall notify each managed care organization
+12 of its annual assessment and its installment due dates not later than
+13 thirty (30) days prior to the start of each fiscal year. The
+14 assessment payable by a managed care organization under this
+15 subsection shall be subject to the reconciliation process set forth in
+16 subsections (d) and (e) of this section.
+17 (d) The office shall establish a process for reconciling for a state
+18 fiscal year:
+19 (1) the amount of fees actually assessed under IC 16-21-10 for
+20 the state fiscal year, excluding the fees collected under
+21 IC 16-21-10-13.3; and
+22 (2) the amount of fees assessed under this chapter for the state
+23 fiscal year in relation to the amount that equals twenty-eight
+24 and five-tenths percent (28.5%) of the fees actually assessed
+25 under IC 16-21-10 for the state fiscal year, excluding the fees
+26 collected under IC 16-21-10-13.3.
+27 (e) The office may assess additional fees under this chapter for
+28 a state fiscal year if the amount of fees assessed for the state fiscal
+29 year was less than an amount equaling twenty-eight and five-tenths
+30 percent (28.5%) of the fees actually assessed under IC 16-21-10 for
+31 the state fiscal year, excluding the fees collected under
+32 IC 16-21-10-13.3.
+33 (f) The office shall refund fees assessed under this chapter for a
+34 state fiscal year if the amount of fees assessed for the state fiscal
+35 year was greater than an amount equaling twenty-eight and
+36 five-tenths percent (28.5%) of the fees actually assessed under
+37 IC 16-21-10 for the state fiscal year, excluding the fees collected
+38 under IC 16-21-10-13.3.
+39 Sec. 10. (a) The managed care assessment fund is established for
+40 the purpose of holding the fees collected under this chapter.
+41 (b) The office shall administer the fund.
+42 (c) Money in the fund consists of the following:
+2025 IN 485—LS 7527/DI 51
+
+
+--- Page 7 ---
+6
+1 (1) Fees collected under this chapter, including penalty
+2 payments under section 12 of this chapter.
+3 (2) Donations, gifts, appropriations by the general assembly,
+4 and money received from any other source.
+5 (3) Interest accrued under this section.
+6 (d) Money remaining in the fund at the end of a state fiscal year
+7 does not revert to the state general fund.
+8 (e) The treasurer of state shall invest the money in the fund not
+9 currently needed to meet the obligations of the fund in the same
+10 manner as other public funds may be invested. Interest that
+11 accrues from these investments shall be deposited in the fund.
+12 Sec. 11. A managed care organization that is liable for an
+13 assessment under this chapter shall keep accurate and complete
+14 records and pertinent documents that are relevant to the
+15 organization's assessment under this chapter, as may be required
+16 by the department or the office. The department or the office may
+17 audit all records necessary to ensure compliance with this chapter
+18 and make adjustments to assessment amounts previously
+19 calculated based on the results of any the audit.
+20 Sec. 12. (a) For good cause shown by a managed care
+21 organization due to financial or other difficulties, as determined by
+22 the office, the office is authorized to grant grace periods, of up to
+23 thirty (30) days, for the managed care organization's payment of
+24 an installment payment due under this chapter.
+25 (b) If a managed care organ ization that is liable for an
+26 assessment under this chapter fails to make an installment
+27 payment by the payment's due date, and no grace period has been
+28 granted to the managed care organization for the payment of the
+29 installment payment, the managed care organization shall pay a
+30 penalty of ten percent (10%) of the amount of the installment
+31 payment not paid, plus ten percent (10%) of the portion remaining
+32 unpaid on the last day of every thirty (30) day period thereafter.
+33 These penalty payments shall be deposited into the managed care
+34 assessment fund.
+35 (c) If a managed care organization that is liable for an
+36 assessment under this chapter is granted a grace period but fails to
+37 make its installment payment by the end of the grace period, the
+38 managed care organization shall pay a penalty of five percent (5%)
+39 of the amount of the installment payment not paid, plus five
+40 percent (5%) of the portion remaining unpaid on the last day of
+41 every thirty (30) day period thereafter. These penalty payments
+42 shall be deposited into the managed care assessment fund.
+2025 IN 485—LS 7527/DI 51
+
+
+--- Page 8 ---
+7
+1 (d) Notwithstanding subsections (b) and (c), with respect to a
+2 managed care organization that has a comprehensive risk contract
+3 with the office under IC 12-15 that fails to make an installment
+4 payment not later than sixty (60) days after the due date or, if
+5 applicable, not later than sixty (60) days after the end of a grace
+6 period, the office may additionally impose a contractual sanction
+7 allowed against the managed care organization, and may terminate
+8 the contract with the office.
+9 (e) Notwithstanding subsections (b) through (d), with respect to
+10 a managed care organization that fails to make an installment
+11 payment not later than sixty (60) days after the due date or, if
+12 applicable, not later than sixty (60) days after the end of a grace
+13 period, the department may suspend or revoke, after notice and
+14 hearing, the managed care organization's certificate of authority,
+15 license, or other authority to operate in Indiana.
+16 Sec. 13. The office may adopt rules under IC 4-22-2 to
+17 implement this chapter. Notwithstanding the effective dates
+18 specified for rules in IC 4-22-2, rules adopted to implement this
+19 chapter may be retroactive to May 1, 2025.
+20 SECTION 4. An emergency is declared for this act.
+2025 IN 485—LS 7527/DI 51

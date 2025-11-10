@@ -1,0 +1,135 @@
+--- Page 1 ---
+ 
+Introduced Version
+SENATE BILL No. 339
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 6-3.1-43.
+Synopsis:  Caregiver tax credit. Provides that a qualified taxpayer is
+entitled to a credit against the qualified taxpayer's state income tax
+liability in a taxable year equa l to the lesser of: (1) the value of
+qualified services that the qualified taxpayer performed in the
+immediately preceding taxable year; or (2) $10,000 (or $5,000 i n the
+case of a married individual filing a separate return). Provides that
+"qualified services" means services, as determined by the office of the
+secretary of family and social services (FSSA), that a qualified taxpayer
+performs in caring for an ill or aging qualified family member that the
+qualified taxpayer otherwise would have compensated a third-party
+caregiver to perform. Provides that the term does not include services
+that would otherwise be required to be performed by a licensed
+physician, a licensed nurse, or other medical professional. Requires the
+FSSA to: (1) develop criteria that a service must satisfy to be
+considered a qualified service; (2) derive a formula, using published
+industry data and standards, to determine the value of the qualified
+services performed by a qualified taxpayer during a taxable year; and
+(3) adopt any other guidelines necessary to allow or disallow a credit.
+Requires a qualified taxpayer to submit to the FSSA all relevant
+information regarding the performance of qualified services necessary
+for the FSSA to determine the value of the qualified services. Requires
+the FSSA to notify a qualified taxpayer in writing the value of the
+services that the qualified taxpayer performed for purposes of claiming
+the credit.
+Effective:  July 1, 2025.
+Young M
+January 13, 2025, read first time and referred to Commi ttee on Appropriations.
+2025 IN 339—LS 7306/DI 134
+
+
+--- Page 2 ---
+Introduced
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+SENATE BILL No. 339
+A BILL FOR AN ACT to amend the Indiana Code concerning
+taxation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 6-3.1-43 IS ADDED TO THE INDIANA CODE
+2 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2025]:
+4 Chapter 43. Income Tax Credit for Family Caregivers
+5 Sec. 1. This chapter applies to taxable years beginning after
+6 December 31, 2025.
+7 Sec. 2. As used in this chapter, "FSSA" means the office of the
+8 secretary of family and social services.
+9 Sec. 3. As used in this chapter, "qualified family member"
+10 means a qualified taxpayer's spouse, child, grandchild, parent, or
+11 sibling.
+12 Sec. 4. (a) As used in this chapter, "qualified services" means
+13 services, as determined by the FSSA, that a qualified taxpayer
+14 performs in caring for an ill or aging qualified family member that
+15 the qualified taxpayer otherwise would have compensated a third
+16 party caregiver to perform.
+17 (b) The term does not include services that would otherwise be
+2025 IN 339—LS 7306/DI 134
+
+
+--- Page 3 ---
+2
+1 required to be performed by a licensed physician, a licensed nurse,
+2 or other medical professional.
+3 Sec. 5. As used in this chapter, "qualified taxpayer" means an
+4 individual filing a single return, or a married couple filing a joint
+5 return, who:
+6 (1) is an Indiana resident;
+7 (2) performed qualified services during a taxable year; and
+8 (3) has state income tax liability.
+9 Sec. 6. As used in this chapter, "state income tax liability"
+10 means a taxpayer's adjusted gross income tax liability under
+11 IC 6-3.
+12 Sec. 7. (a) Before January 1, 2026, the FSSA shall:
+13 (1) develop criteria that a service must satisfy to be
+14 considered a qualified service for purposes of this chapter;
+15 (2) derive a formula, using published industry data and
+16 standards, to determine the value of the qualified services
+17 performed by a qualified taxpayer during a taxable year; and
+18 (3) adopt any other guidelines necessary to allow or disallow
+19 a credit under this section.
+20 (b) The FSSA shall update the criteria, formula, and guidelines
+21 described in subsection (a) as necessary.
+22 Sec. 8. Not later than January 31 of the year following the
+23 immediately preceding taxable year in which a qualified taxpayer
+24 performed qualified services, the qualified taxpayer shall submit
+25 to the FSSA all relevant information regarding the performance of
+26 the qualified services performed during the immediately preceding
+27 taxable year necessary for the FSSA to determine the value of the
+28 qualified services.
+29 Sec. 9. Not later than March 31 of the year following the
+30 immediately preceding taxable year in which a qualified taxpayer
+31 performed qualified services, the FSSA shall notify a qualified
+32 taxpayer in writing the value of the services, as determined under
+33 section 7(a)(2) of this chapter, that the qualified taxpayer
+34 performed in the immediately preceding taxable year for purposes
+35 of claiming the credit under this chapter.
+36 Sec. 10. (a) Subject to subsection (b), a taxpayer is entitled to a
+37 credit against the taxpayer's state income tax liability in a taxable
+38 year equal to the lesser of the following:
+39 (1) The value of the services, as determined by the FSSA
+40 under section 7(a)(2) of this chapter, that the qualified
+41 taxpayer performed in the immediately preceding taxable
+42 year.
+2025 IN 339—LS 7306/DI 134
+
+
+--- Page 4 ---
+3
+1 (2) Ten thousand dollars ($10,00 0), or five thousand dollars
+2 ($5,000)  in the case of a married individual filing a separate
+3 return.
+4 (b) A credit awarded under this chapter may not exceed the
+5 taxpayer's state income tax liability.
+6 Sec. 11. To obtain a credit under this chapter, a taxpayer must
+7 claim the credit in the manner prescribed by the department. The
+8 taxpayer shall submit to the department proof of the taxpayer's
+9 qualified expenses and all other information that the department
+10 determines is necessary.
+11 Sec. 12. A taxpayer is not entitled to any carryover, carryback,
+12 or refund of any unused credit.
+2025 IN 339—LS 7306/DI 134

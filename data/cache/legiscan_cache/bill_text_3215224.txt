@@ -1,0 +1,712 @@
+--- Page 1 ---
+First Reg ular Sessio n of the 124th General A ssem bly (2025)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+HOUSE ENROLLED ACT No. 1457
+AN ACT to amend the Indiana Code concerning health.
+Be it enacted by the General Assembly of the State of Indiana:
+SECTION 1. IC 4-15-10.5-1, AS ADDED BY P.L.205-2019,
+SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 1. (a) Beginning July 1, 2020, This chapter applies
+when an agency is required to assign, appoint, or otherwise make use
+of an individual to act in the capacity of an administrative law judge to
+preside over administrative proceedings to review a disputed agency
+action for the agency.
+(b) Except as provided in subsection (c) (d) and section 2 of this
+chapter, this chapter applies to each state agency that has the authority
+to employ or engage one (1) or more administrative law judges to
+adjudicate contested cases.
+(c) This chapter applies to the Indiana department of health in
+matters concerning the involuntary transfer or discharge of a
+resident of a health facility.
+(c) (d) This chapter does not apply to an agency that uses a board or
+commission to act in the capacity of an administrative law judge to
+preside over administrative proceedings, and should not be construed
+as limiting an agency's ability to use its board or commission to act in
+the capacity of an administrative law judge to preside over
+administrative proceedings to review a disputed agency action for the
+HEA 1457 — Concur
+
+
+--- Page 2 ---
+2
+agency.
+SECTION 2. IC 16-18-2-377.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 377.5. "WIC vendor agreement",
+for purposes of IC 16-35-1.5, has the meaning set forth in
+IC 16-35-1.5-4.5.
+SECTION 3. IC 16-21-2-12.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 12.5. (a) Except as provided in
+subsections (d) and (e), in regulating the licensure of hospitals and
+ambulatory outpatient surgical centers under this article, the state
+department shall use the following for purposes of enforcement:
+(1) The most recent published version of the Facility
+Guidelines Institute (FGI) Guidelines for Design and
+Construction of Hospitals, except to the extent the guidelines
+conflict with subdivision (3) or (4).
+(2) The most recent published version of the Facility
+Guidelines Institute (FGI) Guidelines for Design and
+Construction of Outpatient Facilities, except to the extent the
+guidelines conflict with subdivision (3) or (4).
+(3) The National Fire Protection Association (NFPA) 101, Life
+Safety Code Handbook and Tentative Interim Amendments
+(TIAs), as adopted by the federal Centers for Medicare and
+Medicaid Services regulations, as part of the Conditions of
+Participation for Medicare and Medicaid.
+(4) The National Fire Protection Association (NFPA) 99,
+Health Care Facilities Code Handbook and Tentative Interim
+Amendments (TIAs), as adopted by the federal Centers for
+Medicare and Medicaid Services regulations, as part of the
+Conditions of Participation for Medicare and Medicaid.
+(b) The state department shall list the version of each
+publication described in subsection (a) being utilized by the state
+department on the state department's website.
+(c) The state department shall meet the following requirements
+when a new version of a publication described in subsection (a)(1)
+and (a)(2) is published:
+(1) Not later than ninety (90) days from the publication of the
+new version, post a notice of the publication on the state
+department's website, stating the state department's intent to
+adopt the new version.
+(2) Set forth as part of the notice a date that is:
+(A) not earlier than two hundred seventy (270) days; and
+HEA 1457 — Concur
+
+
+--- Page 3 ---
+3
+(B) not later than three hundred sixty (360) days;
+from the posting of the notice in which the state department
+may take action using the new version of the publication.
+(d) The following apply for a plan review submitted to the state
+department concerning the construction, renovation, or addition
+to a hospital or ambulatory outpatient surgical center:
+(1) For a plan review submitted before July 1, 2025, the state
+department shall utilize, for purposes of enforcement, the
+version of each publication described in subsection (a) that
+was in effect at the time the plan review was submitted.
+(2) For a plan review submitted on July 1, 2025, and
+thereafter, the state department shall utilize, for purposes of
+enforcement, the version of each publication that was in place
+on the date that the plan review was submitted and complying
+with the limitations set forth in subsection (c)(2).
+(e) The following are void:
+(1) 410 IAC 15-1.5-8(c)(1).
+(2) 410 IAC 15-1.5-8(c)(3).
+(3) 410 IAC 15-2.5-7(a)(4)(A).
+(4) 410 IAC 15-2.5-7(a)(4)(C).
+The publisher of the Indiana Code and Indiana Register shall
+remove these provisions from the Indiana Administrative Code.
+SECTION 4. IC 16-27-2-3, AS AMENDED BY P.L.214-2013,
+SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 3. (a) Except as provided in subsection (c), a
+person may not operate a home health agency or a personal services
+agency if the person has been convicted of any of the following:
+(1) Rape (IC 35-42-4-1). A sex crime (IC 35-42-4).
+(2) Criminal deviate conduct (IC 35-42-4-2) (repealed).
+(3) (2) Exploitation of an endangered adult (IC 35-46-1-12).
+(4) (3) Failure to report battery, neglect, or exploitation of an
+endangered adult (IC 35-46-1-13).
+(5) (4) Theft, conversion, or receiving stolen property
+(IC 35-43-4), if the person's conviction for theft is a:
+(A) felony conviction that occurred less than ten (10) years;
+or
+(B) misdemeanor conviction that occurred less than five (5)
+years;
+before the date of submission by the person of an application for
+licensure as a home health agency under IC 16-27-1 or as a
+personal services agency under IC 16-27-4.
+(5) Identity deception (IC 35-43-5-3.5), if the conviction is a:
+HEA 1457 — Concur
+
+
+--- Page 4 ---
+4
+(A) felony conviction that occurred less than ten (10) years;
+or
+(B) misdemeanor conviction that occurred less than five (5)
+years;
+before the person's employment application date.
+(6) Fraud (IC 35-43-5-4), if the conviction is a:
+(A) felony conviction that occurred less than ten (10) years;
+or
+(B) misdemeanor conviction that occurred less than five (5)
+years;
+before the person's employment application date.
+(7) Murder (IC 35-42-1-1).
+(8) Voluntary manslaughter (IC 35-42-1-3).
+(9) Except as provided in this section, a crime of violence (as
+defined in IC 35-50-1-2), if the person's conviction occurred
+less than ten (10) years before the person's employment
+application date.
+(10) Felony battery within the previous five (5) years.
+(11) A felony offense relating to controlled substances within
+the previous five (5) years.
+(b) A person who knowingly or intentionally violates this section
+commits a Class A misdemeanor.
+(c) A person who:
+(1) was operating a home health agency or a personal services
+agency before July 1, 2025; and
+(2) has a misdemeanor conviction under subsection (a)(4)(B)
+or (a)(5)(B);
+may continue to operate the home health agency or personal
+services agency.
+SECTION 5. IC 16-27-2-5, AS AMENDED BY P.L.142-2020,
+SECTION 18, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 5. (a) Except as provided in subsection (b),
+subsections (c) and (d), a person who operates a home health agency
+under IC 16-27-1 or a personal services agency under IC 16-27-4 may
+not employ a person to provide services in a patient's or client's
+temporary or permanent residence if one (1) or more of the following
+conditions exist:
+(1) that The person's national criminal history background check
+or expanded criminal history check indicates that the person has
+been convicted of any of the following:
+(1) (A) Rape (IC 35-42-4-1). A sex crime (IC 35-42-4).
+(2) Criminal deviate conduct (IC 35-42-4-2) (repealed).
+HEA 1457 — Concur
+
+
+--- Page 5 ---
+5
+(3) (B) Exploitation of an endangered adult (IC 35-46-1-12).
+(4) (C) Failure to report battery, neglect, or exploitation of an
+endangered adult (IC 35-46-1-13).
+(5) (D) Theft, conversion, or receiving stolen property
+(IC 35-43-4), if the conviction for theft is a:
+(i) felony conviction that occurred less than ten (10) years;
+or
+(ii) misdemeanor conviction that occurred less than five
+(5) years;
+before the person's employment application date.
+(E) Identity deception (IC 35-43-5-3.5), if the conviction is
+a:
+(i) felony conviction that occurred less than ten (10)
+years; or
+(ii) misdemeanor conviction that occurred less than five
+(5) years;
+before the person's employment application date.
+(F) Fraud (IC 35-43-5-4), if the conviction is a:
+(i) felony conviction that occurred less than ten (10)
+years; or
+(ii) misdemeanor conviction that occurred less than five
+(5) years;
+before the person's employment application date.
+(G) Murder (IC 35-42-1-1).
+(H) Voluntary manslaughter (IC 35-42-1-3).
+(I) Except as provided in this section, a crime of violence
+(as defined in IC 35-50-1-2), if the person's conviction
+occurred less than ten (10) years before the person's
+employment application date.
+(J) Felony battery within the previous five (5) years.
+(K) A felony offense relating to controlled substances
+within the previous five (5) years.
+(2) The person:
+(A) has abused, neglected, or mistreated a patient or
+misappropriated a patient's property; and
+(B) had a finding entered into the state nurse aide registry.
+(b) A person who knowingly or intentionally applies for a job as
+a home health aide or other unlicensed employee at:
+(1) a home health agency;
+(2) a health care facility; or
+(3) an entity in the business of contracting to provide home
+health aides or other unlicensed employees for a health care
+HEA 1457 — Concur
+
+
+--- Page 6 ---
+6
+facility;
+after a conviction of one (1) or more of the offenses listed in
+subsection (a)(1) commits a Class A infraction.
+(b) (c) A home health agency or personal services agency may not
+employ a person to provide services in a patient's or client's temporary
+or permanent residence for more than twenty-one (21) calendar days
+without receipt of that person's national criminal history background
+check or expanded criminal history check required by section 4 of this
+chapter, unless the state police department, the Federal Bureau of
+Investigation under IC 10-13-3-39, or the private agency providing the
+expanded criminal history check is responsible for failing to provide
+the person's national criminal history background check or expanded
+criminal history check to the home health agency or personal services
+agency within the time required under this subsection.
+(d) A home health agency or personal services agency may
+continue to employ a person to provide services in a patient's or
+client's temporary or permanent residence if the person:
+(1) has a misdemeanor conviction under subsection
+(a)(1)(D)(ii) or (a)(1)(E)(ii); and
+(2) was employed by the home health agency or personal
+services agency to provide services described in this
+subsection before July 1, 2025.
+SECTION 6. IC 16-27-2-5.5 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2025]: Sec. 5.5. (a) If a home health agency or a personal services
+agency has knowledge of a conviction of an employee of the home
+health agency or personal services agency that would indicate
+unfitness for service as a home health aide, other unlicensed
+employee, or other health care professional, the home health
+agency or personal services agency shall report the information to
+the state nurse aide registry or the appropriate licensing authority.
+(b) The state department shall:
+(1) investigate any report that a home health aide has been
+convicted of a crime described in section 5(a) of this chapter;
+and
+(2) remove the home health aide from the state nurse aide
+registry with an appropriate notation indicating the reason
+the home health aide was removed from the registry,
+providing notice and appeal rights as required by IC 4-21.5.
+SECTION 7. IC 16-28-13-3 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 3. (a) A health care
+facility or an entity in the business of contracting to provide nurse aides
+HEA 1457 — Concur
+
+
+--- Page 7 ---
+7
+or other unlicensed employees for a health care facility may not
+knowingly employ a person as a nurse aide or other unlicensed
+employee if one (1) or more of the following conditions exist:
+(1) The person has been convicted of any of the following:
+(A) A sex crime (IC 35-42-4).
+(B) Exploitation of an endangered adult (IC 35-46-1-12).
+(C) Failure to report battery, neglect, or exploitation of an
+endangered adult (IC 35-46-1-13).
+(D) A felony offense relating to theft, conversion, or
+receiving stolen property (IC 35-43-4), if the person's
+conviction for theft, conversion, or receiving stolen property
+occurred less than five (5) years before the individual's
+employment application date. except as provided in
+IC 16-27-2-5(a)(5).
+(E) Identity deception (IC 35-43-5-3.5), if the conviction is
+a felony conviction that occurred less than five (5) years
+before the person's employment application date.
+(F) Fraud (IC 35-43-5-4), if the conviction is a felony
+conviction that occurred less than five (5) years before the
+person's employment application date.
+(E) (G) Murder (IC 35-42-1-1).
+(F) (H) Voluntary manslaughter (IC 35-42-1-3).
+(G) Involuntary manslaughter (IC 35-42-1-4) within the
+previous five (5) years. (I) Except as otherwise specified in
+this section, a crime of violence (as defined in
+IC 35-50-1-2), if the person's conviction occurred less than
+ten (10) years before the person's employment application
+date.
+(H) (J) Felony battery within the previous five (5) years.
+(I) (K) A felony offense relating to controlled substances
+within the previous five (5) years.
+(2) The person:
+(A) has abused, neglected, or mistreated a patient or
+misappropriated a patient's property; and
+(B) had a finding entered into the state nurse aide registry
+under IC 25-23-2.
+(b) A person who knowingly or intentionally applies for a job as a
+nurse aide or other unlicensed employee at:
+(1) a health care facility; or
+(2) an entity in the business of contracting to provide nurse aides
+or other unlicensed employees for a health care facility;
+after a conviction of one (1) or more of the offenses listed in subsection
+HEA 1457 — Concur
+
+
+--- Page 8 ---
+8
+(a)(1) commits a Class A infraction.
+SECTION 8. IC 16-28-13-12 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 12. (a) If a health care
+facility has knowledge of a conviction of an employee of the health
+care facility that would indicate unfitness for service as a nurse aide,
+other unlicensed employee, or other health care professional (as
+defined by IC 16-27-2-1), the health care facility shall report the
+information to the state nurse aide registry or the appropriate licensing
+authority.
+(b) The state department shall:
+(1) investigate any report that a nurse aide has been convicted
+of a crime described in section 3(a) of this chapter; and
+(2) remove the nurse aide from the nurse aide registry with an
+appropriate notation indicating the reason the nurse aide was
+removed from the registry, providing notice and appeal rights
+as required by IC 4-21.5.
+SECTION 9. IC 16-35-1.5-4 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 4. As used in this
+chapter, "WIC vendor" means the individual, partnership, limited
+partnership, or corporation that has:
+(1) entered into a WIC vendor agreement; and
+(2) been authorized by the state department to accept a food
+instrument and provide supplemental food to a WIC participant.
+SECTION 10. IC 16-35-1.5-4.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 4.5. As used in this chapter,
+"WIC vendor agreement" means an agreement between a WIC
+vendor and the WIC program that:
+(1) complies with 7 CFR 246.12; and
+(2) sets forth the requirements the WIC vendor must meet in
+order to redeem WIC food instruments.
+SECTION 11. IC 16-35-1.5-5.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 5.5. (a) The state department
+shall select a WIC vendor based on vendor selection criteria set
+forth in 7 CFR 246.12.
+(b) The state department shall do the following:
+(1) Review the vendor selection criteria annually.
+(2) Include the vendor selection criteria in the WIC state plan
+in accordance with 7 CFR 246.4(a)(14)(ii).
+(3) Publish the vendor selection criteria on the state
+department's website.
+HEA 1457 — Concur
+
+
+--- Page 9 ---
+9
+SECTION 12. IC 16-35-1.5-6 IS AMENDED TO READ AS
+FOLLOWS [EFFECTIVE JULY 1, 2025]: Sec. 6. The state department
+shall adopt rules under IC 4-22-2 specifying a system of civil penalties
+and other sanctions for failure to comply with a WIC vendor contract
+agreement under the WIC program or federal regulations under 7 CFR
+246. The severity of a sanction must be consistent with the type and
+frequency of the violation, and may include suspension or termination
+from the WIC program and civil penalties.
+SECTION 13. IC 16-37-1-3.1, AS AMENDED BY P.L.56-2023,
+SECTION 155, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 3.1. (a) The state department shall
+establish the Indiana birth registration system (IBRS) for recording in
+an electronic format live births in Indiana.
+(b) The state department shall establish the Indiana death
+registration system (IDRS) for recording in an electronic format deaths
+in Indiana.
+(c) Submission of records on births and deaths shall be entered by:
+(1) funeral directors;
+(2) physicians;
+(3) coroners;
+(4) medical examiners;
+(5) persons in attendance at birth;
+(6) local health departments; and
+(7) for purposes of records on death:
+(A) physician assistants; or
+(B) advanced practice registered nurses;
+using the electronic system created by the state department under this
+section.
+(d) A person in attendance at a live birth shall report a birth to the
+local health officer in accordance with IC 16-37-2-2.
+(e) Except as provided in subsection subsections (f) and (g), death
+records shall be submitted as follows, using the Indiana death
+registration system:
+(1) The:
+(A) physician last in attendance upon the deceased;
+(B) physician assistant last in attendance upon the deceased;
+(C) advanced practice registered nurse last in attendance upon
+the deceased; or
+(D) person in charge of interment;
+shall initiate the document process. If the person in charge of
+interment initiates the process, the person in charge of interment
+shall electronically submit the certificate required under
+HEA 1457 — Concur
+
+
+--- Page 10 ---
+10
+IC 16-37-3-5 to the physician, the physician assistant, or the
+advanced practice registered nurse last in attendance upon the
+deceased not later than five (5) days after the death.
+(2) The physician, the physician assistant, or the advanced
+practice registered nurse last in attendance upon the deceased
+shall electronically certify to the local health department the cause
+of death on the certificate of death not later than five (5) days
+after:
+(A) initiating the document process; or
+(B) receiving under IC 16-37-3-5 the electronic notification
+from the person in charge of interment.
+(3) The local health officer shall submit the reports required under
+IC 16-37-1-5 to the state department not later than five (5) days
+after electronically receiving under IC 16-37-3-5 the completed
+certificate of death from the physician, the physician assistant, or
+the advanced practice registered nurse last in attendance.
+(f) If the IBRS or IDRS is unavailable for more than forty-eight (48)
+hours, the state registrar may issue a notice permitting the filing of a
+paper record of a live birth, a death, or both, subject to the following:
+(1) The notice issued by the state registrar must contain a time
+frame for which the notice is in effect and when the notice
+expires. However, the notice automatically expires if the state
+department notifies the local health officers that the IBRS or
+IDRS is available, the notice has expired, and that all future
+submissions must use the IBRS or IDRS.
+(2) Paper records may not be accepted by the local health
+department or the state department on the earlier of the following:
+(A) The expiration date listed in the notice or the expiration
+listed in a renewal notice described in subdivision (3).
+(B) The state department notifies the local health officers
+when the IBRS or IDRS becomes available.
+(3) The notice may be renewed by the state registrar until the
+IBRS or IDRS becomes available.
+(4) Once the IBRS or IDRS becomes available, the local health
+officer shall enter the information contained in the paper record
+into the IBRS or IDRS.
+(g) This subsection applies to the submission of a death record
+of a stillbirth. The:
+(1) physician last in attendance upon the deceased;
+(2) physician assistant last in attendance upon the deceased;
+or
+(3) advanced practice registered nurse last in attendance upon
+HEA 1457 — Concur
+
+
+--- Page 11 ---
+11
+the deceased;
+shall initiate the document process unless the physician, physician
+assistant, or advanced practice registered nurse was not present
+upon the deceased.
+SECTION 14. IC 16-39-2-6, AS AMENDED BY P.L.137-2021,
+SECTION 27, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 6. (a) Without the consent of the patient, the
+patient's mental health record may only be disclosed as follows:
+(1) To individuals who meet the following conditions:
+(A) Are employed by:
+(i) the provider at the same facility or agency;
+(ii) a managed care provider (as defined in IC 12-7-2-127);
+or
+(iii) a health care provider or mental health care provider, if
+the mental health records are needed to provide health care
+or mental health services to the patient.
+(B) Are involved in the planning, provision, and monitoring of
+services.
+(2) To the extent necessary to obtain payment for services
+rendered or other benefits to which the patient may be entitled, as
+provided in IC 16-39-5-3.
+(3) To the patient's court appointed counsel and to the Indiana
+protection and advocacy services commission.
+(4) For research conducted in accordance with IC 16-39-5-3 and
+the rules of the division of mental health and addiction, the rules
+of the division of disability and rehabilitative services, the rules
+of the provider, or the rules of the Indiana archives and records
+administration and the oversight committee on public records.
+(5) To the division of mental health and addiction for the purpose
+of data collection, research, and monitoring managed care
+providers (as defined in IC 12-7-2-127) who are operating under
+a contract with the division of mental health and addiction.
+(6) To the extent necessary to make reports or give testimony
+required by the statutes pertaining to admissions, transfers,
+discharges, and guardianship proceedings.
+(7) To a law enforcement agency if any of the following
+conditions are met:
+(A) A patient escapes from a facility to which the patient is
+committed under IC 12-26.
+(B) The superintendent of the facility determines that failure
+to provide the information may result in bodily harm to the
+patient or another individual.
+HEA 1457 — Concur
+
+
+--- Page 12 ---
+12
+(C) A patient commits or threatens to commit a crime on
+facility premises or against facility personnel.
+(D) A patient is in the custody of a law enforcement officer or
+agency for any reason and:
+(i) the information to be released is limited to medications
+currently prescribed for the patient or to the patient's history
+of adverse medication reactions; and
+(ii) the provider determines that the release of the
+medication information will assist in protecting the health,
+safety, or welfare of the patient.
+Mental health records released under this clause must be
+maintained in confidence by the law enforcement agency
+receiving them.
+(8) To a coroner or medical examiner, in the performance of the
+individual's duties.
+(9) To a school in which the patient is enrolled if the
+superintendent of the facility determines that the information will
+assist the school in meeting educational needs of the patient.
+(10) To the extent necessary to satisfy reporting requirements
+under the following statutes:
+(A) IC 12-10-3-10.
+(B) IC 12-24-17-5.
+(C) IC 16-41-2-3.
+(D) IC 16-49-3-3.
+(E) IC 16-49-4-5.
+(F) IC 16-49-6-6.
+(G) IC 16-49.5-2-6.
+(D) (H) IC 16-50-1-8.
+(E) (I) IC 31-25-3-2.
+(F) (J) IC 31-33-5-4.
+(G) (K) IC 34-30-16-2.
+(H) (L) IC 35-46-1-13.
+(11) To the extent necessary to satisfy release of information
+requirements under the following statutes:
+(A) IC 12-24-11-2.
+(B) IC 12-24-12-3, IC 12-24-12-4, and IC 12-24-12-6.
+(C) IC 12-26-11.
+(12) To another health care provider in a health care emergency.
+(13) For legitimate business purposes as described in
+IC 16-39-5-3.
+(14) Under a court order under IC 16-39-3.
+(15) With respect to records from a mental health or
+HEA 1457 — Concur
+
+
+--- Page 13 ---
+13
+developmental disability facility, to the United States Secret
+Service if the following conditions are met:
+(A) The request does not apply to alcohol or drug abuse
+records described in 42 U.S.C. 290dd-2 unless authorized by
+a court order under 42 U.S.C. 290dd-2(b)(2)(c).
+(B) The request relates to the United States Secret Service's
+protective responsibility and investigative authority under 18
+U.S.C. 3056, 18 U.S.C. 871, or 18 U.S.C. 879.
+(C) The request specifies an individual patient.
+(D) The director or superintendent of the facility determines
+that disclosure of the mental health record may be necessary
+to protect a person under the protection of the United States
+Secret Service from serious bodily injury or death.
+(E) The United States Secret Service agrees to only use the
+mental health record information for investigative purposes
+and not disclose the information publicly.
+(F) The mental health record information disclosed to the
+United States Secret Service includes only:
+(i) the patient's name, age, and address;
+(ii) the date of the patient's admission to or discharge from
+the facility; and
+(iii) any information that indicates whether or not the patient
+has a history of violence or presents a danger to the person
+under protection.
+(16) To the statewide waiver ombudsman established under
+IC 12-11-13, in the performance of the ombudsman's duties.
+(b) If a licensed mental health professional, a licensed paramedic,
+a representative of a mobile integrated healthcare program (as
+described in IC 16-31-12), or a representative of a mental health
+community paramedicine program in the course of rendering a
+treatment intervention, determines that a patient may be a harm to
+himself or herself or others, the licensed mental health professional, the
+licensed paramedic, the representative of the mobile integrated
+healthcare program (as described in IC 16-31-12), or the representative
+of the mental health community paramedicine program may request a
+patient's individualized mental health safety plan from a psychiatric
+crisis center, psychiatric inpatient unit, or psychiatric residential
+treatment provider. Each psychiatric crisis center, psychiatric inpatient
+unit, and psychiatric residential treatment provider shall, upon request
+and without the consent of the patient, share a patient's individualized
+mental health safety plan that is in the standard format established by
+the division of mental health and addiction under IC 12-21-5-6 with the
+HEA 1457 — Concur
+
+
+--- Page 14 ---
+14
+following individuals who demonstrate proof of licensure and commit
+to protecting the information in compliance with state and federal
+privacy laws:
+(1) A licensed mental health professional.
+(2) A licensed paramedic.
+(3) A representative of a mobile integrated healthcare program (as
+described in IC 16-31-12).
+(4) A representative of a mental health community paramedicine
+program.
+An individualized mental health safety plan disclosed under this
+subsection may be used only to support a patient's welfare and safety
+and is considered otherwise confidential information under applicable
+state and federal laws.
+(c) After information is disclosed under subsection (a)(15) and if the
+patient is evaluated to be dangerous, the records shall be interpreted in
+consultation with a licensed mental health professional on the staff of
+the United States Secret Service.
+(d) A person who discloses information under subsection (a)(7),
+(a)(15), or (b) in good faith is immune from civil and criminal liability.
+SECTION 15. IC 16-41-43-2.5, AS AMENDED BY P.L.93-2024,
+SECTION 135, IS AMENDED TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 2.5. (a) The state department shall
+approve courses concerning allergies and the administration of
+auto-injectable epinephrine that are offered by an approved
+organization (as defined in IC 25-1-4-0.2). meet criteria established
+by the state department.
+(b) The state department shall do the following:
+(1) Publish and maintain, on its website, the following:
+(A) The criteria established by the state department under
+subsection (a).
+(B) A list of all approved courses.
+(2) Prescribe the certification process for the course described in
+subsection (a).
+(3) Revoke the certification of an organization that fails to comply
+with any certification prerequisite approval of a course if it does
+not comply with the criteria specified by the state department.
+(c) A person who successfully completes a certified course shall
+receive a certificate of completion issued by the entity providing the
+course. The state department may contract with a third party for the
+purpose of creating or manufacturing the certificate of completion,
+which must meet the requirements set forth in subsection (d).
+(d) A certificate of completion issued under subsection (c) must:
+HEA 1457 — Concur
+
+
+--- Page 15 ---
+15
+(1) have dimensions that permit the certificate of completion to be
+carried in a wallet; and
+(2) display the following information:
+(A) The first and last name of the person.
+(B) The first and last name of the course instructor.
+(C) The name of the entity responsible for providing the
+course, if applicable.
+(D) The date the course described in subsection (a) was
+completed.
+(E) Any other information required by the state department.
+(e) The state department may adopt rules under IC 4-22-2 to
+implement this section.
+SECTION 16. IC 16-49-4-2, AS ADDED BY P.L.119-2013,
+SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 2. The statewide child fatality review committee
+consists of the following members appointed by the governor:
+(1) A coroner or deputy coroner.
+(2) A representative from the state department who:
+(A) is a licensed physician; and or
+(B) specializes in injury prevention.
+(3) A representative of a:
+(A) local health department established under IC 16-20-2; or
+(B) multiple county health department established under
+IC 16-20-3.
+(4) A pediatrician.
+(5) A representative of law enforcement who has experience in
+investigating child deaths.
+(6) A representative from an emergency medical services
+provider.
+(7) The director or a representative of the depa rtment of child
+services.
+(8) A representative of a prosecuting attorney who has experience
+in prosecuting child abuse.
+(9) A pathologist who is:
+(A) certified by the American Board of Pathology in forensic
+pathology; and
+(B) licensed to practice medicine in Indiana.
+(10) A mental health provider.
+(11) A representative of a child abuse prevention program.
+(12) A representative of the department of education.
+(13) An epidemiologist.
+(14) The state child fatality review coordinator.
+HEA 1457 — Concur
+
+
+--- Page 16 ---
+16
+(15) At the discretion of the department of child services
+ombudsm an, a representative of the office of the department of
+child services ombudsman established by IC 4-13-19-3.
+SECTION 17. IC 16-50-1-12 IS REPEALED [EFFECTIVE JULY
+1, 2025]. Sec. 12. This article expires June 30, 2027.
+HEA 1457 — Concur
+
+
+--- Page 17 ---
+Speaker of the House of Representatives
+President of the Senate
+President Pro Tempore
+Governor of the State of Indiana
+Date: Time: 
+HEA 1457 — Concur
