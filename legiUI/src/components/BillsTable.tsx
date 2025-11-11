@@ -40,113 +40,172 @@ export const BillsTable: React.FC<BillsTableProps> = ({ bills, onBillSelect }) =
   };
 
   return (
-    <div className="bills-table-container">
-      <table className="bills-table" role="table" aria-label="Legislative bills">
-        <thead>
-          <tr>
-            <th
-              onClick={() => handleSort('bill_number')}
-              aria-sort={sortKey === 'bill_number' ? (sortOrder === 'asc' ? 'ascending' : 'descending') : 'none'}
-              scope="col"
-            >
-              <div className="th-content">
-                Bill Number
-                <SortIcon columnKey="bill_number" />
-              </div>
-            </th>
-            <th
-              onClick={() => handleSort('title')}
-              aria-sort={sortKey === 'title' ? (sortOrder === 'asc' ? 'ascending' : 'descending') : 'none'}
-              scope="col"
-            >
-              <div className="th-content">
-                Title
-                <SortIcon columnKey="title" />
-              </div>
-            </th>
-            <th
-              onClick={() => handleSort('state')}
-              aria-sort={sortKey === 'state' ? (sortOrder === 'asc' ? 'ascending' : 'descending') : 'none'}
-              scope="col"
-            >
-              <div className="th-content">
-                State
-                <SortIcon columnKey="state" />
-              </div>
-            </th>
-            <th
-              onClick={() => handleSort('year')}
-              aria-sort={sortKey === 'year' ? (sortOrder === 'asc' ? 'ascending' : 'descending') : 'none'}
-              scope="col"
-            >
-              <div className="th-content">
-                Year
-                <SortIcon columnKey="year" />
-              </div>
-            </th>
-            <th scope="col">Categories</th>
-            <th
-              onClick={() => handleSort('bill_status')}
-              aria-sort={sortKey === 'bill_status' ? (sortOrder === 'asc' ? 'ascending' : 'descending') : 'none'}
-              scope="col"
-            >
-              <div className="th-content">
-                Status
-                <SortIcon columnKey="bill_status" />
-              </div>
-            </th>
-            <th scope="col">Actions</th>
-          </tr>
-        </thead>
-        <tbody>
-          {sortedBills.map((bill, index) => (
-            <tr
-              key={bill.bill_id || bill.bill_number || `bill-${index}`}
-              onClick={() => onBillSelect?.(bill)}
-              className="bill-row"
-            >
-              <td className="bill-number">{bill.bill_number}</td>
-              <td className="bill-title">{bill.title}</td>
-              <td>{bill.state}</td>
-              <td>{bill.year}</td>
-              <td>
-                <div className="categories">
-                  {bill.categories?.slice(0, 2).map(cat => (
-                    <span key={cat} className="category-badge">
-                      {cat}
-                    </span>
-                  ))}
-                  {bill.categories && bill.categories.length > 2 && (
-                    <span className="category-badge more">
-                      +{bill.categories.length - 2}
-                    </span>
-                  )}
+    <>
+      {/* Desktop Table View */}
+      <div className="bills-table-container">
+        <table className="bills-table" role="table" aria-label="Legislative bills">
+          <thead>
+            <tr>
+              <th
+                onClick={() => handleSort('bill_number')}
+                aria-sort={sortKey === 'bill_number' ? (sortOrder === 'asc' ? 'ascending' : 'descending') : 'none'}
+                scope="col"
+              >
+                <div className="th-content">
+                  Bill Number
+                  <SortIcon columnKey="bill_number" />
                 </div>
-              </td>
-              <td>
-                <span className={`status-badge status-${bill.bill_status?.toLowerCase()}`}>
-                  {bill.bill_status}
-                </span>
-              </td>
-              <td>
-                <a
-                  href={bill.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="external-link"
-                  onClick={e => e.stopPropagation()}
-                  aria-label={`View ${bill.bill_number} on LegiScan (opens in new window)`}
-                >
-                  <ExternalLink size={16} aria-hidden="true" />
-                </a>
-              </td>
+              </th>
+              <th
+                onClick={() => handleSort('title')}
+                aria-sort={sortKey === 'title' ? (sortOrder === 'asc' ? 'ascending' : 'descending') : 'none'}
+                scope="col"
+              >
+                <div className="th-content">
+                  Title
+                  <SortIcon columnKey="title" />
+                </div>
+              </th>
+              <th
+                onClick={() => handleSort('state')}
+                aria-sort={sortKey === 'state' ? (sortOrder === 'asc' ? 'ascending' : 'descending') : 'none'}
+                scope="col"
+              >
+                <div className="th-content">
+                  State
+                  <SortIcon columnKey="state" />
+                </div>
+              </th>
+              <th
+                onClick={() => handleSort('year')}
+                aria-sort={sortKey === 'year' ? (sortOrder === 'asc' ? 'ascending' : 'descending') : 'none'}
+                scope="col"
+              >
+                <div className="th-content">
+                  Year
+                  <SortIcon columnKey="year" />
+                </div>
+              </th>
+              <th scope="col">Categories</th>
+              <th
+                onClick={() => handleSort('bill_status')}
+                aria-sort={sortKey === 'bill_status' ? (sortOrder === 'asc' ? 'ascending' : 'descending') : 'none'}
+                scope="col"
+              >
+                <div className="th-content">
+                  Status
+                  <SortIcon columnKey="bill_status" />
+                </div>
+              </th>
+              <th scope="col">Actions</th>
             </tr>
-          ))}
-        </tbody>
-      </table>
-      {sortedBills.length === 0 && (
-        <div className="empty-state">No bills match the current filters</div>
-      )}
-    </div>
+          </thead>
+          <tbody>
+            {sortedBills.map((bill, index) => (
+              <tr
+                key={bill.bill_id || bill.bill_number || `bill-${index}`}
+                onClick={() => onBillSelect?.(bill)}
+                className="bill-row"
+              >
+                <td className="bill-number">{bill.bill_number}</td>
+                <td className="bill-title">{bill.title}</td>
+                <td>{bill.state}</td>
+                <td>{bill.year}</td>
+                <td>
+                  <div className="categories">
+                    {bill.categories?.slice(0, 2).map(cat => (
+                      <span key={cat} className="category-badge">
+                        {cat}
+                      </span>
+                    ))}
+                    {bill.categories && bill.categories.length > 2 && (
+                      <span className="category-badge more">
+                        +{bill.categories.length - 2}
+                      </span>
+                    )}
+                  </div>
+                </td>
+                <td>
+                  <span className={`status-badge status-${bill.bill_status?.toLowerCase()}`}>
+                    {bill.bill_status}
+                  </span>
+                </td>
+                <td>
+                  <a
+                    href={bill.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="external-link"
+                    onClick={e => e.stopPropagation()}
+                    aria-label={`View ${bill.bill_number} on LegiScan (opens in new window)`}
+                  >
+                    <ExternalLink size={16} aria-hidden="true" />
+                  </a>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+        {sortedBills.length === 0 && (
+          <div className="empty-state">No bills match the current filters</div>
+        )}
+      </div>
+
+      {/* Mobile Card View */}
+      <div className="bills-mobile-cards">
+        {sortedBills.map((bill, index) => (
+          <div
+            key={bill.bill_id || bill.bill_number || `bill-${index}`}
+            className="bill-mobile-card"
+            onClick={() => onBillSelect?.(bill)}
+          >
+            <div className="bill-mobile-card-header">
+              <span className="bill-mobile-card-number">{bill.bill_number}</span>
+              <span className={`status-badge status-${bill.bill_status?.toLowerCase()}`}>
+                {bill.bill_status}
+              </span>
+            </div>
+
+            <div className="bill-mobile-card-title">{bill.title}</div>
+
+            <div className="bill-mobile-card-meta">
+              <span className="bill-mobile-card-meta-item">
+                📍 {bill.state}
+              </span>
+              <span className="bill-mobile-card-meta-item">
+                📅 {bill.year}
+              </span>
+            </div>
+
+            {bill.categories && bill.categories.length > 0 && (
+              <div className="bill-mobile-card-categories">
+                {bill.categories.map(cat => (
+                  <span key={cat} className="category-badge">
+                    {cat}
+                  </span>
+                ))}
+              </div>
+            )}
+
+            <div className="bill-mobile-card-footer">
+              <a
+                href={bill.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bill-mobile-card-link"
+                onClick={e => e.stopPropagation()}
+                aria-label={`View ${bill.bill_number} on LegiScan`}
+              >
+                View on LegiScan
+                <ExternalLink size={14} aria-hidden="true" />
+              </a>
+            </div>
+          </div>
+        ))}
+        {sortedBills.length === 0 && (
+          <div className="empty-state">No bills match the current filters</div>
+        )}
+      </div>
+    </>
   );
 };

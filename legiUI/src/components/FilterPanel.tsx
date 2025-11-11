@@ -1,6 +1,6 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import type { FilterState, Bill } from '../types/bill';
-import { X, Download } from 'lucide-react';
+import { X, Download, ChevronDown, ChevronUp } from 'lucide-react';
 
 interface FilterPanelProps {
   filters: FilterState;
@@ -23,6 +23,22 @@ export const FilterPanel: React.FC<FilterPanelProps> = ({
   filteredBills = [],
   onExportCSV,
 }) => {
+  const [isExpanded, setIsExpanded] = useState(true);
+
+  // Detect mobile screen size
+  useEffect(() => {
+    const handleResize = () => {
+      if (window.innerWidth <= 768) {
+        setIsExpanded(false);
+      } else {
+        setIsExpanded(true);
+      }
+    };
+
+    handleResize();
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
   const handleMultiSelect = (key: keyof FilterState, value: string) => {
     const currentValues = filters[key] as string[];
     const newValues = currentValues.includes(value)
@@ -60,6 +76,14 @@ export const FilterPanel: React.FC<FilterPanelProps> = ({
       <div className="filter-header">
         <h2 id="filter-heading">Filters</h2>
         <div className="filter-actions">
+          <button
+            onClick={() => setIsExpanded(!isExpanded)}
+            className="toggle-filters-btn"
+            aria-label={isExpanded ? 'Collapse filters' : 'Expand filters'}
+            aria-expanded={isExpanded}
+          >
+            {isExpanded ? <ChevronUp size={18} aria-hidden="true" /> : <ChevronDown size={18} aria-hidden="true" />}
+          </button>
           {hasActiveFilters && (
             <button
               onClick={clearFilters}
@@ -73,19 +97,21 @@ export const FilterPanel: React.FC<FilterPanelProps> = ({
         </div>
       </div>
 
-      <div className="export-section">
-        <button
-          onClick={onExportCSV}
-          className="export-csv-btn"
-          aria-label={`Export ${filteredBills.length} filtered bills to CSV`}
-          disabled={filteredBills.length === 0}
-        >
-          <Download size={16} aria-hidden="true" />
-          Export CSV ({filteredBills.length})
-        </button>
-      </div>
+      {isExpanded && (
+        <>
+          <div className="export-section">
+            <button
+              onClick={onExportCSV}
+              className="export-csv-btn"
+              aria-label={`Export ${filteredBills.length} filtered bills to CSV`}
+              disabled={filteredBills.length === 0}
+            >
+              <Download size={16} aria-hidden="true" />
+              Export CSV ({filteredBills.length})
+            </button>
+          </div>
 
-      <div className="filter-section">
+          <div className="filter-section">
         <label htmlFor="search-input">Search</label>
         <input
           id="search-input"
@@ -190,6 +216,8 @@ export const FilterPanel: React.FC<FilterPanelProps> = ({
           ))}
         </div>
       </fieldset>
+        </>
+      )}
     </div>
   );
 };

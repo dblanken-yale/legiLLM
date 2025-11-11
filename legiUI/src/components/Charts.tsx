@@ -43,6 +43,11 @@ export const Chart: React.FC<ChartsProps> = ({ data, title, type = 'bar' }) => {
     .map(([name, value]) => ({ name, value }))
     .sort((a, b) => b.value - a.value);
 
+  // Adjust chart height for mobile
+  const isMobile = typeof window !== 'undefined' && window.innerWidth <= 768;
+  const chartHeight = isMobile ? 300 : 400;
+  const outerRadius = isMobile ? 80 : 60;
+
   if (type === 'pie') {
     // Custom label that renders percentage only for cleaner display
     const renderLabel = (entry: any) => {
@@ -53,7 +58,7 @@ export const Chart: React.FC<ChartsProps> = ({ data, title, type = 'bar' }) => {
     return (
       <div className="chart-container">
         <h3 className="chart-title">{title}</h3>
-        <ResponsiveContainer width="100%" height={400}>
+        <ResponsiveContainer width="100%" height={chartHeight}>
           <PieChart>
             <Pie
               data={chartData}
@@ -61,7 +66,7 @@ export const Chart: React.FC<ChartsProps> = ({ data, title, type = 'bar' }) => {
               cy="45%"
               labelLine={true}
               label={renderLabel}
-              outerRadius={60}
+              outerRadius={outerRadius}
               innerRadius={0}
               fill="#8884d8"
               dataKey="value"
@@ -88,18 +93,18 @@ export const Chart: React.FC<ChartsProps> = ({ data, title, type = 'bar' }) => {
   return (
     <div className="chart-container">
       <h3 className="chart-title">{title}</h3>
-      <ResponsiveContainer width="100%" height={400}>
-        <BarChart data={chartData} margin={{ bottom: 100, left: 10, right: 10 }}>
+      <ResponsiveContainer width="100%" height={chartHeight}>
+        <BarChart data={chartData} margin={{ bottom: isMobile ? 80 : 100, left: 10, right: 10 }}>
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis
             dataKey="name"
             angle={-45}
             textAnchor="end"
-            height={120}
+            height={isMobile ? 100 : 120}
             interval={0}
-            tick={{ fontSize: 11, fill: 'var(--text-primary)' }}
+            tick={{ fontSize: isMobile ? 10 : 11, fill: 'var(--text-primary)' }}
           />
-          <YAxis tick={{ fontSize: 12, fill: 'var(--text-primary)' }} />
+          <YAxis tick={{ fontSize: isMobile ? 11 : 12, fill: 'var(--text-primary)' }} />
           <Tooltip
             contentStyle={{
               backgroundColor: 'var(--background)',
